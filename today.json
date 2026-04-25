@@ -1,0 +1,1173 @@
+{
+  "date": "2026-04-25",
+  "date_human": "25 April 2026",
+  "generated_at": "2026-04-25T14:27:31.880143+00:00",
+  "stats": {
+    "feeds_collected": 272,
+    "news_total": 4754,
+    "news_analyzed": 592,
+    "clusters": 25
+  },
+  "mood": {
+    "description": "Türk basını, büyük spor rekabetlerinin heyecanını, kentsel dönüşüm ve teknolojik ilerlemelerin getirdiği umudu, uluslararası ilişkilerdeki gerilimleri ve toplumsal adalet arayışlarını bir arada yansıtan, dinamik ve çelişkili bir gün geçirdi.",
+    "dominant_emotion": "Dinamik",
+    "key_themes": [
+      "Büyük Spor Rekabeti ve Uluslararası Organizasyonlar",
+      "Kentsel Dönüşüm ve Sosyal Konut Hamlesi",
+      "Yapay Zeka ve İleri Teknoloji Gelişmeleri",
+      "Jeopolitik Gerilimler ve Siber Güvenlik Tehditleri",
+      "Toplumsal Güvenlik ve Adalet Arayışı"
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Süper Lig Derbisi: Galatasaray-Fenerbahçe Rekabeti",
+      "meta_category": "Spor",
+      "summary": "Türk futbolunun en büyük rekabetlerinden Galatasaray-Fenerbahçe derbisi öncesi takımların hazırlıkları, transfer dedikoduları, teknik direktörlerin açıklamaları ve hakem tartışmaları basında geniş yer buldu. Maçın ekonomik primleri ve UEFA ödemeleri de gündemdeydi, bu da günün en çok konuşulan konularından biri haline geldi.",
+      "importance": 10,
+      "story_count": 35,
+      "stories": [
+        {
+          "title": "Galatasaray - Fenerbahçe derbisi öncesi en çok aranan futbolcular açıklandı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/galatasaray-fenerbahce-derbisi-oncesi-en-cok-aranan-futbolcular-aciklandi_179764.html",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray Başkanı Dursun Özbek'ten Yasin Kol tepkisi!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/04/25/galatasaray-baskani-dursun-ozbekten-yasin-kol-tepkisi",
+          "also_in": [
+            "F5 Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Galatasaray'ın yeni kalecisi Süper Lig'den! Günay Güvenç'in yerine gelecek",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/04/25/galatasarayin-yeni-kalecisi-super-ligden-gunay-guvencin-yerine-gelecek",
+          "also_in": [
+            "Fotomaç"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'de Ederson seferbirliği başladı! Derbi öncesi",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/04/24/fenerbahcede-ederson-seferbirligi-basladi-derbi-oncesi",
+          "also_in": [
+            "Fotomaç"
+          ]
+        },
+        {
+          "title": "Fenerbahçe cephesinden Galatasaray derbisi öncesi flaş paylaşım geldi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/fenerbahce-cephesinden-galatasaray-derbisi-oncesi-flas-paylasim-geldi-421668",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İstanbul'da Kentsel Dönüşüm ve TOKİ Sosyal Konut Projeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Cumhurbaşkanı Erdoğan, İstanbul'un güvenliği ve geleceği için kentsel dönüşümün yegane çözüm olduğunu vurgularken, TOKİ'nin 'Yüzyılın Konut Projesi' kapsamında 100 bin sosyal konutun kura çekimleri başladı. Proje kapsamında kiralık konut sisteminin de başlatılacağı duyuruldu, bu da vatandaşlar için büyük bir beklenti yarattı.",
+      "importance": 9,
+      "story_count": 22,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan: İstanbul'un güvenliği için yegane çözüm, kentsel dönüşümdür",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-istanbulun-guvenligi-icin-yegane-cozum-kentsel-donusumdur",
+          "also_in": [
+            "dikGAZETE",
+            "Independent Türkçe",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Bakan Kurum: İstanbul'da şu ana kadar yapılan en büyük konut hamlesini başlatıyoruz",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/bakan-kurum-istanbulda-su-ana-kadar-yapilan-en-buyuk-konut-hamlesini-baslatiyoruz-267557h",
+          "also_in": [
+            "İnternet Haber",
+            "Bigpara"
+          ]
+        },
+        {
+          "title": "İstanbul için TOKİ kura çekimi başladı",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/istanbul-icin-toki-kura-cekimi-basladi",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Bakan Kurum: 500 bin sosyal konut, bu çağın kararan vicdanına bir meydan okumadır",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kurum-500-bin-sosyal-konut-bu-cagin-kararan-vicdanina-bir-meydan-okumadir/3917846",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "İstanbul'da \"Yüzyılın Konut Projesi\"nin örnek daireleri tanıtıldı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/istanbulda-yuzyilin-konut-projesinin-ornek-daireleri-tanitildi",
+          "also_in": [
+            "Haberet"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka Dünyasında Hızlı Gelişmeler ve Etkileri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka sektöründe büyük yatırımlar (Google'dan Anthropic'e 40 milyar dolar), OpenAI'dan yeni model (GPT-5.5) ve DeepSeek V4'ün tanıtımı gibi gelişmeler yaşanırken, yapay zekanın işlemci tasarlaması gibi çığır açan yenilikler de dikkat çekti. Ancak Meta'da 8 bin kişinin işten çıkarılması ve Linux geliştiricilerinin AI kaynaklı hata raporları nedeniyle eski sürücüleri kaldırması gibi olumsuz etkiler de görüldü.",
+      "importance": 9,
+      "story_count": 16,
+      "stories": [
+        {
+          "title": "Google, Anthropic’e 40 Milyar Dolara Kadar Yatırım Planlıyor",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/google-anthropice-40-milyar-dolara-kadar-yatirim-planliyor",
+          "also_in": [
+            "LOG"
+          ]
+        },
+        {
+          "title": "10 milyarla başladı, 30 milyara gidiyor: Hedefte Claude var",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/10-milyarla-basladi-30-milyara-gidiyor-hedefte-claude-var_179767.html",
+          "also_in": []
+        },
+        {
+          "title": "Bir yapay zeka depremi daha: 8 bin kişi işinden oldu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/bir-yapay-zeka-depremi-daha-8-bin-kisi-isinden-oldu_179760.html",
+          "also_in": []
+        },
+        {
+          "title": "Ünlü CEO'dan iPhone açıklaması: Yapay zeka iPhone'un sonu mu olacak?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/unlu-ceodan-iphone-aciklamasi-yapay-zeka-iphoneun-sonu-mu-olacak_179757.html",
+          "also_in": []
+        },
+        {
+          "title": "Google, Anthropic'e 40 milyar dolar yatırım yapmayı planlıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/google-anthropic-e-40-milyar-dolar-yatirim-yapmayi-planliyor--204907",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ülke Genelinde Suç ve Adli Olaylar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Ülke genelinde göçmen kaçakçılığı ve uyuşturucu operasyonlarında çok sayıda kişi tutuklanırken, cinayetler, trafik kazaları ve düğün günü ölü bulunan çift gibi trajik olaylar yaşandı. Faili meçhul dosyaların yeniden açılması ve adli süreçlerdeki gelişmeler de kamuoyunun dikkatini çekti.",
+      "importance": 8,
+      "story_count": 40,
+      "stories": [
+        {
+          "title": "Aranan şahıslara yönelik ülke genelindeki uygulamalarda 278 kişi yakalandı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/aranan-sahislara-yonelik-ulke-genelindeki-uygulamalarda-278-kisi-yakalandi",
+          "also_in": [
+            "Bengütürk",
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Göçmen kaçakçılarına yönelik operasyonlarda 89 şüpheli tutuklandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/gocmen-kacakcilarina-yonelik-operasyonlarda-89-supheli-tutuklandi/3917837",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Türkiye ve Suriye'den ortak uyuşturucu operasyonu",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/turkiye-ve-suriyeden-ortak-uyusturucu-operasyonu-2420511",
+          "also_in": [
+            "Bengütürk",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "24 ilde göçmen kaçakçılığı operasyonu: 89 tutuklama",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/24-ilde-gocmen-kacakciligi-operasyonu-89-tutuklama-2498378",
+          "also_in": [
+            "Gerçek Gündem",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Kalp krizi direksiyon başında yakaladı: Muhtar kazada hayatını kaybetti",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3622943-kalp-krizi-direksiyon-basinda-yakaladi-muhtar-kazada-hayatini-kaybetti",
+          "also_in": [
+            "Haberler",
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yeni Teknoloji Ürünleri ve İnovasyonlar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "iPhone 18 ve 20'nin yeni ekran tasarımları, Windows 11'e gelen esneklik ve güncelleme değişiklikleri, Intel ve AMD'den yeni donanım duyuruları öne çıktı. Elektrikli araç pazarında XPeng GX, BYD Atto 3 gibi yeni modeller tanıtılırken, Samsung'dan akıllı telefon ve akıllı ev aletleri alanında yenilikler duyuruldu, teknoloji meraklılarının ilgisini çekti.",
+      "importance": 8,
+      "story_count": 34,
+      "stories": [
+        {
+          "title": "iPhone 18 hayranlarını üzecek strateji: Apple maliyetleri düşürmek için frene basıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/iphone-18-hayranlarini-uzecek-strateji-apple-maliyetleri-dusurmek-icin-frene-basiyor/102202",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Elektrikli araç dünyasında vergi rehberi: 2026 yılında sizi neler bekliyor?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/otomobil/elektrikli-arac-dunyasinda-vergi-rehberi-2026-yilinda-sizi-neler-bekliyor/102201",
+          "also_in": [
+            "Megabayt Otomobil"
+          ]
+        },
+        {
+          "title": "Sessizliğin değil gürültünün peşindekilere ağır fatura: Abartı egzozda 2026 tarifesi belli oldu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/otomobil/sessizligin-degil-gurultunun-pesindekilere-agir-fatura-abarti-egzozda-2026-tarifesi-belli-oldu/102200",
+          "also_in": [
+            "Megabayt Otomobil"
+          ]
+        },
+        {
+          "title": "iPhone’da sınırlar kalkıyor: Dört kenardan kıvrılan ekran geliyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/iphoneda-sinirlar-kalkiyor-dort-kenardan-kivrilan-ekran-geliyor_179772.html",
+          "also_in": []
+        },
+        {
+          "title": "“Şimdi güncelle” dönemi bitiyor: Windows 11’e esneklik geliyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/simdi-guncelle-donemi-bitiyor-windows-11e-esneklik-geliyor_179771.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İran Odaklı Uluslararası Gerilimler ve Diplomatik Hareketlilik",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "ABD'nin İran bağlantılı kripto varlıkları dondurması ve İran'ın Hürmüz Boğazı uyarısı, bölgedeki gerilimi artırdı. İran'ın füze kapasitesi tartışılırken, Trump'ın İran'dan teklif beklentisi ve İstanbul'a uçuşların yeniden başlaması gibi diplomatik gelişmeler de yaşandı, bölgedeki hassasiyet devam etti.",
+      "importance": 8,
+      "story_count": 18,
+      "stories": [
+        {
+          "title": "İran Silahlı Kuvvetleri’nden ABD’ye Hürmüz Boğazı uyarısı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/iran-silahli-kuvvetlerinden-abdye-hurmuz-bogazi-uyarisi-267559h",
+          "also_in": [
+            "Ekonomim",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İstanbul Havalimanı'nda İran uçuşları yeniden başladı",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3622947-istanbul-havalimaninda-iran-ucuslari-yeniden-basladi",
+          "also_in": [
+            "Haber Global",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Trump: İran, taleplerimizi karşılayacak bir teklif hazırlığında",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/trump-iran-taleplerimizi-karsilayacak-bir-teklif-19780628-haberi/",
+          "also_in": [
+            "Haberler",
+            "Tele1"
+          ]
+        },
+        {
+          "title": "İran zenginleştirilmiş uranyumdan nükleer silah yapabilir mi?",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/cz0ezzr7x87o?at_medium=RSS&at_campaign=rss",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "İran'ın talepleri Pakistan'a iletildi",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/dunya/iranin-talepleri-pakistana-iletildi-345495h",
+          "also_in": [
+            "Haber Global"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Formula 1 Türkiye'ye Geri Dönüyor",
+      "meta_category": "Spor",
+      "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak ile Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Formula 1'in 2027'den itibaren 5 yıl boyunca İstanbul takviminde yer alacağını müjdeledi. Bu gelişmenin turizm ve ekonomi üzerinde önemli etkiler yaratması beklenirken, ülkenin uluslararası imajına da katkı sağlayacağı belirtildi.",
+      "importance": 8,
+      "story_count": 10,
+      "stories": [
+        {
+          "title": "Gençlik ve Spor Bakanı Osman Aşkın Bak: Bu vizyonla Formula 1 artık burada",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/motorsporlari/2026/04/25/genclik-ve-spor-bakani-osman-askin-bak-bu-vizyonla-formula-1-artik-burada",
+          "also_in": [
+            "Sabah Spor"
+          ]
+        },
+        {
+          "title": "Gençlik ve Spor Bakanı Osman Aşkın Bak'tan Formula 1 açıklaması! \"Ülkemizin gençleri bunu hak ediyor\"",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/motor-sporlari/2026/04/25/genclik-ve-spor-bakani-osman-askin-baktan-formula-1-aciklamasi-ulkemizin-gencleri-bunu-hak-ediyor",
+          "also_in": []
+        },
+        {
+          "title": "Formula 1 Türkiye'ye döndü! Başkan Recep Tayyip Erdoğan müjdeyi verdi",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/motor-sporlari/2026/04/24/formula-1-turkiyeye-donuyor-canli",
+          "also_in": []
+        },
+        {
+          "title": "İstanbul, 2027'den itibaren 5 yıl boyunca Formula 1 takviminde yer alacak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/istanbul-2027den-itibaren-5-yil-boyunca-formula-1-takviminde-yer-alacak",
+          "also_in": [
+            "Bengütürk",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy'dan Formula 1 açıklaması!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/webtv/diger/kultur-ve-turizm-bakani-mehmet-nuri-ersoydan-formula-1-aciklamasi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Çeşitli Spor Dallarında Gelişmeler ve Uluslararası Başarılar",
+      "meta_category": "Spor",
+      "summary": "Milli tenisçi Zeynep Sönmez'in Madrid Açık'a veda etmesi, Hande Baladın'ın Formula 1 pilotuyla buluşması ve Anadolu Efes'in galibiyeti gibi çeşitli spor dallarından haberler yer aldı. Bodrumlu öğrencinin dünya şampiyonu olması, milli cimnastikçilerin olimpiyat hazırlıkları ve Cumhurbaşkanlığı Bisiklet Turu'nun başlaması öne çıkan diğer spor başarıları ve etkinlikleriydi.",
+      "importance": 7,
+      "story_count": 47,
+      "stories": [
+        {
+          "title": "Milli tenisçi Zeynep Sönmez, Madrid Açık'a çiftlerde veda etti",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/tum-sporlar/2026/04/25/milli-tenisci-zeynep-sonmez-madrid-acika-ciftlerde-veda-etti",
+          "also_in": [
+            "Anadolu Ajansı",
+            "Cumhuriyet",
+            "dikGAZETE",
+            "Star",
+            "Yeni Asır Gazetesi"
+          ]
+        },
+        {
+          "title": "Milli voleybolcu Hande Baladın Formula 1 pilotu Yuki Tsunoda ile bir araya geldi",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/motorsporlari/2026/04/25/milli-voleybolcu-hande-baladin-formula-1-pilotu-yuki-tsunoda-ile-bir-araya-geldi",
+          "also_in": [
+            "Sabah Spor",
+            "Anadolu Ajansı",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Zeynep Sönmez Madrid Açık'a çiftlerde veda etti",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/tenis/2026/04/25/zeynep-sonmez-madrid-acika-ciftlerde-veda-etti",
+          "also_in": [
+            "En Son Haber",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Anadolu Efes'ten Türk Telekom karşısında 101 sayılık galibiyet",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/basketbol/anadolu-efesten-turk-telekom-karsisinda-101-sayilik-galibiyet-421675",
+          "also_in": [
+            "NTV Spor Basketbol",
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Bodrumlu öğrenci dünya şampiyonu oldu",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/digersporlar/2026/04/25/bodrumlu-ogrenci-dunya-sampiyonu-oldu",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Küresel ve Yerel Ekonomik Gelişmeler",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Küresel piyasalar Merkez Bankası kararlarına odaklanırken, altın ve gümüş fiyatlarında dalgalanmalar yaşandı. Türkiye'de bazı tarımsal hammaddelerde ve gübre çeşitlerinde gümrük vergileri sıfırlandı. Bankacılık sektöründe karlılıkta ayrışma ve hanehalkının enflasyon beklentisindeki artış dikkat çekti, bu da ekonomik belirsizliklerin sürdüğünü gösterdi.",
+      "importance": 7,
+      "story_count": 39,
+      "stories": [
+        {
+          "title": "Altın ve Gümüş Fiyatları Neden Dalgalanır? Temel Dinamikler Nasıl?",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/altin-ve-gumus-fiyatlari-neden-dalgalanir-temel-dinamikler-nasil-1353356",
+          "also_in": []
+        },
+        {
+          "title": "Gübre ürün grubundaki katı amonyum nitrat ve monoamonyum fosfatın gümrük vergisi sıfırlandı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/gubre-urun-grubundaki-kati-amonyum-nitrat-ve-monoamonyum-fosfatin-gumruk-vergisi-sifirlandi-997953.html",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Ticaret Bakanlığı ilk çeyrekte 129 bin 327 firma ve 15,2 milyon ürünü denetledi",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/ticaret-bakanligi-ilk-ceyrekte-129-bin-327-firma-ve-15-2-milyon-urunu-denetledi-997947.html",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Yatırımcı rehberi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/ekonomi/yatirimci-rehberi-19780402-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "En düşük emekli maaşı için 2 zam senaryosu masada",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/en-dusuk-emekli-maasi-icin-2-zam-senaryosu-masada-p314363",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türk Savunma Sanayii ve NATO İşbirliğinde Yeni Dönem",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "SAHA EXPO 2026 hazırlıkları sürerken, Türkiye genelinde 81 ilde dron üretim ve eğitim merkezleri kurulacağı açıklandı. Ankara, NATO'nun en büyük savunma sanayii forumuna ev sahipliği yapmaya hazırlanırken, ittifak içindeki teknolojik gelişmeler ve işbirlikleri gündemdeydi, bu da Türkiye'nin savunma sanayiindeki yükselişini gösterdi.",
+      "importance": 7,
+      "story_count": 12,
+      "stories": [
+        {
+          "title": "SAHA 2026 gelirleriyle 81 ilde dron üretim ve eğitim merkezi kurulacak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/saha-2026-gelirleriyle-81-ilde-dron-uretim-ve-egitim-merkezi-kurulacak",
+          "also_in": [
+            "A Haber",
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "SAHA İstanbul Yönetim Kurulu Başkanı Haluk Bayraktar: Türkiye genelinde dron eğitim merkezleri kuracağız",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/saha-istanbul-yonetim-kurulu-baskani-haluk-19781205-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "81 ile Drone Üretim ve Eğitim Merkezi kurulacak",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/81-ile-drone-uretim-ve-egitim-merkezi-kurulacak",
+          "also_in": []
+        },
+        {
+          "title": "SAHA 2026 kapılarını açmaya hazırlanıyor",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/saha-2026-kapilarini-acmaya-hazirlaniyor",
+          "also_in": [
+            "SavunmaTR"
+          ]
+        },
+        {
+          "title": "NATO’nun GlobalEye uçaklarını seçtiği iddiası",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/natonun-globaleye-ucaklarini-sectigi-iddiasi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Okul Güvenliği Tedbirleri ve Eğitimdeki Yönetim Değişiklikleri",
+      "meta_category": "Eğitim",
+      "summary": "İçişleri Bakanlığı, 81 ile gönderdiği genelgeyle okul ve çevresindeki güvenlik tedbirlerini artırdı. Aynı zamanda Milli Eğitim Bakan Yardımcısı Nazif Yılmaz görevden alınarak yerine Cihad Demirli atandı. MEB ayrıca izinsiz eğitim faaliyetlerine karşı 'karekod' kalkanı uygulamasını başlatarak eğitimde yeni bir döneme işaret etti.",
+      "importance": 7,
+      "story_count": 11,
+      "stories": [
+        {
+          "title": "İçişleri Bakanlığı'ndan 81 ile okul güvenliği genelgesi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/icisleri-bakanligindan-81-ile-okul-guvenligi-genelgesi",
+          "also_in": [
+            "Hürriyet",
+            "İstiklal",
+            "Mynet",
+            "Tele1"
+          ]
+        },
+        {
+          "title": "Milli Eğitim Bakan Yardımcısı Nazif Yılmaz görevden alındı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/milli-egitim-bakan-yardimcisi-nazif-yilmaz-gorevden-alindi-574765",
+          "also_in": [
+            "Artı Gerçek",
+            "Gerçek Gündem"
+          ]
+        },
+        {
+          "title": "Milli Eğitim Bakan Yardımcısı görevden alındı",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/milli-egitim-bakan-yardimcisi-gorevden-alindi-698162/",
+          "also_in": [
+            "Diken",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "İçişleri Bakanlığı'ndan 81 ile okul güvenliği genelgesi: İşte uygulanacak tüm tedbirler...",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-ndan-81-ile-okul-guvenligi-genelgesi-iste-uygulanacak-tum-tedbirler-2498328",
+          "also_in": [
+            "Veryansın TV",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Kahramanmaraş Valisi Ünlüer ile Prof. Dr. Solaroğlu, okul saldırısında yaralanan öğrencileri ziyaret etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/kahramanmaras-valisi-unluer-ile-prof-dr-solaroglu-okul-saldirisinda-yaralanan-ogrencileri-ziyaret-etti/3917810",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Faili Meçhul Dosyalar Yeniden Açılıyor, Gülistan Doku Soruşturmasında Gelişmeler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Adalet Bakanlığı'nın kararıyla 75 ilde 638 faili meçhul dosya yeniden incelemeye alındı. Özellikle Gülistan Doku soruşturmasında yeni gözaltılar ve delillerin ortaya çıkması, kamuoyunda büyük yankı uyandırarak adalet arayışlarını güçlendirdi.",
+      "importance": 7,
+      "story_count": 7,
+      "stories": [
+        {
+          "title": "75 ilde 638 faili meçhul dosya incelemeye alındı",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/75-ilde-638-faili-mechul-incelemeye-alindi-43158954",
+          "also_in": [
+            "Radikal",
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında yeni gözaltılar",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/gulistan-doku-sorusturmasinda-yeni-gozaltilar-574764",
+          "also_in": [
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Adalet Bakanlığı 638 faili meçhul dosyayı yeniden incelemeye aldı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/adalet-bakanligi-638-faili-mechul-dosyayi-yeniden-incelemeye-aldi-267522h",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturması! Ebru Başsavcı her şeyi anlattı: Sim kart bizi Gökhan'a götürdü!",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/gulistan-doku-sorusturmasi-ebru-bassavci-her-seyi-anlatti-sim-kart-bizi-gokhana-goturdu-6911956",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "JAK ve JASAT ekipleri, Gülistan Doku’nun cansız bedenine ulaşmak için sahada",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/jak-ve-jasat-ekipleri-gulistan-dokunun-cansiz-bedenine-ulasmak-icin-sahada-fotogaleri-6911920",
+          "also_in": [
+            "NTV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türk Basınında Yoğun Kültür ve Sanat Gündemi",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Art Brussels, İşçi Filmleri Festivali, Kültür Yolu Festivali gibi önemli etkinlikler düzenlenirken, Metin Altıok ve Sennur Sezer Şiir Ödülleri sahiplerini buldu. Haruki Murakami'nin yeni romanı ve Ahmet Güneştekin'in Venedik'teki sergisi gibi uluslararası başarılar da dikkat çekerek kültür-sanat dünyasının hareketliliğini gösterdi.",
+      "importance": 6,
+      "story_count": 30,
+      "stories": [
+        {
+          "title": "Art Brussels 2026 – 42. Edisyon: Daha Küratöryel, Daha Yoğun, Daha Seçici Bir Fuar Deneyimi",
+          "source": "Artkolik",
+          "link": "https://www.artkolik.net/haber/art-brussels-2026-42-edisyon-daha-kuratoryel-daha-yogun-daha-secici-bir-fuar-deneyimi-24440",
+          "also_in": []
+        },
+        {
+          "title": "Candela Concert Büyüleyici Atmosferini Türkiye Turnesine Taşıyor",
+          "source": "Artkolik",
+          "link": "https://www.artkolik.net/muzik/candela-concert-buyuleyici-atmosferini-turkiye-turnesine-tasiyor-24428",
+          "also_in": []
+        },
+        {
+          "title": "Hakikatin izinde: 5 filmle İran sineması",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/hakikatin-izinde-iran-sinemasi/",
+          "also_in": []
+        },
+        {
+          "title": "24-30 Nisan haftasının etkinlik rehberi",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/24-30-nisan-etkinlik-rehberi/",
+          "also_in": []
+        },
+        {
+          "title": "2026 takviminden 15 müzik kitabı",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/2026-takviminden-15-muzik-kitabi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eğlence Dünyasında Dizi İptalleri ve Yeni Yapımlar",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Prime Video'nun 'Gen V' dizisinin iptali ve 'The Legend of Aang' filmini sızdıran kişiye ceza gibi olumsuz haberlerin yanı sıra, 'Oflu Hoca 6' gibi yerli yapımlar ve 'Scooby-Doo: Origins' gibi yeni dizi fragmanları yayınlandı. Hollywood'dan oyun uyarlamaları ve yeni filmler de gündemdeydi, sektördeki hızlı değişimleri gösterdi.",
+      "importance": 6,
+      "story_count": 22,
+      "stories": [
+        {
+          "title": "Prime Video'nun Sevilen Dizisi 3. Sezon Onayını Alamadı",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000201257/",
+          "also_in": []
+        },
+        {
+          "title": "\"The Legend of Aang\" Filmini Sızdıran Kişiye Büyük Ceza!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000201248/",
+          "also_in": []
+        },
+        {
+          "title": "Karadeniz’de Define Alarmı: \"Oflu Hoca 6\" 22 Mayıs'ta Sinemalarda",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000201232/",
+          "also_in": []
+        },
+        {
+          "title": "Netflix’in Canlı Aksiyon \"Scooby-Doo: Origins\" Dizisinden İlk Kare Geldi!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000201210/",
+          "also_in": []
+        },
+        {
+          "title": "Sızdırılan Fantastik Film İçin Hapis Cezası Kapıda",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/sizdirilan-fantastik-film-icin-hapis-cezasi-kapida",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlıkta İnovasyonlar ve Yaşam Tarzı Önerileri",
+      "meta_category": "Sağlık",
+      "summary": "Pankreas kanserinde kişiye özel mRNA aşısının umut veren sonuçları ve immünoterapilerin kanser tedavisindeki kolaylıkları gündeme geldi. Kaygı bozukluğuyla mücadelede yaşam tarzı değişiklikleri önerilirken, adet dönemi beslenmesi ve diş fırçalama alışkanlıkları gibi günlük sağlık konularına değinildi, bu da halk sağlığı bilincini yükseltti.",
+      "importance": 6,
+      "story_count": 13,
+      "stories": [
+        {
+          "title": "OTOF geni mucizesi: 11 yaşındaki çocuk sessiz dünyasından kelimelerle çıktı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/otof-geni-mucizesi-11-yasindaki-cocuk-sessiz-dunyasindan-kelimelerle-cikti_179720.html",
+          "also_in": []
+        },
+        {
+          "title": "Kişiye özel mRNA aşısı pankreas kanserinde yıllar süren takipte alışılmış verilerin dışına çıkan sonuçlar ortaya koydu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/pankreas-kanserinde-mrna-mucizesi-alti-yil-sonra-gelen-buyuk-zafer_179719.html",
+          "also_in": []
+        },
+        {
+          "title": "Detoks nedir? Gerçekten gerekli mi?",
+          "source": "A Spor",
+          "link": "https://youtube.com/shorts/sOKK5lYlLT0?si=Ka8WlohogyI02Lwf",
+          "also_in": [
+            "Fotomaç"
+          ]
+        },
+        {
+          "title": "İmmünoterapiler de kanser tedavisinde kolaylık sağlıyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/saglik/immunoterapiler-de-kanser-tedavisinde-kolaylik-sagliyor/3917859",
+          "also_in": [
+            "dikGAZETE",
+            "İnternet Haber",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "\"Kaygı bozukluğuyla mücadelede ilaçtan önce yaşam tarzı değişikliği\" önerisi",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/kaygi-bozukluguyla-mucadelede-ilactan-once-yasam-tarzi-degisikligi-onerisi",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kamu Yönetiminde Görev Değişiklikleri",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Milli Eğitim Bakan Yardımcısı Nazif Yılmaz'ın görevden alınması ve yerine Cihad Demirli'nin atanması, kamu yönetimindeki önemli değişikliklerdendi. Bolu Belediyesi'nde ve TEİAŞ'ta da görevden almalar ve yeni atamalar yaşandı, bu da bürokrasideki hareketliliği gözler önüne serdi.",
+      "importance": 6,
+      "story_count": 6,
+      "stories": [
+        {
+          "title": "Milli Eğitim Bakan Yardımcısı Nazif Yılmaz görevden alındı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/milli-egitim-bakan-yardimcisi-nazif-yilmaz-gorevden-alindi-574765",
+          "also_in": [
+            "Artı Gerçek",
+            "Gerçek Gündem"
+          ]
+        },
+        {
+          "title": "Milli Eğitim Bakan Yardımcısı görevden alındı",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/milli-egitim-bakan-yardimcisi-gorevden-alindi-698162/",
+          "also_in": [
+            "Diken",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-16-267524h",
+          "also_in": [
+            "Döviz",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "3 Belediye Başkan Yardımcısı tutuklanan Bolu Belediyesi’nde yeni atama",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/3-belediye-baskan-yardimcisi-tutuklanan-bolu-belediyesinde-yeni-atama-haberi-890303",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Milli Eğitim Bakan Yardımcısı Nazif Yılmaz görevden alındı, yerine Cihad Demirli atandı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5981207/milli-egitim-bakan-yardimcisi-nazif-yilmaz-gorevden-alindi-yerine-cihad-demirli-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Uluslararası Uzay Araştırmalarında Yeni Gelişmeler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Hubble'ın mirasını devralacak yeni uzay teleskobu eylülde yola çıkarken, NASA'dan gençlerle buluşmalar ve Çin'den Ay araştırmalarında yeni mineral keşifleri geldi. UFO sanılan dev mıknatısın fizik adına yaptığı yolculuk da ilgi çekerek uzay bilimlerindeki dinamizmi gözler önüne serdi.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Hubble'ın mirasını devralmaya hazırlanıyor: Uzayın yeni gözü eylülde yola çıkıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/hubblein-mirasini-devralmaya-hazirlaniyor-uzayin-yeni-gozu-eylulde-yola-cikiyor/102203",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "NASA'dan Samsun'a uzanan yolculuk: Yıldızlar arası rehber gençlerle buluştu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/nasadan-samsuna-uzanan-yolculuk-yildizlar-arasi-rehber-genclerle-bulustu/102198",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Herkes onu \"uzaylı yumurtası\" sandı, gerçek bambaşka çıktı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/herkes-onu-uzayli-yumurtasi-sandi-gercek-bambaska-cikti_179748.html",
+          "also_in": []
+        },
+        {
+          "title": "UFO sanılan dev mıknatısın fizik adına yaptığı efsanevi yolculuk",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/ufo-sanilan-dev-miknatisin-fizik-adina-yaptigi-efsanevi-yolculuk_179718.html",
+          "also_in": []
+        },
+        {
+          "title": "Çin’den Ay araştırmalarında yeni atılım: İki yeni mineral keşfedildi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/cin-den-ay-da-yeni-atilim-iki-yeni-mineral-kesfedildi--204914",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye Havalimanı Kapasitesi Avrupa Ortalamasını Aştı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Ulaştırma ve Altyapı Bakanı, Türkiye'deki havalimanlarının yıllık yolcu kapasitesinin 26 AB ülkesinin toplam nüfusunu geride bıraktığını açıkladı. Bu durum, Türkiye'nin hava yolu taşımacılığındaki büyümesini ve stratejik önemini vurgulayarak uluslararası alandaki konumunu pekiştirdi.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Havalimanlarında yıllık yolcu kapasitesi 26 AB ülkesinin nüfusunu aştı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/havalimanlarinda-yillik-yolcu-kapasitesi-26-ab-ulkesinin-nufusunu-asti-/3917792",
+          "also_in": [
+            "dikGAZETE",
+            "Haber 7",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Bakan Uraloğlu: Havalimanı kapasitesi 26 AB ülkesinin nüfusunu aştı",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/bakan-uraloglu-havalimani-kapasitesi-26-ab-ulkesinin-nufusunu-asti-520860",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Havalimanlarının yıllık yolcu kapasitesi 26 AB ülkesinin nüfusunu geride bıraktı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/havalimanlarinin-yillik-yolcu-kapasitesi-26-ab-ulkesinin-nufusunu-geride-birakti-p314369",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "'Havalimanı kapasitesi 26 AB ülkesinin nüfusunu aştı'",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/havalimani-kapasitesi-26-ab-ulkesinin-nufusunu-asti_ID100700691/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Madencilik Sektöründe Düzenlemeler ve İşçi Hakları Mücadelesi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Madencilik izin yönetmeliği yürürlükten kaldırılırken, Kazdağları'ndaki ekoloji örgütleri Kirazlı'daki çalışmalara tepki gösterdi. 5 aydır maaş alamayan maden işçilerinin açlık grevi eylemi ise 6. gününe girerek işçi hakları konusunu gündeme taşıdı ve toplumsal duyarlılığı artırdı.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Madencilik izin yönetmeliği yürürlükten kaldırıldı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/madencilik-izin-yonetmeligi-yururlukten-kaldirildi-267528h",
+          "also_in": [
+            "dikGAZETE",
+            "Bloomberg HT",
+            "CNBC-e",
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "Kazdağları'ndaki ekoloji örgütlerinden Kirazlı'da çalışmalara tepki: \"Satış hükümsüzdür, TÜMAD alanı işgal ediyor!",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5981226/kazdaglari-ndaki-ekoloji-orgutlerinden-kirazli-da-calismalara-tepki-satis-hukumsuzdur-tumad-alani-isgal-ediyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "5 aydır maaş alamayan maden işçilerinin açlık grevi eylemi 6. gününde devam ediyor",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/5-aydir-maas-alamayan-maden-iscilerinin-aclik-grevi-eylemi-6-gununde-devam-ediyor-520831",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "'Madencilik Faaliyetleri İzin Yönetmeliği' hakkında yeni karar",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/madencilik-faaliyetleri-izin-yonetmeligi-hakkinda-yeni-karar_ID100700686/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siber Güvenlik Tehditleri ve Fidye Yazılımları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Siber güvenlikte yeni dönemde iş ortaklarının dijital güvenliği mercek altına alınırken, fidye yazılımı saldırılarının organize operasyonlar olabileceği ve post-kuantum söylemleriyle baskı kurduğu belirtildi. Bu gelişmeler, dijital dünyanın kırılganlığını ve sürekli yeni tehditlerle karşı karşıya olduğunu vurguladı.",
+      "importance": 6,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Siber güvenlikte yeni dönem: İş ortaklarının dijital güvenliği mercek altında",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/siber-guvenlikte-yeni-donem-is-ortaklarinin-dijital-guvenligi-mercek-altinda_179666.html",
+          "also_in": []
+        },
+        {
+          "title": "Fidye Yazılımı Bir Saldırı Değil Organize Bir Operasyon Olabilir : Kırmızı Kraliçe’ye Dikkat",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/fidye-yazilimi-bir-saldiri-degil-organize-bir-operasyon-olabilir-kirmizi-kraliceye-dikkat-430083",
+          "also_in": []
+        },
+        {
+          "title": "Fidye Yazılımı Grupları Post-Kuantum Söylemiyle Baskı Kuruyor",
+          "source": "ÇözümPark",
+          "link": "https://www.cozumpark.com/fidye-yazilimi-post-kuantum-algi-stratejisi-degisti/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Çin-ABD Arasında Çip Sektörü Gerilimi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Çin, ABD Kongresi'nin çip sektöründe yeni kontroller öngören yasa tasarısına sert tepki gösterdi. Çin'in açıklamasına göre bu durum, küresel tedarik zincirini tehlikeye atma potansiyeli taşıyor ve iki ülke arasındaki ticari gerilimi artırarak uluslararası piyasalarda endişe yarattı.",
+      "importance": 6,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Çin'den ABD Kongresinin çip sektöründe yeni kontroller öngören yasa tasarısına tepki",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/cinden-abd-kongresinin-cip-sektorunde-yeni-kontroller-ongoren-yasa-tasarisina-tepki",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Çin’den ABD’nin çip hamlesine sert tepki: \"Küresel tedarik zinciri tehlikede\"",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/cin-den-abd-nin-cip-hamlesine-sert-tepki-kuresel-tedarik-zinciri-tehlikede-p314322",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Çin'den ABD'nin çip yasa tasarısına tepki: Küresel tedarik zinciri aksayabilir",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/cin-den-abd-nin-cip-yasa-tasarisina-tepki-kuresel-tedarik-zinciri-aksayabilir-3775818",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Medya ve Ünlülerin Gündemi",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Adriana Lima'dan kızlarına destek, Bergüzar Korel'in kilo verme sırları, İbrahim Selim'in düğün hazırlıkları gibi magazin haberleri dikkat çekti. Sosyal medyada viral olan anlar, burç yorumları, kişilik testleri ve kişisel gelişim üzerine yazılar da geniş yer bularak günlük yaşamın renkli yönlerini yansıttı.",
+      "importance": 5,
+      "story_count": 38,
+      "stories": [
+        {
+          "title": "Öğretmeninden Doğum Günü Mesajı Alan Çocuğun Sevinçle Attığı Mesaj Hem Güldürdü Hem Duygulandırdı",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/ogretmeninden-dogum-gunu-mesaji-alan-cocugun-sevincle-attigi-mesaj-hem-guldurdu-hem-duygulandirdi-1355769",
+          "also_in": []
+        },
+        {
+          "title": "2005&apos;te İlkokula Başlayan Bir Sosyal Medya Kullanıcısı O Gün Çekilmiş Video ile Bir Nesli Hüzünlendirdi",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/2005-te-ilkokula-baslayan-bir-sosyal-medya-kullanicisi-o-gun-cekilmis-video-ile-bir-nesli-huzunlendirdi-1355766",
+          "also_in": []
+        },
+        {
+          "title": "Bambaşka Biri Oldu: Melike Şahin’den Radikal İmaj Değişikliği!",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/bambaska-biri-oldu-melike-sahin-den-radikal-imaj-degisikligi-1355765",
+          "also_in": []
+        },
+        {
+          "title": "Bu Evde Yan Yana 2 Kişinin Durması İmkansız",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/bu-evde-yan-yana-2-kisinin-durmasi-imkansiz-1355764",
+          "also_in": []
+        },
+        {
+          "title": "İlçe Başkanı Görenlerin Aklını Alan Bıyıklarıyla İlgili Açıklama Yaptı",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/ilce-baskani-gorenlerin-aklini-alan-biyiklariyla-ilgili-aciklama-yapti-1355763",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "TMSF, TELE1 TV'yi Satışa Çıkardı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), TELE1 TV'nin ticari ve iktisadi bütünlüğünü satışa çıkardı. Bu karar, medya sektöründe ve kamuoyunda geniş yankı uyandırarak, sektördeki finansal dinamikleri bir kez daha gündeme getirdi.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "TMSF, TELE1 TV Ticari ve İktisadi Bütünlüğünü satışa çıkardı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/tmsf-tele1-tv-ticari-ve-iktisadi-butunlugunu-satisa-cikardi-997952.html",
+          "also_in": [
+            "İnternet Haber",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "TMSF TELE1’i satışa çıkardı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5981243/tmsf-tele1i-satisa-cikardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "TMSF, TELE1'i satışa çıkardı: İşte istenen ücret!",
+          "source": "GZT",
+          "link": "https://www.gzt.com/ekonomi/tmsf-tele1i-satisa-cikardi-iste-istenen-ucret-4217835",
+          "also_in": [
+            "Kamudan Haber"
+          ]
+        },
+        {
+          "title": "TMSF'den TELE 1 TV için satış kararı",
+          "source": "İstiklal",
+          "link": "https://www.istiklal.com.tr/ekonomi/tmsfden-tele-1-tv-icin-satis-karari-1091705h",
+          "also_in": [
+            "Bigpara"
+          ]
+        },
+        {
+          "title": "TMSF, TELE1 TV'yi satışa çıkardı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/tmsf-tele1-tv-yi-satisa-cikardi/860981",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye Kültür Yolu Festivalleri Devam Ediyor",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Türkiye Kültür Yolu Festivali, Şanlıurfa gibi şehirlerde gastronomi ve kültürel etkinliklerle devam ediyor. Festival, ülkenin zengin kültürel mirasını tanıtmayı ve sanatsal faaliyetleri yaygınlaştırmayı amaçlayarak, farklı şehirlerdeki kültürel canlılığı artırdı.",
+      "importance": 5,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Türkiye Kültür Yolu Festivali'ne \"gastronomi\" damga vuracak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/turkiye-kultur-yolu-festivaline-gastronomi-damga-vuracak",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Mezopotamya’nın kalbinde Şanlıurfa’da Kültür Yolu Festivali başladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/04/25/mezopotamyanin-kalbinde-sanliurfada-kultur-yolu-festivali-basladi",
+          "also_in": [
+            "GZT"
+          ]
+        },
+        {
+          "title": "Türkiye Kültür Yolu Festivali başladı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/kultur-sanat/turkiye-kultur-yolu-festivali-basladi-267555h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Kültür ve Turizm Bakanı Ersoy, ArtıKÜME 2025 seçkisi ve ODAK Sergisi'nin açılışına katıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/kultur/kultur-ve-turizm-bakani-ersoy-artikume-2025-seckisi-ve-odak-sergisinin-acilisina-katildi/3917804",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Doğal Oluşumlar ve Çevresel Gelişmeler",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "39 milyon yıllık taşa dönüşen orman ve 120 bin yıllık çöl gölü gibi sıra dışı doğal oluşumlar keşfedildi. Beyşehir Gölü'nün kaybettiği suyun %50'sini telafi etmesi ve nesli tükenme tehlikesi altındaki çakalın görüntülenmesi, çevre gündemine yansıdı ve doğa koruma bilincini artırdı.",
+      "importance": 5,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Bu Ormanda Ağaçlar Bile Taşa Dönüştü: Tam 39 Milyon Yıllık",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/bu-ormanda-agaclar-bile-tasa-donustu-tam-39-milyon-yillik-1355768",
+          "also_in": []
+        },
+        {
+          "title": "Çölün Ortasında Göl Ortaya Çıktı: 120 Bin Yıllık İz Keşfedildi",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/colun-ortasinda-gol-ortaya-cikti-120-bin-yillik-iz-kesfedildi-1355739",
+          "also_in": []
+        },
+        {
+          "title": "&apos;Beyşehir Gölü, kaybettiği suyun yüzde 50&apos;sini telafi etti&apos;",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/beysehir-golu-kaybettigi-suyun-yuzde-50-sini-19780413-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Nesli tükenme tehlikesi altındaki çakal tarlada görüntülendi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/nesli-tukenme-tehlikesi-altindaki-cakal-tarlada-19781132-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Autumn Rhythm (Number 30)",
+    "artist": "Jackson Pollock",
+    "year": "1950",
+    "form": "painting",
+    "medium": "Enamel and aluminum paint on canvas",
+    "location": "Metropolitan Museum of Art, New York",
+    "description": "Büyük ölçekli bir damlatma tablosu olan bu eser, Pollock'un karakteristik akışkan fırça darbeleri ve renk katmanlarıyla yoğun bir enerji ve karmaşık bir doku sunar. Hem kaosu hem de harmoniyi barındıran yapısıyla, kontrolsüz görünen bir yaratıcılığın ve dinamizmin dışavurumudur.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Autumn_Rhythm_(Number_30)",
+    "wikipedia_extract": " \nAutumn Rhythm  is a 1950 abstract expressionist painting by American artist Jackson Pollock in the collection of the Metropolitan Museum of Art in New York City. The work is a distinguished example of Pollock's 1947-50 poured-painting style, and is often considered one of his most notable works.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Autumn_Rhythm.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Jackson_Pollock"
+  },
+  "music": {
+    "title": "Pharaoh's Dance",
+    "artists": "Miles Davis",
+    "album": "Bitches Brew",
+    "duration": "20:04",
+    "spotify_url": "https://open.spotify.com/track/7eEp1mm5xRfPMpilLFUKwX",
+    "spotify_id": "7eEp1mm5xRfPMpilLFUKwX",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2733f29c5269be5a4e9c4611d7a",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7eEp1mm5xRfPMpilLFUKwX\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null,
+    "suggested_genre": "Jazz Fusion",
+    "suggested_mood": "Dinamik, deneysel, karmaşık, yoğun, futuristik"
+  },
+  "curator_statement": "Bugünün Türk basını, bir yandan teknolojik ilerlemelerin ve uluslararası başarıların coşkusunu, diğer yandan jeopolitik gerilimlerin ve toplumsal adalet arayışlarının getirdiği gerilimi ustaca harmanladı. Seçtiğimiz eser, Jackson Pollock'ın \"Autumn Rhythm (Number 30)\", bu dinamik ve çelişkili atmosferi, fırça darbelerinin katmanlı karmaşıklığı ve enerjik akışıyla soyut bir düzlemde dışavuruyor. Tıpkı ülkenin hızla değişen gündemi gibi, eserdeki her detay hem bir coşkuyu hem de derin bir sorgulamayı içinde barındırıyor. Miles Davis'in \"Pharaoh's Dance\" adlı parçası ise, deneysel cazın özgür ruhuyla bu karmaşık ritme eşlik ediyor; yer yer kaotik, yer yer melodik geçişleriyle geleceğe dair umutları ve mevcut belirsizlikleri aynı potada eritiyor. Bu kürasyon, Türkiye'nin bugünkü ruhunu, ilerlemenin heyecanını ve varoluşsal gerilimlerini sanatsal bir dille yansıtıyor."
+}

@@ -1,0 +1,17 @@
+# Sırlar
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Ara JSON dosyaları (sadece today.json ve archive/ yüklenecek)
+collected_news.json
+day_analysis.json
+curation.json
+spotify_result.json
+
+# Mac
+.DS_Store
