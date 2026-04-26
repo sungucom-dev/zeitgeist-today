@@ -4,7 +4,6 @@ on:
   schedule:
     # Her gün TSİ 10:00'da çalış (UTC 07:00, çünkü Türkiye UTC+3)
     - cron: '0 7 * * *'
-  # Manuel tetikleme de mümkün olsun (GitHub Actions sayfasından test için)
   workflow_dispatch:
 
 jobs:
@@ -13,7 +12,7 @@ jobs:
     timeout-minutes: 15
     
     permissions:
-      contents: write  # Repo'ya commit yapabilmesi için
+      contents: write
     
     steps:
       - name: Checkout repo
@@ -36,6 +35,19 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: python run_daily.py
       
+      - name: Verify today.json is not empty
+        run: |
+          python -c "
+          import json, sys
+          with open('today.json') as f:
+              data = json.load(f)
+          if not data.get('mood', {}).get('description') or not data.get('clusters'):
+              print('❌ today.json eksik veya boş!')
+              print(json.dumps(data, indent=2, ensure_ascii=False)[:500])
+              sys.exit(1)
+          print('✓ today.json dolu, devam.')
+          "
+      
       - name: Commit and push if changed
         run: |
           git config --local user.email "actions@github.com"
@@ -45,5 +57,7 @@ jobs:
             echo "Değişiklik yok, commit atılmadı."
           else
             git commit -m "Daily update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Önce uzaktaki değişiklikleri çek (rebase ile çakışma riski yok)
+            git pull --rebase origin main
             git push
           fi
