@@ -1,0 +1,49 @@
+name: Daily Zeitgeist Update
+
+on:
+  schedule:
+    # Her gün TSİ 10:00'da çalış (UTC 07:00, çünkü Türkiye UTC+3)
+    - cron: '0 7 * * *'
+  # Manuel tetikleme de mümkün olsun (GitHub Actions sayfasından test için)
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    permissions:
+      contents: write  # Repo'ya commit yapabilmesi için
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser python-dateutil google-genai python-dotenv requests
+      
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: python run_daily.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add today.json archive/
+          if git diff --staged --quiet; then
+            echo "Değişiklik yok, commit atılmadı."
+          else
+            git commit -m "Daily update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
