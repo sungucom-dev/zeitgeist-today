@@ -1,199 +1,129 @@
 {
   "date": "2026-04-26",
   "date_human": "26 April 2026",
-  "generated_at": "2026-04-26T11:37:42.046351+00:00",
+  "generated_at": "2026-04-26T13:37:09.054040+00:00",
   "stats": {
-    "feeds_collected": 273,
-    "news_total": 4278,
-    "news_analyzed": 570,
-    "clusters": 26
+    "feeds_collected": 257,
+    "news_total": 4139,
+    "news_analyzed": 559,
+    "clusters": 22
   },
   "mood": {
-    "description": "Gün, uluslararası gerilimler ve ekonomik zorluklarla karakterize edilen gergin bir atmosfere sahipken, teknolojik gelişmeler ve önemli spor olaylarıyla da hareketlilik yaşıyor.",
-    "dominant_emotion": "Gergin",
+    "description": "Yoğun ve çok yönlü bir gün. Hem ulusal hem de uluslararası düzeyde önemli gelişmeler yaşanırken, teknolojik yenilikler ve toplumsal sorunlar da gündemi meşgul etti.",
+    "dominant_emotion": "Yoğun",
     "key_themes": [
-      "Jeopolitik Gerilimler ve Diplomasi",
-      "Ekonomi ve Piyasalardaki Dalgalanmalar",
-      "Yapay Zeka ve Teknoloji Etiği",
-      "Büyük Spor Müsabakaları (Futbol Derbileri)",
-      "Toplumsal Sorunlar ve Adli Olaylar"
+      "Galatasaray-Fenerbahçe Derbi Heyecanı",
+      "Yapay Zeka'nın Hızlanan Etkileri",
+      "Jeopolitik Gerilimler ve Uluslararası İlişkiler",
+      "Ekonomik Dalgalanmalar ve Piyasalar",
+      "Toplumsal Güvenlik ve Doğal Afetler"
     ]
   },
   "clusters": [
     {
-      "title": "Galatasaray - Fenerbahçe Derbisi Gündemi",
+      "title": "Galatasaray-Fenerbahçe Derbisi Gündemi",
       "meta_category": "Spor",
-      "summary": "Türk futbolunun en büyük derbisi olan Galatasaray-Fenerbahçe maçı öncesi ve sonrası tüm detaylar, VAR hakemi açıklaması, takım kadroları, transfer dedikoduları, başkanların açıklamaları ve taraftar notlarıyla geniş yer buluyor. Maçın yarattığı heyecan ve güvenlik önlemleri de gündemin önemli maddeleri arasında.",
+      "summary": "Türk futbolunun zirvesini temsil eden Galatasaray-Fenerbahçe derbisi, günün en çok konuşulan konularından oldu. VAR hakeminden takım hazırlıklarına, olası transferlerden taraftar hareketliliğine ve finansal teşviklere kadar birçok detay basında yer aldı. U19 maçının sonuçları da rekabetin atmosferini pekiştirdi.",
       "importance": 10,
-      "story_count": 29,
+      "story_count": 35,
       "stories": [
+        {
+          "title": "Galatasaray - Fenerbahçe Maçı Hangi Kanalda? Derbi Saat Kaçta, Hangi Kanaldan İzlenir?",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/galatasaray-fenerbahce-maci-hangi-kanalda-derbi-saat-kacta-hangi-kanaldan-izlenir-1355836",
+          "also_in": []
+        },
         {
           "title": "Galatasaray-Fenerbahçe derbisinin VAR hakemi açıklandı",
           "source": "NTV Spor Futbol",
           "link": "https://www.ntvspor.net/foto-galeri/galatasaray-fenerbahce-derbisinin-var-hakemi-aciklandi-421718",
           "also_in": [
-            "Demokrat Haber",
-            "CGTN Türk"
+            "CGTN Türk",
+            "Demokrat Haber"
           ]
         },
         {
-          "title": "Galatasaray Başkanı Dursun Özbek'ten Yasin Kol tepkisi!",
+          "title": "Galatasaray'dan sürpriz transfer! Osimhen ile tartışma yaşamıştı",
           "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/04/25/galatasaray-baskani-dursun-ozbekten-yasin-kol-tepkisi",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/04/26/galatasaraydan-surpriz-transfer-osimhen-ile-tartisma-yasamisti",
           "also_in": [
-            "F5 Haber"
+            "Fotomaç"
           ]
         },
         {
-          "title": "Ve Asensio için son karar çıktı! Galatasaray'a karşı oynayacak mı?",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net",
+          "title": "CANLI İZLE | Galatasaray - Fenerbahçe (Süper Lig maçı)",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/foto-galeri/canli-izle-galatasaray-fenerbahce-super-lig-maci-421737",
           "also_in": [
-            "NTV Spor Futbol"
+            "NTV Spor Anasayfa"
           ]
         },
         {
-          "title": "Beşiktaş ve Fenerbahçe istiyordu! Yıldız ismin yeni adresi Galatasaray",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/04/26/besiktas-ve-fenerbahce-istiyordu-yildiz-ismin-yeni-adresi-galatasaray",
-          "also_in": []
-        },
-        {
-          "title": "Derbi sonrası Fenerbahçe ve Galatasaray'ı bekleyen tehlike! Tam 9 futbolcu...",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/04/26/derbi-sonrasi-fenerbahce-ve-galatasarayi-bekleyen-tehlike-tam-9-futbolcu",
-          "also_in": []
+          "title": "DERBİYİ CANLI İZLE | Galatasaray - Fenerbahçe maçını veren yabancı kanallar",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/foto-galeri/derbiyi-canli-izle-galatasaray-fenerbahce-macini-veren-yabanci-kanallar-421734",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
         }
       ]
     },
     {
-      "title": "Ekonomi Politikaları ve Piyasalardaki Gelişmeler",
+      "title": "Türkiye Ekonomisinde Enflasyon, Altın ve Kur Hareketleri",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Enflasyonla mücadele, emekli maaşları, sosyal konut projeleri ve piyasalardaki (altın, kripto, borsa) dalgalanmalar ekonomik gündemin merkezinde yer alıyor. İTO Başkanı'ndan gelen 'ince ayar' çağrıları, enerji politikaları, ihracat verileri ve tüketiciyi korumaya yönelik uyarılar da ekonominin farklı yönlerini yansıtıyor.",
+      "summary": "Türkiye ekonomisi, enflasyon endişeleriyle boğuşmaya devam ediyor; kritik eşikler ve yapay zekanın enflasyonu düşürme potansiyeli tartışılıyor. Altın fiyatları da 'yarı fiyat' tuzakları ile gündemdeydi. Dolar/TL kuru ise küresel riskler, Fed politikaları ve iç ekonomik baskılar nedeniyle hassas dengesini koruyor.",
       "importance": 9,
-      "story_count": 76,
+      "story_count": 20,
       "stories": [
         {
-          "title": "EPDK 2025'te enerji piyasalarına yaklaşık 12 bin lisans verdi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/epdk-2025te-enerji-piyasalarina-yaklasik-12-bin-lisans-verdi/3918406",
+          "title": "Altın fiyatları canlı takip | 26 Nisan gram altın ne kadar?",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/haberler/2026/04/26/altin-fiyatlari-canli-takip-26-nisan-gram-altin-ne-kadar",
+          "also_in": []
+        },
+        {
+          "title": "Altında \"yarı fiyat\" tuzağı! Yasal süreç başlatılıyor",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3623112-altinda-yari-fiyat-tuzagi-yasal-surec-baslatiliyor",
           "also_in": [
-            "Dünya",
-            "dikGAZETE",
             "Bigpara"
           ]
         },
         {
-          "title": "Ankara–Sivas YHT hattı 3 yaşında",
-          "source": "En Politik",
-          "link": "https://www.enpolitik.com/haber/ankarasivas-yht-hatti-3-yasinda-354975",
+          "title": "Enflasyonda kritik eşik: Yüzde 30'un altı tartışma yaratır mı?",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/enflasyonda-kritik-esik-yuzde-30-un-alti-tartisma-yaratir-mi-p314515",
           "also_in": [
-            "Haber Global",
-            "İstiklal",
-            "TRT Haber"
+            "Sözcü Ekonomi"
           ]
         },
         {
-          "title": "Coğrafi işaretli ürünlerin AB tescil süreci hızlandı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/cografi-isaretli-urunlerin-ab-tescil-sureci-hizlandi-998109.html",
+          "title": "Gramı bile altın değerinde: 1 kilosu 40 bin lira, eken servet sahibi oluyor",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/grami-bile-altin-degerinde-1-kilosu-40-bin-lira-eken-servet-sahibi-oluyor-p314514",
           "also_in": [
-            "Haberler",
-            "İstiklal",
-            "TRT Haber"
+            "Sözcü Gündem"
           ]
         },
         {
-          "title": "Ayçiçeği yağı ihracatı ilk çeyrekte yüzde 17,2 arttı",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/ekonomi/aycicegi-yagi-ihracati-ilk-ceyrekte-yuzde-172-artti-haberi-890398",
-          "also_in": [
-            "Haber 7",
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Türkiye'nin ayçiçeği yağı ihracatı ilk çeyrekte yüzde 17,2 arttı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-aycicegi-yagi-ihracati-ilk-ceyrekte-yuzde-17-2-artti/3918470",
-          "also_in": [
-            "Dünya",
-            "dikGAZETE"
-          ]
+          "title": "ALTIN FİYATLARI SON DURUM TABLOSU 26 NİSAN 2026 || Altın fiyatları arttı mı, düştü mü? 1 gram altın, çeyrek altın, ONS altın, Cumh",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/altin/haber/altin-fiyatlari-son-durum-tablosu-26-nisan-2026-altin-fiyatlari-artti-mi-dustu-mu-1-gram-altin-ceyrek-altin-ons-altin-cumh_ID100700706/",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Uluslararası İlişkiler ve Jeopolitik Gerilimler",
+      "title": "ABD'de Trump'ın Katıldığı Etkinlikte Silahlı Saldırı",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "İran'ın ABD'ye yönelik baskı ve müzakere konusundaki sert mesajları, Hürmüz Boğazı gerilimi, Bakan Fidan'ın uluslararası temasları ve Gazze'deki insani kriz, küresel jeopolitiğin ana hatlarını oluşturuyor. Kolombiya ve Mali'deki terör saldırıları ile Yunanistan-Fransa savunma işbirliği de uluslararası gündemde yer alıyor.",
+      "summary": "ABD'de Donald Trump'ın katıldığı bir etkinlikte gerçekleşen silahlı saldırı, dünya gündemine oturdu ve bir polisin yaralanmasına neden oldu. Türkiye Cumhurbaşkanı Erdoğan ve Fransa Cumhurbaşkanı Macron başta olmak üzere birçok liderden kınama ve geçmiş olsun mesajları geldi. Olayın küresel siyaset ve piyasalar üzerindeki etkileri de değerlendirildi.",
       "importance": 9,
-      "story_count": 39,
+      "story_count": 11,
       "stories": [
         {
-          "title": "Pezeşkiyan: İran baskı ve kuşatma altında dayatılan müzakerelere girmeyecek",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/pezeskiyan-iran-baski-ve-kusatma-altinda-dayatilan-muzakerelere-girmeyecek-998098.html",
-          "also_in": [
-            "Ekonomim",
-            "Dokuz8 Haber",
-            "Haberet",
-            "Haberler",
-            "İnternet Haber",
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Trump, ABD heyetinin Pakistan ziyaretini iptal etti",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/cevkry44dn4o?at_medium=RSS&at_campaign=rss",
-          "also_in": [
-            "Bloomberg HT",
-            "Döviz"
-          ]
-        },
-        {
-          "title": "Kolombiya’da bombalı saldırı: 14 kişi öldü, 38 kişi yaralandı",
+          "title": "Erdoğan’dan Trump’a geçmiş olsun mesajı",
           "source": "10Haber",
-          "link": "https://10haber.net/gundem/kolombiyada-bombali-saldiri-14-kisi-oldu-38-kisi-yaralandi-698447/",
-          "also_in": [
-            "Demokrat Haber",
-            "CGTN Türk"
-          ]
-        },
-        {
-          "title": "Bakan Fidan, ABD'li ara bulucularla görüştü",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/bakan-fidan-abdli-ara-bulucularla-gorustu",
-          "also_in": [
-            "Haber Global",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Kolombiya'da bombalı saldırıda 14 kişi öldü, 38 kişi yaralandı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/kolombiya-da-bombali-saldirida-14-kisi-oldu-38-kisi-yaralandi-998084.html",
-          "also_in": [
-            "İnternet Haber",
-            "TRT Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "ABD'deki Trump'a Saldırı Girişimi ve Dünya Tepkileri",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Eski ABD Başkanı Trump'ın katıldığı bir etkinlikte yaşanan silahlı saldırı girişimi, dünya liderlerinin ve özellikle Cumhurbaşkanı Erdoğan'ın kınama mesajlarıyla geniş yankı uyandırdı. Saldırının detayları ve Trump'ın ilk açıklamaları kamuoyunun dikkatini çekti.",
-      "importance": 9,
-      "story_count": 16,
-      "stories": [
-        {
-          "title": "Erdoğan’dan Trump'a 'geçmiş olsun' mesajı",
-          "source": "Doğru Haber",
-          "link": "https://dogruhaber.com.tr/erdoganndan-trumpa-gecmis-olsun-mesaji",
+          "link": "https://10haber.net/dunya/erdogandan-trumpa-gecmis-olsun-mesaji-698502/",
           "also_in": [
             "Haber 3",
             "Halk TV",
@@ -204,21 +134,13 @@
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan Trump'a geçmiş olsun mesajı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/cumhurbaskani-erdogandan-trumpa-gecmis-olsun-mesaji",
-          "also_in": [
-            "Gazete Pencere",
-            "İlke TV"
-          ]
-        },
-        {
           "title": "Cumhurbaşkanı Erdoğan: ABD'deki silahlı saldırı girişimini kınıyorum",
           "source": "Haberet",
           "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-abddeki-silahli-saldiri-girisimini-kiniyorum-104661",
           "also_in": [
             "İstiklal",
-            "TRT Haber"
+            "TRT Haber",
+            "Yeni Şafak"
           ]
         },
         {
@@ -231,22 +153,93 @@
           ]
         },
         {
-          "title": "Beyaz Saray Muhabirleri Derneğinin yemeğindeki silahlı saldırı dünya liderlerinin gündeminde",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/beyaz-saray-muhabirleri-derneginin-yemegindeki-silahli-saldiri-dunya-liderlerinin-gundeminde/3918443",
+          "title": "Trump'ın katıldığı yemekte silahlı saldırı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/trumpin-katildigi-yemekte-silahli-saldiri/?utm_source=rss&utm_medium=rss&utm_campaign=trumpin-katildigi-yemekte-silahli-saldiri",
           "also_in": [
-            "Haberler"
+            "Tele1"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan Trump'a geçmiş olsun mesajı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/cumhurbaskani-erdogandan-trumpa-gecmis-olsun-mesaji",
+          "also_in": [
+            "Gazete Pencere"
           ]
         }
       ]
     },
     {
-      "title": "Yapay Zeka Gelişmeleri ve Etik Tartışmaları",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka alanındaki hızlı gelişmeler, yeni dijital asistanlar, robotaksi teknolojileri ve büyük dil modellerinin davranışları üzerine odaklanıyor. Ancak ChatGPT'nin cinayetle suçlanması, Palantir çalışanlarının etik sorgulamaları ve Sam Altman'ın bilgi saklama özrü gibi olaylar, yapay zekanın etik ve toplumsal etkileri üzerine ciddi tartışmaları beraberinde getiriyor.",
-      "importance": 9,
-      "story_count": 13,
+      "title": "Uluslararası İlişkilerde Gerilimler ve Diplomasi Çabaları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Jeopolitik gerilimler, özellikle İran'ın ABD baskısına karşı duruşu ve müzakereler konusundaki tutumuyla devam ediyor. Ukrayna Devlet Başkanı Zelenskiy, üçlü müzakerelerin Azerbaycan'da yapılabileceğini öne sürdü. İsrail'in Gazze ve Lübnan'a yönelik saldırıları, uluslararası tepkiler ve askeri yığınaklar bölgesel istikrarsızlığı artırıyor.",
+      "importance": 8,
+      "story_count": 28,
       "stories": [
+        {
+          "title": "Pezeşkiyan: İran baskı ve kuşatma altında dayatılan müzakerelere girmeyecek",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/dunya/pezeskiyan-iran-baski-ve-kusatma-altinda-dayatilan-muzakerelere-girmeyecek-haberi-890393",
+          "also_in": [
+            "Dokuz8 Haber",
+            "Haberet",
+            "İnternet Haber",
+            "İstiklal",
+            "TRT Haber",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "İran'dan ABD'ye rest! 'Burası Venezuela değil'",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/dunya/irandan-abdye-rest-burasi-venezuela-degil-haberi-822953",
+          "also_in": [
+            "En Son Haber",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "İran’dan ABD’ye net mesaj: 'Baskı sürerse müzakere yok'",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/irandan-abdye-net-mesaj-baski-surerse-muzakere-yok-574894",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Zelenskiy: 'Rusya ve ABD ile üçlü müzakereler Azerbaycan’da yapılabilir'",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/zelenskiy-rusya-ve-abd-ile-uclu-muzakereler-azerbaycanda-yapilabilir-574883",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Trump: \"ABD heyeti Pakistan'a gitmiyor\"",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/trump-abd-heyeti-pakistan-a-gitmiyor/55483/",
+          "also_in": [
+            "F5 Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka Alanındaki Hızlı Gelişmeler ve Etkileri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka teknolojileri hızla ilerlemeye devam ediyor. 12 saatte işlemci tasarlayan AI'dan, ChatGPT'nin suç faaliyetlerinde kullanılmasına yönelik endişelere kadar geniş bir yelpazede haberler yer aldı. AI'ın ekonomi, hukuk ve etik üzerindeki potansiyel etkileri tartışılırken, Sam Altman'ın bilgi saklama konusundaki özrü de gündemdeydi.",
+      "importance": 8,
+      "story_count": 15,
+      "stories": [
+        {
+          "title": "İnsan müdahalesini tarihe gömen devrim: Yapay zeka 12 saatte işlemci tasarladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/insan-mudahalesini-tarihe-gomen-devrim-yapay-zeka-12-saatte-islemci-tasarladi/102212",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
         {
           "title": "Dijital asistanınız çok şey biliyor ama ya unutmasını isterseniz? ChatGPT'nin dijital hafızasını temizlemenin ve geçmişinizi tamamen silmenin yolları",
           "source": "Megabayt",
@@ -254,6 +247,12 @@
           "also_in": [
             "Megabayt Teknoloji"
           ]
+        },
+        {
+          "title": "ChatGPT, şimdi de cinayete yardım etmekle suçlanıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/chatgpt-simdi-de-cinayete-yardim-etmekle-suclaniyor_179752.html",
+          "also_in": []
         },
         {
           "title": "Palantir çalışanları şirketi sorgulamaya başladı: “Ya kötü taraf bizsek?”",
@@ -266,36 +265,32 @@
           "source": "Donanım Haber",
           "link": "https://www.donanimhaber.com/geely-insan-benzeri-dusunebilen-cin-in-ilk-robotaksisini-tanitti--204925",
           "also_in": []
-        },
-        {
-          "title": "Claude, üçüncü taraf entegrasyonlarla günlük hayatın kontrolünü ele alıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/claude-ucuncu-taraf-entegrasyonlarla-yeteneklerini-genisletiyor--204906",
-          "also_in": []
-        },
-        {
-          "title": "ChatGPT, şimdi de cinayete yardım etmekle suçlanıyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/chatgpt-simdi-de-cinayete-yardim-etmekle-suclaniyor_179752.html",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Suç, Adli Olaylar ve Güvenlik",
+      "title": "Suç ve Güvenlik Haberleri",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "Kadın cinayetleri, kayıp çocuk vakaları, uyuşturucu ve göçmen kaçakçılığı operasyonları, dolandırıcılık çeteleri ve trafik kazaları gibi çok sayıda adli olay ülke genelinde yaşandı. Şiddet olayları, gasp ve cinayetler toplumda derin endişe yaratırken, güvenlik güçlerinin çalışmaları da devam ediyor.",
-      "importance": 8,
-      "story_count": 36,
+      "summary": "Türkiye genelinde çeşitli suç ve güvenlik olayları rapor edildi. Malatya'da polis kazası, menfezde ölü bulunan çocuk, uyuşturucu operasyonları ve trafik kazaları gibi haberler toplumsal güvenlik endişelerini artırdı. Cinsel saldırı, bebek ölümü soruşturması ve polise silahlı saldırı gibi olaylar da dikkat çekti.",
+      "importance": 7,
+      "story_count": 31,
       "stories": [
+        {
+          "title": "Malatya'da yunus timleri kaza yaptı: 2 polis yaralı",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/malatyada-yunus-timleri-kaza-yapti-2-polis-yarali/haber-1662052",
+          "also_in": [
+            "Medya Gazete",
+            "Star"
+          ]
+        },
         {
           "title": "Adana’da sulama kanalında kadın cesedi bulundu",
           "source": "Aydınlık",
           "link": "https://www.aydinlik.com.tr/haber/adanada-sulama-kanalinda-kadin-cesedi-bulundu-574884",
           "also_in": [
             "Evrensel",
-            "İnternet Haber",
-            "Medya Gazete"
+            "İnternet Haber"
           ]
         },
         {
@@ -303,125 +298,132 @@
           "source": "Haber 7",
           "link": "https://www.haber7.com/guncel/haber/3623114-iki-gundur-kayip-olan-cocuk-menfezde-olu-bulundu",
           "also_in": [
-            "Haberler",
-            "Medya Gazete"
+            "Medya Gazete",
+            "Haberler"
           ]
         },
         {
           "title": "Araçta, 30 kilogram uyuşturucu ele geçirildi",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/aracta-30-kilogram-uyusturucu-ele-gecirildi-19782471-haberi/",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/aracta-30-kilogram-uyusturucu-ele-gecirildi-p314522",
           "also_in": [
-            "Sözcü",
-            "Sözcü Gündem"
+            "Sözcü Gündem",
+            "Haberler"
           ]
         },
         {
-          "title": "Sulama kanalında kadın cesedi bulundu",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/sulama-kanalinda-kadin-cesedi-bulundu-19782169-haberi/",
+          "title": "2 aylık bebeğini öldürdüğü öne sürülmüştü: Annenin ilk ifadesi ortaya çıktı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/2-aylik-bebegini-oldurdugu-one-surulmustu-annenin-ilk-ifadesi-ortaya-cikti-574909",
           "also_in": [
-            "Haberler",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Suriye'de Beşşar Esed ve kardeşi Mahir hakkında gıyabi yargılama başladı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/suriyede-bessar-esed-ve-kardesi-mahir-hakkinda-giyabi-yargilama-basladi/3918468",
-          "also_in": [
-            "dikGAZETE"
+            "Cumhuriyet"
           ]
         }
       ]
     },
     {
-      "title": "Beşiktaş Futbol Gelişmeleri",
-      "meta_category": "Spor",
-      "summary": "Beşiktaş'ın Fatih Karagümrük maçı hazırlıkları, teknik direktör Sergen Yalçın'ın durumu ve transfer gelişmeleri (Palhinha, El Karouani, El Bilal Toure, Orkun Kökçü) Beşiktaş gündemini belirliyor. Eski oyuncuların açıklamaları ve yeni transfer beklentileri de taraftarların ilgisini çekiyor.",
-      "importance": 8,
-      "story_count": 13,
-      "stories": [
-        {
-          "title": "Sergen Yalçın, Beşiktaş'ın başında 100. Süper Lig maçına çıkacak",
-          "source": "Sabah Spor",
-          "link": "https://www.sabah.com.tr/spor/futbol/2026/04/26/sergen-yalcin-besiktasin-basinda-100-super-lig-macina-cikacak",
-          "also_in": [
-            "Anadolu Ajansı",
-            "dikGAZETE",
-            "Haber Global"
-          ]
-        },
-        {
-          "title": "Beşiktaş, Fatih Karagümrük maçına hazır!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/besiktas/2026/04/26/besiktas-fatih-karagumruk-macina-hazir",
-          "also_in": [
-            "CNN Türk",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "İki yıldız için Beşiktaş defteri kapandı! Sergen Yalçın kesin olarak sildi",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Beşiktaş'ın yeni transferi sonunda sahaya çıkıyor",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/besiktasin-yeni-transferi-sonunda-sahaya-cikiyor-421728",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Beşiktaş ile Fatih Karagümrük, 18. randevuda",
-          "source": "Sabah Spor",
-          "link": "https://www.sabah.com.tr/spor/futbol/2026/04/26/besiktas-ile-fatih-karagumruk-18-randevuda",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Türkiye'de Savunma Sanayii ve Milli Teknoloji Atılımları",
+      "title": "Yeni Teknoloji Ürünleri ve Marka Gelişmeleri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türk savunma sanayii, KAAN savaş uçağının statik testleri, 81 ilde dron üretim seferberliği ve SAHA EXPO gibi büyük etkinliklerle gündemde. ULAK Haberleşme'nin patent başarıları ve Jandarma'nın GÖKBEY helikopteri eğitimleri de milli teknoloji alanındaki ilerlemeleri gösteriyor.",
-      "importance": 8,
-      "story_count": 9,
+      "summary": "Teknoloji dünyasında Xiaomi'nin yeni kulaklıkları ve batarya ömrüyle dikkat çeken Redmi Note modeli öne çıktı. Audi'nin elektrikli E7X'i, Asus Zenbook Duo, Samsung'un Galaxy Book Edge ve Z Fold Wide gibi yeni cihazlar tanıtıldı. iPhone RAM yükseltmeleri ve Galaxy S serisi özellik güncellemeleri de teknoloji meraklılarının ilgisini çekti.",
+      "importance": 7,
+      "story_count": 25,
       "stories": [
         {
-          "title": "ULAK Haberleşme, geçen yıl en çok patent başvurusu yapan şirket oldu",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/ulak-haberlesme-gecen-yil-en-cok-patent-basvurusu-yapan-sirket-oldu-998107.html",
+          "title": "Xiaomi'den ezber bozan hamle: Redmi Note 17 Pro Max'in bataryası dudak uçuklatıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/xiaomiden-ezber-bozan-hamle-redmi-note-17-pro-maxin-bataryasi-dudak-ucuklatiyor/102205",
           "also_in": [
-            "Haberler"
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Jandarma komandoları ilk kez milli helikopter GÖKBEY ile eğitim gördü",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/jandarma-komandolari-ilk-kez-milli-helikopter-gokbey-ile-egitim-gordu-998062.html",
-          "also_in": [
-            "Haberler"
-          ]
+          "title": "Audi'nin logosuz elektrikli canavarı E7X görücüye çıktı: 750 km menzil, 680 beygir güç",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/audi-nin-logosuz-elektrikli-canavari-750-km-menzilli-e7x-sahnede--204947",
+          "also_in": []
         },
         {
-          "title": "Bayraktar SİHA'nın mermerden maketi",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/dunya/suriyeli-girisimci-yapti-bayraktar-sihanin-mermerden-maketi-1786572",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
+          "title": "Asus Zenbook Duo 2026 yüksek fiyat etiketiyle piyasada",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/asus-zenbook-duo-2026-yuksek-fiyat-etiketiyle-piyasada--204945",
+          "also_in": []
         },
         {
-          "title": "SAHA İstanbul Yönetim Kurulu Başkanı Bayraktar: 81 ilde dron üretim ve eğitim merkezleri kurulacak",
+          "title": "Xiaomi'nin ilk kulak üstü kulaklığı ortaya çıktı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/redmi-headphones-neo-satisa-basladi--204944",
+          "also_in": []
+        },
+        {
+          "title": "Baseus MC2 açık tasarım kulaklık konfora odaklanıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/baseus-mc2-kulaklik-tanitildi-iste-ozellikleri-ve-fiyati--204943",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kripto Para Piyasaları ve Bitcoin Analizleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Kripto para piyasaları yakından takip ediliyor; Bitcoin'in 80.000 dolar eşiğine yaklaşması yeni bir yönün anahtarı olarak değerlendiriliyor. Ayı piyasasından çıkışın başlayıp başlamadığı, kurumsal talebin rolü ve Fed politikalarının etkisi analiz edildi. ETH, ADA, SUI, SOL gibi altcoinlerin teknik görünümleri ve kritik seviyeleri de tartışıldı.",
+      "importance": 7,
+      "story_count": 12,
+      "stories": [
+        {
+          "title": "‘İran’ın 344 milyon dolarlık kripto varlığı donduruldu’",
           "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/saha-istanbul-yonetim-kurulu-baskani-bayraktar-81-ilde-dron-uretim-ve-egitim-merkezleri-kurulacak_ID100700695/",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/iran-in-344-milyon-dolarlik-kripto-varligi-donduruldu_ID100700700/",
+          "also_in": []
+        },
+        {
+          "title": "Faiz ve Durgunluğa Devam - Fark Atan Gümüş Fonu - Borsayı HSBC Vurdu",
+          "source": "Investing Genel",
+          "link": "https://tr.investing.com/analysis/faiz-ve-durgunluga-devam--fark-atan-gumus-fonu--borsay-hsbc-vurdu-200504135",
+          "also_in": []
+        },
+        {
+          "title": "Bitcoin’de 80.000 Dolar Eşiği Yeni Yönün Anahtarı Olabilir",
+          "source": "Investing Kripto",
+          "link": "https://tr.investing.com/analysis/bitcoinde-80000-dolar-esigi-yeni-yonun-anahtar-olabilir-200504147",
+          "also_in": []
+        },
+        {
+          "title": "Altcoin’lerde Son Görünüm: ETH’de Toparlanma Beklentisi, ADA’da Tepki Arayışı, SUI’de İvme Testi",
+          "source": "Investing Kripto",
+          "link": "https://tr.investing.com/analysis/altcoinlerde-son-gorunum-ethde-toparlanma-beklentisi-adada-tepki-arays-suide-ivme-testi-200504096",
+          "also_in": []
+        },
+        {
+          "title": "Bitcoin Neden Yükseliyor? Ayı Piyasasından Çıkış Başladı mı?",
+          "source": "Investing Kripto",
+          "link": "https://tr.investing.com/analysis/bitcoin-neden-yukseliyor-ay-piyasasndan-cks-baslad-m-200504057",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'de Savunma Sanayii Atılımları",
+      "meta_category": "Savunma ve Sanayi",
+      "summary": "Türkiye'nin savunma sanayii, GÖKBEY helikopterinin komando eğitimindeki ilk görevi ve KAAN savaş uçağının tam boy statik testi gibi önemli gelişmelerle ilerliyor. Gelecek planları arasında 81 ilde drone üretimi ve SAHA 2026 fuarı ile küresel iş birliklerinin artırılması yer alıyor.",
+      "importance": 7,
+      "story_count": 7,
+      "stories": [
+        {
+          "title": "İHA’lara karşı yerli güç! KORKUT 100/25 SB sahada",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/04/25/ihalara-karsi-yerli-guc-korkut-10025-sb-sahada",
+          "also_in": []
+        },
+        {
+          "title": "MSB: Deniz gücümüz görev başında",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/04/25/msb-deniz-gucumuz-gorev-basinda",
+          "also_in": []
+        },
+        {
+          "title": "GÖKBEY helikopteri komando eğitiminde ilk kez sahada",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/gokbey-helikopteri-komando-egitiminde-ilk-kez-sahada",
           "also_in": []
         },
         {
@@ -429,15 +431,332 @@
           "source": "DefenceTurk",
           "link": "https://www.defenceturk.net/ilk-ucusun-yerdeki-provasi-kaan-tam-boy-statik-testi",
           "also_in": []
+        },
+        {
+          "title": "SAHA 2026 Öncesi Savunmada Yeni Yol Haritası",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/saha-2026-oncesi-savunmada-yeni-yol-haritasi/",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Türkiye'deki Depremler ve Doğal Afetler",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Bingöl ve Akdeniz'de meydana gelen depremler, uzmanların daha büyük deprem riskleri hakkındaki uyarıları ve farklı görüşleri gündemde yer alıyor. Deprem bölgesindeki fay hatları ve olası tetikleyici etkiler üzerine tartışmalar devam ediyor.",
-      "importance": 8,
+      "title": "Sosyal Konut ve Kentsel Dönüşüm Projeleri İlgisi",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul'da 'Yüzyılın Konut Projesi'ne olan ilgi devam ederken, kentsel dönüşüm destekleri için tanıtım ofislerine yoğun başvuru yapıldı. TOKİ'nin İstanbul konut çekilişlerinin detayları, başvuru numaraları ve kategori sonuçları büyük bir merakla bekleniyor.",
+      "importance": 7,
+      "story_count": 7,
+      "stories": [
+        {
+          "title": "Yüzyılın Konut Projesi'nde İstanbul heyecanı sürüyor",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3623132-yuzyilin-konut-projesinde-istanbul-heyecani-suruyor",
+          "also_in": [
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Bakan Murat Kurum’dan sosyal konut paylaşımı: “Örnek daire değil çiçek gibi bir yuva”",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/04/25/bakan-murat-kurumdan-sosyal-konut-ornek-daire-paylasimi-ornek-daire-degil-cicek-gibi-bir-yuva",
+          "also_in": []
+        },
+        {
+          "title": "Dönüşüm desteklerine büyük ilgi... İstanbullular tanıtım ofislerine koştu",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/donusum-desteklerine-buyuk-ilgi-istanbullular-tanitim-ofislerine-kostu_ID100700701/",
+          "also_in": []
+        },
+        {
+          "title": "TOKİ İstanbul evleri Diğer kategorisi ne zaman, hangi gün çekilecek? İstanbul TOKİ diğer kategori kura çekilişi sıra bilgileri",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/konut-haberleri/toki-istanbul-evleri-diger-kategorisi-ne-zaman-hangi-gun-cekilecek-istanbul-toki-diger-kategori-kura-cekilisi-sira-bilgileri_ID100700698/",
+          "also_in": []
+        },
+        {
+          "title": "HURDA TEŞVİKİ VE ÖTV İNDİRİMİ GÜNCEL GELİŞMELER || İndirimli araç için 25 yaş üstü ÖTV'siz sıfır araç teşviki Meclis'ten geçti mi?",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/hurda-tesviki-ve-otv-indirimi-guncel-gelismeler-indirimli-arac-icin-25-yas-ustu-otvsiz-sifir-arac-tesviki-meclisten-gecti-mi_ID100700697/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Emekliler İçin Maaş Artışı ve Ek Ödeme Beklentisi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Emekliler arasında maaş artışları ve ek ödeme talepleriyle ilgili heyecanlı bir bekleyiş var. Banka promosyonları, Kurban Bayramı ikramiyeleri ve kademeli emeklilik sistemi konularındaki gelişmeler yakından takip ediliyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Emeklileri heyecanlandıran gelişme: Maaşlar artabilir",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/emeklileri-heyecanlandiran-gelisme-maaslar-artabilir-p314519",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Emeklilik hayali kuran ev hanımları dikkat! Uzman isim 'Bir gün bile yeter' deyip uyardı",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/emeklilik-hayali-kuran-ev-hanimlari-dikkat-uzman-isim-bir-gun-bile-yeter-deyip-uyardi-1786513",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "EMEKLİ BANKA PROMOSYONU TUTARLARI VE YENİ TEKLİFLERİ NİSAN AYINDA ARTTI! 100 bin TL'ye kadar banka promosyonu imkanı.. Akbank, Hal",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/emekli-banka-promosyonu-tutarlari-ve-yeni-teklifleri-nisan-ayinda-artti-100-bin-tlye-kadar-banka-promosyonu-imkani-akbank-hal_ID100700608/",
+          "also_in": []
+        },
+        {
+          "title": "KADEMELİ (ERKEN) EMEKLİLİK SİSTEMİ SON DURUM HABERLERİ - NİSAN 2026 || Kademeli emeklilik çıkacak mı, ne zaman çıkacak, erken emek",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/kademeli-erken-emeklilik-sistemi-son-durum-haberleri-nisan-2026-kademeli-emeklilik-cikacak-mi-ne-zaman-cikacak-erken-emek_ID100700541/",
+          "also_in": []
+        },
+        {
+          "title": "SGK EMEKLİ KURBAN BAYRAMI İKRAMİYESİ ÖDEME TAKVİMİ VE GÜNLERİ MAYIS 2026 || Kurban Bayramı ikramiyeleri ne zaman yatacak, ne kadar",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/sgk-emekli-kurban-bayrami-ikramiyesi-odeme-takvimi-ve-gunleri-mayis-2026-kurban-bayrami-ikramiyeleri-ne-zaman-yatacak-ne-kadar_ID100700512/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Uçaklarda Powerbank Kullanımına Yeni Kısıtlamalar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Uçuş güvenliğini artırmak amacıyla powerbank kullanımına yeni düzenlemeler getirildi. Buna göre, uçaklarda powerbank şarj edilmesi yasaklandı. Bu kısıtlama, yolcuların seyahat alışkanlıklarını etkileyecek önemli bir değişiklik olarak duyuruldu.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Uçaklarda powerbank kullanımına yeni düzenleme: Şarj etmek yasaklandı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ucaklarda-powerbank-kullanimina-yeni-duzenleme-sarj-etmek-yasak--204936",
+          "also_in": []
+        },
+        {
+          "title": "Uçaklarda powerbank şarj edilmesi yasaklandı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/ucaklarda-powerbank-sarj-edilmesi-yasaklandi-104646",
+          "also_in": [
+            "Tele1",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Uçaklarda powerbank kullanımı için yeni karar! Sınır getirildi",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3623093-ucaklarda-powerbank-kullanimi-icin-yeni-karar-sinir-getirildi",
+          "also_in": [
+            "Bigpara"
+          ]
+        },
+        {
+          "title": "Uçaklarda powerbank kullanımı için yeni karar",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/04/26/ucaklarda-powerbank-kullanimi-icin-yeni-karar",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür-Sanat Etkinlikleri ve Yeni Eserler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Kültür ve sanat sahnesi, Orkun Uçar'ın 'Tanrı Algoritması' ve Murat Uyurkulak'ın yeni romanı gibi edebi eserlerle canlandı. Ara Güler'in 'Cannes!' sergisi ve Kerim Suner'in 'Ne Zaman' serisi gibi etkinlikler sanatseverlerle buluştu. Türk operası, erkek modası ve felsefi tartışmalar da kültürel gündemi zenginleştirdi.",
+      "importance": 6,
+      "story_count": 47,
+      "stories": [
+        {
+          "title": "Orkun Uçar İlk Öykü Kitabı “Tanrı Algoritması”nı Anlatıyor",
+          "source": "Kayıp Rıhtım",
+          "link": "https://kayiprihtim.com/yazi/tanri-algoritmasi-orkun-ucar/",
+          "also_in": []
+        },
+        {
+          "title": "Ödüllü RPG Evreninin En Popüler Karakteri Yeni Bir Macerayla Geri Dönüyor",
+          "source": "Kayıp Rıhtım",
+          "link": "https://kayiprihtim.com/haber/baldurs-gate-3-astarion-yeni-roman/",
+          "also_in": []
+        },
+        {
+          "title": "Netflix’in Fenomen Gençlik Hikâyesinde Veda Zamanı: Yayın Tarihi Belli Oldu",
+          "source": "Kayıp Rıhtım",
+          "link": "https://kayiprihtim.com/haber/heartstopper-forever-yayin-tarihi/",
+          "also_in": []
+        },
+        {
+          "title": "Yerli Korkunun Sınırlarını Zorlayan Fenomen Serinin Yeni Halkasından İlk Fragman Geldi",
+          "source": "Kayıp Rıhtım",
+          "link": "https://kayiprihtim.com/haber/siccin-9-filminden-ilk-fragman/",
+          "also_in": []
+        },
+        {
+          "title": "Murat Uyurkulak’tan Türkiye’deki Politik Karanlığın İzini Süren Yeni Roman",
+          "source": "Kayıp Rıhtım",
+          "link": "https://kayiprihtim.com/haber/dipte-murat-uyurkulak/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Diğer Spor Gelişmeleri ve Yerel Ligler",
+      "meta_category": "Spor",
+      "summary": "Milli tenisçi Zeynep Sönmez'in Madrid Açık'a veda etmesi ve Fenerbahçe Tekerlekli Sandalye Basketbol Takımı'nın Avrupa Şampiyonu olması önemli spor başarılarıydı. Beşiktaş ve Trabzonspor'un maç hazırlıkları ve sakatlık haberleri gündemdeydi. 61. Cumhurbaşkanlığı Türkiye Bisiklet Turu'nun başlaması ve yerel lig maçlarının sonuçları da spor haberleri arasında yer aldı.",
+      "importance": 6,
+      "story_count": 38,
+      "stories": [
+        {
+          "title": "Milli tenisçi Zeynep Sönmez, Madrid Açık Tenis Turnuvası'na veda etti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/diger-sporlar/2026/04/26/milli-tenisci-zeynep-sonmez-madrid-acik-tenis-turnuvasina-veda-etti",
+          "also_in": [
+            "Sabah Spor",
+            "Diken",
+            "Anadolu Ajansı",
+            "Ekonomim",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Zeynep Sönmez Madrid Açık'a veda etti!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/tenis/2026/04/26/zeynep-sonmez-madrid-acika-veda-etti",
+          "also_in": [
+            "Cumhuriyet",
+            "Halk TV"
+          ]
+        },
+        {
+          "title": "3. Lig play-off'unda tur atlayanlar belli oluyor",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/3-lig-play-offunda-tur-atlayanlar-belli-oluyor-421730",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "CANLI İZLE | Gençlerbirliği - Kocaelispor maçı ne zaman, saat kaçta, hangi kanalda?",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/foto-galeri/canli-izle-genclerbirligi-kocaelispor-maci-ne-zaman-saat-kacta-hangi-kanalda-421722",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "CANLI İZLE | Pendikspor - Boluspor maçı ne zaman, saat kaçta, hangi kanalda?",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/foto-galeri/canli-izle-pendikspor-boluspor-maci-ne-zaman-saat-kacta-hangi-kanalda-421721",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Meclis Gündemi ve Hukuki Gelişmeler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "TBMM'nin gündeminde dokunulmazlık dosyaları, deprem bölgesi destekleri ve aidat düzenlemeleri gibi önemli konular yer aldı. Hukuk dünyasında ise Beşşar Esed'in akrabaları hakkında gıyabi yargılamanın başlaması ve bir eş cinayetinde ağırlaştırılmış müebbet kararının gerekçesi dikkat çekti.",
+      "importance": 6,
       "story_count": 6,
+      "stories": [
+        {
+          "title": "Meclis'teki dokunulmazlık dosyalarının sayısı 1052'ye ulaştı",
+          "source": "Dokuz8 Haber",
+          "link": "https://www.dokuz8haber.net/meclisteki-dokunulmazlik-dosyalarinin-sayisi-1052ye-ulasti",
+          "also_in": [
+            "Haber 7",
+            "İstiklal",
+            "soL Haber",
+            "Türkgün",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Suriye’de Beşşar Esed ve kardeşi Mahir hakkında gıyabi yargılama başladı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/dunya/suriyede-bessar-esed-ve-kardesi-mahir-hakkinda-giyabi-yargilama-basladi-104666",
+          "also_in": [
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Meclis gündeminde aidat düzenlemesi ve deprem bölgesi destekleri var",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3623071-meclis-gundeminde-aidat-duzenlemesi-ve-deprem-bolgesi-destekleri-var",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Meclis gündeminde bu hafta hangi konular var?",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/meclis-gundeminde-bu-hafta-hangi-konular-var-2441005h.htm",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Eş cinayetinde ağırlaştırılmış müebbedin gerekçesi: Pişmanlık duyduğuna dair vicdani kanaat oluşmadı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/es-cinayetinde-agirlastirilmis-muebbedin-gerekcesi-19782149-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dijital Güvenlik ve Gizlilik Endişeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Dijital güvenlik konusunda endişeler artıyor; Android kullanıcılarını hedef alan sahte WhatsApp güncelleme uygulamaları ve casus yazılımlar hakkında uyarılar yapıldı. Face ID ve parmak izi okuyucunun güvenlik performansı karşılaştırılırken, siber güvenlikte yeni standart XDR'ın önemi vurgulandı.",
+      "importance": 6,
+      "story_count": 6,
+      "stories": [
+        {
+          "title": "Face ID mi, parmak izi mi? Hangisi telefonunuzu daha iyi koruyor?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/face-id-mi-parmak-izi-mi-hangisi-telefonunuzu-daha-iyi-koruyor_179730.html",
+          "also_in": []
+        },
+        {
+          "title": "Android'de yeni tehlike: WhatsApp hesaplarını ele geçiriyor!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/android-de-yeni-tehlike-whatsapp-hesaplarini-ele-geciriyor--204930",
+          "also_in": []
+        },
+        {
+          "title": "2026’nın Yeni Siber Güvenlik Standartı XDR",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/2026nin-yeni-siber-guvenlik-standarti-xdr-430105",
+          "also_in": []
+        },
+        {
+          "title": "Sahte Güncelleme Uygulamasıyla WhatsApp Hesaplarını Ele Geçiren Casus Yazılım Tespit Edildi",
+          "source": "ÇözümPark",
+          "link": "https://www.cozumpark.com/sahte-android-guncellemesiyle-whatsapp-hesaplari-ele-geciriliyor/",
+          "also_in": []
+        },
+        {
+          "title": "Bu bildirime dikkat: Tüm Anroid kullanıcıları tehlike altında",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/bu-bildirime-dikkat-tum-anroid-kullanicilari-tehlike-altinda-p314488",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Depremler ve Meteorolojik Uyarılar",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Türkiye, Bingöl'de 4.4 büyüklüğünde bir depremle sarsılırken, Akdeniz'de de 4.9 büyüklüğünde bir sarsıntı kaydedildi. Meteoroloji, Batı Karadeniz başta olmak üzere birçok il için fırtına ve sağanak yağış uyarıları yayınladı, bu da ülkenin doğal afetlere karşı hazırlıklı olması gerektiğini bir kez daha gösterdi.",
+      "importance": 6,
+      "story_count": 4,
       "stories": [
         {
           "title": "Bingöl’de 4,4 büyüklüğünde deprem",
@@ -445,11 +764,9 @@
           "link": "https://www.aydinlik.com.tr/haber/bingolde-44-buyuklugunde-deprem-574865",
           "also_in": [
             "CGTN Türk",
-            "dikGAZETE",
             "Evrensel",
             "Gerçek Gündem",
             "Gazete Zebra",
-            "Habertürk",
             "Haberet",
             "İstiklal",
             "TRT Haber",
@@ -461,10 +778,8 @@
           "source": "Artı Gerçek",
           "link": "https://artigercek.com/guncel/akdenizde-49-buyuklugunde-deprem-345511h",
           "also_in": [
-            "dikGAZETE",
             "Evrensel",
-            "Gerçek Gündem",
-            "Gazete Pencere"
+            "Gerçek Gündem"
           ]
         },
         {
@@ -473,14 +788,6 @@
           "link": "https://www.gazetepencere.com/gundem/bingol-gune-depremle-uyandi-698454h",
           "also_in": [
             "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Bingöl'de 4,4 büyüklüğünde deprem... Prof Dr. Görür uyardı: Daha büyük bir depremi tetikleyebilir",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/gundem/bingolde-4-4-buyuklugunde-deprem-prof-dr-gorur-uyardi-daha-buyuk-bir-depremi-tetikleyebilir-43159533",
-          "also_in": [
-            "Haberet"
           ]
         },
         {
@@ -494,714 +801,12 @@
       ]
     },
     {
-      "title": "Diğer Futbol Maçları ve Transfer Haberleri",
-      "meta_category": "Spor",
-      "summary": "Süper Lig ve 1. Lig'deki diğer maçlar, play-off mücadeleleri ve transfer piyasası hareketlilikleri futbol gündemini tamamlıyor. Göztepe ve Eyüpspor'un kritik galibiyetleri, Trabzonspor'un transfer hedefleri ve farklı liglerdeki canlı yayın bilgileri dikkat çekiyor.",
-      "importance": 7,
-      "story_count": 28,
-      "stories": [
-        {
-          "title": "Göztepe, Süper Lig’deki puan rekorunu egale etti",
-          "source": "Sabah Spor",
-          "link": "https://www.sabah.com.tr/spor/futbol/2026/04/26/goztepe-super-ligdeki-puan-rekorunu-egale-etti",
-          "also_in": [
-            "En Son Haber",
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "💥BOMBA! Saint-Maximin Türkiye'ye dönüp ezeli rakibe transfer oluyor",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/bomba-saint-maximin-turkiyeye-donup-ezeli-rakibe-transfer-oluyor-421708",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "⚡EYVAH! Victor Osimhen için İstanbul'a geldiler",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/eyvah-victor-osimhen-icin-istanbula-geldiler-421710",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "3. Lig play-off'unda tur atlayanlar belli oluyor",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/3-lig-play-offunda-tur-atlayanlar-belli-oluyor-421730",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "CANLI İZLE | Gençlerbirliği - Kocaelispor maçı ne zaman, saat kaçta, hangi kanalda?",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/canli-izle-genclerbirligi-kocaelispor-maci-ne-zaman-saat-kacta-hangi-kanalda-421722",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Mobil Teknoloji ve Tüketici Cihaz Yenilikleri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Akıllı telefonlar, giyilebilir cihazlar ve genel tüketici elektroniği alanındaki yenilikler gündemde. Xiaomi'nin batarya teknolojileri, Samsung Galaxy serisindeki yeni özellikler, iPhone'lara beklenen RAM yükseltmeleri ve WhatsApp'taki önemli değişiklikler öne çıkıyor. Ayrıca Android güvenlik açıkları ve Apple'ın liderlik sorunları da tartışılıyor.",
-      "importance": 7,
-      "story_count": 22,
-      "stories": [
-        {
-          "title": "WhatsApp'ta devrim niteliğinde değişim: Uygulamayı açma dönemi kapanıyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/whatsappta-devrim-niteliginde-degisim-uygulamayi-acma-donemi-kapaniyor/102211",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Xiaomi'den ezber bozan hamle: Redmi Note 17 Pro Max'in bataryası dudak uçuklatıyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/xiaomiden-ezber-bozan-hamle-redmi-note-17-pro-maxin-bataryasi-dudak-ucuklatiyor/102205",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Xiaomi'nin ilk kulak üstü kulaklığı ortaya çıktı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/redmi-headphones-neo-satisa-basladi--204944",
-          "also_in": []
-        },
-        {
-          "title": "Baseus MC2 açık tasarım kulaklık konfora odaklanıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/baseus-mc2-kulaklik-tanitildi-iste-ozellikleri-ve-fiyati--204943",
-          "also_in": []
-        },
-        {
-          "title": "Galaxy S26'nın sevilen özelliği eski Samsung modellere geliyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/galaxy-s26-nin-sevilen-ozelligi-eski-samsung-modellere-geliyor--204941",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Yerel ve Ulusal Siyaset Gündemi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Meclis gündeminde dokunulmazlık dosyaları, aidat düzenlemeleri ve deprem bölgesi destekleri yer alırken, CHP lideri Özgür Özel'in açıklamaları ve parti içi tartışmalar siyasi arenayı hareketlendiriyor. 27 Nisan bildirisi gibi demokrasi tarihindeki önemli olaylar da hatırlanıyor.",
-      "importance": 7,
-      "story_count": 18,
-      "stories": [
-        {
-          "title": "Meclis'teki dokunulmazlık dosyalarının sayısı 1052'ye ulaştı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/meclisteki-dokunulmazlik-dosyalarinin-sayisi-1052ye-ulasti/3918344",
-          "also_in": [
-            "dikGAZETE",
-            "Haber 7",
-            "İstiklal",
-            "soL Haber",
-            "Türkgün",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Meclis gündeminde bu hafta hangi konular var?",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/meclis-gundeminde-bu-hafta-hangi-konular-var-2441005h.htm",
-          "also_in": [
-            "Karar",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Özgür Özel'den Kılıçdaroğlu'na yönelik sözlere tepki",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/ozgur-ozelden-kilicdarogluna-yonelik-sozlere-tepki-574861",
-          "also_in": [
-            "Tele1"
-          ]
-        },
-        {
-          "title": "Özlem Çerçioğlu: Özgür Özel ile muhatap olmayacağım, suç duyurusunda bulunacağım",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/siyaset/ozlem-cercioglu-ozgur-ozel-ile-muhatap-olmayacagim-suc-duyurusunda-bulunacagim-2498506",
-          "also_in": [
-            "Veryansın TV"
-          ]
-        },
-        {
-          "title": "Erdoğan imzaladı, Resmi Gazete'de yayımlandı: İki üründe vergi sıfırlandı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/ekonomi/erdogan-imzaladi-resmi-gazete-de-yayimlandi-iki-urunde-vergi-sifirlandi-2498502",
-          "also_in": [
-            "F5 Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Çevre, İklim ve Kentsel Gelişim",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "ABD'deki orman yangınları, Türkiye'deki kuvvetli sağanak ve sarı kodlu uyarılar iklim olaylarının şiddetini gösteriyor. İstanbul'da kentsel dönüşüm çağrıları, barajlardaki doluluk oranları ve sıfır atık çalışmaları çevre ve kentsel gelişim konularını gündemde tutuyor.",
-      "importance": 7,
-      "story_count": 14,
-      "stories": [
-        {
-          "title": "ABD'nin Georgia eyaletinde orman yangınlarında 120'den fazla ev kül oldu",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/abd-nin-georgia-eyaletinde-orman-yanginlarinda-120-den-fazla-ev-kul-oldu-998096.html",
-          "also_in": [
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "İçişleri Bakanlığından bazı iller için \"sarı\" kodlu meteorolojik uyarı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakanligindan-bazi-iller-icin-sari-kodlu-meteorolojik-uyari/3918490",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Ardahan'da baharda da karla mücadele çalışması yapılıyor",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/ardahanda-baharda-da-karla-mucadele-calismasi-yapiliyor/3918365",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Meteoroloji kuvvetli sağanak için saat verdi: 7 il için sarı kodlu uyarı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/meteoroloji-kuvvetli-saganak-icin-saat-verdi-7-il-icin-sari-kodlu-uyari-574877",
-          "also_in": [
-            "Sputnik"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan: İstanbul'un güvenliği için yegane çözüm, kentsel dönüşümdür",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-istanbulun-guvenligi-icin-yegane-cozum-kentsel-donusumdur",
-          "also_in": [
-            "İşin Detayı"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Otomotiv Sektörü ve Elektrikli Araç Trendleri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Otomotiv sektöründe elektrikli araçlar (BYD, Kia EV6, BMW iX3) ve hızlı tren teknolojileri öne çıkıyor. Porsche gibi devlerin krizleri ve yeni nesil sürücüsüz araçların seri üretimine geçiş, sektördeki dönüşümü ve küresel risklerin talep dengelerini nasıl etkilediğini gözler önüne seriyor.",
-      "importance": 7,
-      "story_count": 10,
-      "stories": [
-        {
-          "title": "Krizde olan Porsche, Bugatti defterini kapatıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/krizde-olan-porsche-bugatti-defterini-kapatiyor--204919",
-          "also_in": []
-        },
-        {
-          "title": "BYD 1000 beygir üstü süper otomobilini tanıtacak! İşte tasarımı!",
-          "source": "Hardware Plus",
-          "link": "https://hwp.com.tr/byd-1000-beygir-ustu-super-otomobilini-tanitacak-iste-tasarimi-330030",
-          "also_in": []
-        },
-        {
-          "title": "Kia EV6 fiyatı çakıldı! Yurt dışı Kia EV6 fiyatında dev indirim!",
-          "source": "Hardware Plus",
-          "link": "https://hwp.com.tr/kia-ev6-fiyati-cakildi-yurt-disi-kia-ev6-fiyatinda-dev-indirim-330026",
-          "also_in": []
-        },
-        {
-          "title": "Milli Hızlı Tren saatte kaç kilometre yapıyor? Kurşun gibi gidecek!",
-          "source": "Hardware Plus",
-          "link": "https://hwp.com.tr/milli-hizli-tren-saatte-kac-kilometre-yapiyor-kursun-gibi-gidecek-330017",
-          "also_in": []
-        },
-        {
-          "title": "BYD Sealion 08 SUV tanıtıldı! En yüksek menzilli elektrikli SUV mi?",
-          "source": "Hardware Plus",
-          "link": "https://hwp.com.tr/byd-sealion-08-suv-tanitildi-en-yuksek-menzilli-elektrikli-suv-mi-330013",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Uzay Araştırmaları ve Astronomi Keşifleri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Hubble'ın yerini alacak yeni uzay teleskopu, yıldızların ölümü sonrası yaşanan gizemli güçler ve Mars'taki robot kaşiflerin yeni keşifleri gibi uzay ve astronomi alanındaki önemli gelişmeler yer alıyor. Mars'ta yaşamın yapı taşlarının bulunması bilim dünyasında heyecan yaratıyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Hubble'ın mirasını devralmaya hazırlanıyor: Uzayın yeni gözü eylülde yola çıkıyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/hubblein-mirasini-devralmaya-hazirlaniyor-uzayin-yeni-gozu-eylulde-yola-cikiyor/102203",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Yıldızların ölümünden sonra bile yaşayan gizemli güç: Güneş de böyle mi yok olacak?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/yildizlarin-olumunden-sonra-bile-yasayan-gizemli-guc-gunes-de-boyle-mi-yok-olacak_179747.html",
-          "also_in": []
-        },
-        {
-          "title": "Robot kaşifin yeni keşfi: Mars'taki yılan derisi desenleri bize ne anlatıyor?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/robot-kasifin-yeni-kesfi-marstaki-yilan-derisi-desenleri-bize-ne-anlatiyor_179753.html",
-          "also_in": []
-        },
-        {
-          "title": "Mars’ta ‘Ejderha Pullarını’ Andıran Çok Sayıda Kaya Görüntülendi",
-          "source": "Kayıp Rıhtım",
-          "link": "https://kayiprihtim.com/haber/mars-ejderha-pullarini-kayalar/",
-          "also_in": []
-        },
-        {
-          "title": "Mars’ta tarihi keşif! Yaşamın yapı taşları bulundu",
-          "source": "Açık Gazete",
-          "link": "https://acikgazete.com/dunya/marsta-tarihi-kesif-yasamin-yapi-taslari-bulundu/",
-          "also_in": [
-            "Halk TV"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Havacılık Güvenliği ve Seyahat Düzenlemeleri",
+      "title": "Sivil Toplum ve Sosyal Sorunlar",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "Uçaklarda powerbank kullanımına getirilen yeni düzenlemeler ve şarj yasağı, sivil havacılık güvenliği açısından önemli bir gelişme olarak öne çıkıyor. Bu kısıtlamalar, yolcuların seyahat alışkanlıklarını doğrudan etkileyecek.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Uçaklarda powerbank kullanımına yeni düzenleme: Şarj etmek yasaklandı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/ucaklarda-powerbank-kullanimina-yeni-duzenleme-sarj-etmek-yasak--204936",
-          "also_in": []
-        },
-        {
-          "title": "Uçaklarda Powerbank Kullanımı Kısıtlanıyor!",
-          "source": "ShiftDelete",
-          "link": "https://shiftdelete.net/ucaklarda-powerbank-kullanimi-kisitlaniyor",
-          "also_in": []
-        },
-        {
-          "title": "Uçaklarda powerbank şarj edilmesi yasaklandı",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/ucaklarda-powerbank-sarj-edilmesi-yasaklandi-104646",
-          "also_in": [
-            "Haberler",
-            "Tele1"
-          ]
-        },
-        {
-          "title": "Uçaklarda powerbank kullanımı için yeni karar! Sınır getirildi",
-          "source": "Haber 7",
-          "link": "https://ekonomi.haber7.com/ekonomi/haber/3623093-ucaklarda-powerbank-kullanimi-icin-yeni-karar-sinir-getirildi",
-          "also_in": [
-            "Bigpara"
-          ]
-        },
-        {
-          "title": "Powerbank kullanımına kısıtlama: SHGM yeni kuralları açıkladı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/powerbank-kullanimina-kisitlama-shgm-yeni-kurallari-acikladi/861431",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kamu Hizmetleri, Eğitim ve Sosyal Yaşam",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Hukuk mesleklerine giriş sınavları, kariyer fuarları ve gençlere yönelik eğitim programları eğitim ve istihdam alanındaki gelişmeleri gösteriyor. Cumhurbaşkanı Yardımcısı Yılmaz'ın açıklamaları ve çeşitli sosyal projeler (Rami Çocuk Bienali, depremzede kadınların üretimi) toplumsal kalkınma ve dayanışmayı vurguluyor.",
+      "summary": "Doruk Maden işçilerinin 7 gündür süren açlık grevi ve Gazze'deki İsrail saldırıları nedeniyle mezarlıkta yaşayan bir ailenin dramı gibi toplumsal sorunlar gündemdeydi. Kayıp bir çocuğun aranması ve Bosna Hersek Savaşı'nda öldürülenlerin toprağa verilmesi gibi haberler de sosyal duyarlılık gerektiren konular arasında yer aldı.",
       "importance": 6,
-      "story_count": 20,
+      "story_count": 4,
       "stories": [
-        {
-          "title": "Hukuk Mesleklerine Giriş Sınavı yapıldı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/egitim/hukuk-mesleklerine-giris-sinavi-yapildi/3918444",
-          "also_in": [
-            "Haberler",
-            "İstiklal",
-            "Karar",
-            "Türkgün",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "MSB, Konya ve Erzurum'da gençlerle buluşacak",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/guncel/msb-konya-ve-erzurumda-genclerle-bulusacak/haber-1662013",
-          "also_in": [
-            "Bengütürk",
-            "İstiklal",
-            "Türkgün",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "\"Gökyüzüne tutkun\" gençler THK bünyesinde yetişiyor",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/gokyuzune-tutkun-gencler-thk-bunyesinde-yetisiyor/3918313",
-          "also_in": [
-            "dikGAZETE",
-            "Haberler",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Balıkesir Üniversitesi 3 yılda bilimsel araştırma projelerini 9 kat artırdı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/balikesir-universitesi-3-yilda-bilimsel-arastirma-projelerini-9-kat-artirdi/3918454",
-          "also_in": [
-            "dikGAZETE",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: \"Ülkemiz, dünyanın önde gelen yükseköğretim sistemlerinden biri haline gelmiştir\"",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/yerel/cumhurbaskani-yardimcisi-yilmaz-ulkemiz-dunyanin-19782458-haberi/",
-          "also_in": [
-            "İşçi Haber",
-            "Medya Gazete"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Film, Dizi ve Kitap Dünyasından Haberler",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Yeni film ve dizi projeleri, fragmanlar ve yayın tarihleri eğlence sektörünün ana gündemini oluşturuyor. Park Chan-wook'un Western projesi, Nicolas Cage'li Örümcek Adam macerası ve Netflix'in fenomen gençlik hikayesinin vedası gibi yapımlar merakla bekleniyor. Ayrıca Baldur's Gate 3 karakterleri ve Orkun Uçar'ın yeni kitabı gibi edebiyat haberleri de yer alıyor.",
-      "importance": 6,
-      "story_count": 17,
-      "stories": [
-        {
-          "title": "Park Chan-wook’un Western Projesi Yıldızlar Geçidine Dönüştü!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000201318/",
-          "also_in": []
-        },
-        {
-          "title": "Helena Bonham Carter \"The White Lotus\" Kadrosundan Ayrıldı",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000201299/",
-          "also_in": []
-        },
-        {
-          "title": "Scooby-Doo: Origins dizisi ilk görüntüsünü paylaştı",
-          "source": "IGN Türkiye",
-          "link": "https://tr.ign.com/scooby-doo-live-action-netflix-series/133708/scooby-doo-origins-dizisi-ilk-goruntusunu-paylasti",
-          "also_in": []
-        },
-        {
-          "title": "Far Cry dizisi, oyunların hikayelerini anlatmayacak: Nedeni biraz garip!",
-          "source": "IGN Türkiye",
-          "link": "https://tr.ign.com/far-cry-1/133709/far-cry-dizisi-oyunlarin-hikayelerini-anlatmayacak-nedeni-biraz-garip",
-          "also_in": []
-        },
-        {
-          "title": "Nicolas Cage’li Örümcek Adam Macerası Başlıyor: Spider-Noir Yeni Fragman ile CCXP’ye Damga Vurdu",
-          "source": "FRPNET",
-          "link": "https://frpnet.net/haberler/dizi-haberleri/nicolas-cageli-orumcek-adam-macerasi-basliyor-spider-noir-yeni-fragman-ile-ccxpye-damga-vurdu",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Diğer Spor Dalları ve Uluslararası Etkinlikler",
-      "meta_category": "Spor",
-      "summary": "Milli tenisçi Zeynep Sönmez'in Madrid Açık'a vedası, Euroleague'de MVP seçimi, Anadolu Efes'in galibiyeti ve NBA play-off sonuçları gibi farklı spor dallarından haberler yer alıyor. Cumhurbaşkanlığı Bisiklet Turu, Yat Yarışları ve Avrupa Güreş Şampiyonası gibi ulusal ve uluslararası spor etkinlikleri de gündemde.",
-      "importance": 6,
-      "story_count": 14,
-      "stories": [
-        {
-          "title": "Milli tenisçi Zeynep Sönmez, Madrid Açık Tenis Turnuvası'na veda etti",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/diger-sporlar/2026/04/26/milli-tenisci-zeynep-sonmez-madrid-acik-tenis-turnuvasina-veda-etti",
-          "also_in": [
-            "Diken",
-            "Haber Global"
-          ]
-        },
-        {
-          "title": "Kadın futbolunda derbi heyecanı yarın yaşanacak",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/04/26/kadin-futbolunda-derbi-heyecani-yarin-yasanacak",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Euroleague'de normal sezonun MVP'si belli oldu",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/basketbol/euroleaguede-normal-sezonun-mvpsi-belli-oldu-421729",
-          "also_in": [
-            "NTV Spor Basketbol"
-          ]
-        },
-        {
-          "title": "Anadolu Efes'ten Türk Telekom karşısında 101 sayılık galibiyet",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/basketbol/anadolu-efesten-turk-telekom-karsisinda-101-sayilik-galibiyet-421675",
-          "also_in": [
-            "NTV Spor Basketbol"
-          ]
-        },
-        {
-          "title": "61. Cumhurbaşkanlığı Türkiye Bisiklet Turu başladı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/61-cumhurbaskanligi-turkiye-bisiklet-turu-basladi/3918349",
-          "also_in": [
-            "Cumhuriyet",
-            "dikGAZETE",
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Genel Bilgisayar Donanım ve Yazılım Gelişmeleri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Dizüstü bilgisayarlar, ekran kartları, RAM teknolojileri ve işletim sistemi güncellemeleri gibi genel bilgisayar donanım ve yazılım dünyasındaki yenilikler ve piyasa hareketlilikleri dikkat çekiyor. Intel'in ekran kartı planları, Samsung ve Apple'ın yeni nesil dizüstü bilgisayarları ve RAM fiyatlarındaki dalgalanmalar önemli yer tutuyor.",
-      "importance": 6,
-      "story_count": 12,
-      "stories": [
-        {
-          "title": "Asus Zenbook Duo 2026 yüksek fiyat etiketiyle piyasada",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/asus-zenbook-duo-2026-yuksek-fiyat-etiketiyle-piyasada--204945",
-          "also_in": []
-        },
-        {
-          "title": "Intel, ekran kartı planlarını değiştirdi: İşte yeni yol haritası",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/intel-ekran-karti-planlarini-degistirdi-iste-yeni-yol-haritasi--204935",
-          "also_in": []
-        },
-        {
-          "title": "Samsung Galaxy Book 6 Edge: Snapdragon X2 ile gelecek yeni nesil dizüstü ortaya çıktı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/samsung-galaxy-book-6-edge-snapdragon-x2-ile-gelecek--204908",
-          "also_in": []
-        },
-        {
-          "title": "Japonya’dan bellek yarışına güçlü dönüş: ZAM teknolojisine devlet desteği",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/japonya-dan-bellek-yarisinda-zam-teknolojisine-devlet-destegi--204915",
-          "also_in": []
-        },
-        {
-          "title": "Apple, MacBook Ultra ile sınırları zorlayacak: İşte 6 yeni özellik",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/apple-macbook-ultra-ile-sinirlari-zorlayacak-iste-6-yenilik--204929",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Oyun ve Dijital Eğlence Dünyası Haberleri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Oyun konsollarından (Xbox) mobil oyunlara (Epic Games) ve sinema uyarlamalarına (Call of Duty, Battlefield, Mumya 4) kadar dijital eğlence sektöründeki gelişmeler takip ediliyor. Ayrıca popüler platformların (Vine, Swarm) geçmişi ve yeni tarayıcı özellikleri de gündemde.",
-      "importance": 6,
-      "story_count": 11,
-      "stories": [
-        {
-          "title": "Xbox hayranlarını üzecek gelişme: Beklenen devrimsel özellik rafa mı kalkıyor?",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/oyun/xbox-hayranlarini-uzecek-gelisme-beklenen-devrimsel-ozellik-rafa-mi-kalkiyor/102207",
-          "also_in": [
-            "Megabayt Oyun"
-          ]
-        },
-        {
-          "title": "Epic Games'in yeni ücretsiz oyunu belli oldu: Peki haftaya ne var?",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/epic-games-in-yeni-ucretsiz-oyunu-belli-oldu-peki-haftaya-ne-var--204942",
-          "also_in": []
-        },
-        {
-          "title": "Mumya 4 beklenenden önce geliyor: Vizyon tarihi öne çekildi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/mumya-4-beklenenden-once-geliyor-vizyon-tarihi-degisti--204927",
-          "also_in": []
-        },
-        {
-          "title": "Call of Duty ve Battlefield sinemada da yarışacak: Battlefield filmi geliyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/call-of-duty-den-sonra-battlefield-filmi-de-geliyor--204926",
-          "also_in": []
-        },
-        {
-          "title": "Mayıs ayında izleyici ile buluşacak en dikkat çekici 10 film",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/mayis-ayinda-cikacak-en-dikkat-cekici-10-film--204886",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Sağlık ve Tıbbi Gelişmeler",
-      "meta_category": "Sağlık",
-      "summary": "Oturmanın sağlık risklerini azaltma yolları, karaciğer naklinde yeni dönem (uydu karaciğerler), kanser tedavisinde immünoterapiler ve bağırsak sağlığını iyileştirme yöntemleri gibi çeşitli sağlık konuları ele alınıyor. Ünlülerin sağlık sorunları ve tıbbi hatalarla ilgili hukuki süreçler de gündeme geliyor.",
-      "importance": 6,
-      "story_count": 9,
-      "stories": [
-        {
-          "title": "Uzmanlar Oturmanın Sağlık Risklerini Azaltmanın Basit Bir Yolunu Açıkladı",
-          "source": "Fizikist",
-          "link": "https://www.fizikist.com/uzmanlar-oturmanin-saglik-risklerini-azaltmanin-basit-bir-yolunu-acikladi",
-          "also_in": []
-        },
-        {
-          "title": "Karaciğer Naklinde Yeni Dönem: Uydu Karaciğerler Geliştirildi!",
-          "source": "ShiftDelete",
-          "link": "https://shiftdelete.net/karaciger-naklinde-yeni-donem-uydu-karacigerler-gelistirildi",
-          "also_in": []
-        },
-        {
-          "title": "Kepçe kulak (Prominent Ear) nedir? Neden oluşur ve tedavi yöntemleri",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/kepce-kulak-prominent-ear-nedir-neden-olusur-ve-tedavi-yontemleri/21663/",
-          "also_in": []
-        },
-        {
-          "title": "Nobel ödüllü Meldal'dan yan etkisiz kanser tedavisine umut olacak çalışma",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/saglik/nobel-odullu-meldaldan-yan-etkisiz-kanser-tedavisine-umut-olacak-calisma/3918303",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Bağırsak sağlığınızı iyileştirmenin beş yolu",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/ckgr11wpv03o?at_medium=RSS&at_campaign=rss",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Genel Bilimsel Keşifler ve Araştırmalar",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Neandertallerin konuşma yeteneği, binlerce yıllık hastalıkların tespiti, Afrika'dan insan göç yolları gibi antropolojik ve arkeolojik araştırmalar devam ediyor. Kahve telvesi gibi atıklara yeni kullanım alanları bulunması ve fosil keşifleri bilim dünyasındaki çeşitliliği gözler önüne seriyor.",
-      "importance": 6,
-      "story_count": 7,
-      "stories": [
-        {
-          "title": "Neandertaller Konuşabiliyor muydu?",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/neandertaller-konusabiliyor-muydu/?utm_source=rss&utm_medium=rss&utm_campaign=neandertaller-konusabiliyor-muydu",
-          "also_in": []
-        },
-        {
-          "title": "Binlerce Yıllık Hastalıklar Nasıl Tespit Ediliyor?",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/binlerce-yillik-hastaliklar-nasil-tespit-ediliyor/?utm_source=rss&utm_medium=rss&utm_campaign=binlerce-yillik-hastaliklar-nasil-tespit-ediliyor",
-          "also_in": []
-        },
-        {
-          "title": "Afrika’dan Çıkış: Buzul Çağının Kayıp Kıyı Şeritleri ve Göç Yolları",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/afrikadan-cikis-buzul-caginin-kayip-kiyi-seritleri-ve-goc-yollari/?utm_source=rss&utm_medium=rss&utm_campaign=afrikadan-cikis-buzul-caginin-kayip-kiyi-seritleri-ve-goc-yollari",
-          "also_in": []
-        },
-        {
-          "title": "Bilim İnsanları Kahve Telvesinin Artıkları İçin Şaşırtıcı Yeni Bir Kullanım Alanı Keşfetti",
-          "source": "Fizikist",
-          "link": "https://www.fizikist.com/bilim-insanlari-kahve-telvesinin-artiklari-icin-sasirtici-yeni-bir-kullanim-alani-kesfetti",
-          "also_in": [
-            "Fizikist"
-          ]
-        },
-        {
-          "title": "Fosilleşmiş çenelerden çıkan 19 metrelik gizem",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/fosillesmis-cenelerden-cikan-19-metrelik-gizem_179750.html",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kültür Sanat Etkinlikleri ve Eserler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Laodikeia Antik Kenti'nde Athena heykeli gibi arkeolojik keşiflerden, Renoir'ın ilham perisinin koleksiyonunun satışına, Ara Güler sergilerinden yeni müzik albümlerine ve Türk tangosunun kurucusu Necip Celal Andel anmasına kadar geniş bir yelpazede kültürel ve sanatsal olaylar yaşanıyor. Edebiyat dünyasında yeni romanlar ve felsefi eserler de dikkat çekiyor.",
-      "importance": 5,
-      "story_count": 27,
-      "stories": [
-        {
-          "title": "Laodikeia Antik Kenti’nde 2 Metrelik Athena Heykeli Gün Yüzüne Çıkarıldı",
-          "source": "Artkolik",
-          "link": "https://www.artkolik.net/haber/laodikeia-antik-kentinde-2-metrelik-athena-heykeli-gun-yuzune-cikarildi-24445",
-          "also_in": []
-        },
-        {
-          "title": "Renoir’ın İlham Perisinin Koleksiyonu İlk Kez Satışta",
-          "source": "Artkolik",
-          "link": "https://www.artkolik.net/genel/renoirin-ilham-perisinin-koleksiyonu-ilk-kez-satista-24408",
-          "also_in": []
-        },
-        {
-          "title": "“Robotların dokunamayacağı yerde”: Makaya McCraven ile ânı korumak üzerine",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/makaya-mccraven-roportaj/",
-          "also_in": []
-        },
-        {
-          "title": "Z Raporu: Gökçe Güneş Doğrusöz",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/z-raporu-gokce-gunes-dogrusoz/",
-          "also_in": []
-        },
-        {
-          "title": "Hakikatin izinde: 5 filmle İran sineması",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/hakikatin-izinde-iran-sinemasi/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Diğer Sosyal Konular ve İnsan Hikayeleri",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Toplumsal yaşamın farklı yönlerini yansıtan haberler arasında kuyumculuk sektöründeki 'yarı fiyat' dolandırıcılık uyarıları, sıfır atık çalışmaları, maden işçilerinin açlık grevi ve Gazze'deki can kayıpları gibi ciddi konular bulunuyor. Ayrıca hac yolunda yaşanan trajediler, kadına şiddetle mücadele ve ünlülerin özel hayatına dair dedikodular da yer alıyor.",
-      "importance": 5,
-      "story_count": 19,
-      "stories": [
-        {
-          "title": "İstanbul Kuyumcular Odası, sosyal medyadaki \"mağazadan yarı fiyatına altın\" reklamlarına karşı uyardı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-kuyumcular-odasi-sosyal-medyadaki-magazadan-yari-fiyatina-altin-reklamlarina-karsi-uyardi/3918472",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Uluslararası kuruluşlar sıfır atık çalışmalarını Türkiye'deki ofislerinden yürütecek",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/uluslararasi-kuruluslar-sifir-atik-calismalarini-turkiyedeki-ofislerinden-yurutecek/3918337",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Teröristbaşı Öcalan'dan yeni mesaj: 'Önümüzdeki dönem, yeniden bir kuruluş dönemi'",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/siyaset/teroristbasi-ocalan-dan-yeni-mesaj-onumuzdeki-donem-yeniden-bir-kurulus-donemi-2498562",
-          "also_in": [
-            "Veryansın TV"
-          ]
-        },
         {
           "title": "Doruk Maden işçilerinin açlık grevinde 7'nci gün: Bir işçi daha rahatsızlandı",
           "source": "Cumhuriyet",
@@ -1211,9 +816,112 @@
           ]
         },
         {
-          "title": "Muğla, TUR 2026 ile dünya vitrinine çıkacak",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/mugla-tur-2026-ile-dunya-vitrinine-cikacak-998104.html",
+          "title": "İsrail saldırılarında evini kaybeden Gazzeli Halid ez-Zaanin, ailesiyle mezarlıkta yaşıyor",
+          "source": "Medya Gazete",
+          "link": "https://www.medyagazete.com/haber/israil-saldirilarinda-evini-kaybeden-gazzeli-halid-ez-zaanin-ailesiyle-mezarlikta-yasiyor-1370896",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Bosna Hersek Savaşı sırasında öldürülen 6 kişi toprağa verildi",
+          "source": "Medya Gazete",
+          "link": "https://www.medyagazete.com/haber/bosna-hersek-savasi-sirasinda-oldurulen-6-kisi-topraga-verildi-1370855",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "15 yaşındaki Asya’dan 7 gündür haber yok! Acılı anneden şok iddia",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/04/26/15-yasindaki-asyadan-7-gundur-haber-yok-acili-anneden-sok-iddia",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yaşam Tarzı ve Sağlık İpuçları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Oturmanın sağlık risklerini azaltma, bağırsak sağlığını iyileştirme ve karar yorgunluğu gibi konularda çeşitli sağlık ve yaşam ipuçları sunuldu. Haftalık burç yorumları, proteinli tatlı tarifleri ve uyku düzeni önerileri de okuyucuların ilgisini çekti. Türkiye'deki Afrikalı gelinlerin gözünden Türk kültürü ve 'En İyi Turizm Köyü' seçimi gibi sosyal konular da yer aldı.",
+      "importance": 5,
+      "story_count": 35,
+      "stories": [
+        {
+          "title": "Uzmanlar Oturmanın Sağlık Risklerini Azaltmanın Basit Bir Yolunu Açıkladı",
+          "source": "Fizikist",
+          "link": "https://www.fizikist.com/uzmanlar-oturmanin-saglik-risklerini-azaltmanin-basit-bir-yolunu-acikladi",
+          "also_in": []
+        },
+        {
+          "title": "Beyninizin Pili Neden Çabuk Bitiyor? Karar Yorgunluğu Hakkında Bilmeniz Gereken 8 Şey",
+          "source": "ListeList",
+          "link": "https://listelist.com/karar-yorgunlugu-nedir/",
+          "also_in": []
+        },
+        {
+          "title": "27 Nisan – 3 Mayıs 2026 Haftalık Burç Yorumları: Akrep Dolunayı ile Gerçekler Ortaya Çıkıyor",
+          "source": "ListeList",
+          "link": "https://listelist.com/27-nisan-3-mayis-haftalik-burc-yorumlari-2026/",
+          "also_in": []
+        },
+        {
+          "title": "Proteinli Tatlılar Neden Bu Kadar Popüler Oldu? Sağlıklı Kaçamak mı, Yeni Beslenme Alışkanlığı mı?",
+          "source": "ListeList",
+          "link": "https://listelist.com/proteinli-tatlilar-neden-populer/",
+          "also_in": []
+        },
+        {
+          "title": "Spor Giysileri Ne Zaman Değiştirilmeli? Eskidiğini Gösteren İşaretler",
+          "source": "ListeList",
+          "link": "https://listelist.com/spor-giysileri-ne-zaman-degistirilmeli/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve Gençlik Odaklı Haberler",
+      "meta_category": "Eğitim",
+      "summary": "Antalya'dan genç mucitler dünya şampiyonasına hazırlanırken, liseli gençler Python ile pop müziği analiz ediyor. Türkiye'nin yükseköğretim sisteminde önde gelen ülkelerden biri olması vurgulandı. MSB'nin gençlik buluşmaları, THK'nın pilot yetiştirme programları ve Rami Çocuk ve Sanat Bienali gibi etkinlikler gençlerin gelişimine odaklandı.",
+      "importance": 5,
+      "story_count": 13,
+      "stories": [
+        {
+          "title": "Antalya'dan Roma'ya uzanan teknoloji yolculuğu: Genç mucitler dünya şampiyonasına göz kırptı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/antalyadan-romaya-uzanan-teknoloji-yolculugu-genc-mucitler-dunya-sampiyonasina-goz-kirpti/102210",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Pop müziğin yarım asırlık değişimi: Liseli gençler Python ile şifreleri çözdü",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/pop-muzigin-yarim-asirlik-degisimi-liseli-gencler-python-ile-sifreleri-cozdu/102208",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz : Ülkemiz, dünyanın önde gelen yükseköğretim sistemlerinden biri haline gelmiştir",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/gundem/cumhurbaskani-yardimcisi-yilmaz-ulkemiz-dunyanin-onde-gelen-yuksekogretim-sistemlerinden-biri-haline-gelmistir/224738",
+          "also_in": [
+            "Medya Gazete",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Balıkesir Üniversitesi 3 yılda bilimsel araştırma projelerini 9 kat artırdı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/balikesir-universitesi-3-yilda-bilimsel-arastirma-projelerini-9-kat-artirdi/3918454",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "\"Gökyüzüne tutkun\" gençler THK bünyesinde yetişiyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/gokyuzune-tutkun-gencler-thk-bunyesinde-yetisiyor/3918313",
           "also_in": [
             "Haberler"
           ]
@@ -1221,71 +929,144 @@
       ]
     },
     {
-      "title": "Yaşam Tarzı, Psikoloji ve Astroloji",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Minimalizmden maksimalizme, psikolojik testlerden haftalık burç yorumlarına kadar geniş bir yelpazede yaşam tarzı ve kişisel gelişim konuları ele alınıyor. Seyahat deneyimleri, popüler ürünler, günlük alışkanlıklar ve felsefi düşünceler, bireylerin kendilerini ve çevrelerini anlamalarına yönelik içerikler sunuyor.",
-      "importance": 4,
-      "story_count": 35,
+      "title": "Çevre ve Doğa Haberleri",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Hava kirliliğiyle mücadelede baobab çekirdeklerinin kullanımı öne çıkarken, İstanbul sıfır atıkta küresel merkez olma yolunda ilerliyor. Hatay'daki baraj doluluk oranları ve İstanbul barajlarının %71'e ulaşması sevindirici. Ancak Porsuk Çayı'nın kahverengiye dönmesi ve Adıyaman'da bulunan yavru kedi gibi olaylar çevresel sorunlara işaret ediyor.",
+      "importance": 5,
+      "story_count": 9,
       "stories": [
         {
-          "title": "Trafikte Tartışma Anında Araçtan İnen Kişi Kaydedildiğini Görünce Dans Etmeye Başladı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/trafikte-tartisma-aninda-aractan-inen-kisi-kaydedildigini-gorunce-dans-etmeye-basladi-1355834",
-          "also_in": []
+          "title": "Hava kirliliğine karşı doğadan gelen çözüm: Baobab çekirdekleri temiz hava için dönüştürülüyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/hava-kirliligine-karsi-dogadan-gelen-cozum-baobab-cekirdekleri-temiz-hava-icin-donusturuluyor/102209",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
         },
         {
-          "title": "Sen Minimalist misin Maksimalist mi?",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/sen-minimalist-misin-maksimalist-mi-1353391",
-          "also_in": []
+          "title": "Sıfır atıkta küresel merkez İstanbul oluyor",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/sifir-atikta-kuresel-merkez-istanbul-oluyor-104665",
+          "also_in": [
+            "Haber Global",
+            "İstiklal",
+            "Türkgün",
+            "TRT Haber"
+          ]
         },
         {
-          "title": "Türkiye&apos;yi Yurt Dışında Temsil Eden Manken Şaşırtan İşi Hakkında Konuştu: \"Çok Memnunum\"",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/turkiye-yi-yurt-disinda-temsil-eden-manken-sasirtan-isi-hakkinda-konustu-cok-memnunum-1355832",
-          "also_in": []
+          "title": "\"Tabiat Parkı\" ilan edilen Dipsiz Göl Şelalesi turizme kazandırılıyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/tabiat-parki-ilan-edilen-dipsiz-gol-selalesi-turizme-kazandiriliyor/3918510",
+          "also_in": [
+            "Haberler"
+          ]
         },
         {
-          "title": "Tenceredeki Gökkuşağı Lekelerinin Asıl Sebebi Ortaya Çıktı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/tenceredeki-gokkusagi-lekelerinin-asil-sebebi-ortaya-cikti-1355833",
-          "also_in": []
+          "title": "Denizden 5 ton atık çıkarıldı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5981403/denizden-5-ton-atik-cikarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Haberler"
+          ]
         },
         {
-          "title": "Sen Aslında Nasıl Bir Salon Hayal Ediyorsun?",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/sen-aslinda-nasil-bir-salon-hayal-ediyorsun-1352768",
-          "also_in": []
+          "title": "Hatay'da barajlardaki doluluk oranı yağışlarla arttı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/yerel-haberler/hatayda-barajlardaki-doluluk-orani-yagislarla-artti-104662",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Çeşitli Ulusal ve Yerel Gündem Maddeleri",
+      "meta_category": "Diğer",
+      "summary": "Ankara-Sivas YHT hattının 3. yıl dönümü, EPDK'nın enerji lisansları ve ayçiçeği yağı ihracatındaki artış gibi çeşitli ulusal ve yerel haberler yer aldı. AK Parti'nin halk buluşmaları, MHP'deki istifalar, Mesir Macunu festivali ve Doğu Anadolu'daki yatırım projeleri de gündemin diğer önemli başlıkları arasındaydı.",
+      "importance": 4,
+      "story_count": 77,
+      "stories": [
+        {
+          "title": "İstanbul Valiliğinden Batı Karadeniz için fırtına uyarısı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/istanbul-valiliginden-bati-karadeniz-icin-firtina-uyarisi/3918555",
+          "also_in": [
+            "Doğru Haber",
+            "Haber 7",
+            "Yeni Şafak",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "MSB, Konya ve Erzurum'da gençlerle buluşacak",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/msb-konya-ve-erzurumda-genclerle-bulusacak-267608h",
+          "also_in": [
+            "İstiklal",
+            "Türkgün",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "EPDK 2025'te enerji piyasalarına yaklaşık 12 bin lisans verdi",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/enerji/epdk-2025te-enerji-piyasalarina-yaklasik-12-bin-lisans-verdi-haberi-822960",
+          "also_in": [
+            "Anadolu Ajansı",
+            "Haber 7",
+            "Bigpara"
+          ]
+        },
+        {
+          "title": "Ayçiçeği yağı ihracatı ilk çeyrekte yüzde 17,2 arttı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/ekonomi/aycicegi-yagi-ihracati-ilk-ceyrekte-yuzde-172-artti-haberi-890398",
+          "also_in": [
+            "Haber 7",
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Ankara–Sivas YHT hattı 3 yaşında",
+          "source": "En Politik",
+          "link": "https://www.enpolitik.com/haber/ankarasivas-yht-hatti-3-yasinda-354975",
+          "also_in": [
+            "Haber Global",
+            "İstiklal",
+            "TRT Haber"
+          ]
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Physical Impossibility of Death in the Mind of Someone Living",
-    "artist": "Damien Hirst",
-    "year": "1991",
-    "form": "installation",
-    "medium": "Tiger shark, glass, steel, 5% formaldehyde solution",
-    "location": "Owned by Steven A. Cohen, often exhibited at major institutions (e.g., long-term loan to the Metropolitan Museum of Art)",
-    "description": "Büyük bir kaplan köpekbalığının formaldehit solüsyonu içinde asılı durduğu bu enstalasyon, yaşamın ve ölümün kırılganlığını, aynı zamanda insanın doğa ve ölümlülükle olan karmaşık ilişkisini sorgular. Doğal bir formu modern bir koruma yöntemiyle birleştirerek, bugünün gergin ve sorgulayıcı atmosferini yansıtır.",
+    "title": "Electronic Superhighway: Continental U.S., Alaska, Hawaii",
+    "artist": "Nam June Paik",
+    "year": "1995",
+    "form": "video installation",
+    "medium": "Forty-nine-channel video installation with custom electronics, neon, steel, and wood enclosure",
+    "location": "Smithsonian American Art Museum, Washington D.C.",
+    "description": "Amerika Birleşik Devletleri haritası şeklinde tasarlanmış bu devasa video enstalasyonu, her eyalete özgü hızlı görüntülerle dolu televizyon ekranlarından oluşur. Neon çizgiler eyalet sınırlarını ve veri akışını simgelerken, eser bilgi teknolojisinin ve kitle iletişim araçlarının toplumsal etkilerini, modern yaşamın kaotik ancak birbiriyle bağlantılı doğasını inceler.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living",
-    "wikipedia_extract": "The Physical Impossibility of Death in the Mind of Someone Living is an artwork created in 1991 by Damien Hirst, an English artist and a leading member of the \"Young British Artists\". It consists of a preserved tiger shark submerged in formalin in a glass-panel display case.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Damien_Hirst"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Electronic_Superhighway%3A_Continental_U.S.%2C_Alaska%2C_Hawaii",
+    "wikipedia_extract": "Electronic Superhighway: Continental U.S., Alaska, Hawaii, commonly referred to as Electronic Superhighway, is an art installation created by Nam June Paik in 1995. Since 2006, the work has been on display in the Smithsonian American Art Museum (SAAM) in Washington, D.C. The large video artwork is composed of over 300 television sets, neon tubing, and 50 DVD players, which form a map of the United States. The map contains video clips that Paik associated with each state. Some of the states display images that are commonly associated with them, while others play video clips of people and scenes that are more thought-provoking.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Electronic_Superhighway_Continental_US_Alaska_Hawaii.mpg/500px--Electronic_Superhighway_Continental_US_Alaska_Hawaii.mpg.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Nam_June_Paik"
   },
   "music": {
-    "title": "Hand Covers Bruise",
-    "artists": "Trent Reznor and Atticus Ross",
-    "album": "The Social Network",
-    "duration": "4:18",
-    "spotify_url": "https://open.spotify.com/track/1v0uVPU6BWcbog5BiWLWVa",
-    "spotify_id": "1v0uVPU6BWcbog5BiWLWVa",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273897cd4eeff3174110aa6230b",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1v0uVPU6BWcbog5BiWLWVa\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Galvanize",
+    "artists": "The Chemical Brothers",
+    "album": "Push The Button",
+    "duration": "6:33",
+    "spotify_url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs",
+    "spotify_id": "4bz7uB4edifWKJXSDxwHcs",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2738e8f975a2b364769040c8169",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/4bz7uB4edifWKJXSDxwHcs\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": "Electronic, Ambient, Film Score",
-    "suggested_mood": "Tense, Reflective, Evolving, Anxious, Digital"
+    "suggested_genre": "Big Beat, Electronic",
+    "suggested_mood": "Yoğun, dinamik, gerilimli, enerjik, modern"
   },
-  "curator_statement": "Bugünün haberleri, jeopolitik gerilimler ve ekonomik dalgalanmaların yarattığı belirsizlikle, teknolojik ilerlemelerin getirdiği baş döndürücü hızın iç içe geçtiği bir dünya tablosu çiziyor. Bu atmosferde, insanlığın doğayla ve kendi yaratımlarıyla olan karmaşık ilişkisi gözler önüne seriliyor. Seçtiğim sanat eseri, yaşamın kırılganlığını ve ölümün kaçınılmazlığını modern bir estetikle harmanlarken, müziğin tınıları bu gergin bekleyişi, dijital çağın nabzıyla birleştiriyor. Hem içsel hem de küresel düzeyde yaşanan çalkantıları, geleceğe dair hem heyecanı hem de endişeyi aynı anda hissettiren bu eserler, zamanımızın ruhunu yansıtıyor."
+  "curator_statement": "Bugün, küresel ağların karmaşasıyla, teknolojik ilerlemelerin çığır açan ritmiyle ve toplumsal nabzın yüksek tansiyonuyla örülmüş, adeta bir dijital mozaik sunuyor. Nam June Paik'in 'Electronic Superhighway' adlı eseri, bu çok katmanlı, sürekli değişen ve birbiriyle çatışan bilgi akışını, devlet sınırları içinde bile birbirine karışan görsel bir şölenle mükemmelen yansıtıyor. Eserin neon çizgileri, uluslararası gerilimleri ve siber ağların kesişim noktalarını akla getirirken, ekranlardaki hızlı görüntüler derbi heyecanından yapay zeka tartışmalarına uzanan yoğun gündemi çağrıştırıyor. The Chemical Brothers'ın 'Galvanize' parçası ise, bu kaotik ama bir o kadar da ileriye dönük atmosferin müzikal karşılığı oluyor. Oryantal motiflerle harmanlanmış elektronik ritimleri, hem yerel dinamikleri hem de küresel çalkantıları barındıran enerjik bir çağrıya dönüşerek, bugünün heyecanlı ve belirsiz ruhunu kulaklara taşıyor. Bu iki seçki, hem dönemin ruhundaki gerilimi hem de geleceğe dair o belirsiz, ama bir o kadar da sürükleyici akışı ustaca kucaklıyor."
 }
