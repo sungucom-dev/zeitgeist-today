@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Tüm tarihçeyi çek, rebase için faydalı
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,22 +44,39 @@ jobs:
           with open('today.json') as f:
               data = json.load(f)
           if not data.get('mood', {}).get('description') or not data.get('clusters'):
-              print('❌ today.json eksik veya boş!')
+              print('today.json eksik veya bos!')
               print(json.dumps(data, indent=2, ensure_ascii=False)[:500])
               sys.exit(1)
-          print('✓ today.json dolu, devam.')
+          print('today.json dolu, devam.')
           "
       
-      - name: Commit and push if changed
+      - name: Commit and push with retry
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add today.json archive/
+          
           if git diff --staged --quiet; then
-            echo "Değişiklik yok, commit atılmadı."
-          else
-            git commit -m "Daily update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            # Önce uzaktaki değişiklikleri çek (rebase ile çakışma riski yok)
-            git pull --rebase origin main
-            git push
+            echo "Degisiklik yok, commit atilmadi."
+            exit 0
           fi
+          
+          git commit -m "Daily update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          
+          # Push'u 3 kere dene, her başarısızlıkta önce pull yap
+          for i in 1 2 3; do
+            echo "Push denemesi $i/3..."
+            if git push; then
+              echo "Push basarili."
+              exit 0
+            fi
+            echo "Push basarisiz, pull --rebase yapiliyor..."
+            git pull --rebase origin main || {
+              echo "Rebase de basarisiz, abort..."
+              git rebase --abort 2>/dev/null || true
+              sleep 5
+            }
+          done
+          
+          echo "3 deneme sonrasi push basarisiz!"
+          exit 1
