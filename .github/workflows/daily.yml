@@ -2,8 +2,8 @@ name: Daily Zeitgeist Update
 
 on:
   schedule:
-    # Her gün TSİ 10:00'da çalış (UTC 07:00, çünkü Türkiye UTC+3)
-    - cron: '0 7 * * *'
+    # Her gün TSİ 00:01'de çalış (UTC 07:00, çünkü Türkiye UTC+3)
+     - cron: '1 21 * * *'
   workflow_dispatch:
 
 jobs:
