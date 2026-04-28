@@ -13,7 +13,7 @@ Tek komutla: python run_daily.py
 import subprocess
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # Pipeline adımları sırasıyla
@@ -49,7 +49,7 @@ def build_today_json():
     print(f"▶  Final today.json üretiliyor")
     print(f"{'='*70}")
     
-    today = datetime.now()
+    today = datetime.now(timezone.utc) + timedelta(hours=3)  # TSİ
     today_iso = today.strftime("%Y-%m-%d")
     today_human = today.strftime("%d %B %Y")
     
