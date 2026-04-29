@@ -18,7 +18,7 @@ load_dotenv()
 
 INPUT_FILE = "collected_news.json"
 OUTPUT_FILE = "day_analysis.json"
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-2.5-flash-lite"
 
 # Retry ayarları
 MAX_RETRIES = 6
