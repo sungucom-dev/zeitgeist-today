@@ -6,6 +6,7 @@ kümeler ve günün ruhunu çıkartır. Sonucu day_analysis.json olarak kaydeder
 
 import os
 import json
+import time
 from datetime import datetime, timezone
 from collections import defaultdict
 from pathlib import Path
@@ -15,30 +16,29 @@ from google.genai import types
 
 load_dotenv()
 
-# ----- Ayarlar -----
 INPUT_FILE = "collected_news.json"
 OUTPUT_FILE = "day_analysis.json"
 MODEL_NAME = "gemini-2.5-flash"
 
-# Her kategoriden Gemini'ye en fazla kaç haber gönderelim
-# Gündem fazla, ama dengelemek için kategori başına sınır koyuyoruz
+# Retry ayarları
+MAX_RETRIES = 6
+RETRY_DELAYS = [30, 60, 120, 240, 480, 600]  # saniye
+
 CATEGORY_LIMITS = {
     "Gündem": 250,
     "Teknoloji": 80,
     "Spor": 60,
     "Eğlence": 50,
     "Ekonomi ve Finans": 60,
-    "Kültür ve Sanat": 50,   # Az ama hepsini al
+    "Kültür ve Sanat": 50,
     "Yaşam": 30,
     "Savunma ve Sanayi": 30,
-    "Bilim": 50,             # Az ama hepsini al
+    "Bilim": 50,
     "İş Dünyası": 20,
 }
 
 
 def smart_sample(items):
-    """Kategori bazında akıllı örnekleme yapar.
-    Çok haberli kategorilerde sınır uygular, az olanlarda hepsini alır."""
     by_category = defaultdict(list)
     for item in items:
         by_category[item["category"]].append(item)
@@ -49,7 +49,6 @@ def smart_sample(items):
         if len(cat_items) <= limit:
             sampled.extend(cat_items)
         else:
-            # En çok kaynakta görüleni öne al (also_in dolu olanlar)
             cat_items.sort(key=lambda x: -len(x.get("also_in", [])))
             sampled.extend(cat_items[:limit])
     
@@ -57,9 +56,6 @@ def smart_sample(items):
 
 
 def build_prompt(items):
-    """Gemini'ye gönderilecek prompt'u oluşturur."""
-    
-    # Haberleri kategorilere göre grupla, kompakt format
     by_category = defaultdict(list)
     for i, item in enumerate(items):
         by_category[item["category"]].append({
@@ -95,7 +91,7 @@ def build_prompt(items):
    - "Magazin ve Eğlence"
    - "Diğer"
 
-3. **GÜNÜN RUHU**: Tüm haberlere bakarak günün genel atmosferini tarif et. Hangi duygular baskın? Bu gün nasıl bir gün? (Örnek: "gergin ve siyasi", "hüzünlü ama umutlu", "olağan ve sakin", "kaotik")
+3. **GÜNÜN RUHU**: Tüm haberlere bakarak günün genel atmosferini tarif et. Hangi duygular baskın? Bu gün nasıl bir gün?
 
 4. **ANAHTAR TEMALAR**: Günün 3-5 anahtar temasını çıkar.
 
@@ -104,7 +100,7 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
 {{
   "day_mood": "günün genel ruhunu anlatan 1-2 cümle, atmosferik",
   "key_themes": ["tema 1", "tema 2", "tema 3"],
-  "dominant_emotion": "tek kelimeyle baskın duygu (gergin, umutlu, hüzünlü, kaotik, dingin, vb.)",
+  "dominant_emotion": "tek kelimeyle baskın duygu",
   "clusters": [
     {{
       "title": "kümeyi en iyi anlatan başlık (kısa)",
@@ -125,8 +121,51 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
     return prompt
 
 
+def call_gemini_with_retry(client, prompt, model_name):
+    """Gemini'yi çağırır, 503/429 hatalarında retry yapar."""
+    last_error = None
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.7,
+                ),
+            )
+            return response
+        except Exception as e:
+            error_str = str(e)
+            last_error = e
+            
+            # Retry edilebilir hatalar: 503 (UNAVAILABLE), 429 (RATE LIMIT), timeout
+            is_retryable = (
+                "503" in error_str or
+                "UNAVAILABLE" in error_str or
+                "429" in error_str or
+                "RESOURCE_EXHAUSTED" in error_str or
+                "timeout" in error_str.lower() or
+                "deadline" in error_str.lower()
+            )
+            
+            if not is_retryable:
+                # Retry edilemez hata, hemen fırlat
+                raise
+            
+            if attempt < MAX_RETRIES - 1:
+                delay = RETRY_DELAYS[attempt]
+                print(f"   ⏳ Gemini hatası (deneme {attempt+1}/{MAX_RETRIES}): {error_str[:100]}")
+                print(f"      {delay} saniye bekleniyor...")
+                time.sleep(delay)
+            else:
+                print(f"   ❌ Son denemede de başarısız.")
+    
+    raise last_error
+
+
 def main():
-    # Veriyi yükle
     if not Path(INPUT_FILE).exists():
         print(f"❌ {INPUT_FILE} bulunamadı. Önce collect_news.py'yi çalıştır.")
         return
@@ -137,7 +176,6 @@ def main():
     items = data["items"]
     print(f"📰 Toplam {len(items)} haber yüklendi")
     
-    # Akıllı örnekleme
     sampled = smart_sample(items)
     print(f"🎯 Gemini'ye gönderilecek: {len(sampled)} haber")
     
@@ -148,7 +186,6 @@ def main():
     for cat, count in sorted(cat_dist.items(), key=lambda x: -x[1]):
         print(f"  {cat}: {count}")
     
-    # Gemini'ye gönder
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         print("❌ GEMINI_API_KEY bulunamadı")
@@ -161,21 +198,13 @@ def main():
     print(f"📏 Prompt uzunluğu: {len(prompt):,} karakter")
     
     try:
-        response = client.models.generate_content(
-            model=MODEL_NAME,
-            contents=prompt,
-            config=types.GenerateContentConfig(
-                response_mime_type="application/json",
-                temperature=0.7,
-            ),
-        )
+        response = call_gemini_with_retry(client, prompt, MODEL_NAME)
     except Exception as e:
-        print(f"❌ Gemini hatası: {e}")
+        print(f"❌ Gemini hatası (tüm retry'lar tükendi): {e}")
         return
     
     print(f"✓ Cevap alındı ({len(response.text):,} karakter)\n")
     
-    # JSON parse
     try:
         analysis = json.loads(response.text)
     except json.JSONDecodeError as e:
@@ -184,7 +213,6 @@ def main():
         print(response.text[:2000])
         return
     
-    # Cluster'lara orijinal haber detaylarını ekle
     for cluster in analysis.get("clusters", []):
         cluster["stories"] = []
         for sid in cluster.get("story_ids", []):
@@ -196,16 +224,13 @@ def main():
                     "link": story["link"],
                     "also_in": story.get("also_in", []),
                 })
-        # Önem sıralaması için story sayısını ekle
         cluster["story_count"] = len(cluster["stories"])
     
-    # Önem skoruna göre sırala
     analysis["clusters"].sort(
         key=lambda c: (c.get("importance", 0), c.get("story_count", 0)),
         reverse=True
     )
     
-    # Özet yazdır
     print(f"🎭 Günün Ruhu: {analysis.get('day_mood', '?')}")
     print(f"💫 Baskın Duygu: {analysis.get('dominant_emotion', '?')}")
     print(f"🔑 Anahtar Temalar: {', '.join(analysis.get('key_themes', []))}")
@@ -217,7 +242,6 @@ def main():
     
     print(f"\n📝 Küratör Notu:\n{analysis.get('curator_note', '?')}")
     
-    # Kaydet
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "model_used": MODEL_NAME,

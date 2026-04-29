@@ -16,7 +16,6 @@ import sys
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-# Pipeline adımları sırasıyla
 STEPS = [
     ("collect_news.py", "RSS toplama"),
     ("analyze_news.py", "Haber analizi (Gemini)"),
@@ -26,9 +25,11 @@ STEPS = [
 
 ARCHIVE_DIR = Path("archive")
 
+# Türkiye saati için
+TR_TZ = timezone(timedelta(hours=3))
+
 
 def run_step(script_name, description):
-    """Bir Python scriptini çalıştırır, başarısızsa False döner."""
     print(f"\n{'='*70}")
     print(f"▶  {description}")
     print(f"   ({script_name})")
@@ -41,19 +42,21 @@ def run_step(script_name, description):
     return result.returncode == 0
 
 
+def step_succeeded(filename):
+    """Adımın başarılı tamamlandığını çıktı dosyasının varlığıyla doğrular."""
+    return Path(filename).exists()
+
+
 def build_today_json():
-    """Tüm ara JSON'ları birleştirip tek 'today.json' üretir.
-    Bu dosya WordPress sayfasının okuyacağı asıl ürün."""
-    
     print(f"\n{'='*70}")
     print(f"▶  Final today.json üretiliyor")
     print(f"{'='*70}")
     
-    today = datetime.now(timezone.utc) + timedelta(hours=3)  # TSİ
+    # TR saatiyle bugün
+    today = datetime.now(TR_TZ)
     today_iso = today.strftime("%Y-%m-%d")
     today_human = today.strftime("%d %B %Y")
     
-    # JSON'ları yükle
     files_to_load = {
         "collected": "collected_news.json",
         "analysis": "day_analysis.json",
@@ -70,13 +73,11 @@ def build_today_json():
         with open(filename, encoding="utf-8") as f:
             data[key] = json.load(f)
     
-    # Final yapılandırılmış çıktı
     today_json = {
         "date": today_iso,
         "date_human": today_human,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         
-        # Üst düzey sayısal istatistikler
         "stats": {
             "feeds_collected": data["collected"]["stats"]["feeds_ok"] if data["collected"] else 0,
             "news_total": data["collected"]["stats"]["items_unique"] if data["collected"] else 0,
@@ -84,27 +85,18 @@ def build_today_json():
             "clusters": len(data["analysis"]["analysis"]["clusters"]) if data["analysis"] else 0,
         } if data["collected"] and data["analysis"] else {},
         
-        # Günün ruhu
         "mood": {
             "description": data["analysis"]["analysis"].get("day_mood") if data["analysis"] else None,
             "dominant_emotion": data["analysis"]["analysis"].get("dominant_emotion") if data["analysis"] else None,
             "key_themes": data["analysis"]["analysis"].get("key_themes", []) if data["analysis"] else [],
         },
         
-        # Kümeler (sayfada gösterilecek konu listesi)
         "clusters": [],
-        
-        # Sanat eseri
         "artwork": None,
-        
-        # Müzik
         "music": None,
-        
-        # Küratör notu
         "curator_statement": data["curation"]["curation"].get("curator_statement") if data["curation"] else None,
     }
     
-    # Kümeleri zenginleştir
     if data["analysis"]:
         for cluster in data["analysis"]["analysis"].get("clusters", []):
             today_json["clusters"].append({
@@ -113,10 +105,9 @@ def build_today_json():
                 "summary": cluster.get("summary"),
                 "importance": cluster.get("importance"),
                 "story_count": cluster.get("story_count"),
-                "stories": cluster.get("stories", [])[:5],  # En fazla 5 örnek haber
+                "stories": cluster.get("stories", [])[:5],
             })
     
-    # Sanat eseri
     if data["curation"]:
         artwork_sug = data["curation"]["curation"].get("artwork", {})
         artwork_page = data["curation"].get("artwork_page")
@@ -137,7 +128,6 @@ def build_today_json():
             "artist_wikipedia_url": artist_page.get("page_url") if artist_page else None,
         }
     
-    # Müzik
     if data["spotify"] and data["spotify"].get("success"):
         track = data["spotify"].get("spotify_track", {})
         today_json["music"] = {
@@ -154,12 +144,10 @@ def build_today_json():
             "suggested_mood": data["spotify"]["music_suggestion"].get("mood"),
         }
     
-    # Final JSON kaydet
     with open("today.json", "w", encoding="utf-8") as f:
         json.dump(today_json, f, ensure_ascii=False, indent=2)
     print(f"   ✓ today.json üretildi")
     
-    # Arşivle
     ARCHIVE_DIR.mkdir(exist_ok=True)
     archive_path = ARCHIVE_DIR / f"{today_iso}.json"
     with open(archive_path, "w", encoding="utf-8") as f:
@@ -170,7 +158,6 @@ def build_today_json():
 
 
 def print_summary(today_json):
-    """Sonu güzel bir özet yazdır."""
     print(f"\n{'='*70}")
     print(f"🎉 GÜNÜN ÖZETİ — {today_json['date_human']}")
     print(f"{'='*70}\n")
@@ -205,25 +192,42 @@ def print_summary(today_json):
 
 def main():
     start_time = datetime.now()
-    print(f"🚀 ZeitgeistToday günlük pipeline başlıyor")
-    print(f"   {start_time.strftime('%d %B %Y, %H:%M:%S')}")
     
-    # Adımları sırayla çalıştır
+    # Eski ara dosyaları temizle ki kafamız karışmasın
+    for f in ["day_analysis.json", "curation.json", "spotify_result.json"]:
+        Path(f).unlink(missing_ok=True)
+    
+    print(f"🚀 ZeitgeistToday günlük pipeline başlıyor")
+    print(f"   {datetime.now(TR_TZ).strftime('%d %B %Y, %H:%M:%S')} TSİ")
+    
+    # Adımları sırayla çalıştır - bir adım fail olursa dur
+    expected_outputs = {
+        "collect_news.py": "collected_news.json",
+        "analyze_news.py": "day_analysis.json",
+        "curate.py": "curation.json",
+        "find_spotify_track.py": "spotify_result.json",
+    }
+    
     for script_name, description in STEPS:
         if not Path(script_name).exists():
             print(f"❌ {script_name} bulunamadı, durduruluyor.")
-            return
+            sys.exit(1)
         
         success = run_step(script_name, description)
+        
+        # subprocess başarılı bile dönse, çıktı dosyası oluşmadıysa adım fail demektir
+        expected = expected_outputs.get(script_name)
+        if expected and not Path(expected).exists():
+            print(f"\n❌ {description} başarısız: {expected} oluşmadı.")
+            print(f"   Pipeline durduruldu, today.json üretilmeyecek.")
+            sys.exit(1)
+        
         if not success:
-            print(f"\n❌ Adım başarısız: {description}")
+            print(f"\n❌ {description} başarısız (exit code != 0).")
             print(f"   Pipeline durduruldu.")
-            return
+            sys.exit(1)
     
-    # Final JSON
     today_json = build_today_json()
-    
-    # Özet
     print_summary(today_json)
     
     elapsed = datetime.now() - start_time

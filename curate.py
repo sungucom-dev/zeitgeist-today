@@ -8,6 +8,7 @@ Sonucu curation.json olarak kaydeder.
 
 import os
 import json
+import time
 import requests
 from datetime import datetime, timezone
 from pathlib import Path
@@ -23,6 +24,10 @@ OUTPUT_FILE = "curation.json"
 MODEL_NAME = "gemini-2.5-flash"
 USER_AGENT = "ZeitgeistToday/1.0 (https://sungu.com; personal project)"
 MAX_ATTEMPTS = 3
+
+# Gemini retry ayarları
+MAX_RETRIES = 6
+RETRY_DELAYS = [30, 60, 120, 240, 480, 600]
 
 HEADERS = {"User-Agent": USER_AGENT}
 
@@ -81,16 +86,11 @@ def wiki_page_categories(title, lang="en"):
 
 
 def is_specific_artwork_page(title, categories, artist):
-    """Bu sayfa gerçekten BU eserin kendi sayfası mı? Sanatçı sayfası DEĞİL.
-    Sayfanın kategorilerine bakarak karar verir."""
-    
-    # Sayfa başlığı sadece sanatçı adıysa (örn "Julie Mehretu") -> sanatçı sayfası, eser değil
     if title.lower().strip() == artist.lower().strip():
         return False
     
     cats_lower = " ".join(categories).lower()
     
-    # Eser-spesifik kategori anahtar kelimeleri
     artwork_indicators = [
         "paintings by", "sculptures by", "works by",
         "artworks", "individual paintings", "individual sculptures",
@@ -102,20 +102,16 @@ def is_specific_artwork_page(title, categories, artist):
     
     has_artwork_cat = any(ind in cats_lower for ind in artwork_indicators)
     
-    # Sanatçı kategorisi GÖSTERGESİ — varsa kişi sayfası demektir
     person_indicators = [
         "births", "deaths", "living people", "alumni",
         "people from", "graduates of",
     ]
     has_person_cat = any(ind in cats_lower for ind in person_indicators)
     
-    # Eser kategorisi var ve kişi kategorisi yoksa -> bu eser sayfası
     return has_artwork_cat and not has_person_cat
 
 
 def find_artwork_page_strict(title, artist):
-    """Eserin KENDİ Wikipedia sayfasını bulmaya çalışır. Sanatçı sayfasını kabul etmez."""
-    
     queries = [
         f'"{title}"',
         f'"{title}" {artist}',
@@ -134,7 +130,6 @@ def find_artwork_page_strict(title, artist):
                 continue
             seen_titles.add(r_title)
             
-            # Hızlı reddetmeler
             r_lower = r_title.lower()
             if any(bad in r_lower for bad in [
                 "list of", "video game", "google stadia", "discography",
@@ -142,25 +137,20 @@ def find_artwork_page_strict(title, artist):
             ]):
                 continue
             
-            # Sanatçı tam sayfası olmasın
             if r_title.lower().strip() == artist.lower().strip():
                 continue
             
-            # Kategorilere bak
             cats = wiki_page_categories(r_title, lang="en")
             if not is_specific_artwork_page(r_title, cats, artist):
                 continue
             
-            # Eser başlığı sayfada anlamlı şekilde geçiyor mu?
             title_words = [w for w in title.lower().split() if len(w) > 2]
             title_match = sum(1 for w in title_words if w in r_lower)
             if title_match < max(1, len(title_words) // 2):
                 continue
             
-            # Tüm filtrelerden geçtiyse özet al
             summary = wiki_page_summary(r_title, lang="en")
             if summary and summary.get("extract") and summary.get("originalimage"):
-                # Görseli olan + extract'i olan eser sayfası bulundu
                 return summary
     
     return None
@@ -212,13 +202,12 @@ Sanat eseri seçiminde:
 - Eser Wikipedia'da KENDİ AYRI SAYFASI olan kanonik bir iş olmalı (sadece sanatçı sayfasında geçen değil)
 - Yani gerçekten ünlü, üzerinde yazılmış, müzelerde olan eserler
 - Klasikten çağdaşa serbest, ama her durumda Wikipedia'da sayfası olan
-- Örnek olabilirler: Yıldızlı Gece (Van Gogh), Guernica (Picasso), Çığlık (Munch), Olympia (Manet), Comedian (Cattelan'ın muzu), Girl with Balloon (Banksy), The Physical Impossibility of Death (Hirst), Cloud Gate (Kapoor), Fountain (Duchamp), 100 Years of Solitude vs.
 - Klişeden kaçın ama "Wikipedia'da sayfası vardır" diye emin olduklarını seç
 - Resim, heykel, enstalasyon, fotoğraf, video, performans — her form serbest
 
 Müzik seçiminde:
 - Spotify'da bulunabilen gerçek bir parça olmalı
-- Tür sınırlaması yok: klasik, caz, elektronik, halk, rock, deneysel, ambient, dünya müziği serbest
+- Tür sınırlaması yok
 - Sanatçı ve parça adı kesin olmalı
 
 CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
@@ -232,7 +221,7 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
     "form": "resim/heykel/fotoğraf/enstalasyon/video/performans",
     "location": "şu an nerede sergileniyor",
     "description": "2-3 cümlelik tarif",
-    "wikipedia_title_guess": "Wikipedia'da hangi başlıkla geçiyor olabilir (en yakın tahminin)"
+    "wikipedia_title_guess": "Wikipedia'da hangi başlıkla geçiyor olabilir"
   }},
   "music": {{
     "title": "Parçanın tam adı",
@@ -245,16 +234,10 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
   }},
   "curator_statement": "Türkçe küratör yorumu, edebi ve düşünceli, 4-6 cümle"
 }}
-
-ÖNEMLİ:
-- Eser Wikipedia'da SAYFASI OLAN bir iş olmalı, emin değilsen tahmin etme — alternatif düşün
-- Klişe değil ama doğrulanabilir seçim
 """
 
 
 def build_retry_prompt(analysis, previous_attempts):
-    """Önceki başarısız denemeler sonrası daha hedefli istek."""
-    
     failed_list = ""
     for i, attempt in enumerate(previous_attempts, 1):
         failed_list += f"{i}. '{attempt['title']}' - {attempt['artist']}\n"
@@ -265,53 +248,60 @@ def build_retry_prompt(analysis, previous_attempts):
 
 Yeni bir öneri yap. ÇOK KATI KISIT: Eserin Wikipedia'da kendi ayrı sayfası olmalı (sanatçı sayfasında geçmesi YETMEZ). 
 
-Bunu garanti etmenin en iyi yolu: çok ünlü, kanonik eserlerden seç. Şu kriterlerden en az birini sağlayanlar genelde Wikipedia'da kendi sayfasına sahiptir:
-- Müze koleksiyonlarının "imza" eserleri (Yıldızlı Gece, Mona Lisa, Las Meninas tarzı)
-- Sanat tarihinde dönüm noktası eserler (Avignon Kızları, Pisuvar/Fountain, Çeşme, Black Square)  
-- Çağdaş sanatın ikonik işleri (Girl with Balloon, Comedian, The Physical Impossibility of Death, Cloud Gate, Maman, For the Love of God)
-- Açık alanda büyük heykeller (Cloud Gate, Spoonbridge and Cherry, Maman)
+Bunu garanti etmenin en iyi yolu: çok ünlü, kanonik eserlerden seç.
 
 Atmosfer: {analysis.get('day_mood', '')}
 Baskın duygu: {analysis.get('dominant_emotion', '')}
 Temalar: {', '.join(analysis.get('key_themes', []))}
 
-Aynı JSON formatında cevap ver, müzik önerisini de yenile (önceki denemelerle uyumlu olabilir):
-
-{{
-  "artwork": {{
-    "title": "...",
-    "artist": "...",
-    "year": "...",
-    "medium": "...",
-    "form": "...",
-    "location": "...",
-    "description": "...",
-    "wikipedia_title_guess": "..."
-  }},
-  "music": {{
-    "title": "...",
-    "artist": "...",
-    "album": "...",
-    "year": "...",
-    "genre": "...",
-    "mood": "...",
-    "spotify_search": "..."
-  }},
-  "curator_statement": "..."
-}}
+Aynı JSON formatında cevap ver, müzik önerisini de yenile.
 """
 
 
-def call_gemini(client, prompt):
-    response = client.models.generate_content(
-        model=MODEL_NAME,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.9,
-        ),
-    )
-    return json.loads(response.text)
+def call_gemini_with_retry(client, prompt):
+    """Gemini'yi çağırır, 503/429 hatalarında retry yapar."""
+    last_error = None
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.9,
+                ),
+            )
+            return json.loads(response.text)
+        except Exception as e:
+            error_str = str(e)
+            last_error = e
+            
+            is_retryable = (
+                "503" in error_str or
+                "UNAVAILABLE" in error_str or
+                "429" in error_str or
+                "RESOURCE_EXHAUSTED" in error_str or
+                "timeout" in error_str.lower() or
+                "deadline" in error_str.lower()
+            )
+            
+            # JSON decode hatası retry edilmemeli
+            if isinstance(e, json.JSONDecodeError):
+                raise
+            
+            if not is_retryable:
+                raise
+            
+            if attempt < MAX_RETRIES - 1:
+                delay = RETRY_DELAYS[attempt]
+                print(f"   ⏳ Gemini hatası (deneme {attempt+1}/{MAX_RETRIES}): {error_str[:100]}")
+                print(f"      {delay} saniye bekleniyor...")
+                time.sleep(delay)
+            else:
+                print(f"   ❌ Son denemede de başarısız.")
+    
+    raise last_error
 
 
 # ====================== Ana Akış ======================
@@ -336,7 +326,6 @@ def main():
     
     client = genai.Client(api_key=api_key)
     
-    # Doğrulama döngüsü
     failed_attempts = []
     final_curation = None
     artwork_page = None
@@ -352,7 +341,7 @@ def main():
             prompt = build_retry_prompt(analysis, failed_attempts)
         
         try:
-            curation = call_gemini(client, prompt)
+            curation = call_gemini_with_retry(client, prompt)
         except Exception as e:
             print(f"❌ Gemini hatası: {e}")
             return
@@ -364,7 +353,6 @@ def main():
         print(f"\n🎨 Önerilen: '{title}' - {artist}")
         print(f"   {artwork.get('year', '?')} | {artwork.get('form', '?')} | {artwork.get('location', '?')}")
         
-        # Doğrula
         print(f"\n🔍 Wikipedia'da eser sayfası aranıyor (sıkı doğrulama)...")
         artwork_page = find_artwork_page_strict(title, artist)
         
@@ -382,20 +370,16 @@ def main():
             if attempt < MAX_ATTEMPTS:
                 print(f"   → Gemini'ye yeni öneri istetiliyor...")
     
-    # Sonuç
     if not final_curation:
         print(f"\n⚠️  {MAX_ATTEMPTS} denemede de doğrulanmış eser bulunamadı.")
-        print("Son denemeyi yine de kaydediyoruz, ama görsel olmayabilir.")
-        final_curation = curation  # Son denemeyi kullan
+        final_curation = curation
     
-    # Sanatçı sayfasını da arayalım (ek bilgi için)
     artist_name = final_curation.get("artwork", {}).get("artist", "")
     print(f"\n🔍 Sanatçı sayfası aranıyor: {artist_name}")
     artist_page = find_artist_page(artist_name)
     if artist_page:
         print(f"   ✓ {artist_page['page_url']}")
     
-    # Özet
     artwork = final_curation.get("artwork", {})
     music = final_curation.get("music", {})
     
@@ -426,7 +410,6 @@ def main():
     print("=" * 60)
     print(final_curation.get("curator_statement", ""))
     
-    # Kaydet
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "model_used": MODEL_NAME,
