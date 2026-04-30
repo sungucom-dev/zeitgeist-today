@@ -1,8 +1,8 @@
 """
 curate.py
 Günün analizini okur, Gemini'den sanat eseri ve müzik önerisi ister.
+Son 30 günün arşivini tarar, daha önce seçilmiş eser/parçaları engeller.
 Sanat eseri için Wikipedia'da kendi sayfası ve görseli olduğunu doğrular.
-Bulamazsa Gemini'ye geri besleme yapıp tekrar önerisini ister (max 3 deneme).
 Sonucu curation.json olarak kaydeder.
 """
 
@@ -21,15 +21,78 @@ load_dotenv()
 
 INPUT_FILE = "day_analysis.json"
 OUTPUT_FILE = "curation.json"
+ARCHIVE_DIR = Path("archive")
 MODEL_NAME = "gemini-2.5-flash-lite"
 USER_AGENT = "ZeitgeistToday/1.0 (https://sungu.com; personal project)"
 MAX_ATTEMPTS = 3
 
-# Gemini retry ayarları
 MAX_RETRIES = 6
 RETRY_DELAYS = [30, 60, 120, 240, 480, 600]
 
+# Son kaç günün arşivine bakılsın
+HISTORY_DAYS = 60
+
 HEADERS = {"User-Agent": USER_AGENT}
+
+
+# ====================== Arşiv okuma ======================
+
+def load_recent_history():
+    """Son HISTORY_DAYS günlük arşivi tarar, seçilmiş eser ve müzikleri toplar."""
+    if not ARCHIVE_DIR.exists():
+        return [], []
+    
+    files = sorted(ARCHIVE_DIR.glob("*.json"), reverse=True)[:HISTORY_DAYS]
+    
+    artworks = []
+    musics = []
+    
+    for f in files:
+        try:
+            with open(f, encoding="utf-8") as file:
+                data = json.load(file)
+            
+            artwork = data.get("artwork")
+            if artwork and artwork.get("title"):
+                artworks.append({
+                    "date": data.get("date"),
+                    "title": artwork.get("title"),
+                    "artist": artwork.get("artist"),
+                })
+            
+            music = data.get("music")
+            if music and music.get("title"):
+                musics.append({
+                    "date": data.get("date"),
+                    "title": music.get("title"),
+                    "artists": music.get("artists"),
+                })
+        except Exception:
+            continue
+    
+    return artworks, musics
+
+
+def format_history_block(artworks, musics):
+    """Geçmiş seçimleri prompt için formatlar."""
+    if not artworks and not musics:
+        return ""
+    
+    block = "\n\n=== SON GÜNLERDE SEÇİLEN ESERLER VE MÜZİKLER ===\n"
+    block += "Aşağıdaki seçimler zaten yapıldı, BUNLARDAN HİÇBİRİNİ TEKRAR ÖNERME:\n\n"
+    
+    if artworks:
+        block += "Eserler:\n"
+        for a in artworks:
+            block += f"  - \"{a['title']}\" / {a['artist']} ({a.get('date', '?')})\n"
+    
+    if musics:
+        block += "\nMüzikler:\n"
+        for m in musics:
+            block += f"  - \"{m['title']}\" / {m['artists']} ({m.get('date', '?')})\n"
+    
+    block += "\nBu listede olan hiçbir esere veya parçaya geri dönme. Yeni, farklı seçimler yap.\n"
+    return block
 
 
 # ====================== Wikipedia Yardımcıları ======================
@@ -176,7 +239,7 @@ def find_artist_page(artist):
 
 # ====================== Gemini Yardımcıları ======================
 
-def build_initial_prompt(analysis):
+def build_initial_prompt(analysis, history_block):
     clusters_summary = ""
     for c in analysis.get("clusters", [])[:15]:
         clusters_summary += f"- [{c.get('importance', '?')}/10] {c.get('title', '')}: {c.get('summary', '')}\n"
@@ -195,20 +258,21 @@ ANAHTAR TEMALAR: {', '.join(analysis.get('key_themes', []))}
 {clusters_summary}
 
 KÜRATÖR NOTU: {analysis.get('curator_note', '')}
-
+{history_block}
 ÖNEMLİ KISITLAR:
 
 Sanat eseri seçiminde:
-- Eser Wikipedia'da KENDİ AYRI SAYFASI olan kanonik bir iş olmalı (sadece sanatçı sayfasında geçen değil)
-- Yani gerçekten ünlü, üzerinde yazılmış, müzelerde olan eserler
+- Eser Wikipedia'da KENDİ AYRI SAYFASI olan kanonik bir iş olmalı
 - Klasikten çağdaşa serbest, ama her durumda Wikipedia'da sayfası olan
-- Klişeden kaçın ama "Wikipedia'da sayfası vardır" diye emin olduklarını seç
+- Klişeden kaçın, beklenmedik seçimler yap
 - Resim, heykel, enstalasyon, fotoğraf, video, performans — her form serbest
+- Yukarıda listelenmiş geçmiş seçimleri TEKRARLAMA
 
 Müzik seçiminde:
 - Spotify'da bulunabilen gerçek bir parça olmalı
 - Tür sınırlaması yok
 - Sanatçı ve parça adı kesin olmalı
+- Yukarıda listelenmiş geçmiş seçimleri TEKRARLAMA
 
 CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
 
@@ -237,7 +301,7 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
 """
 
 
-def build_retry_prompt(analysis, previous_attempts):
+def build_retry_prompt(analysis, previous_attempts, history_block):
     failed_list = ""
     for i, attempt in enumerate(previous_attempts, 1):
         failed_list += f"{i}. '{attempt['title']}' - {attempt['artist']}\n"
@@ -253,13 +317,12 @@ Bunu garanti etmenin en iyi yolu: çok ünlü, kanonik eserlerden seç.
 Atmosfer: {analysis.get('day_mood', '')}
 Baskın duygu: {analysis.get('dominant_emotion', '')}
 Temalar: {', '.join(analysis.get('key_themes', []))}
-
-Aynı JSON formatında cevap ver, müzik önerisini de yenile.
+{history_block}
+Aynı JSON formatında cevap ver, müzik önerisini de yenile (geçmişte seçilmiş olanlardan farklı).
 """
 
 
 def call_gemini_with_retry(client, prompt):
-    """Gemini'yi çağırır, 503/429 hatalarında retry yapar."""
     last_error = None
     
     for attempt in range(MAX_RETRIES):
@@ -286,7 +349,6 @@ def call_gemini_with_retry(client, prompt):
                 "deadline" in error_str.lower()
             )
             
-            # JSON decode hatası retry edilmemeli
             if isinstance(e, json.JSONDecodeError):
                 raise
             
@@ -304,6 +366,25 @@ def call_gemini_with_retry(client, prompt):
     raise last_error
 
 
+def is_in_history(title, artist, history_artworks):
+    """Önerilen eser geçmişte var mı?"""
+    title_lower = title.lower().strip()
+    artist_lower = artist.lower().strip()
+    
+    for h in history_artworks:
+        h_title = h.get("title", "").lower().strip()
+        h_artist = h.get("artist", "").lower().strip()
+        
+        # Hem başlık hem sanatçı eşleşiyor ise tekrar
+        if title_lower == h_title and artist_lower == h_artist:
+            return True
+        # Sadece başlık çok benzer ise (aynı eser farklı yazımla)
+        if h_title and title_lower == h_title:
+            return True
+    
+    return False
+
+
 # ====================== Ana Akış ======================
 
 def main():
@@ -317,7 +398,12 @@ def main():
     analysis = data["analysis"]
     
     print(f"🎭 Günün Ruhu: {analysis.get('day_mood', '')[:120]}...")
-    print(f"💫 Baskın Duygu: {analysis.get('dominant_emotion', '?')}\n")
+    print(f"💫 Baskın Duygu: {analysis.get('dominant_emotion', '?')}")
+    
+    # Arşivi oku
+    history_artworks, history_musics = load_recent_history()
+    print(f"\n📚 Arşivden {len(history_artworks)} eser, {len(history_musics)} müzik bulundu (son {HISTORY_DAYS} gün)")
+    history_block = format_history_block(history_artworks, history_musics)
     
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
@@ -336,9 +422,9 @@ def main():
         print(f"{'='*60}")
         
         if attempt == 1:
-            prompt = build_initial_prompt(analysis)
+            prompt = build_initial_prompt(analysis, history_block)
         else:
-            prompt = build_retry_prompt(analysis, failed_attempts)
+            prompt = build_retry_prompt(analysis, failed_attempts, history_block)
         
         try:
             curation = call_gemini_with_retry(client, prompt)
@@ -353,6 +439,13 @@ def main():
         print(f"\n🎨 Önerilen: '{title}' - {artist}")
         print(f"   {artwork.get('year', '?')} | {artwork.get('form', '?')} | {artwork.get('location', '?')}")
         
+        # Önce: tekrar mı?
+        if is_in_history(title, artist, history_artworks):
+            print(f"   ⚠️  Bu eser arşivde zaten var, yeni öneri istetiliyor...")
+            failed_attempts.append({"title": title, "artist": artist})
+            continue
+        
+        # Sonra: Wikipedia'da var mı?
         print(f"\n🔍 Wikipedia'da eser sayfası aranıyor (sıkı doğrulama)...")
         artwork_page = find_artwork_page_strict(title, artist)
         
@@ -371,7 +464,7 @@ def main():
                 print(f"   → Gemini'ye yeni öneri istetiliyor...")
     
     if not final_curation:
-        print(f"\n⚠️  {MAX_ATTEMPTS} denemede de doğrulanmış eser bulunamadı.")
+        print(f"\n⚠️  {MAX_ATTEMPTS} denemede de doğrulanmış yeni eser bulunamadı.")
         final_curation = curation
     
     artist_name = final_curation.get("artwork", {}).get("artist", "")
@@ -401,8 +494,6 @@ def main():
     print("=" * 60)
     print(f"  Parça: {music.get('title')} - {music.get('artist')}")
     print(f"  Albüm: {music.get('album')} ({music.get('year')})")
-    print(f"  Tür: {music.get('genre')}")
-    print(f"  Atmosfer: {music.get('mood')}")
     
     print()
     print("=" * 60)
@@ -416,6 +507,7 @@ def main():
         "attempts": len(failed_attempts) + (1 if artwork_page else 0),
         "failed_attempts": failed_attempts,
         "verified": bool(artwork_page),
+        "history_count": len(history_artworks),
         "day_mood": analysis.get("day_mood"),
         "dominant_emotion": analysis.get("dominant_emotion"),
         "curation": final_curation,
