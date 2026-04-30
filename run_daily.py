@@ -5,14 +5,14 @@ Günün tüm pipeline'ını sırayla çalıştırır:
 2. Haber analizi (analyze_news.py)
 3. Küratöryel öneri + Wikipedia doğrulama (curate.py)
 4. Spotify arama (find_spotify_track.py)
-5. Final today.json üretimi + arşivleme
-
-Tek komutla: python run_daily.py
+5. Hava durumu (Open-Meteo, İzmir)
+6. Final today.json üretimi + arşivleme
 """
 
 import subprocess
 import json
 import sys
+import requests
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -25,8 +25,12 @@ STEPS = [
 
 ARCHIVE_DIR = Path("archive")
 
-# Türkiye saati için
+# Türkiye saati
 TR_TZ = timezone(timedelta(hours=3))
+
+# İzmir koordinatları
+IZMIR_LAT = 38.4192
+IZMIR_LON = 27.1287
 
 
 def run_step(script_name, description):
@@ -42,17 +46,56 @@ def run_step(script_name, description):
     return result.returncode == 0
 
 
-def step_succeeded(filename):
-    """Adımın başarılı tamamlandığını çıktı dosyasının varlığıyla doğrular."""
-    return Path(filename).exists()
+def fetch_weather():
+    """İzmir için Open-Meteo'dan 7 günlük hava tahmini çeker."""
+    print(f"\n{'='*70}")
+    print(f"▶  Hava durumu (İzmir, 7 günlük)")
+    print(f"{'='*70}")
+    
+    url = "https://api.open-meteo.com/v1/forecast"
+    params = {
+        "latitude": IZMIR_LAT,
+        "longitude": IZMIR_LON,
+        "daily": "weather_code,temperature_2m_max,temperature_2m_min",
+        "timezone": "Europe/Istanbul",
+        "forecast_days": 7,
+    }
+    
+    try:
+        r = requests.get(url, params=params, timeout=15)
+        r.raise_for_status()
+        data = r.json().get("daily", {})
+        
+        days = []
+        for i, date in enumerate(data.get("time", [])):
+            days.append({
+                "date": date,
+                "code": data.get("weather_code", [None])[i],
+                "temp_max": data.get("temperature_2m_max", [None])[i],
+                "temp_min": data.get("temperature_2m_min", [None])[i],
+            })
+        
+        print(f"   ✓ {len(days)} günlük tahmin alındı")
+        for d in days:
+            print(f"     {d['date']}: kod={d['code']}, "
+                  f"{d['temp_min']}°C - {d['temp_max']}°C")
+        
+        return {
+            "location": "İzmir",
+            "latitude": IZMIR_LAT,
+            "longitude": IZMIR_LON,
+            "days": days,
+        }
+    except Exception as e:
+        print(f"   ⚠️  Hava durumu hatası: {e}")
+        return None
 
 
-def build_today_json():
+def build_today_json(weather):
     print(f"\n{'='*70}")
     print(f"▶  Final today.json üretiliyor")
     print(f"{'='*70}")
     
-    # TR saatiyle bugün
     today = datetime.now(TR_TZ)
     today_iso = today.strftime("%Y-%m-%d")
     today_human = today.strftime("%d %B %Y")
@@ -91,6 +134,7 @@ def build_today_json():
             "key_themes": data["analysis"]["analysis"].get("key_themes", []) if data["analysis"] else [],
         },
         
+        "weather": weather,
         "clusters": [],
         "artwork": None,
         "music": None,
@@ -170,22 +214,22 @@ def print_summary(today_json):
     mood = today_json.get("mood", {})
     print(f"🎭 Günün Ruhu:")
     print(f"   {mood.get('description', '?')}\n")
-    print(f"💫 Baskın Duygu: {mood.get('dominant_emotion', '?')}")
-    print(f"🔑 Anahtar Temalar: {', '.join(mood.get('key_themes', []))}\n")
+    
+    weather = today_json.get("weather")
+    if weather and weather.get("days"):
+        first = weather["days"][0]
+        print(f"🌤  Bugün İzmir: {first.get('temp_min')}°C - {first.get('temp_max')}°C\n")
     
     artwork = today_json.get("artwork", {})
     if artwork:
         verified = "✓" if artwork.get("verified") else "✗"
         print(f"🖼️  Eser ({verified} doğrulandı):")
         print(f"   {artwork.get('title')} — {artwork.get('artist')} ({artwork.get('year')})")
-        if artwork.get("wikipedia_url"):
-            print(f"   {artwork.get('wikipedia_url')}")
     
     music = today_json.get("music", {})
     if music:
         print(f"\n🎵 Müzik:")
         print(f"   {music.get('title')} — {music.get('artists')}")
-        print(f"   {music.get('spotify_url')}")
     
     print(f"\n{'='*70}\n")
 
@@ -193,14 +237,13 @@ def print_summary(today_json):
 def main():
     start_time = datetime.now()
     
-    # Eski ara dosyaları temizle ki kafamız karışmasın
+    # Eski ara dosyaları temizle
     for f in ["day_analysis.json", "curation.json", "spotify_result.json"]:
         Path(f).unlink(missing_ok=True)
     
     print(f"🚀 ZeitgeistToday günlük pipeline başlıyor")
     print(f"   {datetime.now(TR_TZ).strftime('%d %B %Y, %H:%M:%S')} TSİ")
     
-    # Adımları sırayla çalıştır - bir adım fail olursa dur
     expected_outputs = {
         "collect_news.py": "collected_news.json",
         "analyze_news.py": "day_analysis.json",
@@ -215,19 +258,19 @@ def main():
         
         success = run_step(script_name, description)
         
-        # subprocess başarılı bile dönse, çıktı dosyası oluşmadıysa adım fail demektir
         expected = expected_outputs.get(script_name)
         if expected and not Path(expected).exists():
             print(f"\n❌ {description} başarısız: {expected} oluşmadı.")
-            print(f"   Pipeline durduruldu, today.json üretilmeyecek.")
             sys.exit(1)
         
         if not success:
             print(f"\n❌ {description} başarısız (exit code != 0).")
-            print(f"   Pipeline durduruldu.")
             sys.exit(1)
     
-    today_json = build_today_json()
+    # Hava durumu (başarısız olsa bile pipeline devam etsin, kritik değil)
+    weather = fetch_weather()
+    
+    today_json = build_today_json(weather)
     print_summary(today_json)
     
     elapsed = datetime.now() - start_time
