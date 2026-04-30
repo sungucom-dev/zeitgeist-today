@@ -333,6 +333,7 @@ def call_gemini_with_retry(client, prompt):
                 config=types.GenerateContentConfig(
                     response_mime_type="application/json",
                     temperature=0.9,
+                    max_output_tokens=8192,
                 ),
             )
             return json.loads(response.text)

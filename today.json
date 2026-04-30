@@ -1,47 +1,175 @@
 {
   "date": "2026-04-30",
   "date_human": "30 April 2026",
-  "generated_at": "2026-04-29T21:55:48.077300+00:00",
+  "generated_at": "2026-04-30T04:04:47.540159+00:00",
   "stats": {
-    "feeds_collected": 264,
-    "news_total": 5091,
-    "news_analyzed": 605,
-    "clusters": 13
+    "feeds_collected": 276,
+    "news_total": 5331,
+    "news_analyzed": 611,
+    "clusters": 11
   },
   "mood": {
-    "description": "Gün, özellikle teknoloji ve ekonomi alanlarında yoğun bir aktivite ve belirsizlikle dolu. Jeopolitik gerilimler ve finansal piyasalardaki dalgalanmalar, genel bir endişe havası yaratırken, teknoloji dünyasındaki yenilikler ve gelişmeler umut verici.",
+    "description": "Küresel gerilimlerin ve ekonomik dalgalanmaların gölgesinde, teknoloji ve sanat dünyasındaki yeniliklerin umut aşıladığı, ancak gündelik yaşamın da önemli olaylarla dolu olduğu bir gün.",
     "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Küresel ekonomik ve jeopolitik gerilimler",
-      "Teknolojik yenilikler ve şirket hamleleri",
-      "Finansal piyasalarda faiz kararları ve dalgalanmalar",
-      "Savunma sanayii ve uluslararası anlaşmalar"
+      "Küresel jeopolitik gerilimler ve diplomatik temaslar",
+      "Teknoloji ve yapay zeka alanındaki gelişmeler ve yatırımlar",
+      "Ekonomik dalgalanmalar ve faiz kararları",
+      "Spor dünyasında şampiyonluklar ve transfer hareketliliği",
+      "Sanat ve eğlence sektöründeki yeni projeler ve etkinlikler"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-04-30",
+        "code": 2,
+        "temp_max": 26.8,
+        "temp_min": 10.4
+      },
+      {
+        "date": "2026-05-01",
+        "code": 80,
+        "temp_max": 17.0,
+        "temp_min": 11.4
+      },
+      {
+        "date": "2026-05-02",
+        "code": 3,
+        "temp_max": 18.1,
+        "temp_min": 9.4
+      },
+      {
+        "date": "2026-05-03",
+        "code": 61,
+        "temp_max": 15.4,
+        "temp_min": 8.6
+      },
+      {
+        "date": "2026-05-04",
+        "code": 3,
+        "temp_max": 18.6,
+        "temp_min": 6.3
+      },
+      {
+        "date": "2026-05-05",
+        "code": 1,
+        "temp_max": 22.8,
+        "temp_min": 9.0
+      },
+      {
+        "date": "2026-05-06",
+        "code": 2,
+        "temp_max": 26.3,
+        "temp_min": 12.5
+      }
     ]
   },
   "clusters": [
     {
-      "title": "Küresel Ekonomik Gerilimler ve Faiz Kararları",
-      "meta_category": "Ekonomi ve Finans",
-      "summary": "ABD Merkez Bankası (FED) faiz kararını açıkladı ve faizleri değiştirmeyerek piyasalarda belirsizliği artırdı. Avrupa'da ekonomik güven endeksi sert düşerken, jeopolitik gerilimler enerji fiyatlarını yükseltti. İran ve ABD arasındaki gerilim, petrol fiyatlarını ve küresel ticareti etkilemeye devam ediyor.",
-      "importance": 10,
-      "story_count": 89,
+      "title": "Küresel Gerilimler ve Diplomatik Hamleler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran'a yönelik abluka ve ABD-İran gerilimi ön plana çıkarken, Dışişleri Bakanı Fidan'ın Avusturya ve İspanya mevkidaşlarıyla görüşmeleri ve Küresel Sumud Filosu'na İsrail müdahalesi uluslararası ilişkilerdeki hassasiyeti gösteriyor. Savaşların ekonomik etkileri ve diplomatik açıklamalar da bu kümede yer alıyor.",
+      "importance": 9,
+      "story_count": 52,
       "stories": [
         {
-          "title": "FED Faiz Kararını Açıkladı!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/fed-faiz-kararini-acikladi4-863001",
+          "title": "Dışişleri Bakanı Fidan, İspanyol mevkidaşıyla Küresel Sumud Filosu'na yasa dışı müdahaleyi görüştü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-ispanyol-mevkidasiyla-kuresel-sumud-filosuna-yasa-disi-mudahaleyi-gorustu/3922343",
           "also_in": [
-            "F5 Haber",
+            "dikGAZETE",
+            "Haber Global",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran medyası: ABD'nin deniz ablukasına yakında \"emsalsiz bir eylemle\" karşılık verilecek",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5981924/iran-medyasi-abdnin-deniz-ablukasina-yakinda-emsalsiz-bir-eylemle-karsilik-verilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İstiklal",
+            "Sputnik",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Dışişleri Bakanı Fidan, Avusturya Başbakanı Stocker tarafından kabul edildi",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/disisleri-bakani-fidan-avusturya-basbakani-stocker-tarafindan-kabul-edildi",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "İsrail basını: Trump ve Netanyahu, Lübnan ve İran meselelerini görüştü",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5981936/israil-basini-trump-ve-netanyahu-lubnan-ve-iran-meselelerini-gorustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Haberler",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "İsrail'den Sumud filosuna müdahale",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/dunya/israilden-sumud-filosuna-mudahale-haberi-891220",
+          "also_in": [
+            "İstiklal",
+            "OdaTV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Kararlar ve Piyasa Hareketleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "ABD Merkez Bankası'nın (Fed) faiz kararını açıklaması, piyasalarda önemli bir gündem maddesi oldu. Euro Bölgesi'nde ekonomik güvenin düşmesi, petrol fiyatlarındaki sert yükseliş ve gıda enflasyonundaki artış gibi gelişmeler ekonomik belirsizliği artırdı. Türkiye'de ise işsizlik rakamları ve sektör daralmaları öne çıktı.",
+      "importance": 8,
+      "story_count": 72,
+      "stories": [
+        {
+          "title": "İkinci el piyasasında ezber bozan karar: Yetki belgesinde eğitim kriteri esnetildi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/otomobil/ikinci-el-piyasasinda-ezber-bozan-karar-yetki-belgesinde-egitim-kriteri-esnetildi/102235",
+          "also_in": [
+            "Megabayt Otomobil"
+          ]
+        },
+        {
+          "title": "FIFA’dan Dünya Kupası’na katılacak ülkelere 871 milyon dolar",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/fifadan-dunya-kupasina-katilacak-ulkelere-871-milyon-dolar/",
+          "also_in": []
+        },
+        {
+          "title": "Fed faiz kararını açıkladı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/fed-faiz-kararini-acikladi-6913595",
+          "also_in": [
             "Evrensel",
             "Ekonomim",
             "Gazete Pencere",
-            "Haber 7",
+            "İnternet Haber",
             "İstiklal",
-            "OdaTV",
             "Haberler",
-            "Yeniçağ Gazetesi",
+            "OdaTV",
             "CNBC-e",
             "Yurtsever"
+          ]
+        },
+        {
+          "title": "Kırsal Kalkınma Yatırım Programı 2026 başvuru dönemi başladı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/kirsal-kalkinma-yatirim-programi-2026-basvuru-donemi-basladi",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler",
+            "Bigpara"
           ]
         },
         {
@@ -53,44 +181,15 @@
             "Türkgün",
             "Yeniçağ Gazetesi"
           ]
-        },
-        {
-          "title": "İran medyası: ABD'nin deniz ablukasına yakında \"emsalsiz bir eylemle\" karşılık verilecek",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/5981924/iran-medyasi-abdnin-deniz-ablukasina-yakinda-emsalsiz-bir-eylemle-karsilik-verilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "İstiklal",
-            "TRT Haber",
-            "Sputnik"
-          ]
-        },
-        {
-          "title": "Borsada bugünkü işlemlerin takası 4 Mayıs'ta yapılacak",
-          "source": "Haber 7",
-          "link": "https://ekonomi.haber7.com/ekonomi/haber/3623971-borsada-bugunku-islemlerin-takasi-4-mayista-yapilacak",
-          "also_in": [
-            "TRT Haber",
-            "Döviz",
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "Avrupa gaz fiyatları jeopolitik gerilimle sert yükseldi",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/ekonomi/avrupa-gaz-fiyatlari-jeopolitik-gerilimle-sert-19791510-haberi/",
-          "also_in": [
-            "Türkgün",
-            "TRT Haber"
-          ]
         }
       ]
     },
     {
-      "title": "Teknoloji Sektöründe Yenilikler ve Şirket Hamleleri",
+      "title": "Teknoloji Sektöründe Yenilikler ve Gelişmeler",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Teknoloji dünyası, otomotivden yapay zekaya, iletişimden oyunlara kadar geniş bir yelpazede yeniliklerle çalkalanıyor. Japon otomotiv devlerinin Türkiye'ye dönüşü, yeni elektrikli araç modelleri, yapay zeka entegrasyonları ve popüler platformlardaki kesintiler günün öne çıkan başlıkları arasında.",
-      "importance": 9,
-      "story_count": 99,
+      "summary": "Teknoloji dünyası, Japon otomotiv devlerinin Türkiye'ye dönüşü, yeni elektrikli araç modelleri, akıllı telefonlar, kablosuz mikrofonlar ve yapay zeka alanındaki gelişmelerle hareketli bir gün geçirdi. Kanser tedavisindeki buluşlar ve dijital güvenlik çözümleri de dikkat çekti.",
+      "importance": 8,
+      "story_count": 50,
       "stories": [
         {
           "title": "Japon otomotiv devi Türkiye'ye geri dönüyor",
@@ -136,20 +235,20 @@
       ]
     },
     {
-      "title": "Spor Dünyasında Transfer Hareketliliği ve Liderlik Mücadeleleri",
+      "title": "Spor Dünyasında Şampiyonluklar ve Transfer Haberleri",
       "meta_category": "Spor",
-      "summary": "Futbol dünyası, transfer dedikoduları, başkanlık adaylıkları ve kritik maçlarla hareketli bir gün geçiriyor. Erzurumspor'un şampiyonluğu, büyük kulüplerin transfer operasyonları ve Şampiyonlar Ligi'ndeki çeyrek final heyecanı öne çıkıyor. Basketbolda da Fenerbahçe Beko'nun galibiyeti dikkat çekiyor.",
-      "importance": 8,
-      "story_count": 66,
+      "summary": "Erzurumspor FK'nın şampiyonluk kutlamaları ve kupasını alması spor gündeminin en önemli başlıklarındandı. Transfer döneminin hareketlenmesiyle Beşiktaş, Trabzonspor ve Galatasaray'ın adı birçok oyuncuyla anılırken, Fenerbahçe'de de başkanlık adaylığı ve transfer gelişmeleri takip edildi. Atletico Madrid-Arsenal maçı ise nefesleri kesti.",
+      "importance": 7,
+      "story_count": 82,
       "stories": [
         {
           "title": "Erzurumspor şampiyonluk turu attı",
           "source": "NTV Spor Anasayfa",
           "link": "https://www.ntvspor.net/foto-galeri/erzurumspor-sampiyonluk-turu-atti-421950",
           "also_in": [
-            "Fotospor",
             "NTV Spor Futbol",
-            "Haber Global",
+            "Fotospor",
+            "dikGAZETE",
             "Haberler"
           ]
         },
@@ -158,8 +257,19 @@
           "source": "A Spor",
           "link": "https://www.aspor.com.tr/tff-birinci-lig/2026/04/29/erzurumspor-fk-sampiyonluk-kupasini-aldi",
           "also_in": [
+            "Fotomaç",
             "Halk TV",
             "Medya Gazete"
+          ]
+        },
+        {
+          "title": "İspanya'da rakibine yumruk atan Arjantinli kaleci Andrada'ya 13 maçlık rekor ceza!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/futbol/2026/04/29/ispanyada-rakibine-yumruk-atan-arjantinli-kaleci-andradaya-13-maclik-rekor-ceza",
+          "also_in": [
+            "Diriliş Postası",
+            "dikGAZETE",
+            "TRT Haber"
           ]
         },
         {
@@ -167,87 +277,72 @@
           "source": "A Spor",
           "link": "https://www.aspor.com.tr/besiktas/2026/04/29/besiktastan-transfer-operasyonu-4-isim",
           "also_in": [
+            "Fotomaç",
             "Duhuliye"
           ]
         },
         {
-          "title": "Ve Aziz Yıldırım'dan başkan adaylığıyla ilgili ilk açıklama geldi",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/ve-aziz-yildirimdan-baskan-adayligiyla-ilgili-ilk-aciklama-geldi-421959",
+          "title": "Trabzonspor Başkanı Ertuğrul Doğan: İstanbul merkezli düzene karşı...",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/trabzonspor/2026/04/29/trabzonspor-baskani-ertugrul-dogan-istanbul-merkezli-duzene-karsi",
           "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Trabzonspor'da kritik dönemeç: Andre Onana için net rakam masaya koyuldu",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/trabzonsporda-kritik-donemec-andre-onana-icin-net-rakam-masaya-koyuldu-421952",
-          "also_in": [
-            "NTV Spor Futbol"
+            "Fotomaç"
           ]
         }
       ]
     },
     {
-      "title": "Kültür, Sanat ve Bilimsel Keşifler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Kültür ve sanat dünyasında yeni festivaller, yarışmalar ve yayınlar duyurulurken, bilimsel alanda da ilginç keşifler ve araştırmalar yer alıyor. Tarihi eserlerin bulunması, antik paraların incelenmesi ve insan hafızası gibi konular merak uyandırıyor.",
-      "importance": 7,
-      "story_count": 188,
-      "stories": [
-        {
-          "title": "Hoş Anılarınız Şaşırtıcı Derecede Basit Bir Nedenle Yok Olabilir",
-          "source": "Fizikist",
-          "link": "https://www.fizikist.com/hos-anilariniz-sasirtici-derecede-basit-bir-nedenle-yok-olabilir",
-          "also_in": []
-        },
-        {
-          "title": "Kanser Riskinde Yaşam Tarzı Faktörlerinin Rolü",
-          "source": "Gelecek Bilimde",
-          "link": "https://gelecekbilimde.net/kanser-riskinde-yasam-tarzi-faktorlerinin-rolu/",
-          "also_in": []
-        },
-        {
-          "title": "Tarihin En Kötü İcatları: İyi Niyetle Başlayıp Hüsranla Biten 10 Tasarım",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/tarihin-en-kotu-icatlari-iyi-niyetle-baslayip-husranla-biten-10-tasarim-22836",
-          "also_in": []
-        },
-        {
-          "title": "Evcil Hayvanınızın Kişiliğini de Klonlayabilir misiniz?",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/evcil-hayvaninizin-kisiligini-de-klonlayabilir-misiniz-22422",
-          "also_in": []
-        },
-        {
-          "title": "İspanya’da Hadrianus Duvarı’nı Betimleyen Kase Bulundu",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/ispanyada-hadrianus-duvarini-betimleyen-kase-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=ispanyada-hadrianus-duvarini-betimleyen-kase-bulundu",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Eğlence Sektöründe Yapım ve Yayın Haberleri",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Televizyon dizileri, filmler ve oyun dünyasıyla ilgili yeni duyurular ve gelişmeler eğlence gündemini meşgul ediyor. Popüler dizilerin sezon finalleri, yeni film projeleri ve oyun güncellemeleri takip ediliyor. Ünlü isimlerin hayatındaki gelişmeler de magazin sayfalarında yer buluyor.",
+      "title": "Toplumsal ve Günlük Yaşamdan Haberler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Gündelik yaşamı etkileyen çeşitli olaylar, kazalar, hukuki gelişmeler ve toplumsal konular haberlerde yer buldu. Hakim ve savcı atamaları, trafik kazaları, şiddet olayları ve eğitimle ilgili düzenlemeler günün dikkat çeken başlıkları arasındaydı.",
       "importance": 6,
-      "story_count": 81,
+      "story_count": 185,
       "stories": [
         {
-          "title": "Ted Lasso 4. sezon geliyor: Richmond’da yeni takım, yeni mücadele",
+          "title": "Bir WhatsApp mesajıyla başlayan kabus: Makam odasında koltuklar havada uçuştu, acı son karakolda geldi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/otomobil/bir-whatsapp-mesajiyla-baslayan-kabus-makam-odasinda-koltuklar-havada-ucustu-aci-son-karakolda-geldi/102240",
+          "also_in": [
+            "Megabayt Otomobil"
+          ]
+        },
+        {
+          "title": "İkinci el piyasasında ezber bozan karar: Yetki belgesinde eğitim kriteri esnetildi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/otomobil/ikinci-el-piyasasinda-ezber-bozan-karar-yetki-belgesinde-egitim-kriteri-esnetildi/102235",
+          "also_in": [
+            "Megabayt Otomobil"
+          ]
+        },
+        {
+          "title": "Yurt dışı telefon sahiplerine son uyarı: 54 bin TL ödemeyenlerin cihazı kararıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yurt-disi-telefon-sahiplerine-son-uyari-54-bin-tl-odemeyenlerin-cihazi-karariyor/102232",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "5G avcılarına polis darbesi: Milyonluk kuleleri yakmanın bedeli ağır oldu",
           "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/ted-lasso-4-sezon-geliyor-richmondda-yeni-takim-yeni-mucadele_179874.html",
+          "link": "https://www.chip.com.tr/guncel/5g-avcilarina-polis-darbesi-milyonluk-kuleleri-yakmanin-bedeli-agir-oldu_179886.html",
           "also_in": []
         },
         {
-          "title": "MasterChef’in Etkinliğine İzmir’de Büyük İlgi!",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/masterchef-in-etkinligine-izmir-de-buyuk-ilgi-1356402",
-          "also_in": [
-            "OdaTV"
-          ]
-        },
+          "title": "Akreplerin milyonlarca yıllık metal sırrı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/akreplerin-milyonlarca-yillik-metal-sirri_179904.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eğlence ve Kültür Sanat Dünyasındaki Yenilikler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Sinema ve dizi dünyası, yeni film duyuruları, Netflix yapımları ve oyuncu haberleriyle öne çıkarken, müzik listeleri ve festivaller de ilgi gördü. Edebiyat, sanat ve tasarım alanındaki çeşitli etkinlikler ve söyleşiler de kültürel zenginliği yansıttı.",
+      "importance": 6,
+      "story_count": 100,
+      "stories": [
         {
           "title": "Psikolojik Gerilim \"Foxfinder\" İçin Dev Kadro Kuruldu!",
           "source": "Beyaz Perde",
@@ -265,131 +360,91 @@
           "source": "Beyaz Perde",
           "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000201912/",
           "also_in": []
+        },
+        {
+          "title": "Kaz Dağları’nın Gölgesinde Sinema Şöleni: İDA Edremit Film Festivali İçin Geri Sayım Başladı",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000201872/",
+          "also_in": []
+        },
+        {
+          "title": "TOD'un Yeni Komedisi “Her Şey Mümkün”ün Fragmanı Geldi",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000201868/",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Toplumsal Olaylar ve Adli Vakalar",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Günlük yaşamdan gelen haberler arasında trajik kazalar, cinayet davaları ve toplumsal sorunlara dikkat çeken olaylar yer alıyor. Restoranlara silahlı saldırılar, eşini öldüren sanıklar ve çocuk terliği toplatma kararları gibi haberler, toplumun farklı kesimlerindeki sorunları gözler önüne seriyor.",
-      "importance": 5,
-      "story_count": 194,
+      "title": "Bilim ve Tarihe Yolculuk",
+      "meta_category": "Diğer",
+      "summary": "İnsanlık tarihine dair ilginç bulgular, eski buluşlar ve bilimsel merak uyandıran konular haberlerde yer aldı. Tarihin gizemleri, bilimsel keşifler ve insanlığın geçmişine ışık tutan araştırmalar bu kümede toplandı.",
+      "importance": 4,
+      "story_count": 31,
       "stories": [
         {
-          "title": "Kadıköy'de restorana silahlı saldırı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/kadikoyde-restorana-silahli-saldiri-575268",
+          "title": "Bu Adam 17.000 Yıl Önce Pusuya Düşürülmüş Olabilir",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/bu-adam-17-000-yil-once-pusuya-dusurulmus-olabilir/?utm_source=rss&utm_medium=rss&utm_campaign=bu-adam-17-000-yil-once-pusuya-dusurulmus-olabilir",
+          "also_in": []
+        },
+        {
+          "title": "İspanya’da Hadrianus Duvarı’nı Betimleyen Kase Bulundu",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/ispanyada-hadrianus-duvarini-betimleyen-kase-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=ispanyada-hadrianus-duvarini-betimleyen-kase-bulundu",
+          "also_in": []
+        },
+        {
+          "title": "Şempanzeler Androidlerden Esneme Kapabiliyor",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/sempanzeler-androidlerden-esneme-kapabiliyor/?utm_source=rss&utm_medium=rss&utm_campaign=sempanzeler-androidlerden-esneme-kapabiliyor",
+          "also_in": []
+        },
+        {
+          "title": "Tarihin En Kötü İcatları: İyi Niyetle Başlayıp Hüsranla Biten 10 Tasarım",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/tarihin-en-kotu-icatlari-iyi-niyetle-baslayip-husranla-biten-10-tasarim-22836",
+          "also_in": []
+        },
+        {
+          "title": "Hoş Anılarınız Şaşırtıcı Derecede Basit Bir Nedenle Yok Olabilir",
+          "source": "Fizikist",
+          "link": "https://www.fizikist.com/hos-anilariniz-sasirtici-derecede-basit-bir-nedenle-yok-olabilir",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayii ve Teknolojik İhracat",
+      "meta_category": "Savunma ve Sanayi",
+      "summary": "Savunma sanayii alanında Otokar'ın Rumen şirketi devralması, HÜRJET'in İspanya'ya ihracatı ve yeni nesil savunma çözümlerinin tanıtımı gibi gelişmeler yaşandı. İHA teknolojileri ve küresel savunma pazarındaki hareketlilik de dikkat çekti.",
+      "importance": 4,
+      "story_count": 24,
+      "stories": [
+        {
+          "title": "Milli Muharip Uçağı KAAN’a yerli top sistemi desteği",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/milli-muharip-ucagi-kaana-yerli-top-sistemi-destegi-video-galerisi-2441498.htm",
           "also_in": [
-            "Elips Haber",
-            "Haber Global"
+            "İnternet Haber"
           ]
         },
         {
-          "title": "Estetik salonlarında yasaklı ekipman operasyonu",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/estetik-salonlarinda-yasakli-ekipman-operasyonu-2499678",
+          "title": "Milli Savunma Bakanlığında \"Savunma Sanayi Değerlendirme Toplantısı\" düzenlendi",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/milli-savunma-bakanliginda-savunma-sanayi-degerlendirme-toplantisi-duzenlendi-2441481h.htm",
           "also_in": [
-            "Haberler",
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "Hamile eşini öldüren sanığa ağırlaştırılmış müebbet",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/hamile-esini-olduren-saniga-agirlastirilmis-muebbet-2499607",
-          "also_in": [
-            "Halk TV",
             "Haberler"
           ]
         },
         {
-          "title": "Çocuk terliği için toplatma kararı! Anne babalar dikkat",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/cocuk-terligi-icin-toplatma-karari-anne-babalar-dikkat-6913634",
+          "title": "Bakan Bayraktar: \"Maden ruhsatlarını iptal edersek işçi kardeşlerimizin faydasına olmaz, istihdam biter\"",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/politika/bakan-bayraktar-maden-ruhsatlarini-iptal-edersek-19791402-haberi/",
           "also_in": [
-            "Sözcü",
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Bursa'da genç öğretmenin şüpheli ölümü!",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/bursada-genc-ogretmenin-supheli-olumu-6913633",
-          "also_in": [
-            "Sözcü",
-            "Sözcü Gündem"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Politik ve Hukuki Gelişmeler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Siyasi arenada görev değişiklikleri, hukuki soruşturmalar ve uluslararası ilişkilerdeki gelişmeler dikkat çekiyor. Hakim ve savcıların görev yerlerinin değişmesi, bazı gazeteciler hakkında başlatılan soruşturmalar ve uluslararası diplomasi trafiği günün siyasi gündemini oluşturuyor.",
-      "importance": 5,
-      "story_count": 121,
-      "stories": [
-        {
-          "title": "Mine Kırıkkanat hakkında soruşturma başlatıldı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/mine-kirikkanat-hakkinda-sorusturma-baslatildi-575240",
-          "also_in": [
-            "Evrensel",
-            "Haber Global",
-            "Haberler",
-            "soL Haber"
-          ]
-        },
-        {
-          "title": "34 hakim ve savcının görev yeri değişti",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/34-hakim-ve-savcinin-gorev-yeri-degisti/?utm_source=rss&utm_medium=rss&utm_campaign=34-hakim-ve-savcinin-gorev-yeri-degisti",
-          "also_in": [
-            "İstiklal",
-            "Haberler",
-            "Sözcü",
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Ankara Valisi Şahin, TİHEK Başkanlığına seçildi",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/ankara-valisi-sahin-tihek-baskanligina-secildi-6913643",
-          "also_in": [
-            "En Son Haber",
-            "Haberet",
-            "Haberler",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Türkiye Diyanet Vakfına kurban bağışında bulundu",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-turkiye-diyanet-vakfina-kurban-bagisinda-bulundu",
-          "also_in": [
-            "Diyanet Haber",
-            "Haberler",
             "Medya Gazete"
           ]
         },
-        {
-          "title": "Bakan Gürlek’ten Gülistan Doku açıklaması: Olayı çözecek kişi Umut Altaş",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/04/29/bakan-gurlekten-gulistan-doku-aciklamasi-olayi-cozecek-kisi-umut-altas",
-          "also_in": [
-            "BHA",
-            "Bir Gazete"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayiinde İhracat ve Yeni Teknolojiler",
-      "meta_category": "Savunma ve Sanayi",
-      "summary": "Türkiye'nin savunma sanayii, uluslararası alanda ihracat anlaşmaları ve yeni nesil projelerle öne çıkıyor. Otokar'ın Rumen şirketi devralması, Hürjet'in İspanya'ya ihracatı ve milli projelerin tanıtımı, sektörün gelişimini gösteriyor.",
-      "importance": 4,
-      "story_count": 16,
-      "stories": [
         {
           "title": "OTOKAR, Rumen şirketi devraldı",
           "source": "DefenceTurk",
@@ -401,72 +456,97 @@
           "source": "DefenceTurk",
           "link": "https://www.defenceturk.net/ispanyaya-hurjet-ihracatinda-yeni-detaylar-yuzde-altmis-ne",
           "also_in": []
-        },
-        {
-          "title": "F-16 radar sözleşmesinde Türkiye detayı",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/f-16-radar-sozlesmesinde-turkiyedetayi",
-          "also_in": []
-        },
-        {
-          "title": "SARSILMAZ’dan SAHA 2026 çıkarması",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/sarsilmazdan-saha-2026-cikarmasi",
-          "also_in": []
-        },
-        {
-          "title": "CANiK M3 FALCON SAHA 2026’da vitrine çıkacak",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/canik-m3-falcon-saha-2026da-vitrine-cikacak",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Bilimsel Keşifler ve Antik Tarih Buluntuları",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Bilim dünyası, hafıza kaybının nedenleri, kanser riskini artıran yaşam tarzı faktörleri ve evcil hayvan klonlama gibi merak uyandıran konularla gündemde. Ayrıca, İspanya'da bulunan antik kase ve Berlin'de ortaya çıkan Troya sikkeleri gibi arkeolojik buluntular da ilgi çekiyor.",
+      "title": "Magazin ve Ünlü Haberleri",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Magazin dünyasında ünlülerin yaşamlarına dair haberler, dizi ve film setlerinden gelişmeler, oyuncuların özel hayatlarına dair paylaşımlar ve imaj değişiklikleri yer aldı. Survivor yarışmasındaki gelişmeler de takip edildi.",
       "importance": 3,
-      "story_count": 18,
+      "story_count": 30,
       "stories": [
         {
-          "title": "Hoş Anılarınız Şaşırtıcı Derecede Basit Bir Nedenle Yok Olabilir",
-          "source": "Fizikist",
-          "link": "https://www.fizikist.com/hos-anilariniz-sasirtici-derecede-basit-bir-nedenle-yok-olabilir",
+          "title": "Gizem Karaca ve minik kızı Leyla Yaz'dan yeni kareler geldi",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/gizem-karaca-ve-minik-kizi-leyla-yazdan-yeni-kareler-geldi",
           "also_in": []
         },
         {
-          "title": "Kanser Riskinde Yaşam Tarzı Faktörlerinin Rolü",
-          "source": "Gelecek Bilimde",
-          "link": "https://gelecekbilimde.net/kanser-riskinde-yasam-tarzi-faktorlerinin-rolu/",
+          "title": "Çirkin dizisi hangi gün? Çirkin dizisi hangi köyde çekiliyor?",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/sinema-televizyon/cirkin-dizisi-hangi-gun-cirkin-dizisi-hangi-koyde-cekiliyor",
           "also_in": []
         },
         {
-          "title": "Tarihin En Kötü İcatları: İyi Niyetle Başlayıp Hüsranla Biten 10 Tasarım",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/tarihin-en-kotu-icatlari-iyi-niyetle-baslayip-husranla-biten-10-tasarim-22836",
+          "title": "Can Yaman'dan imaj değişikliği! Görenler tanımakta zorlandı",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/can-yamandan-imaj-degisikligi-gorenler-tanimakta-zorlandi",
           "also_in": []
         },
         {
-          "title": "Evcil Hayvanınızın Kişiliğini de Klonlayabilir misiniz?",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/evcil-hayvaninizin-kisiligini-de-klonlayabilir-misiniz-22422",
+          "title": "Survivor Çağrı Atakan'ın acı günü! Annesi hayatını kaybetti",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/survivor-cagri-atakanin-aci-gunu-annesi-hayatini-kaybetti",
           "also_in": []
         },
         {
-          "title": "İspanya’da Hadrianus Duvarı’nı Betimleyen Kase Bulundu",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/ispanyada-hadrianus-duvarini-betimleyen-kase-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=ispanyada-hadrianus-duvarini-betimleyen-kase-bulundu",
+          "title": "Yeraltı dizisinde şaşırtan ayrılık! Bir erkek oyuncu veda edecek",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/sinema-televizyon/yeralti-dizisinde-sasirtan-ayrilik-bir-erkek-oyuncu-veda-edecek",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Eğitim ve Kariyer Gelişimine Yönelik Haberler",
+      "title": "Sağlık ve Yaşam Tarzı Önerileri",
+      "meta_category": "Sağlık",
+      "summary": "Sağlık alanında kanser tedavisindeki gelişmelerin yanı sıra, kilo verme önerileri, beslenme alışkanlıkları ve anne-çocuk sağlığına dair konular da haberlerde yer buldu. Yetişkin jimnastiği gibi yaşam tarzı trendleri de dikkat çekti.",
+      "importance": 2,
+      "story_count": 15,
+      "stories": [
+        {
+          "title": "Kanser tedavisinde ezber bozan gelişme: Bağışıklık sisteminin gizli savunma hattı deşifre edildi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/kanser-tedavisinde-ezber-bozan-gelisme-bagisiklik-sisteminin-gizli-savunma-hatti-desifre-edildi/102241",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Zayıflamak istiyorsan bunları yapma!",
+          "source": "A Spor",
+          "link": "https://youtube.com/shorts/bQoqG5O_N58?feature=share",
+          "also_in": [
+            "Fotomaç"
+          ]
+        },
+        {
+          "title": "Akreplerin milyonlarca yıllık metal sırrı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/akreplerin-milyonlarca-yillik-metal-sirri_179904.html",
+          "also_in": []
+        },
+        {
+          "title": "Her an gözümüzün önünde olan burnumuzu neden görmüyoruz?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/her-an-gozumuzun-onunde-olan-burnumuzu-neden-gormuyoruz_179775.html",
+          "also_in": []
+        },
+        {
+          "title": "Çernobil'in 40 yıllık sırrı: Radyasyona kafa tutan \"süper kurtlar\"",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/cernobilin-40-yillik-sirri-radyasyona-kafa-tutan-super-kurtlar_179845.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve Akademik Gelişmeler",
       "meta_category": "Eğitim",
-      "summary": "Eğitim alanında LGS hazırlıklarına yönelik örnek soruların yayımlanması ve üniversitelerde yeni programların açılması gibi gelişmeler dikkat çekiyor. Ayrıca, uluslararası öğrencilerin Türkiye'deki yükseköğrenim imkanları da haberlerde yer alıyor.",
-      "importance": 3,
-      "story_count": 10,
+      "summary": "Eğitim alanında LGS örnek sorularının yayımlanması ve okullarda yaşanan olaylara dair araştırma komisyonu gibi konular gündeme geldi. Bilim fuarları ve genç beyinlerin teknoloji şölenleri de eğitim ve inovasyonun önemini vurguladı.",
+      "importance": 2,
+      "story_count": 5,
       "stories": [
         {
           "title": "Köyceğiz’de genç beyinlerin teknoloji şöleni: Bilim fuarında inovasyon rüzgarları esti",
@@ -477,166 +557,68 @@
           ]
         },
         {
-          "title": "İkinci el piyasasında ezber bozan karar: Yetki belgesinde eğitim kriteri esnetildi",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/otomobil/ikinci-el-piyasasinda-ezber-bozan-karar-yetki-belgesinde-egitim-kriteri-esnetildi/102235",
+          "title": "MEBİ'de LGS öğrencileri için nisan ayı örnek soruları yayımlandı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/mebi-de-lgs-ogrencileri-icin-nisan-ayi-ornek-sorulari-yayimlandi-998678.html",
           "also_in": [
-            "Megabayt Otomobil"
-          ]
-        },
-        {
-          "title": "Eğitim Bir Sen’in 2025 eğitim raporu: Öğrenci sayısı da okullaşma oranı da düştü",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/egitim/egitim-bir-sen-in-2025-egitim-raporu-ogrenci-sayisi-da-okullasma-orani-da-dustu-2499592",
-          "also_in": [
-            "Evrensel"
-          ]
-        },
-        {
-          "title": "MEBİ'de LGS öğrencileri için Nisan ayı örnek soruları yayımlandı",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/egitim/haber/3624047-mebide-lgs-ogrencileri-icin-nisan-ayi-ornek-sorulari-yayimlandi",
-          "also_in": [
+            "Haber 7",
             "Kamudan Haber"
           ]
         },
         {
           "title": "LGS öğrencileri için hazırlanan nisan ayı örnek soruları MEBİ'de yayımlandı",
-          "source": "İstiklal",
-          "link": "https://www.istiklal.com.tr/egitim/lgs-ogrencileri-icin-hazirlanan-nisan-ayi-ornek-sorulari-mebide-yayimlandi-1092197h",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/lgs-ogrencileri-icin-hazirlanan-nisan-ayi-ornek-sorulari-mebide-yayimlandi-2441509h.htm",
           "also_in": [
+            "İstiklal",
             "TRT Haber"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Çevresel Sorunlar ve Doğal Afetler",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Kozan'daki sel faciası ve İzmir'deki trafik kazaları gibi doğal afetler ve trajik olaylar, günün gündeminde yer alıyor. Ayrıca, madencilik faaliyetlerinin çevresel etkileri ve bölgedeki potansiyel tehlikeler de haberlerde dikkat çekiyor.",
-      "importance": 2,
-      "story_count": 163,
-      "stories": [
-        {
-          "title": "Binlerce kilometrelik nehirde neden tek bir köprü bile yok?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/binlerce-kilometrelik-nehirde-neden-tek-bir-kopru-bile-yok_179808.html",
-          "also_in": []
         },
         {
-          "title": "Latmos için madencilik uyarısı: Bölge hedefte",
-          "source": "Edebi Bülten",
-          "link": "https://edebibulten.com/latmos-icin-madencilik-uyarisi-bolge-hedefte/",
-          "also_in": []
-        },
-        {
-          "title": "Kozan’da sel faciası: Araçtan atlayan 2 kişiden biri hayatını kaybetti",
-          "source": "İstiklal",
-          "link": "https://www.istiklal.com.tr/genel/kozanda-sel-faciasi-aractan-atlayan-2-kisiden-biri-hayatini-kaybetti-1092191h",
-          "also_in": [
-            "Haberler",
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "Ülke genelinde sıcaklık düşecek",
-          "source": "Dokuz8 Haber",
-          "link": "https://www.dokuz8haber.net/ulke-genelinde-sicaklik-dusecek",
+          "title": "TBMM Okul Saldırılarının Nedenlerini Araştırma Komisyonu ilk toplantısını yaptı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/tbmm-okul-saldirilarinin-nedenlerini-arastirma-komisyonu-ilk-toplantisini-yapti-998648.html",
           "also_in": [
             "Haberler"
           ]
         },
         {
-          "title": "İzmir'de freni patlayan tır karşı şeride geçti: 3 ölü, 7 yaralı",
-          "source": "Dokuz8 Haber",
-          "link": "https://www.dokuz8haber.net/izmirde-freni-patlayan-tir-karsi-seride-gecti-3-olu-7-yarali",
+          "title": "Bartın Organize Sanayi Bölgesi Meslek Yüksekokuluna \"Makine\" programı açıldı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/egitim/bartin-organize-sanayi-bolgesi-meslek-19791280-haberi/",
           "also_in": [
-            "Ulusal Kanal"
+            "Medya Gazete"
           ]
-        }
-      ]
-    },
-    {
-      "title": "İş Dünyası ve Sektörel Gelişmeler",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "İş dünyası, inşaat sektörünün geleceği, uluslararası ticaret ve yatırım konularıyla gündemde. Bakan Bolat'ın iş adamlarıyla bir araya gelmesi ve HİB Başkanlığına Prof. Dr. Murat Şeker'in seçilmesi gibi gelişmeler sektördeki hareketliliği gösteriyor.",
-      "importance": 2,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "İnşaat sektörünün geleceği Ankara’da masaya yatırıldı",
-          "source": "İşin Detayı İş Dünyası",
-          "link": "https://www.isindetayi.com/insaat-sektorunun-gelecegi-ankarada-masaya-yatirildi",
-          "also_in": []
-        },
-        {
-          "title": "Bakan Bolat, Bursa’da iş adamlarıyla bir araya geldi",
-          "source": "İşin Detayı İş Dünyası",
-          "link": "https://www.isindetayi.com/bakan-bolat-bursada-is-adamlariyla-bir-araya-geldi",
-          "also_in": []
-        },
-        {
-          "title": "HİB Başkanlığına Prof. Dr. Murat Şeker seçildi",
-          "source": "İşin Detayı İş Dünyası",
-          "link": "https://www.isindetayi.com/hib-baskanligina-prof-dr-murat-seker-secildi",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Sağlık Alanındaki Gelişmeler ve Araştırmalar",
-      "meta_category": "Sağlık",
-      "summary": "Sağlık alanında, kanser riskini azaltmaya yönelik yaşam tarzı önerileri ve depresyon tedavisinde kullanılan beyin implantları üzerine yapılan çalışmalar dikkat çekiyor. Yeni ilaçlar ve tedavi yöntemleri de araştırma gündeminde yer alıyor.",
-      "importance": 2,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Kanser Riskinde Yaşam Tarzı Faktörlerinin Rolü",
-          "source": "Gelecek Bilimde",
-          "link": "https://gelecekbilimde.net/kanser-riskinde-yasam-tarzi-faktorlerinin-rolu/",
-          "also_in": []
-        },
-        {
-          "title": "Depresyon İçin Geliştirilen Beyin İmplantı İnsanlarda Test Edilmeye Hazırlanıyor",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/depresyon-icin-beyin-implanti/",
-          "also_in": []
-        },
-        {
-          "title": "“Yeni Ozempic” Olarak Tanıtılan Peptid: Retatrutide",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/yeni-ozempic-retatrutide/",
-          "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "Guernica",
-    "artist": "Pablo Picasso",
-    "year": "1937",
-    "form": "painting",
+    "title": "The Persistence of Memory",
+    "artist": "Salvador Dalí",
+    "year": "1931",
+    "form": "Painting",
     "medium": "Oil on canvas",
-    "location": "Museo Reina Sofía, Madrid",
-    "description": "Guernica, 20. yüzyıl sanatının en güçlü anti-savaş ifadelerinden biridir. Sürrealist ve kübist unsurları harmanlayarak, İspanya İç Savaşı sırasında Guernica şehrine yapılan bombalamanın dehşetini ve insan acısını tasvir eder. Siyah, beyaz ve gri tonların kullanımı, olayın korkunçluğunu ve çaresizliğini vurgular.",
+    "location": "Museum of Modern Art (MoMA), New York City",
+    "description": "This iconic Surrealist painting depicts melting pocket watches draped over various objects in a desolate landscape. It explores themes of time, memory, and the subconscious, reflecting the era's anxieties and the fluidity of reality.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
-    "wikipedia_extract": "Guernica is a large 1937 oil painting by Spanish artist Pablo Picasso. It is one of his best-known works, regarded by many art critics as the most moving and powerful anti-war painting in history. It is exhibited in the Museo Reina Sofía in Madrid.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+    "wikipedia_extract": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First exhibited at the Julien Levy Gallery in 1932 and sold for $250, The Persistence of Memory was donated to the Museum of Modern Art (MoMA) in New York City two years later in 1934 by an anonymous donor, where it has remained ever since. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as \"The Melting Clocks\", \"The Soft Watches\" or \"The Melting Watches\".",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
   },
   "music": {
-    "title": "Teardrop",
-    "artists": "Massive Attack, Elizabeth Fraser",
-    "album": "Mezzanine",
-    "duration": "5:30",
-    "spotify_url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ",
-    "spotify_id": "67Hna13dNDkZvBpTXRIaOJ",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/67Hna13dNDkZvBpTXRIaOJ\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Hurt",
+    "artists": "Nine Inch Nails",
+    "album": "The Downward Spiral",
+    "duration": "6:14",
+    "spotify_url": "https://open.spotify.com/track/27tX58NOpv1YKQ0abW7EPy",
+    "spotify_id": "27tX58NOpv1YKQ0abW7EPy",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273786dc008f4d6fcf34ca8fd7e",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/27tX58NOpv1YKQ0abW7EPy\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": "Trip hop",
-    "suggested_mood": "Melankolik, Gizemli, Gergin, Düşündürücü, İçsel"
+    "suggested_genre": "Industrial Rock",
+    "suggested_mood": "Melancholy, introspective, raw, powerful"
   },
-  "curator_statement": "Bugünün karmaşık gündemi, Picasso'nun Guernica'sının zamansız dehşetiyle yankılanıyor. Savaşın ve yıkımın acı dolu temsili, küresel gerilimlerin yarattığı mevcut belirsizlikle ürpertici bir paralellik taşıyor. Ancak, bu kasvetli tabloya eşlik eden Massive Attack'ın 'Teardrop' adlı parçası, derin bir melankoli ve gizem içinde, bilinmeyene doğru sürüklenişin sesini fısıldıyor. Teknoloji ve insanlığın geleceği hakkındaki belirsizlikler içinde, hem sanat hem de müzik, içinde bulunduğumuz bu gergin ve dönüşüm dolu anın hem çaresizliğini hem de potansiyelini yansıtıyor."
+  "curator_statement": "Bugünün dünyasındaki belirsizlik ve gerilimler, zamanın göreceliği ve insan ruhunun kırılganlığı üzerine düşünmeye sevk ediyor. Salvador Dalí'nin 'Hafızanın Azmi' eseri, eriyen saatleriyle bu zaman algısını görselleştirerek, mevcut küresel karmaşanın yarattığı kaygı ve hayranlık karışımı duyguyu yansıtıyor. Nine Inch Nails'in 'Hurt' parçası ise, bu içsel çalkantıları, yıpranmış ama dirençli bir sesle dile getiriyor. Teknolojinin hızla ilerlediği bir çağda, bu eserler hem bireysel içsel yolculuğumuza hem de kolektif deneyimlerimize ayna tutarak, belirsizlik içinde bir anlam arayışını simgeliyor."
 }
