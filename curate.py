@@ -284,7 +284,7 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
     "medium": "tekniği",
     "form": "resim/heykel/fotoğraf/enstalasyon/video/performans",
     "location": "şu an nerede sergileniyor",
-    "description": "2-3 cümlelik tarif",
+    "description": "Türkçe 2-3 cümlelik tarif",
     "wikipedia_title_guess": "Wikipedia'da hangi başlıkla geçiyor olabilir"
   }},
   "music": {{
