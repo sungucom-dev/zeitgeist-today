@@ -1,21 +1,22 @@
 {
-  "date": "2026-05-03",
-  "date_human": "03 May 2026",
-  "generated_at": "2026-05-02T21:34:59.127039+00:00",
+  "date": "2026-05-04",
+  "date_human": "04 May 2026",
+  "generated_at": "2026-05-04T01:59:44.699332+00:00",
   "stats": {
-    "feeds_collected": 268,
-    "news_total": 4443,
-    "news_analyzed": 595,
-    "clusters": 16
+    "feeds_collected": 276,
+    "news_total": 4182,
+    "news_analyzed": 587,
+    "clusters": 15
   },
   "mood": {
-    "description": "Bugün, hem teknolojik gelişmelerin hızına ayak uydurma çabası hem de spor dünyasındaki heyecan verici rekabetlerin damgasını vurduğu, aynı zamanda çeşitli toplumsal konuların da gündemde olduğu hareketli bir gün yaşanıyor.",
-    "dominant_emotion": "Merak",
+    "description": "Gün, hem olumlu gelişmelerle hem de doğal afetler ve kazalarla dolu, dengesiz bir atmosfer sergiliyor. Teknolojik ilerlemeler ve spor başarıları umut verirken, trafik kazaları ve hava muhalefeti endişe yaratıyor.",
+    "dominant_emotion": "Karışık",
     "key_themes": [
-      "Teknolojik yenilikler ve yapay zeka",
-      "Spor müsabakaları ve transfer gelişmeleri",
-      "Ekonomik veriler ve piyasa analizleri",
-      "Uluslararası ilişkiler ve bölgesel gerilimler"
+      "Teknoloji ve Yapay Zeka",
+      "Spor Başarıları ve Tartışmaları",
+      "Doğal Afetler ve Trafik Kazaları",
+      "Ekonomik Gelişmeler ve Piyasa Hareketliliği",
+      "Uluslararası İlişkiler ve Diplomatik Gerilimler"
     ]
   },
   "weather": {
@@ -24,813 +25,197 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-05-03",
-        "code": 80,
-        "temp_max": 13.4,
-        "temp_min": 10.2
-      },
-      {
         "date": "2026-05-04",
         "code": 61,
-        "temp_max": 18.5,
-        "temp_min": 8.7
+        "temp_max": 18.2,
+        "temp_min": 9.0
       },
       {
         "date": "2026-05-05",
         "code": 3,
         "temp_max": 20.5,
-        "temp_min": 8.3
+        "temp_min": 9.8
       },
       {
         "date": "2026-05-06",
         "code": 1,
-        "temp_max": 24.0,
-        "temp_min": 8.0
+        "temp_max": 23.6,
+        "temp_min": 9.0
       },
       {
         "date": "2026-05-07",
         "code": 3,
-        "temp_max": 26.8,
-        "temp_min": 10.7
+        "temp_max": 26.5,
+        "temp_min": 13.3
       },
       {
         "date": "2026-05-08",
         "code": 3,
-        "temp_max": 25.9,
-        "temp_min": 14.6
+        "temp_max": 27.8,
+        "temp_min": 15.3
       },
       {
         "date": "2026-05-09",
         "code": 3,
-        "temp_max": 27.0,
-        "temp_min": 16.5
+        "temp_max": 26.9,
+        "temp_min": 17.3
+      },
+      {
+        "date": "2026-05-10",
+        "code": 2,
+        "temp_max": 25.5,
+        "temp_min": 18.0
       }
     ]
   },
   "clusters": [
     {
-      "title": "Amedspor'un Süper Lig'e Yükselişi ve Kutlamalar",
-      "meta_category": "Spor",
-      "summary": "Amedspor'un Süper Lig'e yükselmesi, Türkiye genelinde ve Diyarbakır'da büyük sevinçle karşılandı. Cumhurbaşkanı Erdoğan ve Bakan Bak'tan tebrik mesajları gelirken, kutlamalar yapıldı. Bu tarihi başarı, spor gündeminin öne çıkan başlıklarından biri oldu.",
-      "importance": 10,
-      "story_count": 12,
-      "stories": [
-        {
-          "title": "Amedspor Süper Lig'e yükseldi",
-          "source": "Sözcü Spor",
-          "link": "https://www.sozcu.com.tr/amedspor-super-lig-e-yukseldi-p316238",
-          "also_in": [
-            "Aydınlık",
-            "F5 Haber",
-            "Gazete Pencere",
-            "Independent Türkçe",
-            "Kısa Dalga"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'dan Amedspor'a tebrik mesajı",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/politika/cumhurbaskani-erdogandan-amedspora-tebrik-mesaji-345816h",
-          "also_in": [
-            "Aydınlık",
-            "Dünya",
-            "F5 Haber",
-            "Haber Global",
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "Süper Lig'e yükselen ikinci takım belli oldu",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/spor/super-lig-e-yukselen-ikinci-takim-belli-oldu-2500466",
-          "also_in": [
-            "Ekonomim",
-            "Haber 7",
-            "İstiklal"
-          ]
-        },
-        {
-          "title": "Amedspor Süper Lig'de",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/amedspor-super-ligde/?utm_source=rss&utm_medium=rss&utm_campaign=amedspor-super-ligde",
-          "also_in": [
-            "Dokuz8 Haber",
-            "Evrensel"
-          ]
-        },
-        {
-          "title": "Amedspor Süper Lig'de: Birçok kentte kutlamalar yapılıyor",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/spor/amedspor-super-ligde-bircok-kentte-kutlamalar-yapiliyor-345814h",
-          "also_in": [
-            "Evrensel"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Teknolojide Yapay Zeka ve Yeni Ürün Lansmanları",
-      "meta_category": "Teknoloji",
-      "summary": "Yapay zekanın farklı alanlardaki uygulamaları, yeni ürün lansmanları ve teknoloji şirketlerinin stratejik hamleleri günün öne çıkan teknoloji haberleri arasında yer aldı. Samsung, Microsoft, Apple ve Meta gibi büyük oyuncuların gelişmeleri dikkat çekti.",
-      "importance": 9,
-      "story_count": 58,
-      "stories": [
-        {
-          "title": "Samsung'un kamera stratejisinde radikal değişim: S27 Ultra'da o lens artık yok",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/samsungun-kamera-stratejisinde-radikal-degisim-s27-ultrada-o-lens-artik-yok/102262",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Sürüş deneyimini kişiselleştirme dönemi: Android Auto artık telefonunuz gibi özelleştirilebilir olacak",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/otomobil/surus-deneyimini-kisisellestirme-donemi-android-auto-artik-telefonunuz-gibi-ozellestirilebilir-olacak/102258",
-          "also_in": [
-            "Megabayt Otomobil"
-          ]
-        },
-        {
-          "title": "Zirve yarışı yeniden şekillendi: Samsung tahtını geri aldı, Apple'ın stratejisi ne oldu?",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/zirve-yarisi-yeniden-sekillendi-samsung-tahtini-geri-aldi-applein-stratejisi-ne-oldu/102257",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Samsung uyardı: Bellek krizi bitmeyecek, daha da derinleşecek",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/samsung-uyardi-bellek-krizi-bitmeyecek-daha-da-derinlesecek_179956.html",
-          "also_in": []
-        },
-        {
-          "title": "Microsoft'un Copilot verileri, dünyadaki değişimi kanıtlıyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/microsoftun-copilot-verileri-dunyadaki-degisimi-kanitliyor_179955.html",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Futbol Liglerinde Şampiyonluk Yarışı ve Maç Sonuçları",
-      "meta_category": "Spor",
-      "summary": "Trendyol Süper Lig ve diğer futbol liglerindeki şampiyonluk yarışı, önemli maç sonuçları ve teknik direktör yorumları spor gündeminin merkezindeydi. Galatasaray, Fenerbahçe ve Beşiktaş gibi büyük kulüplerin performansları ve gelecek planları öne çıktı.",
-      "importance": 8,
-      "story_count": 105,
-      "stories": [
-        {
-          "title": "Ahmet Çakar, Galatasaray Mağlubiyeti Sonrası Faturayı Okan Buruk&apos;a Kesti",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/ahmet-cakar-galatasaray-maglubiyeti-sonrasi-faturayi-okan-buruk-a-kesti-1357134",
-          "also_in": []
-        },
-        {
-          "title": "Zirvede Fark 4 Puana Düştü: Şampiyonluk Hesaplarında Son Durum Ne?",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/zirvede-fark-4-puana-dustu-sampiyonluk-hesaplarinda-son-durum-ne-1357128",
-          "also_in": []
-        },
-        {
-          "title": "Galatasaray Şampiyonluk İçin Çıktığı Maçta Şok Üstüne Şok Yaşıyor",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/galatasaray-sampiyonluk-icin-ciktigi-macta-sok-ustune-sok-yasiyor-1357120",
-          "also_in": []
-        },
-        {
-          "title": "Futbol Gurmeleri Buraya: Transfer Hareketlerinden Aranan Oyuncuyu Bulun!",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/futbol-gurmeleri-buraya-transfer-hareketlerinden-aranan-oyuncuyu-bulun-1357064",
-          "also_in": []
-        },
-        {
-          "title": "Hull City Son Haftada Play-Off Biletini Aldı, Acun Ilıcalı Gözyaşlarını Tutamadı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/hull-city-son-haftada-play-off-biletini-aldi-acun-ilicali-gozyaslarini-tutamadi-1357109",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Hürmüz Boğazı Gerilimi ve Uluslararası İlişkiler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Hürmüz Boğazı'ndaki gerilim ve İran'ın bölgeye yönelik planları, ABD ile olan ilişkileri ve diğer ülkelerin bu duruma tepkileri uluslararası gündemin ana maddeleri arasında yer aldı. Petrol piyasaları ve deniz taşımacılığı üzerindeki potansiyel etkileri tartışılıyor.",
-      "importance": 8,
-      "story_count": 26,
-      "stories": [
-        {
-          "title": "Deniz yolu tamamen kapandı: İran şimdi o rotaya yöneldi! İçlerinde Türkiye de var...",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/ekonomi/deniz-yolu-tamamen-kapandi-iran-simdi-o-rotaya-yoneldi-iclerinde-turkiye-de-var-6914890",
-          "also_in": [
-            "Sözcü",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "İran'dan Hürmüz Boğazı için 12 maddelik yönetim planı",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/dunya/irandan-hurmuz-bogazi-icin-12-maddelik-yonetim-plani-2423139",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Küba’dan Trump’a sert yanıt: “Hiçbir saldırgan teslimiyet bulamayacak”",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/kubadan-trumpa-sert-yanit-hicbir-saldirgan-teslimiyet-bulamayacak",
-          "also_in": [
-            "Demokrat Haber"
-          ]
-        },
-        {
-          "title": "İran’dan Hürmüz Boğazı planı: “İsrail gemilerine geçiş yok”",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/irandan-hurmuz-bogazi-plani-israil-gemilerine-gecis-yok",
-          "also_in": [
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "Trump’tan Hürmüz ablukası itirafı: “Bir bakıma korsanız”",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/trumptan-hurmuz-ablukasi-itirafi-bir-bakima-korsaniz",
-          "also_in": [
-            "Demokrat Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Veriler ve Piyasa Analizleri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Nisan ayı ihracat rakamlarının rekor kırması, enflasyon beklentileri, memur ve emekli maaş zamları ile ilgili hesaplamalar ve piyasa analizleri ekonomik gündemin öne çıkan başlıkları oldu. Kripto para piyasasındaki hareketlilik de dikkat çekti.",
-      "importance": 7,
-      "story_count": 59,
-      "stories": [
-        {
-          "title": "Varant Piyasasında Neler Oluyor?",
-          "source": "Investing Tahvil",
-          "link": "https://tr.investing.com/analysis/varant-piyasasnda-neler-oluyor-200500798",
-          "also_in": [
-            "Investing Tahvil"
-          ]
-        },
-        {
-          "title": "MEMUR VE EMEKLİ MAAŞI HESAPLAMA TABLOSU (ENFLASYON FARKI İLE) | 2026 Temmuz emekli ve memur zammı ne kadar olacak, emekli ve memur",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/memur-ve-emekli-maasi-hesaplama-tablosu-enflasyon-farki-ile-2026-temmuz-emekli-ve-memur-zammi-ne-kadar-olacak-emekli-ve-memur_ID100701004/",
-          "also_in": []
-        },
-        {
-          "title": "Enerji savaşında yeni perde: Pekin’den ABD’ye karşı hamle",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/enerji-savasinda-yeni-perde-pekin-den-abd-ye-karsi-hamle_ID100701003/",
-          "also_in": []
-        },
-        {
-          "title": "İstanbul'da nisan ayının zam şampiyonu belli oldu",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/istanbulda-nisan-ayinin-zam-sampiyonu-belli-oldu_ID100701002/",
-          "also_in": []
-        },
-        {
-          "title": "İhracatta rekor sonrası Cevdet Yılmaz'dan kritik \"Türkiye Yüzyılı\" mesajı",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/ihracatta-rekor-sonrasi-cevdet-yilmazdan-kritik-turkiye-yuzyili-mesaji_ID100701001/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Toplumsal Olaylar ve Güvenlik Sorunları",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Türkiye genelinde meydana gelen trafik kazaları, cinayetler ve çeşitli suç olayları toplumsal güvenlik endişelerini gündeme getirdi. Aile ve nüfus konularına ilişkin genelgeler de yayımlandı.",
-      "importance": 6,
-      "story_count": 424,
-      "stories": [
-        {
-          "title": "Beylikdüzü'nde korkunç manzara: Otomobilinde ölü bulundu, borç iddiaları gündemde",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/otomobil/beylikduzunde-korkunc-manzara-otomobilinde-olu-bulundu-borc-iddialari-gundemde/102265",
-          "also_in": [
-            "Megabayt Otomobil"
-          ]
-        },
-        {
-          "title": "Otomobilin içine girdi, yakalanınca pişkinliği pes dedirtti: Bu araç benim, asıl hırsız sizsiniz!",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/otomobil/otomobilin-icine-girdi-yakalaninca-piskinligi-pes-dedirtti-bu-arac-benim-asil-hirsiz-sizsiniz/102263",
-          "also_in": [
-            "Megabayt Otomobil"
-          ]
-        },
-        {
-          "title": "İstanbul'da yarın bazı yollar trafiğe kapatılacak",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/istanbulda-yarin-bazi-yollar-trafige-kapatilacak-2423127",
-          "also_in": [
-            "Cumhuriyet",
-            "Evrensel",
-            "Ekonomim",
-            "Haberet",
-            "Haber 7",
-            "Karar",
-            "Türkgün",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Ankara Valiliği'nden kuvvetli yağış uyarısı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/ankara-valiliginden-kuvvetli-yagis-uyarisi-1",
-          "also_in": [
-            "Dokuz8 Haber",
-            "Gazete Pencere",
-            "Haber 7",
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Siverek'te zincirleme trafik kazası: 2 ölü, 2 yaralı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/siverekte-zincirleme-trafik-kazasi-2-olu-2-yarali-575616",
-          "also_in": [
-            "Dünya",
-            "Haberet",
-            "NTV",
-            "Medya Gazete"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Kültür, Sanat ve Edebiyat Etkinlikleri",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Yeni sergiler, film gösterimleri, kitap tanıtımları ve festivaller kültürel gündemin çeşitliliğini yansıttı. Uluslararası İşçi Filmleri Festivali'nin başlaması ve çeşitli sanatçıların eserlerinin sergilenmesi dikkat çekti.",
-      "importance": 6,
-      "story_count": 80,
-      "stories": [
-        {
-          "title": "Tanıdık bir şiddetin içinden: Sus",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/sus/",
-          "also_in": []
-        },
-        {
-          "title": "Günün kısası: Yearbook (2014)",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/gunun-kisasi-yearbook/",
-          "also_in": []
-        },
-        {
-          "title": "Bir koleksiyon yola çıkarsa: Türkiye İş Bankası Sanat Eserleri Koleksiyonu Türkiye’yi dolaşıyor",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/is-sanat-anadolu-sergileri/",
-          "also_in": []
-        },
-        {
-          "title": "Gizli Mixtape: The Sophs",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/gizli-mixtape-the-sophs/",
-          "also_in": []
-        },
-        {
-          "title": "1-7 Mayıs haftasının etkinlik rehberi",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/1-7-mayis-etkinlik-rehberi/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji ve Otomotiv Sektöründeki Gelişmeler",
-      "meta_category": "Teknoloji",
-      "summary": "Otomotiv sektöründe yeni modellerin tanıtılması, elektrikli araç teknolojilerindeki ilerlemeler ve otomobil firmaları arasındaki rekabet dikkat çekti. BYD'nin yüksek performanslı aracı ve lüks otomobil segmentindeki yenilikler öne çıktı.",
-      "importance": 5,
-      "story_count": 34,
-      "stories": [
-        {
-          "title": "BYD'nin 3.000 beygirlik canavarı 3 milyon dolara alıcı buldu",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/byd-nin-3-000-beygirlik-canavari-3-milyon-dolara-alici-buldu--205160",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "Yaz yollarında sürpriz yaşamayın: Aracınızı tatile hazırlamanın altın kuralları",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/yaz-yollarinda-surpriz-yasamayin-aracinizi-tatile-hazirlamanin-altin-kurallari/102264",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Otomobil dünyasında ticaret savaşı rüzgarları: Trump’tan Avrupa menşeli araçlara dev vergi artışı",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/otomobil/otomobil-dunyasinda-ticaret-savasi-ruzgarlari-trumptan-avrupa-menseli-araclara-dev-vergi-artisi/102259",
-          "also_in": [
-            "Megabayt Otomobil"
-          ]
-        },
-        {
-          "title": "Sürüş deneyimini kişiselleştirme dönemi: Android Auto artık telefonunuz gibi özelleştirilebilir olacak",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/otomobil/surus-deneyimini-kisisellestirme-donemi-android-auto-artik-telefonunuz-gibi-ozellestirilebilir-olacak/102258",
-          "also_in": [
-            "Megabayt Otomobil"
-          ]
-        },
-        {
-          "title": "Parası olanların bile satın alamayabileceği Range Rover SV Ultra tanıtıldı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/parasi-olanlarin-bile-satin-alamayabilecegi-range-rover-tanitildi--205172",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Bilimsel Araştırmalar ve Keşifler",
+      "title": "Yapay Zeka'nın Etkileri ve Gelişmeleri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "İnsan kafatası yapısındaki değişimler, köpeklerin beyin evrimi ve mutlak sıfırın eşiğindeki keşifler gibi bilimsel araştırmalar günün dikkat çekici başlıkları arasındaydı. Bilim dünyasındaki bu gelişmeler, insanlığın kökenleri ve evrenin sırları hakkında yeni ipuçları sunuyor.",
-      "importance": 5,
-      "story_count": 19,
-      "stories": [
-        {
-          "title": "Neden Partnerinizin Sorunlarını Çözmeye Çalışmamalısınız?",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/neden-partnerinizin-sorunlarini-cozmeye-calismamalisiniz-22857",
-          "also_in": []
-        },
-        {
-          "title": "Avusturyalı Keşiş Anüsü Doldurularak Mumyalanmış",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/avusturyali-kesis-anusu-doldurularak-mumyalanmis/?utm_source=rss&utm_medium=rss&utm_campaign=avusturyali-kesis-anusu-doldurularak-mumyalanmis",
-          "also_in": []
-        },
-        {
-          "title": "Halet Çambel’in Üniversiteye Bağışladığı Arşiv Satışa Çıkarıldı!",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/halet-cambelin-universiteye-bagisladigi-arsiv-satisa-cikarildi/?utm_source=rss&utm_medium=rss&utm_campaign=halet-cambelin-universiteye-bagisladigi-arsiv-satisa-cikarildi",
-          "also_in": []
-        },
-        {
-          "title": "Köpeklerin Beyinleri En Az 5.000 Yıl Önce Küçülmeye Başladı",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/kopeklerin-beyinleri-en-az-5-000-yil-once-kuculmeye-basladi/?utm_source=rss&utm_medium=rss&utm_campaign=kopeklerin-beyinleri-en-az-5-000-yil-once-kuculmeye-basladi",
-          "also_in": []
-        },
-        {
-          "title": "Son 100 Yılda İnsan Kafatasının Şekli Önemli Ölçüde Değişmiş",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/son-100-yilda-insan-kafatasinin-sekli-onemli-olcude-degismis/?utm_source=rss&utm_medium=rss&utm_campaign=son-100-yilda-insan-kafatasinin-sekli-onemli-olcude-degismis",
-          "also_in": []
-        }
-      ]
+      "summary": "Yapay zekanın küresel işleri değiştireceği ancak ortadan kaldırmayacağı, ayrıca Oscar'da yapay zeka kullanımına yönelik kısıtlamalar getirildiği haberleri yer alıyor. Bilim insanı Richard Dawkins'in yapay zekanın bilinç kazandığına dair yorumu da dikkat çekiyor.",
+      "importance": 9,
+      "story_count": 0,
+      "stories": []
     },
     {
-      "title": "Kültür ve Sanat Dünyasındaki Yenilikler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Sinema, müzik ve edebiyat alanındaki yenilikler, sanatçıların yeni projeleri ve kültürel etkinlikler günün sanat gündemini oluşturdu. Yapay zekanın sanat üzerindeki etkisi ve Oscar kurallarındaki değişiklikler de tartışıldı.",
-      "importance": 4,
-      "story_count": 61,
-      "stories": [
-        {
-          "title": "Sadece Bir Gece filminin fragmanı ve afişi paylaşıldı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/sadece-bir-gece-filminin-fragmani-ve-afisi-paylasildi_179932.html",
-          "also_in": []
-        },
-        {
-          "title": "Netflix strateji değiştiriyor; Narnia filmini tüm dünyada vizyona sokacak",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/netflix-narnia-filmini-tum-dunyada-vizyona-sokacak--205174",
-          "also_in": []
-        },
-        {
-          "title": "\"Andor\"un Yıldızı, \"Tangled\" Canlı Aksiyon Filminin Kadrosuna Katıldı",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000202272/",
-          "also_in": []
-        },
-        {
-          "title": "Greta Gerwig'in Yönettiği \"Narnia\"nın Vizyon Tarihi Ertelendi",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000202261/",
-          "also_in": []
-        },
-        {
-          "title": "Son Yılların Gözden Kaçmış 10 Bilimkurgu Animesi",
-          "source": "Bilimkurgu Kulübü",
-          "link": "https://www.bilimkurgukulubu.com/televizyon/anime/son-yillarin-gozden-kacmis-10-bilimkurgu-animesi/",
-          "also_in": []
-        }
-      ]
+      "title": "Türkiye'nin Spor Başarıları ve Tartışmaları",
+      "meta_category": "Spor",
+      "summary": "VakıfBank'ın CEV Kadınlar Şampiyonlar Ligi'nde şampiyon olması ve Cumhurbaşkanı Erdoğan'ın tebriği öne çıkıyor. Ayrıca, futbol liglerindeki küme düşme hattı ve transfer dedikoduları da gündemde.",
+      "importance": 9,
+      "story_count": 0,
+      "stories": []
     },
     {
-      "title": "Türkiye'nin Dış Politikası ve Savunma Sanayii",
+      "title": "Türkiye'yi Etkileyen Hava Muhalefeti ve Kazalar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Gaziantep ve Şanlıurfa'da etkili olan şiddetli fırtına can kaybına ve yaralanmalara neden oldu. Ayrıca, Malatya ve Uşak'ta meydana gelen yolcu otobüsü kazaları ve zincirleme trafik kazaları ölümlü sonuçlar doğurdu.",
+      "importance": 8,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Teknoloji Dünyasında Yeni Ürünler ve Gelişmeler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "iPhone 18 Pro prototipi sızıntısı, iOS 27 güncellemesi ve yeni oyun monitörlerinin tanıtımı teknoloji meraklılarının ilgisini çekti. BlackBerry'nin otomotiv sektöründeki yeni rotası da dikkat çekiyor.",
+      "importance": 7,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Ekonomik Veriler ve Piyasalar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Nisan ayı enflasyon rakamları ve beklentileri, altın fiyatlarındaki hareketlilik ve OPEC+ ülkelerinin petrol üretimini artırma kararı ekonomik gündemin öne çıkan başlıkları arasında.",
+      "importance": 7,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "İspanya Başbakanı Sanchez'in Ankara'ya Acil İnişi",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Türkiye'nin dış politikasındaki gelişmeler, özellikle Irak Başbakan Adayı ile yapılan telefon görüşmesi ve Sumud Filosu açıklaması dikkat çekti. Savunma sanayiindeki ihracat rakamları ve yeni projeler de günün önemli başlıkları arasındaydı.",
+      "summary": "İspanya Başbakanı Pedro Sanchez'i taşıyan uçağın Ankara'ya acil iniş yapması, uluslararası diplomasi gündeminde önemli bir yer tuttu. Konuyla ilgili farklı kaynaklardan bilgiler paylaşıldı.",
+      "importance": 7,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Bosch'un Tartışmalı Anneler Günü Reklamı",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Bosch'un Anneler Günü reklam filmi, aile değerlerini erozyona uğrattığı gerekçesiyle RTÜK tarafından incelemeye alındı. Reklamın içeriği ve gelen tepkiler tartışma yarattı.",
+      "importance": 6,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Siber Güvenlik ve Telekom Ağları Skandalı",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Küresel çapta bir siber skandal ortaya çıktı; telekom ağlarının dev bir izleme merkezine dönüştürüldüğü iddia edildi. İsrailli telekomünikasyon şirketlerinin bu ağda yer aldığı belirtiliyor.",
+      "importance": 6,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Süper Lig'de Küme Düşme Hattı ve Maç Sonuçları",
+      "meta_category": "Spor",
+      "summary": "Trendyol Süper Lig'de küme düşme hattındaki mücadele kızıştı. Kayserispor, Eyüpspor, Kasımpaşa, Kocaelispor, Fatih Karagümrük ve Gençlerbirliği arasındaki maçlar puan durumunu etkiledi.",
+      "importance": 5,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Kültür ve Sanat Etkinlikleri ve Yayınları",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Mayıs ayının ilk haftası için etkinlik rehberleri, yeni albüm duyuruları ve film gösterimleri kültürel gündemi oluşturdu. Ayrıca, çeşitli kitap ve dergi yayınları da okuyucularla buluştu.",
+      "importance": 5,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Korsan Yayınlara Karşı Yasal Mücadele",
+      "meta_category": "Diğer",
+      "summary": "Korsan maç yayını yapan şebekelere yönelik hapis ve para cezası haberleri, fikri mülkiyet haklarının korunmasına yönelik adımları gösteriyor.",
       "importance": 4,
-      "story_count": 31,
-      "stories": [
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Irak Başbakan Adayı Zeydi ile telefonda görüştü",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-irak-basbakan-adayi-zeydi-ile-telefonda-gorustu-2423158",
-          "also_in": [
-            "Diriliş Postası",
-            "En Son Haber",
-            "F5 Haber",
-            "Anadolu Ajansı",
-            "Ekonomim",
-            "Star",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "MSB kaynaklarından Sumud Filosu açıklaması: Yunanistan yükümlülüklerini göz ardı etti",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/gundem/msb-kaynaklarindan-sumud-filosu-aciklamasi-yunanistan-yukumluluklerini-goz-ardi-etti-haberi-891775",
-          "also_in": [
-            "Haber Global",
-            "Hürriyet",
-            "NTV",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Irak Başbakan Adayı Zeydi ile görüştü",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-irak-basbakan-adayi-zeydi-ile-gorustu-104875",
-          "also_in": [
-            "Hürriyet",
-            "NTV",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: \"Türkiye'yi çatışmalardan, ateşten uzak tutuyoruz\"",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/cumhurbaskani-yardimcisi-yilmaz-turkiyeyi-catismalardan-atesten-uzak-tutuyoruz-2423138",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan’dan Amedspor’a tebrik",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/spor/futbol/cumhurbaskani-erdogandan-amedspora-tebrik-2423122",
-          "also_in": [
-            "Gerçek Gündem"
-          ]
-        }
-      ]
+      "story_count": 0,
+      "stories": []
     },
     {
-      "title": "Sağlık ve Yaşam Tarzı Önerileri",
-      "meta_category": "Sağlık",
-      "summary": "Sağlıklı yaşam önerileri, beslenme alışkanlıkları ve hastalıklarla mücadele konuları yaşam haberleri arasında yer buldu. Dünya Ton Balığı Günü'nde sağlıklı yaşam vurgusu yapıldı.",
+      "title": "Altın ve Konut Piyasalarına İlişkin Uyarılar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Altın yatırımcılarına kritik uyarılar yapılırken, konut piyasasındaki dengelerin değiştiği belirtiliyor. Ayrıca, altın fiyatlarındaki dalgalanmalara dair farklı analizler sunuluyor.",
+      "importance": 4,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "İran ve ABD Arasındaki Gerilim",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Tahran'ın masaya koyduğu 14 maddelik planın Trump tarafından reddedilmesi ve iki ülke arasındaki diplomatik gerilim devam ediyor. İran'ın petrol üretimini artırma kararı da dikkat çekiyor.",
+      "importance": 4,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Kurban Bayramı Tatili Tartışmaları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Kurban Bayramı tatilinin 9 gün olup olmayacağı konusu Bakan Ersoy tarafından yanıtlandı ve turizm açısından olumlu olacağı belirtildi.",
       "importance": 3,
-      "story_count": 50,
-      "stories": [
-        {
-          "title": "Neden Partnerinizin Sorunlarını Çözmeye Çalışmamalısınız?",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/neden-partnerinizin-sorunlarini-cozmeye-calismamalisiniz-22857",
-          "also_in": []
-        },
-        {
-          "title": "Avusturyalı Keşiş Anüsü Doldurularak Mumyalanmış",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/avusturyali-kesis-anusu-doldurularak-mumyalanmis/?utm_source=rss&utm_medium=rss&utm_campaign=avusturyali-kesis-anusu-doldurularak-mumyalanmis",
-          "also_in": []
-        },
-        {
-          "title": "Su tüketimi hakkında doğru bilinen yanlışlar: Ne kadar içmek gerçekten yeterli?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/su-tuketimi-hakkinda-dogru-bilinen-yanlislar-ne-kadar-icmek-gercekten-yeterli_179963.html",
-          "also_in": []
-        },
-        {
-          "title": "Zayıflamak istiyorsan bunları yapma!",
-          "source": "A Spor",
-          "link": "https://www.youtube.com/shorts/bQoqG5O_N58",
-          "also_in": []
-        },
-        {
-          "title": "Televizyon izlerken aniden kör oldu! Binde 1 görülüyor",
-          "source": "Sözcü Gündem",
-          "link": "https://www.sozcu.com.tr/televizyon-izlerken-aniden-kor-oldu-binde-1-goruluyor-p316237",
-          "also_in": [
-            "Sözcü"
-          ]
-        }
-      ]
+      "story_count": 0,
+      "stories": []
     },
     {
-      "title": "Sosyal Medya ve Dijital Dünya",
-      "meta_category": "Teknoloji",
-      "summary": "Sosyal medya kullanımına yönelik düzenlemeler, yeni dijital platformlar ve çevrimiçi trendler teknoloji ve toplum arasındaki ilişkiyi vurguladı. 15 yaş altı için sosyal medya yasağı resmi gazetede yayımlandı.",
+      "title": "İkinci El Alışveriş Dolandırıcılıkları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "İkinci el satış sitelerinde artan dolandırıcılık olayları, özellikle 'param güvende' sistemi üzerinden yapılan tuzaklara karşı uyarılar yapılıyor.",
       "importance": 3,
-      "story_count": 13,
-      "stories": [
-        {
-          "title": "15 Yaş Altına Sosyal Medya Yasağı Resmi Gazete’de Yayımlandı",
-          "source": "Geç Bunları",
-          "link": "https://gecbunlari.com/15-yas-altina-sosyal-medya-yasagi-resmi-gazetede-yayimlandi/",
-          "also_in": []
-        },
-        {
-          "title": "Bir İçerik Üreticisi 2000&apos;li Yılların İkonik Cep Telefonlarını Paylaştı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/bir-icerik-ureticisi-2000-li-yillarin-ikonik-cep-telefonlarini-paylasti-1357117",
-          "also_in": []
-        },
-        {
-          "title": "Sosyal Medya Harcamalarını Ne Kadar Etkiliyor?",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/sosyal-medya-harcamalarini-ne-kadar-etkiliyor-1353465",
-          "also_in": []
-        },
-        {
-          "title": "Bir TikTok Kullanıcısı Acil Durumda Konumunuzu Tam Olarak Nasıl Öğreneceğinizi Anlattı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/bir-tiktok-kullanicisi-acil-durumda-konumunuzu-tam-olarak-nasil-ogreneceginizi-anlatti-1357114",
-          "also_in": []
-        },
-        {
-          "title": "Şarj kablonuzun ömrünü nasıl uzatabilirsiniz?",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/c3v644zdve0o?at_medium=RSS&at_campaign=rss",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Eğitim ve Öğrenci Hayatı",
-      "meta_category": "Eğitim",
-      "summary": "Elektronik Yabancı Dil Sınavı sonuçlarının açıklanması ve ara tatillerin kaldırılıp yaz tatilinin uzatılması gibi konular eğitim gündemini oluşturdu.",
-      "importance": 3,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "Elektronik Yabancı Dil Sınavı sonuçları açıklandı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/elektronik-yabanci-dil-sinavi-sonuclari-aciklandi",
-          "also_in": [
-            "Cumhuriyet",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Ara tatiller kaldırılıyor: Öğrencilere uzun yaz tatili geliyor",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/egitim/ara-tatiller-kaldiriliyor-ogrencilere-uzun-yaz-tatili-geliyor/457655",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        },
-        {
-          "title": "Bakan Tekin'den tatil açıklaması",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/bakan-tekin-den-tatil-aciklamasi-3776459",
-          "also_in": []
-        },
-        {
-          "title": "Gençlere evlilik kredisi, aileye 10 yıllık vizyon: İşte yeni dönem",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/genclere-evlilik-kredisi-aileye-10-yillik-vizyon-iste-yeni-donem_ID100700997/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Magazin ve Eğlence Dünyasından Haberler",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Ünlülerin yaşamlarından kesitler, dizi ve film fragmanları magazin ve eğlence gündemini oluşturdu. Cem Yılmaz'ın Fas ziyareti ve Zerrin Özer'in yaşadığı acı olaylar dikkat çekti.",
-      "importance": 2,
-      "story_count": 149,
-      "stories": [
-        {
-          "title": "Sadece Bir Gece filminin fragmanı ve afişi paylaşıldı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/sadece-bir-gece-filminin-fragmani-ve-afisi-paylasildi_179932.html",
-          "also_in": []
-        },
-        {
-          "title": "Netflix strateji değiştiriyor; Narnia filmini tüm dünyada vizyona sokacak",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/netflix-narnia-filmini-tum-dunyada-vizyona-sokacak--205174",
-          "also_in": []
-        },
-        {
-          "title": "\"Andor\"un Yıldızı, \"Tangled\" Canlı Aksiyon Filminin Kadrosuna Katıldı",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000202272/",
-          "also_in": []
-        },
-        {
-          "title": "Greta Gerwig'in Yönettiği \"Narnia\"nın Vizyon Tarihi Ertelendi",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000202261/",
-          "also_in": []
-        },
-        {
-          "title": "Son Yılların Gözden Kaçmış 10 Bilimkurgu Animesi",
-          "source": "Bilimkurgu Kulübü",
-          "link": "https://www.bilimkurgukulubu.com/televizyon/anime/son-yillarin-gozden-kacmis-10-bilimkurgu-animesi/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Doğa ve Çevre Haberleri",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Ankara'da sağanak sonrası toprak kaymaları ve mayıs ayında kar sürprizi gibi hava durumuyla ilgili haberler, doğanın değişkenliğini gözler önüne serdi. Orman kesimi ve çevre projeleri de gündemdeki yerini aldı.",
-      "importance": 2,
-      "story_count": 30,
-      "stories": [
-        {
-          "title": "Ankara Valiliği'nden kuvvetli yağış uyarısı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/ankara-valiliginden-kuvvetli-yagis-uyarisi-1",
-          "also_in": [
-            "Dokuz8 Haber",
-            "Gazete Pencere",
-            "Haber 7",
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Kırıkkale’de sağanak sonrası toprak kayması: 9 yapı hasar gördü",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/kirikkalede-saganak-sonrasi-toprak-kaymasi-9-yapi-hasar-gordu",
-          "also_in": [
-            "Cumhuriyet",
-            "NTV"
-          ]
-        },
-        {
-          "title": "Ankara'da Mayıs ayında kar sürprizi",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/ankarada-mayis-ayinda-kar-surprizi-6914889",
-          "also_in": [
-            "Sözcü Gündem",
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "Ankara'nın yüksek kesimlerinde kar etkili oldu",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/5982327/ankaranin-yuksek-kesimlerinde-kar-etkili-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Bengütürk"
-          ]
-        },
-        {
-          "title": "Meteoroloji'den 13 il için kuvvetli yağış uyarısı",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/gundem/meteorolojiden-13-il-icin-kuvvetli-yagis-uyarisi/457628",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        }
-      ]
+      "story_count": 0,
+      "stories": []
     }
   ],
   "artwork": {
-    "title": "Maman",
-    "artist": "Louise Bourgeois",
-    "year": "1999",
-    "form": "Heykel",
-    "medium": "Bronze, stainless steel, and marble",
-    "location": "Çeşitli lokasyonlarda (örn: National Gallery of Canada, Ottawa; Tate Modern, London; Guggenheim Museum Bilbao)",
-    "description": "Devasa bronz bir örümcek heykeli olan 'Maman', annelik, aile, koruma ve korku temalarını işler. Hem mühendislik harikası hem de ürkütücü güzelliğiyle, teknolojinin karmaşıklığı ve doğanın gücü arasındaki hassas dengeyi çağrıştırır.",
+    "title": "The City Rises",
+    "artist": "Umberto Boccioni",
+    "year": "1910",
+    "form": "painting",
+    "medium": "Oil on canvas",
+    "location": "Museum of Modern Art, New York",
+    "description": "Bu eser, kentsel dönüşümün ve endüstriyel ilerlemenin dinamik ve kaotik enerjisini tasvir eder. Şehir yaşamının karmaşası, makinelerin gücü ve insan çabası bir araya gelerek görsel bir patlama yaratır.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Maman_(sculpture)",
-    "wikipedia_extract": "\nMaman (1999) is a bronze, stainless steel, and marble sculpture in several locations by the artist Louise Bourgeois. The sculpture, which depicts a spider, is among the world's largest, measuring over 30 ft high and over 33 ft wide (9.27 x 8.91 x 10.24 metres). It includes a sac containing 32 marble eggs and its abdomen and thorax are made of rubbed bronze.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Giant_spider_strikes_again%21.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Louise_Bourgeois"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_City_Rises",
+    "wikipedia_extract": "The City Rises (1910) is an oil painting by the Italian painter, Umberto Boccioni. It was his first major Futurist work.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/The_City_Rises_by_Umberto_Boccioni_1910.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Umberto_Boccioni"
   },
   "music": {
-    "title": "Genesis",
-    "artists": "Grimes",
-    "album": "Visions",
-    "duration": "4:15",
-    "spotify_url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq",
-    "spotify_id": "3cjvqsvvU80g7WJPMVh8iq",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/3cjvqsvvU80g7WJPMVh8iq\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Spiegel im spiegel",
+    "artists": "Arvo Pärt, Angèle Dubeau, La Pietà",
+    "album": "Arvo Pärt: Portrait",
+    "duration": "8:23",
+    "spotify_url": "https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj",
+    "spotify_id": "7zHd9LxIZB8WKosSWN9Umj",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273172bf9b9bd01946bf3f7785c",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7zHd9LxIZB8WKosSWN9Umj\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": "Art Pop, Electronic",
-    "suggested_mood": "Gizemli, Fütüristik, Dinamik, Merak uyandıran"
+    "suggested_genre": "Minimalist",
+    "suggested_mood": "Meditatif, sakin, düşünceli, melankolik, temiz"
   },
-  "curator_statement": "Bugünün karmaşık ve çok yönlü atmosferini, Louise Bourgeois'nun ürkütücü ve bir o kadar da koruyucu dev örümcek heykeli 'Maman' ile yakalıyoruz. Yapay zeka ve teknolojik yeniliklerin heyecanı, aynı zamanda uluslararası gerilimlerin yarattığı belirsizlik içinde, bu eserin mühendislik harikası yapısı ve anne sevgisi ile korkuyu harmanlayan doğası, günümüzdeki merak duygusunu besliyor. Grimes'ın 'Genesis' parçası ise, fütüristik synth sesleri ve mistik vokalleriyle bu teknolojik ilerlemenin ve keşif arzusunun elektronik nabzını tutuyor. Bir yanda sporun rekabetçi ruhu, diğer yanda ise bilinmeyene duyulan merak; bu seçimler, günümüzün akışkan ve kesişen gerçekliklerini yansıtıyor."
+  "curator_statement": "Bugünün haberleri, insanlığın hem yaratıcı potansiyelini hem de kırılganlığını gözler önüne seriyor. Teknolojinin hızlı ilerleyişi ve spor başarıları umut verirken, doğa olayları ve kazalar hepimizi derinden sarsıyor. Ufak bir umut ışığı ve büyük bir kaosun yan yana var olduğu bu dengeyi, Boccioni'nin 'The City Rises' adlı eserindeki endüstriyel karmaşanın altında yatan yaratıcı gücün ve Arvo Pärt'in 'Spiegel im Spiegel' adlı parçasının dingin ama derin melankolisinin birleşimiyle ifade etmek istiyorum. Bu ikili, hem ilerlemenin getirdiği kaosu hem de bu kaosun ortasında bulduğumuz huzuru ve düşünsel derinliği yansıtıyor."
 }
