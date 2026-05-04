@@ -106,14 +106,13 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
       "title": "kümeyi en iyi anlatan başlık (kısa)",
       "meta_category": "yukarıdaki listeden",
       "summary": "2-3 cümle özet",
-      "importance": 1-10 arası önem skoru,
-      "story_ids": [haber id'leri]
+      "importance": 1-10 arası önem skoru
     }}
   ],
   "curator_note": "Günü tek paragrafta, küratör bakışıyla özetleyen 3-4 cümle. Sanat eseri ve müzik seçimi için ipucu veren atmosferik bir not."
 }}
 
-ÖNEMLİ: Çok haberli olaylar için büyük kümeler oluştur, tekil ya da önemsiz haberleri kümelemeden geç. En fazla 25 küme yeter, daha azı daha iyi (önem sırasına göre).
+ÖNEMLİ: Çok haberli olaylar için büyük kümeler oluştur, tekil ya da önemsiz haberleri kümelemeden geç. En fazla 15 küme yeter, daha azı daha iyi (önem sırasına göre). Her kümenin özeti en fazla 2 cümle olsun.
 
 İŞTE HABERLER:
 {news_text}
@@ -216,15 +215,6 @@ def main():
     
     for cluster in analysis.get("clusters", []):
         cluster["stories"] = []
-        for sid in cluster.get("story_ids", []):
-            if 0 <= sid < len(sampled):
-                story = sampled[sid]
-                cluster["stories"].append({
-                    "title": story["title"],
-                    "source": story["source"],
-                    "link": story["link"],
-                    "also_in": story.get("also_in", []),
-                })
         cluster["story_count"] = len(cluster["stories"])
     
     analysis["clusters"].sort(
