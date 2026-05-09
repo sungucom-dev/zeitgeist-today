@@ -20,9 +20,8 @@ INPUT_FILE = "collected_news.json"
 OUTPUT_FILE = "day_analysis.json"
 MODEL_NAME = "gemini-2.5-flash-lite"
 
-# Retry ayarları
 MAX_RETRIES = 6
-RETRY_DELAYS = [30, 60, 120, 240, 480, 600]  # saniye
+RETRY_DELAYS = [30, 60, 120, 240, 480, 600]
 
 CATEGORY_LIMITS = {
     "Gündem": 250,
@@ -76,11 +75,11 @@ def build_prompt(items):
     
     prompt = f"""Sen bir küratör ve haber analistisin. Aşağıda {today} tarihli son 24 saatlik Türk basınından toplanmış haberler var. Görevin:
 
-1. **KÜMELEME**: Aynı olayı/konuyu farklı kelimelerle anlatan haberleri tek küme yap. Örneğin "Erdoğan'ın açıklaması", "Cumhurbaşkanı bugün konuştu", "TBMM'de tarihi konuşma" aynı olaysa tek kümeye al. Her küme için en az 3-4 haberin birleşmesini bekliyorum (önemli olaylar için).
+1. **KÜMELEME**: Aynı olayı/konuyu farklı kelimelerle anlatan haberleri tek küme yap. Her küme için en az 3-4 haberin birleşmesini bekliyorum.
 
 2. **KATEGORİZE ETME**: Her kümeyi şu meta-kategorilerden birine yerleştir:
    - "Politika ve Diplomasi"
-   - "Ekonomi ve Piyasalar"  
+   - "Ekonomi ve Piyasalar"
    - "Toplum ve Yaşam"
    - "Bilim ve Teknoloji"
    - "Kültür, Sanat ve Düşünce"
@@ -91,7 +90,7 @@ def build_prompt(items):
    - "Magazin ve Eğlence"
    - "Diğer"
 
-3. **GÜNÜN RUHU**: Tüm haberlere bakarak günün genel atmosferini tarif et. Hangi duygular baskın? Bu gün nasıl bir gün?
+3. **GÜNÜN RUHU**: Tüm haberlere bakarak günün genel atmosferini tarif et.
 
 4. **ANAHTAR TEMALAR**: Günün 3-5 anahtar temasını çıkar.
 
@@ -105,14 +104,14 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
     {{
       "title": "kümeyi en iyi anlatan başlık (kısa)",
       "meta_category": "yukarıdaki listeden",
-      "summary": "2-3 cümle özet",
-      "importance": 1-10 arası önem skoru
+      "summary": "1-2 cümle özet",
+      "importance": 1-10 arası önem skoru,
+      "story_ids": [en fazla 5 haber id'si]
     }}
-  ],
-  "curator_note": "Günü tek paragrafta, küratör bakışıyla özetleyen 3-4 cümle. Sanat eseri ve müzik seçimi için ipucu veren atmosferik bir not."
+  ]
 }}
 
-ÖNEMLİ: Çok haberli olaylar için büyük kümeler oluştur, tekil ya da önemsiz haberleri kümelemeden geç. En fazla 15 küme yeter, daha azı daha iyi (önem sırasına göre). Her kümenin özeti en fazla 2 cümle olsun.
+ÖNEMLİ: En fazla 15 küme yeter. Her story_ids listesinde en fazla 5 ID olsun.
 
 İŞTE HABERLER:
 {news_text}
@@ -121,7 +120,6 @@ CEVABINI MUTLAKA AŞAĞIDAKİ JSON FORMATINDA VER, başka hiçbir metin ekleme:
 
 
 def call_gemini_with_retry(client, prompt, model_name):
-    """Gemini'yi çağırır, 503/429 hatalarında retry yapar."""
     last_error = None
     
     for attempt in range(MAX_RETRIES):
@@ -140,7 +138,6 @@ def call_gemini_with_retry(client, prompt, model_name):
             error_str = str(e)
             last_error = e
             
-            # Retry edilebilir hatalar: 503 (UNAVAILABLE), 429 (RATE LIMIT), timeout
             is_retryable = (
                 "503" in error_str or
                 "UNAVAILABLE" in error_str or
@@ -151,7 +148,6 @@ def call_gemini_with_retry(client, prompt, model_name):
             )
             
             if not is_retryable:
-                # Retry edilemez hata, hemen fırlat
                 raise
             
             if attempt < MAX_RETRIES - 1:
@@ -213,8 +209,18 @@ def main():
         print(response.text[:2000])
         return
     
+    # story_ids'den kaynak linklerini çek (max 5 per cluster)
     for cluster in analysis.get("clusters", []):
         cluster["stories"] = []
+        for sid in cluster.get("story_ids", [])[:5]:
+            if 0 <= sid < len(sampled):
+                story = sampled[sid]
+                cluster["stories"].append({
+                    "title": story["title"],
+                    "source": story["source"],
+                    "link": story["link"],
+                    "also_in": story.get("also_in", []),
+                })
         cluster["story_count"] = len(cluster["stories"])
     
     analysis["clusters"].sort(
@@ -230,8 +236,6 @@ def main():
         print(f"  {i}. [{cluster.get('importance', '?')}/10] "
               f"{cluster.get('title', '?')} "
               f"({cluster.get('story_count', 0)} haber)")
-    
-    print(f"\n📝 Küratör Notu:\n{analysis.get('curator_note', '?')}")
     
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
