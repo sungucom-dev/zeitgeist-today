@@ -1,22 +1,21 @@
 {
   "date": "2026-05-09",
   "date_human": "09 May 2026",
-  "generated_at": "2026-05-09T15:44:18.319405+00:00",
+  "generated_at": "2026-05-09T15:58:47.869436+00:00",
   "stats": {
     "feeds_collected": 274,
-    "news_total": 4697,
+    "news_total": 4436,
     "news_analyzed": 589,
-    "clusters": 15
+    "clusters": 14
   },
   "mood": {
-    "description": "Güne, teknolojik gelişmelerin ve spor müsabakalarının heyecanının hakim olduğu, ancak aynı zamanda ekonomik dalgalanmalar ve küresel gelişmelerin de dikkat çektiği bir atmosferle başlandı.",
+    "description": "Teknolojik gelişmelerin ve savunma sanayii hamlelerinin damgasını vurduğu, ancak aynı zamanda spor müsabakalarının ve kültürel etkinliklerin de dikkat çektiği hareketli bir gün.",
     "dominant_emotion": "İlgi",
     "key_themes": [
-      "Teknoloji ve Yapay Zeka",
       "Savunma Sanayii ve Teknolojik Gelişmeler",
-      "Spor Rekabeti ve Transfer Haberleri",
-      "Ekonomik Gelişmeler ve Piyasalar",
-      "Küresel ve Bölgesel Siyasi Gerilimler"
+      "Spor Müsabakaları ve Transferler",
+      "Ekonomik Gelişmeler ve Düzenlemeler",
+      "Kültürel Etkinlikler ve Yeni Yayınlar"
     ]
   },
   "weather": {
@@ -70,152 +69,144 @@
   },
   "clusters": [
     {
-      "title": "Teknoloji Devleri ve Yapay Zeka Güncellemeleri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Apple, Google, OpenAI gibi teknoloji devlerinin yeni ürünleri, güncellemeleri ve yapay zeka modelleri öne çıktı. Özellikle ses modelleri ve yapay zekanın depolama krizi yarattığına dair haberler dikkat çekti. Sosyal medya platformlarındaki erişim sorunları da gün boyu konuşuldu.",
-      "importance": 9,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Savunma Sanayii ve Teknolojik İnovasyonlar",
+      "title": "SAHA EXPO 2026 ve Savunma Sanayii Yatırımları",
       "meta_category": "Savunma ve Sanayi",
-      "summary": "SAHA EXPO fuarının yankıları sürerken, TUSAŞ'ın yeni insansız hava aracı GÖLGE, ASELSAN'ın millileştirme çabaları ve çeşitli İHA/SİHA projeleri savunma sanayiindeki gelişmeleri gözler önüne serdi. Kuantum bilgisayar tehdidine karşı 6G kalkanı gibi ileri teknolojiler de gündemdeydi.",
+      "summary": "SAHA EXPO 2026 fuarı, TCG Anadolu'ya yoğun ilgi, yeni taktik uçan kanat GÖLGE ve çeşitli savunma sistemlerinin tanıtımıyla öne çıktı. SSB ve ASELSAN arasındaki sözleşmeler ve Baykar'ın vizyon konuşması da dikkat çekti.",
       "importance": 9,
       "story_count": 0,
       "stories": []
     },
     {
-      "title": "Sporun Heyecanı: Transferler, Maçlar ve Rekorlar",
-      "meta_category": "Spor",
-      "summary": "Futbol transfer piyasası hareketliydi; Fenerbahçe, Galatasaray ve Beşiktaş'ın transfer hedefleri ve oyuncu dedikoduları öne çıktı. EuroLeague'de Fenerbahçe Beko'nun Final Four'a yükselmesi ve NBA'de Spurs'un galibiyeti spor gündemini meşgul etti. Milli atıcı Nedim Tolga Tunçer'in rekoru da takdire şayandı.",
-      "importance": 8,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Ekonomik Gelişmeler ve Piyasalar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Akıllı telefon ve tablet fiyatlarındaki artış beklentisi, motorine gelen indirim ve küresel piyasalardaki jeopolitik riskler öne çıktı. SPK ve TCMB'deki atamalar ile limanlardaki yük miktarında rekor kırılması ekonomik verileri şekillendirdi.",
-      "importance": 8,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Küresel Gerilimler ve Siyasi Gelişmeler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD'nin gizli UFO dosyalarını açması ve İran ile ABD arasındaki gerilim haberleri dikkat çekti. Rusya'nın 9 Mayıs Zafer Günü kutlamaları ve çeşitli ülkelerdeki seçim sonuçları uluslararası siyasetin nabzını tuttu. Türkiye'nin bölgesel diplomasisi de gündemdeydi.",
-      "importance": 7,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Yapay Zeka ve Dijitalleşmenin Etkileri",
+      "title": "Türkiye'nin Teknolojik İnovasyonları ve Gelecek Vizyonu",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zekanın podcast piyasasını kuşatması, görselleri ayırt etme yöntemleri ve dijitalleşmenin getirdiği zorluklar tartışıldı. Teknoloji şirketlerinin çalışanları işten çıkarması da bu konunun bir başka yüzünü gösterdi.",
-      "importance": 7,
+      "summary": "Türkiye'nin teknolojik dayanışma ittifakı kurma çağrıları, yeni insansız kara araçları, İHA ihracatı ve hibrit bulut dönüşümünü hızlandıracak adımlar gibi gelişmeler öne çıktı. TÜBİTAK'ın desteğiyle TEKNOFEST'e hazırlanan öğrenciler de dikkat çekti.",
+      "importance": 9,
       "story_count": 0,
       "stories": []
     },
     {
-      "title": "Hantavirüs Endişesi ve Sağlık Haberleri",
-      "meta_category": "Sağlık",
-      "summary": "Hantavirüsün aşısının bulunduğu ancak kullanıma sunulmasının yıllar alabileceği haberi, salgının göz ardı edilen hastalıkları gündeme taşıdığına işaret etti. İspanya'da hantavirüs vakalı gemi yolcularının tahliyesi ve karantina uygulamaları sağlık gündemini meşgul etti.",
-      "importance": 6,
+      "title": "Süper Lig'de Şampiyonluk ve Transfer Heyecanı",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de şampiyonluk yarışı ve küme düşme hattındaki ihtimaller konuşulurken, Fenerbahçe, Galatasaray ve Beşiktaş'ın transfer gündemi ve oyuncu kararları öne çıktı. EuroLeague'de Fenerbahçe Beko'nun Final Four'a yükselmesi de önemli bir gelişmeydi.",
+      "importance": 8,
       "story_count": 0,
       "stories": []
     },
     {
-      "title": "Kültür ve Sanat Dünyasındaki Yenilikler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Müzik dünyasında yeni albüm duyuruları (Kelela, Deep Purple) ve konser haberleri (The Prodigy) yer aldı. Edebiyat ve sinema alanında yeni çıkan kitaplar ve filmler, kültürel etkinlik rehberleri ile birlikte sanatseverlerin ilgisini çekti.",
-      "importance": 6,
+      "title": "Yapay Zeka ve Dijital Dünya Gündemi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka teknolojilerindeki gelişmeler, yeni ses modelleri, yapay zeka görsellerini ayırt etme yöntemleri ve depolama krizi gibi konular gündemdeki yerini korudu. Ayrıca, sosyal medya platformlarındaki kesintiler ve yeni özellikler de dikkat çekti.",
+      "importance": 8,
       "story_count": 0,
       "stories": []
     },
     {
       "title": "Cumhurbaşkanı Erdoğan'ın Diplomatik Görüşmeleri ve Bağışları",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan'ın IKBY Başbakanı Mesrur Barzani ve BAE Devlet Başkanı Al Nahyan ile gerçekleştirdiği görüşmeler ve Darülaceze'ye yaptığı kurban bağışı, siyasi gündemin önemli başlıklarındandı.",
-      "importance": 6,
+      "summary": "Cumhurbaşkanı Erdoğan'ın BAE Devlet Başkanı Al Nahyan ve IKBY Başbakanı Mesrur Barzani ile görüşmeleri ve Darülaceze'ye yaptığı kurban bağışı öne çıkan diğer başlıklar arasındaydı.",
+      "importance": 8,
       "story_count": 0,
       "stories": []
     },
     {
-      "title": "Teknoloji Platformlarındaki Kesintiler ve Sorunlar",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "YouTube, TikTok, ChatGPT, X (Twitter), WhatsApp ve Instagram gibi popüler platformlarda yaşanan kesintiler ve erişim sorunları kullanıcılar tarafından yoğun olarak paylaşıldı. Bu durum, dijital altyapının kırılganlığını gözler önüne serdi.",
-      "importance": 6,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Tarihi ve Arkeolojik Keşifler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Orta Çağ dişçiliği, Nubia Krallığı'nın duvar resimleri ve 5.000 yıllık su altı adası gibi arkeolojik ve tarihi keşifler, geçmişe ışık tuttu. Prof. Dr. Kemal Arı'nın mübadele üzerine analizleri de tarihi bir konuya odaklandı.",
-      "importance": 5,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Otomotiv Sektöründeki Gelişmeler ve Elektrikli Araçlar",
+      "title": "Elektronik Otomobil Sektöründeki Gelişmeler ve Krizler",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Elektrikli otomobil satışları, Porsche Taycan'ın rekoru ve Çinli elektrikli otomobillerdeki paslanma krizi otomotiv sektörünün gündemindeydi. Togg'un CATL ortaklığı da dikkat çeken bir başka gelişmeydi.",
+      "summary": "Elektrikli otomobillerdeki paslanma krizi, yeni modellerin tanıtımı ve CATL ortaklığı gibi konular gündemdeydi. Ayrıca, akıllı telefonlara yönelik taksit düzenlemeleri ve fiyat artışları da konuşuldu.",
+      "importance": 7,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Hantavirüs Salgını ve Küresel Sağlık Endişeleri",
+      "meta_category": "Sağlık",
+      "summary": "İspanya'da hantavirüs vakalı geminin tahliyesi ve karantina uygulamaları, DSÖ'nün açıklamaları ve hantavirüs aşısı çalışmaları sağlık gündeminin önemli bir parçasıydı.",
+      "importance": 7,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Kültür ve Sanat Dünyasından Yeni Yayınlar ve Etkinlikler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Yeni albüm duyuruları, film fragmanları, kitapların çıkışı ve haftanın etkinlik rehberi kültür sanat gündemini oluşturdu. İran'ın Venedik Bienali'nden çekilmesi de dikkat çeken bir gelişmeydi.",
+      "importance": 6,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Ekonomik Düzenlemeler ve Piyasa Gelişmeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "SPK'nın açığa satış yasağını uzatması, TÜİK ve TCMB'deki atamalar, motorine gelen indirim ve akaryakıt fiyatlarındaki değişimler ekonomi gündemini meşgul etti.",
+      "importance": 6,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "UFO Belgeleri ve Gizemli Olaylar",
+      "meta_category": "Diğer",
+      "summary": "Pentagon'un gizli UFO belgelerini yayınlaması ve ABD hükümetinin tarihi bir kararla bu dosyaları halka açması, gizemli olaylara olan ilgiyi artırdı.",
       "importance": 5,
       "story_count": 0,
       "stories": []
     },
     {
-      "title": "Gündelik Yaşam ve Kişisel Gelişim",
+      "title": "Oyun Dünyasındaki Yenilikler ve Duyurular",
+      "meta_category": "Eğlence",
+      "summary": "Yeni oyun duyuruları, güncellemeler ve oyun platformlarındaki içerik dalgaları oyunseverlerin ilgisini çekti. Ayrıca, Game of Thrones hayranlarına yönelik özel bir ürün de duyuruldu.",
+      "importance": 5,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Sosyal Medya ve Dijital Platformlardaki Değişiklikler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Instagram'ın iPad uygulamasının yenilenmesi, DM kutularındaki güvenlik güncellemeleri ve sosyal medyanın 'daha iyi olma' baskısı yarattığı üzerine analizler dikkat çekti.",
+      "importance": 4,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Doğa ve Çevre Konuları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Uzmanlardan çöl tozu uyarısı, Sapanca Gölü'nün seviyesinin kurtulması ve iklim değişikliğiyle mücadele gibi konular çevre gündemini oluşturdu. Amazon'un Terra Preta'sı da iklim krizine çözüm arayışında yer aldı.",
+      "importance": 4,
+      "story_count": 0,
+      "stories": []
+    },
+    {
+      "title": "Bireysel Gelişim ve Yaşam Tavsiyeleri",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "Burç yorumları, sosyal medya baskısı, bronzlaştırıcı damlalar gibi kişisel bakım önerileri ve ilişki dinamikleri üzerine yazılar gündelik yaşamın farklı yönlerine ışık tuttu. Anneler Günü kutlamaları da bu kategoriye dahil oldu.",
-      "importance": 4,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Dolandırıcılık ve Güvenlik Olayları",
-      "meta_category": "Diğer",
-      "summary": "Sahte yatırım tuzağı, Karabük merkezli dolandırıcılık operasyonları ve Zara'nın müşteri verilerinin ele geçirilmesi gibi olaylar, dijital ve finansal güvenlik konusundaki endişeleri artırdı. JDownloader üzerinden virüs dağıtılması da dikkat çekti.",
-      "importance": 4,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Eğitim ve Bilimsel Araştırmalar",
-      "meta_category": "Eğitim",
-      "summary": "Ortaokul öğrencilerinin TEKNOFEST projeleri, \"Yarının Teknoloji Liderleri\" yarışması ve Ankara Üniversitesi'ndeki gazetecilik atölyesi eğitim alanındaki faaliyetleri yansıttı. Yapay zeka görsellerini ayırt etme gibi bilimsel araştırmalar da ilgi gördü.",
+      "summary": "Zihni resetleme yöntemleri, ilişkilerde bağlanma stratejileri ve Anneler Günü'ne özel içerikler gibi konular yaşam kategorisinde yer aldı. Günlük burç yorumları da ilgi gören diğer başlıklardandı.",
       "importance": 3,
       "story_count": 0,
       "stories": []
     }
   ],
   "artwork": {
-    "title": "The Clock",
-    "artist": "Christian Marclay",
-    "year": "2010",
-    "form": "video",
-    "medium": "Video installation",
-    "location": "Various institutions, often featured in exhibitions worldwide",
-    "description": "Bu 24 saatlik video enstalasyonu, sinematik zaman gösterimlerini bir araya getirerek sürekli akan bir saat deneyimi sunar. Teknoloji, ilerleme ve zamanın geçiciliği temalarını işlerken, günümüzün hızlı tempolu ve teknoloji odaklı dünyasının bir yansımasıdır.",
+    "title": "The Raft of the Medusa",
+    "artist": "Théodore Géricault",
+    "year": "1818–1819",
+    "form": "Painting",
+    "medium": "Oil on canvas",
+    "location": "Louvre Museum, Paris",
+    "description": "Géricault'nun başyapıtı, denizcilik felaketinin gerçek bir hikayesine dayanıyor. Umutsuzluğun ve hayatta kalma mücadelesinin ortasında, insanlığın kırılganlığını ve dayanıklılığını çarpıcı bir şekilde tasvir ediyor. Eserin dinamik kompozisyonu ve dramatik ışık kullanımı, dönemin romantik akımının öncü örneklerindendir.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
-    "wikipedia_extract": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First exhibited at the Julien Levy Gallery in 1932 and sold for $250, The Persistence of Memory was donated to the Museum of Modern Art (MoMA) in New York City two years later in 1934 by an anonymous donor, where it has remained ever since. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as \"The Melting Clocks\", \"The Soft Watches\" or \"The Melting Watches\".",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Christian_Marclay"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa",
+    "wikipedia_extract": "The Raft of the Medusa – originally titled Scène de Naufrage – is an oil painting of 1818–1819 by the French Romantic painter and lithographer Théodore Géricault (1791–1824). Completed when the artist was 27, the work has become an icon of French Romanticism. At 491 by 716 cm, it is an over-life-size painting that depicts a moment from the aftermath of the wreck of the French naval frigate Méduse, which ran aground off the coast of today's Mauritania on 2 July 1816. On 5 July 1816, at least 150 people were set adrift on a hurriedly constructed raft; all but 15 died in the 13 days before their rescue, and those who survived endured starvation and dehydration and practiced cannibalism. The event became an international scandal, in part because its cause was widely attributed to the incompetence of the French captain. Géricault chose this large-scale uncommissioned work to launch his career, using a subject that had already generated widespread public interest. The event fascinated him.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/3840px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault"
   },
   "music": {
-    "title": "Midnight City",
-    "artists": "M83",
-    "album": "Hurry up, We're Dreaming",
-    "duration": "4:03",
-    "spotify_url": "https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9",
-    "spotify_id": "6GyFP1nfCDB8lbD2bG0Hq9",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/6GyFP1nfCDB8lbD2bG0Hq9\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "34 Ghosts IV",
+    "artists": "Nine Inch Nails",
+    "album": "Ghosts I-IV",
+    "duration": "5:52",
+    "spotify_url": "https://open.spotify.com/track/2vXOjiwfjobOqrezcuSBok",
+    "spotify_id": "2vXOjiwfjobOqrezcuSBok",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273411b0a44c93304c49848fb15",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2vXOjiwfjobOqrezcuSBok\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": "Synth-pop, Electronic",
-    "suggested_mood": "Energetic, Futuristic, Uplifting, Nostalgic"
+    "suggested_genre": "Instrumental Rock, Industrial, Ambient",
+    "suggested_mood": "Dystopian, Intense, Reflective, Ethereal"
   },
-  "curator_statement": "Bugünün dinamik haber akışı, bizi hem teknolojik ilerlemenin baş döndürücü hızına hem de küresel olayların karmaşıklığına sürüklüyor. Bu atmosferde, Christian Marclay'ın 'The Clock' adlı eseri, zamanın durmaksızın ilerleyişini ve onun sinematik bir kolajla temsilini sunarak, günümüzün sürekli değişen gündemiyle paralellik kuruyor. M83'ün 'Midnight City' parçası ise, fütüristik synth sesleri ve enerjik ritmiyle, teknolojik inovasyonun ve spor heyecanının yarattığı o canlılığı yakalıyor. İki eser de günün ruhunu, hem ilerlemeye duyulan ilgiyi hem de bazen yarattığı yoğunluğu yansıtıyor."
+  "curator_statement": "Bugünün hareketli atmosferi, insanlığın hem teknolojik zirvelere ulaşma arzusunu hem de en temel hayatta kalma mücadelelerini aynı anda sergiliyor. Géricault'nun 'Medusa'nın Salı' tablosu, tarihin derinliklerinden yükselen bu çaresizliği ve direnişi hatırlatırken, Nine Inch Nails'in 'Ghosts I-IV' albümünün atmosferik ve yer yer distopik ses manzaraları, günümüzün teknolojik ilerleyişinin getirdiği karmaşıklığı ve belirsizliği yankılıyor. Bu iki seçim, insanlığın hem bireysel hem de toplumsal düzeyde karşılaştığı zorluklara ve bu zorluklar karşısındaki sanatsal ifadelerine bir köprü kuruyor. Bilim kurgunun fantastik dünyalarıyla, gerçekliğin en karanlık köşeleri arasında bir denge arayışı."
 }
