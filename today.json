@@ -1,21 +1,22 @@
 {
   "date": "2026-05-09",
   "date_human": "09 May 2026",
-  "generated_at": "2026-05-09T15:58:47.869436+00:00",
+  "generated_at": "2026-05-09T16:21:37.628595+00:00",
   "stats": {
     "feeds_collected": 274,
-    "news_total": 4436,
-    "news_analyzed": 589,
-    "clusters": 14
+    "news_total": 4665,
+    "news_analyzed": 591,
+    "clusters": 15
   },
   "mood": {
-    "description": "Teknolojik gelişmelerin ve savunma sanayii hamlelerinin damgasını vurduğu, ancak aynı zamanda spor müsabakalarının ve kültürel etkinliklerin de dikkat çektiği hareketli bir gün.",
-    "dominant_emotion": "İlgi",
+    "description": "Gün, teknolojik gelişmeler, spor rekabeti ve kültürel etkinliklerin canlılığı ile dolu, ancak aynı zamanda ekonomik belirsizlikler ve toplumsal olaylarla da gölgeleniyor.",
+    "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Savunma Sanayii ve Teknolojik Gelişmeler",
-      "Spor Müsabakaları ve Transferler",
-      "Ekonomik Gelişmeler ve Düzenlemeler",
-      "Kültürel Etkinlikler ve Yeni Yayınlar"
+      "Teknoloji ve yapay zeka ilerlemeleri",
+      "Spor dünyasındaki rekabet ve transfer gelişmeleri",
+      "Ekonomik dalgalanmalar ve düzenlemeler",
+      "Savunma sanayii ve teknolojik dayanışma",
+      "Güncel toplumsal olaylar ve siyasi gelişmeler"
     ]
   },
   "weather": {
@@ -26,187 +27,731 @@
       {
         "date": "2026-05-09",
         "code": 61,
-        "temp_max": 25.2,
+        "temp_max": 26.1,
         "temp_min": 15.1
       },
       {
         "date": "2026-05-10",
-        "code": 45,
-        "temp_max": 27.7,
+        "code": 3,
+        "temp_max": 27.5,
         "temp_min": 14.1
       },
       {
         "date": "2026-05-11",
         "code": 3,
-        "temp_max": 30.4,
-        "temp_min": 14.3
+        "temp_max": 30.9,
+        "temp_min": 14.9
       },
       {
         "date": "2026-05-12",
         "code": 3,
-        "temp_max": 29.5,
-        "temp_min": 19.0
+        "temp_max": 29.8,
+        "temp_min": 19.6
       },
       {
         "date": "2026-05-13",
         "code": 3,
-        "temp_max": 27.9,
-        "temp_min": 18.2
+        "temp_max": 27.1,
+        "temp_min": 17.5
       },
       {
         "date": "2026-05-14",
         "code": 3,
-        "temp_max": 27.3,
-        "temp_min": 15.4
+        "temp_max": 26.8,
+        "temp_min": 15.1
       },
       {
         "date": "2026-05-15",
-        "code": 80,
-        "temp_max": 23.1,
-        "temp_min": 16.7
+        "code": 3,
+        "temp_max": 25.7,
+        "temp_min": 15.4
       }
     ]
   },
   "clusters": [
     {
-      "title": "SAHA EXPO 2026 ve Savunma Sanayii Yatırımları",
+      "title": "Teknoloji devrimleri ve dijital dünya",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka modellerindeki gelişmeler, akıllı telefonlardaki yeni düzenlemeler ve teknoloji şirketlerinin stratejik hamleleri öne çıkıyor. Ayrıca, çeşitli platformlardaki kesintiler ve siber güvenlik endişeleri de dikkat çekiyor.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "OpenAI gerçek zamanlı ses için 3 yeni model duyurdu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/openai-gercek-zamanli-ses-icin-3-yeni-model-duyurdu_180162.html",
+          "also_in": []
+        },
+        {
+          "title": "Yapay zeka devriminin bedelini yine çalışanlar ödüyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/yapay-zeka-devriminin-bedelini-yine-calisanlar-oduyor_180132.html",
+          "also_in": []
+        },
+        {
+          "title": "Kulağınızdaki ses gerçek olmayabilir: Yapay zeka podcast piyasasını kuşatıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/kulaginizdaki-ses-gercek-olmayabilir-yapay-zeka-podcast-piyasasini-kusatiyor_180077.html",
+          "also_in": []
+        },
+        {
+          "title": "İnternetin geçmişi tehlikede: Yapay zeka depolama krizi yarattı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/internetin-gecmisi-tehlikede-yapay-zeka-depolama-krizi-yaratti--205457",
+          "also_in": []
+        },
+        {
+          "title": "OpenAI yeni ses modelleriyle çıtayı yükseltti: Konuşurken farklı işler de yapabiliyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/openai-yeni-ses-modelleriyle-sinif-atliyor--205434",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma sanayii ve teknolojik işbirlikleri",
       "meta_category": "Savunma ve Sanayi",
-      "summary": "SAHA EXPO 2026 fuarı, TCG Anadolu'ya yoğun ilgi, yeni taktik uçan kanat GÖLGE ve çeşitli savunma sistemlerinin tanıtımıyla öne çıktı. SSB ve ASELSAN arasındaki sözleşmeler ve Baykar'ın vizyon konuşması da dikkat çekti.",
+      "summary": "SAHA EXPO fuarı savunma sanayii için önemli bir platform olurken, yerli İHA, denizaltı ve savaş sistemlerinin tanıtımları yapıldı. Teknolojik dayanışma ittifakı çağrıları ve uluslararası işbirlikleri de gündemde.",
       "importance": 9,
-      "story_count": 0,
-      "stories": []
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "STM’nin VTOL İHA’sı TURUL test uçuşlarına devam ediyor",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/stmnin-vtol-ihasi-turul-test-ucuslarina-devam-ediyor",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN’dan millileştirmenin kahramanlarına ödüller",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/aselsandan-millilestirmenin-kahramanlarina-oduller",
+          "also_in": []
+        },
+        {
+          "title": "DATUM, mini denizaltısını tanıttı",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/datum-mini-denizaltisini-tanitti",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN Nanotech Eskişehir kuruluyor",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/aselsan-nanotech-eskisehir-kuruluyor",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN sistemleri Endonezya yolcusu",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/aselsan-sistemleri-endonezya-yolcusu",
+          "also_in": []
+        }
+      ]
     },
     {
-      "title": "Türkiye'nin Teknolojik İnovasyonları ve Gelecek Vizyonu",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin teknolojik dayanışma ittifakı kurma çağrıları, yeni insansız kara araçları, İHA ihracatı ve hibrit bulut dönüşümünü hızlandıracak adımlar gibi gelişmeler öne çıktı. TÜBİTAK'ın desteğiyle TEKNOFEST'e hazırlanan öğrenciler de dikkat çekti.",
-      "importance": 9,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Süper Lig'de Şampiyonluk ve Transfer Heyecanı",
+      "title": "Futbol dünyasındaki transferler ve şampiyonluk yarışı",
       "meta_category": "Spor",
-      "summary": "Süper Lig'de şampiyonluk yarışı ve küme düşme hattındaki ihtimaller konuşulurken, Fenerbahçe, Galatasaray ve Beşiktaş'ın transfer gündemi ve oyuncu kararları öne çıktı. EuroLeague'de Fenerbahçe Beko'nun Final Four'a yükselmesi de önemli bir gelişmeydi.",
-      "importance": 8,
-      "story_count": 0,
-      "stories": []
+      "summary": "Galatasaray, Fenerbahçe ve Beşiktaş gibi büyük kulüplerin transfer gündemi ve şampiyonluk yolundaki kritik maçları öne çıkıyor. Oyuncu kararları, teknik direktör açıklamaları ve taraftar tepkileri de haberlerde yer buluyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe ve Galatasaray'ın teklifi sonrası Paulo Dybala kararını verdi!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/futbol/2026/05/09/fenerbahce-ve-galatasarayin-teklifi-sonrasi-paulo-dybala-kararini-verdi",
+          "also_in": [
+            "Fotomaç"
+          ]
+        },
+        {
+          "title": "Ederson'dan son dakika Fenerbahçe kararı! Artık her şey netleşti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/edersondan-son-dakika-fenerbahce-karari-artik-her-sey-netlesti-422514",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'de yeni yönetime derin bir oh çektirecek bomba ayrılık: Görüşmeler başladı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/fenerbahcede-yeni-yonetime-derin-bir-oh-cektirecek-bomba-ayrilik-gorusmeler-basladi-422497",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "FENERBAHÇE BEKO FİNAL FOUR’DA!",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/fenerbahce-beko-final-fourda-3.html",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray-Hesap.com Antalyaspor canlı maç | Trendyol Süper Lig 33. hafta",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/05/09/galatasaray-hesapcom-antalyaspor-canli-mac-trendyol-super-lig-33-hafta",
+          "also_in": []
+        }
+      ]
     },
     {
-      "title": "Yapay Zeka ve Dijital Dünya Gündemi",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka teknolojilerindeki gelişmeler, yeni ses modelleri, yapay zeka görsellerini ayırt etme yöntemleri ve depolama krizi gibi konular gündemdeki yerini korudu. Ayrıca, sosyal medya platformlarındaki kesintiler ve yeni özellikler de dikkat çekti.",
+      "title": "Ekonomik gelişmeler ve piyasa düzenlemeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Akıllı telefon fiyatlarındaki artış beklentisi, motorine gelen indirimler ve piyasalardaki genel durum ekonomik gündemi oluşturuyor. Ayrıca, SPK ve TÜİK gibi kurumlardaki atamalar ve yeni düzenlemeler de dikkat çekiyor.",
       "importance": 8,
-      "story_count": 0,
-      "stories": []
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SPK, açığa satış yasağını 26 Mayıs'a kadar uzattı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/spk-aciga-satis-yasagini-26-mayisa-kadar-uzatti/3932504",
+          "also_in": [
+            "Dünya",
+            "dikGAZETE",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Ticaret Bakanlığından \"sıfır cep telefonu satışına taksit\" açıklaması",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/ticaret-bakanligindan-sifir-cep-telefonu-satisina-taksit-aciklamasi",
+          "also_in": [
+            "dikGAZETE",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Ticaret Bakanlığından \"sıfır cep telefonuna taksit\" açıklaması",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/ekonomi/ticaret-bakanligindan-sifir-cep-telefonuna-taksit-aciklamasi-268742h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Akıllı telefon ve tablet fiyatlarında yüzde 25 artış bekleniyor",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/akilli-telefon-ve-tablet-fiyatlarinda-25-artis-bekleniyor-3777190",
+          "also_in": []
+        },
+        {
+          "title": "Motorine indirim geldi",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/motorine-indirim-geldi-3777186",
+          "also_in": []
+        }
+      ]
     },
     {
-      "title": "Cumhurbaşkanı Erdoğan'ın Diplomatik Görüşmeleri ve Bağışları",
+      "title": "Siyasi gelişmeler ve uluslararası ilişkiler",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan'ın BAE Devlet Başkanı Al Nahyan ve IKBY Başbakanı Mesrur Barzani ile görüşmeleri ve Darülaceze'ye yaptığı kurban bağışı öne çıkan diğer başlıklar arasındaydı.",
+      "summary": "Cumhurbaşkanı Erdoğan'ın IKBY Başbakanı Barzani ve BAE Devlet Başkanı Al Nahyan ile görüşmeleri, siyasi partiler arasındaki açıklamalar ve uluslararası ilişkilerdeki gelişmeler öne çıkıyor. Özellikle AB ile ilişkiler ve bölgesel politikalar gündemde.",
       "importance": 8,
-      "story_count": 0,
-      "stories": []
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Darülaceze'ye kurban bağışı yaptı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-darulacezeye-kurban-bagisi-yapti/3932505",
+          "also_in": [
+            "Bengütürk",
+            "Dünya",
+            "dikGAZETE",
+            "Haber 7",
+            "Hürriyet",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, IKBY Başbakanı Mesrur Barzani'yi kabul etti",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/cumhurbaskani-erdogan-ikby-basbakani-mesrur-barzaniyi-kabul-etti-576385",
+          "also_in": [
+            "Ekonomim",
+            "Gerçek Gündem",
+            "dikGAZETE",
+            "Hürriyet",
+            "Haber Global",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile telefonda görüştü",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-bae-devlet-baskani-al-nahyan-ile-telefonda-gorustu",
+          "also_in": [
+            "Bengütürk",
+            "Ekonomim",
+            "dikGAZETE",
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan’dan Darülaceze’ye Kurban Bağışı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-darulacezeye-kurban-bagisi-2425616",
+          "also_in": [
+            "BHA",
+            "İşçi Haber",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile görüştü",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/cumhurbaskani-erdogan-bae-devlet-baskani-al-nahyan-ile-gorustu-523490",
+          "also_in": [
+            "TRT Haber",
+            "Ulusal Kanal"
+          ]
+        }
+      ]
     },
     {
-      "title": "Elektronik Otomobil Sektöründeki Gelişmeler ve Krizler",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Elektrikli otomobillerdeki paslanma krizi, yeni modellerin tanıtımı ve CATL ortaklığı gibi konular gündemdeydi. Ayrıca, akıllı telefonlara yönelik taksit düzenlemeleri ve fiyat artışları da konuşuldu.",
-      "importance": 7,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Hantavirüs Salgını ve Küresel Sağlık Endişeleri",
-      "meta_category": "Sağlık",
-      "summary": "İspanya'da hantavirüs vakalı geminin tahliyesi ve karantina uygulamaları, DSÖ'nün açıklamaları ve hantavirüs aşısı çalışmaları sağlık gündeminin önemli bir parçasıydı.",
-      "importance": 7,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Kültür ve Sanat Dünyasından Yeni Yayınlar ve Etkinlikler",
+      "title": "Kültür, sanat ve eğlence dünyası",
       "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Yeni albüm duyuruları, film fragmanları, kitapların çıkışı ve haftanın etkinlik rehberi kültür sanat gündemini oluşturdu. İran'ın Venedik Bienali'nden çekilmesi de dikkat çeken bir gelişmeydi.",
-      "importance": 6,
-      "story_count": 0,
-      "stories": []
+      "summary": "Yeni film ve dizi duyuruları, müzik albümleri ve konser haberleri eğlence dünyasını meşgul ediyor. Edebiyat, sinema ve sergi gibi kültürel etkinlikler de dikkat çekiyor. Tarihi ve mitolojik konulara olan ilgi de devam ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "The Glades – Tanıtım",
+          "source": "22 Dakika",
+          "link": "https://22dakika.org/the-glades-tanitim/",
+          "also_in": []
+        },
+        {
+          "title": "D&D Beyond Platformunda Dev İçerik Dalgası Başladı",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/dd-beyond-platformunda-dev-icerik-dalgasi-basladi",
+          "also_in": []
+        },
+        {
+          "title": "Kütüphanenizdeki Oyunlar Canlanıyor: Game Quest Oyununda Kütüphanenizdeki Oyunlara Karşı Savaşın",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/kutuphanenizdeki-oyunlar-canlaniyor-game-quest-oyununda-kutuphanenizdeki-oyunlara-karsi-savasin",
+          "also_in": []
+        },
+        {
+          "title": "Timothée Chalamet’li Wonka Devam Filmi İçin Çekim Takvimi Netleşiyor",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/timothee-chalametli-wonka-devam-filmi-icin-cekim-takvimi-netlesiyor",
+          "also_in": []
+        },
+        {
+          "title": "Raylar Üzerinde Yükselen Medeniyet – Steel Artery: Train City Builder ile Tanışın",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/raylar-uzerinde-yukselen-medeniyet-steel-artery-train-city-builder-ile-tanisin",
+          "also_in": []
+        }
+      ]
     },
     {
-      "title": "Ekonomik Düzenlemeler ve Piyasa Gelişmeleri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "SPK'nın açığa satış yasağını uzatması, TÜİK ve TCMB'deki atamalar, motorine gelen indirim ve akaryakıt fiyatlarındaki değişimler ekonomi gündemini meşgul etti.",
-      "importance": 6,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "UFO Belgeleri ve Gizemli Olaylar",
-      "meta_category": "Diğer",
-      "summary": "Pentagon'un gizli UFO belgelerini yayınlaması ve ABD hükümetinin tarihi bir kararla bu dosyaları halka açması, gizemli olaylara olan ilgiyi artırdı.",
-      "importance": 5,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Oyun Dünyasındaki Yenilikler ve Duyurular",
-      "meta_category": "Eğlence",
-      "summary": "Yeni oyun duyuruları, güncellemeler ve oyun platformlarındaki içerik dalgaları oyunseverlerin ilgisini çekti. Ayrıca, Game of Thrones hayranlarına yönelik özel bir ürün de duyuruldu.",
-      "importance": 5,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Sosyal Medya ve Dijital Platformlardaki Değişiklikler",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Instagram'ın iPad uygulamasının yenilenmesi, DM kutularındaki güvenlik güncellemeleri ve sosyal medyanın 'daha iyi olma' baskısı yarattığı üzerine analizler dikkat çekti.",
-      "importance": 4,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Doğa ve Çevre Konuları",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Uzmanlardan çöl tozu uyarısı, Sapanca Gölü'nün seviyesinin kurtulması ve iklim değişikliğiyle mücadele gibi konular çevre gündemini oluşturdu. Amazon'un Terra Preta'sı da iklim krizine çözüm arayışında yer aldı.",
-      "importance": 4,
-      "story_count": 0,
-      "stories": []
-    },
-    {
-      "title": "Bireysel Gelişim ve Yaşam Tavsiyeleri",
+      "title": "Toplumsal olaylar ve insan hikayeleri",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "Zihni resetleme yöntemleri, ilişkilerde bağlanma stratejileri ve Anneler Günü'ne özel içerikler gibi konular yaşam kategorisinde yer aldı. Günlük burç yorumları da ilgi gören diğer başlıklardandı.",
+      "summary": "Sosyal medyanın etkisi, kişisel gelişim ve ilişkilerdeki dinamikler yaşam haberlerinde yer alıyor. Ayrıca, Anneler Günü'ne özel içerikler ve çeşitli toplumsal sorunlara değinen yazılar da dikkat çekiyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bu Baharın Diğerlerinden Farklı Hissettirmesinden Ruhi Çenet Talihsizliğine Son 24 Saatin Viral Tweetleri",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/son-24-saatin-viral-tweetleri-1358270",
+          "also_in": []
+        },
+        {
+          "title": "Sınava Girmeden Önce Ne Yemeli? Hem Odaklanmayı Hem de Hafızayı Destekleyen Besinler",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/sinava-girmeden-once-ne-yemeli-hem-odaklanmayi-hem-de-hafizayi-destekleyen-besinler-1358268",
+          "also_in": []
+        },
+        {
+          "title": "Sunucu Cem Öğretir Karizmatik Konuşmanın İnceliklerini Paylaştı",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/sunucu-cem-ogretir-karizmatik-konusmanin-inceliklerini-paylasti-1358266",
+          "also_in": []
+        },
+        {
+          "title": "Tarot Falına Göre 10 Mayıs Pazar Günü Senin İçin Nasıl Geçecek?",
+          "source": "Onedio",
+          "link": "https://onedio.com/astroloji/tarot/10-mayis-2026-gunluk-tarot-fali",
+          "also_in": []
+        },
+        {
+          "title": "10 Mayıs Pazar Balık Burcu Günlük Burç Yorumu",
+          "source": "Onedio",
+          "link": "https://onedio.com/astroloji/balik/10-mayis-2026-gunluk-burc-yorumu",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel keşifler ve tarihi miras",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "İnsanlığın tarihine dair ilginç bilgiler, arkeolojik bulgular ve bilimsel araştırmalar dikkat çekiyor. Tarihi dişçilikten Amazon'un gizemli topraklarına, antik adalardan duvar resimlerine kadar geniş bir yelpazede keşifler sunuluyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Youtube: İnsan Kendi Tarihine Neden Yabancılaşır?",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/09/youtube-insan-kendi-tarihine-neden-yabancilasir/",
+          "also_in": []
+        },
+        {
+          "title": "Prof. Dr. Kemal Arı: Mübadele Niçin Gerekli Oldu?",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/09/prof-dr-kemal-ari-mubadele-nicin-gerekli-oldu/",
+          "also_in": []
+        },
+        {
+          "title": "Prof. Dr. Kemal Arı: Mübadele Nedir, Mübadil Kime Denir?",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/09/prof-dr-kemal-ari-mubadele-nedir-mubadil-kime-denir/",
+          "also_in": []
+        },
+        {
+          "title": "Orta Çağ Dişçiliği: İskoçya’nın İlk Altın Diş Köprüsü",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/orta-cag-disciligi-iskocyanin-ilk-altin-dis-koprusu/?utm_source=rss&utm_medium=rss&utm_campaign=orta-cag-disciligi-iskocyanin-ilk-altin-dis-koprusu",
+          "also_in": []
+        },
+        {
+          "title": "Nubia Krallığı’nın Yüzlerce Yıllık Duvar Resimleri Canlanıyor",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/nubia-kralliginin-yuzlerce-yillik-duvar-resimleri-canlaniyor/?utm_source=rss&utm_medium=rss&utm_campaign=nubia-kralliginin-yuzlerce-yillik-duvar-resimleri-canlaniyor",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlık alanındaki gelişmeler ve uyarılar",
+      "meta_category": "Sağlık",
+      "summary": "Hantavirüs aşısı çalışmaları, şiddetli kanamaları durduran pıhtılar ve uyku düzeninin önemi gibi sağlıkla ilgili konular gündemde. Ayrıca, bazı hastalıkların yayılmasına dair uyarılar da yer alıyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Hantavirüsün aşısı bulundu, ama kullanıma sunulması yıllar alabilir",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/hantavirusun-asisi-bulundu-ama-kullanima-sunulmasi-yillar-alabilir_180145.html",
+          "also_in": []
+        },
+        {
+          "title": "Uykusuz kaldığınız her gece, bakın beyninize neler yapıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/uykusuz-kaldiginiz-her-gece-bakin-beyninize-neler-yapiyor_180105.html",
+          "also_in": []
+        },
+        {
+          "title": "Google'dan yeni uygulama: Google Health resmen duyuruldu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/googledan-yeni-uygulama-google-health-resmen-duyuruldu_180147.html",
+          "also_in": []
+        },
+        {
+          "title": "Uykuya odaklı gerçek bir teknoloji: Soundcore Sleep A30 inceleme",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/uykuya-odakli-gercek-bir-teknoloji-soundcore-sleep-a30-inceleme_180112.html",
+          "also_in": []
+        },
+        {
+          "title": "Salgın, Göz Ardı Edilen Hastalığı Gündeme Taşıdı: Hantavirüs Aşısı İçin Yıllar Gerekli",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/salgin-goz-ardi-edilen-hastaligi-gundeme-tasidi-hantavirus-asisi-icin-yillar-gerekli/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor haberleri ve turnuva heyecanı",
+      "meta_category": "Spor",
+      "summary": "Dünya Kupası elemeleri, NBA maçları ve çeşitli spor dallarındaki müsabakalardan haberler yer alıyor. Milli sporcuların başarıları ve takım transferleri de spor gündemini oluşturuyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İran Futbol Federasyonu: 2026 Dünya Kupası'na mutlaka katılacağız",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/futbol/2026/05/09/iran-futbol-federasyonu-2026-dunya-kupasina-mutlaka-katilacagiz",
+          "also_in": [
+            "Anadolu Ajansı",
+            "Bengütürk",
+            "Ekonomim",
+            "dikGAZETE",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "MotoGP'nin Fransa'daki sprint yarışında Toprak Razgatlıoğlu, 14. oldu",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/tum-sporlar/2026/05/09/motogpnin-fransadaki-sprint-yarisinda-toprak-razgatlioglu-14-oldu",
+          "also_in": [
+            "Anadolu Ajansı",
+            "Diriliş Postası",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Milli atıcı Nedim Tolga Tunçer, Dünya Kupası'nda rekor kırarak şampiyon oldu",
+          "source": "Sözcü Spor",
+          "link": "https://www.sozcu.com.tr/milli-atici-nedim-tolga-tuncer-dunya-kupasi-nda-rekor-kirarak-sampiyon-oldu-p318194",
+          "also_in": [
+            "Anadolu Ajansı",
+            "dikGAZETE",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "NBA'de Timberwolves'u yenen Spurs, seride 2-1 öne geçti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/05/09/nbade-timberwolvesu-yenen-spurs-seride-2-1-one-gecti",
+          "also_in": [
+            "10Haber",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Al-Hilal şampiyon oldu! Yusuf Akçiçek Suudi Arabistan'da ilk kupasını kazandı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/futbol/2026/05/08/al-hilal-sampiyon-oldu-yusuf-akcicek-suudi-arabistanda-ilk-kupasini-kazandi",
+          "also_in": [
+            "Fotomaç"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Doğa ve çevre olayları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "İklim kriziyle mücadele, petrol sızıntıları ve çevresel bozulmalar gibi konulara dikkat çekiliyor. Doğa olaylarının yanı sıra, bu konularda atılan adımlar ve yapılan açıklamalar da haberlerde yer alıyor.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Amazon'un Karanlık Toprağı: Terra Preta'nın Sırrı ve İklim Krizine Çözüm Arayışı",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/amazonun-karanlik-topragi-terra-pretanin-sirri-ve-iklim-krizine-cozum-arayisi-22902",
+          "also_in": []
+        },
+        {
+          "title": "iOS 26'da yeni sorun: Etkinleştirme kilidi devreye giriyor!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ios-26-da-yeni-sorun-etkinlestirme-kilidi-devreye-giriyor--205463",
+          "also_in": []
+        },
+        {
+          "title": "Uydu görüntüleri İran’ın Hark Adası yakınlarında büyük petrol sızıntısını ortaya koydu",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/iranin-hark-adasi-petrol-sizintisini/",
+          "also_in": []
+        },
+        {
+          "title": "İnsan müdahalesiyle \"su yolunu\" kaybeden dereler yıllar sonra taşkınla geri dönüyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/insan-mudahalesiyle-su-yolunu-kaybeden-dereler-yillar-sonra-taskinla-geri-donuyor/3932174",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Bakan Kurum: İklim değişikliği küresel bir kriz",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/ekonomi/bakan-kurum-iklim-degisikligi-kuresel-bir-kriz-2425574",
+          "also_in": [
+            "Bigpara"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Güncel olaylar ve trafik aksaklıkları",
+      "meta_category": "Diğer",
+      "summary": "Metrobüs yangını, trafik kazaları ve acil durum müdahaleleri gibi güncel olaylar toplumsal yaşamı etkiliyor. Ayrıca, hukuki süreçler ve bazı suç olayları da gündemde.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İstanbul'da metrobüste çıkan yangın seferleri aksattı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/istanbulda-metrobuste-cikan-yangin-seferleri-aksatti/3932511",
+          "also_in": [
+            "Evrensel",
+            "dikGAZETE",
+            "Milli Gazete"
+          ]
+        },
+        {
+          "title": "İstanbul'da 3 ilçede bazı yollar trafiğe kapatılacak",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5983279/istanbulda-3-ilcede-bazi-yollar-trafige-kapatilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İnternet Haber",
+            "Radikal"
+          ]
+        },
+        {
+          "title": "ABD'de bir yolcu uçağı, kalkış sırasında piste çıkan kişiye çarparak ölümüne neden oldu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abdde-bir-yolcu-ucagi-kalkis-sirasinda-piste-cikan-kisiye-carparak-olumune-neden-oldu/3932542",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Tuzla'da tersanede bakımı yapılan gemide yangın",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/tuzla-da-tersanede-bakimi-yapilan-gemide-yangin-2502400",
+          "also_in": [
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "Kadıköy'de milyonluk araçlar küle döndü",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/kadikoyde-milyonluk-araclar-kule-dondu-6917757",
+          "also_in": [
+            "NTV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve gençlik projeleri",
+      "meta_category": "Eğitim",
+      "summary": "Teknofest'e katılan öğrenciler, teknoloji liderleri yetiştirme projeleri ve eğitimdeki gelişmeler öne çıkıyor. Ayrıca, sınav öncesi beslenme gibi pratik bilgiler de yer alıyor.",
       "importance": 3,
-      "story_count": 0,
-      "stories": []
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Geleceğin mucitleri Ünye'den çıktı: Ortaokul öğrencilerinin projeleri TEKNOFEST yolcusu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gelecegin-mucitleri-unyeden-cikti-ortaokul-ogrencilerinin-projeleri-teknofest-yolcusu/102387",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Bakan Göktaş: Türkiye'nin Mühendis Kızları Projesi örnek modele dönüştü",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/bakan-goktas-turkiyenin-muhendis-kizlari-projesi-ornek-modele-donustu-268745h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Turkcell’den “Yarının Teknoloji Liderleri”ne 3 milyon 300 bin TL ödül",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/sirketler/turkcellden-yarinin-teknoloji-liderlerine-3-milyon-300-bin-tl-odul-haberi-893103",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "“Yarının Teknoloji Liderleri” proje yarışmasında kazananlar belli oldu Turkcell’den “Yarının Teknoloji Liderleri”ne 3 milyon 300 bin TL ödül",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/haberler/yarinin-teknoloji-liderleri-proje-yarismasinda-19830154-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Yozgat'ta atıl durumdaki okul binası cemevine dönüştürüldü",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/yozgat-ta-atil-durumdaki-okul-binasi-cemevine-donusturuldu-p318205",
+          "also_in": [
+            "Sözcü"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Magazin ve popüler kültür",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Ünlülerin hayatlarındaki gelişmeler, dizi ve film dünyasındaki haberler, magazin gündemini oluşturuyor. Burç yorumları ve tarot gibi popüler içerikler de ilgi görüyor.",
+      "importance": 3,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Günün Kampanyası: Disney+ 100 yıllık hikâye mirasını kutluyor",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/gunun-kampanyasi-disney-100-yillik-hikaye-mirasini-kutluyor/",
+          "also_in": []
+        },
+        {
+          "title": "Game of Thrones hayranlarına servet değerinde sürpriz: Sadece bin adet üretilecek",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/game-of-thrones-hayranlarina-servet-degerinde-surpriz-sadece-bin-adet-uretilecek_180149.html",
+          "also_in": []
+        },
+        {
+          "title": "Xbox’ta hafta sonu bedava: İki oyun kısa süreliğine açıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/xboxta-hafta-sonu-bedava-iki-oyun-kisa-sureligine-acildi_180161.html",
+          "also_in": []
+        },
+        {
+          "title": "ŞOK marketlerde Apple AirPods 4 ve MacBook Air M4 satılıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/9-mayis-sok-aktuel-katalogunda-neler-var--205445",
+          "also_in": []
+        },
+        {
+          "title": "Xbox'ta bu hafta sonu iki oyun ücretsiz: 500 TL değerinde",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/xbox-ta-bu-hafta-sonu-iki-oyun-ucretsiz-500-tl-degerinde--205449",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Mübadele ve tarihi olaylar",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Mübadele kavramı ve tarihsel arka planı üzerine yapılan analizler, tarihi olayların günümüzdeki yansımalarını anlamaya yardımcı oluyor.",
+      "importance": 3,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "Prof. Dr. Kemal Arı: Mübadele Niçin Gerekli Oldu?",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/09/prof-dr-kemal-ari-mubadele-nicin-gerekli-oldu/",
+          "also_in": []
+        },
+        {
+          "title": "Prof. Dr. Kemal Arı: Mübadele Nedir, Mübadil Kime Denir?",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/09/prof-dr-kemal-ari-mubadele-nedir-mubadil-kime-denir/",
+          "also_in": []
+        }
+      ]
     }
   ],
   "artwork": {
-    "title": "The Raft of the Medusa",
-    "artist": "Théodore Géricault",
-    "year": "1818–1819",
-    "form": "Painting",
-    "medium": "Oil on canvas",
-    "location": "Louvre Museum, Paris",
-    "description": "Géricault'nun başyapıtı, denizcilik felaketinin gerçek bir hikayesine dayanıyor. Umutsuzluğun ve hayatta kalma mücadelesinin ortasında, insanlığın kırılganlığını ve dayanıklılığını çarpıcı bir şekilde tasvir ediyor. Eserin dinamik kompozisyonu ve dramatik ışık kullanımı, dönemin romantik akımının öncü örneklerindendir.",
+    "title": "The Last Judgment",
+    "artist": "Michelangelo",
+    "year": "1536–1541",
+    "form": "fresco",
+    "medium": "Fresco",
+    "location": "Sistine Chapel, Vatican City",
+    "description": "Sistine Şapeli'nin mihrap duvarını kaplayan bu devasa fresk, Kıyamet Günü'nü ve İsa'nın yargısını tasvir eder. Gelişen teknoloji ve savunma sanayiiyle birleşen insanlığın karmaşık durumu, eserdeki hem göksel kurtuluşu hem de cehennemin dehşetini çağrıştırarak bir belirsizlik hissi uyandırır. Hem bireysel kaderler hem de toplumsal çalkantılar, bu dinamik ve dramatik kompozisyonda yankılanır.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa",
-    "wikipedia_extract": "The Raft of the Medusa – originally titled Scène de Naufrage – is an oil painting of 1818–1819 by the French Romantic painter and lithographer Théodore Géricault (1791–1824). Completed when the artist was 27, the work has become an icon of French Romanticism. At 491 by 716 cm, it is an over-life-size painting that depicts a moment from the aftermath of the wreck of the French naval frigate Méduse, which ran aground off the coast of today's Mauritania on 2 July 1816. On 5 July 1816, at least 150 people were set adrift on a hurriedly constructed raft; all but 15 died in the 13 days before their rescue, and those who survived endured starvation and dehydration and practiced cannibalism. The event became an international scandal, in part because its cause was widely attributed to the incompetence of the French captain. Géricault chose this large-scale uncommissioned work to launch his career, using a subject that had already generated widespread public interest. The event fascinated him.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/3840px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Last_Judgment_(Michelangelo)",
+    "wikipedia_extract": "The Last Judgment is a fresco by the Italian Renaissance painter Michelangelo covering the whole altar wall of the Sistine Chapel in Vatican City. It is a depiction of the Second Coming of Christ and the final and eternal judgment by God of all humanity. The dead rise and descend to their fates, as judged by Christ who is surrounded by prominent saints. Altogether there are over 300 figures, with nearly all the males and angels originally shown as nudes; many were later partly covered up by painted draperies, of which some remain after recent cleaning and restoration.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Last_Judgement_%28Michelangelo%29.jpg/3840px-Last_Judgement_%28Michelangelo%29.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Michelangelo"
   },
   "music": {
-    "title": "34 Ghosts IV",
-    "artists": "Nine Inch Nails",
-    "album": "Ghosts I-IV",
-    "duration": "5:52",
-    "spotify_url": "https://open.spotify.com/track/2vXOjiwfjobOqrezcuSBok",
-    "spotify_id": "2vXOjiwfjobOqrezcuSBok",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273411b0a44c93304c49848fb15",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2vXOjiwfjobOqrezcuSBok\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Exit Music (For A Film)",
+    "artists": "Radiohead",
+    "album": "OK Computer",
+    "duration": "4:27",
+    "spotify_url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY",
+    "spotify_id": "0z1o5L7HJx562xZSATcIpY",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0z1o5L7HJx562xZSATcIpY\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": "Instrumental Rock, Industrial, Ambient",
-    "suggested_mood": "Dystopian, Intense, Reflective, Ethereal"
+    "suggested_genre": "Alternative Rock",
+    "suggested_mood": "Melankolik, gergin, düşündürücü, dramatik"
   },
-  "curator_statement": "Bugünün hareketli atmosferi, insanlığın hem teknolojik zirvelere ulaşma arzusunu hem de en temel hayatta kalma mücadelelerini aynı anda sergiliyor. Géricault'nun 'Medusa'nın Salı' tablosu, tarihin derinliklerinden yükselen bu çaresizliği ve direnişi hatırlatırken, Nine Inch Nails'in 'Ghosts I-IV' albümünün atmosferik ve yer yer distopik ses manzaraları, günümüzün teknolojik ilerleyişinin getirdiği karmaşıklığı ve belirsizliği yankılıyor. Bu iki seçim, insanlığın hem bireysel hem de toplumsal düzeyde karşılaştığı zorluklara ve bu zorluklar karşısındaki sanatsal ifadelerine bir köprü kuruyor. Bilim kurgunun fantastik dünyalarıyla, gerçekliğin en karanlık köşeleri arasında bir denge arayışı."
+  "curator_statement": "Bugünün dünyası, teknolojik ilerlemelerin getirdiği sınırsız potansiyel ile ekonomik ve toplumsal belirsizliklerin yarattığı endişe arasında gidip gelen bir denge üzerinde duruyor. Michelangelo'nun 'Son Hüküm'ü, insanlığın hem yüceliğini hem de kırılganlığını sergileyerek, hem bireysel hem de kolektif kaderlerimiz üzerine derinlemesine düşünmemizi sağlıyor. Radiohead'in 'Exit Music (For a Film)' parçası ise, bu karmaşık ve gergin atmosferi, yükselen melodisi ve düşündürücü sözleriyle mükemmel bir şekilde yansıtıyor. İki eser de, belirsizlikle dolu bir geleceğe doğru ilerlerken, hem umudu hem de korkuyu kucaklayan insanlık durumunu gözler önüne seriyor."
 }
