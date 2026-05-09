@@ -455,6 +455,18 @@ def main():
             print(f"     Başlık: {artwork_page['title']}")
             print(f"     URL: {artwork_page['page_url']}")
             print(f"     Görsel: {artwork_page['originalimage']}")
+            # Başlık uyuşuyor mu kontrol et
+            found_title = artwork_page['title'].lower()
+            proposed_title = title.lower()
+            # En az bir anlamlı kelime eşleşmeli
+            title_words = [w for w in proposed_title.split() if len(w) > 3]
+            match = any(w in found_title for w in title_words)
+            if not match:
+                print(f"   ⚠️  Başlık uyuşmuyor: '{artwork_page['title']}' ≠ '{title}'")
+                print(f"   → Yeni öneri istetiliyor...")
+                failed_attempts.append({"title": title, "artist": artist})
+                artwork_page = None
+                continue
             final_curation = curation
             break
         else:
