@@ -1940,3 +1940,475 @@ Bugünün dinamik ve beklenti dolu atmosferinde, teknolojinin getirdiği yenilik
  2 files changed, 970 insertions(+), 661 deletions(-)
  create mode 100644 archive/2026-05-09.json
 fatal: could not read Username for 'https://github.com': Device not configured
+🔄 316 besleme paralel olarak çekiliyor (timeout: 15s)
+
+  [1/316] ○ DijitalX                                 (0 haber)
+  [2/316] ✓ Independent Bilim                        (0 haber)
+  [3/316] ✓ Moletik                                  (0 haber)
+  [4/316] ✓ Gelecek Bilimde                          (0 haber)
+  [5/316] ✓ Gerçek Bilim                             (0 haber)
+  [6/316] ✓ Bilim Günlüğü                            (0 haber)
+  [7/316] ○ Megabayt Bilim                           (0 haber)
+  [8/316] ✓ Tarihten Yazılar                         (3 haber)
+  [9/316] ✓ Bilimup                                  (1 haber)
+  [10/316] ✓ Bilimoloji                               (0 haber)
+  [11/316] ✓ CHIP Online                              (26 haber)
+  [12/316] ✓ Sarkaç                                   (0 haber)
+  [13/316] ✓ Evrim Ağacı                              (1 haber)
+  [14/316] ✓ Kozmik Anafor                            (0 haber)
+  [15/316] ✓ Tarihli Bilim                            (0 haber)
+  [16/316] ✓ Donanım Haber                            (24 haber)
+  [17/316] ✓ Investing Teknoloji                      (0 haber)
+  [18/316] ✓ Geç Bunları                              (0 haber)
+  [19/316] ✓ Arkeofili                                (2 haber)
+  [20/316] ✓ Donanım Günlüğü                          (3 haber)
+  [21/316] ✓ Campaign Türkiye                         (1 haber)
+  [22/316] ✓ Megabayt                                 (0 haber)
+  [23/316] ○ Megabayt Bilgisayar                      (0 haber)
+  [24/316] ✓ Bilim ve Gelecek                         (0 haber)
+  [25/316] ✓ ÇözümPark                                (0 haber)
+  [26/316] ○ Megabayt Donanım                         (0 haber)
+  [27/316] ○ Megabayt Siber Güvenlik                  (0 haber)
+  [28/316] ✓ Dijitaliyidir                            (3 haber)
+  [29/316] ○ Megabayt Nasıl Yapılır?                  (0 haber)
+  [30/316] ○ Megabayt Sosyal Medya                    (0 haber)
+  [31/316] ✓ Megabayt Teknoloji                       (0 haber)
+  [32/316] ○ Sinirbilim                               (0 haber)
+  [33/316] ○ Megabayt Yazılım                         (0 haber)
+  [34/316] ✓ Herkese Bilim Teknoloji                  (0 haber)
+  [35/316] ✓ Fizikist                                 (1 haber)
+  [36/316] ✓ Hardware Plus                            (11 haber)
+  [37/316] ✓ Beyinsizler                              (0 haber)
+  [38/316] ✓ Digital Report                           (0 haber)
+  [39/316] ✓ İndir                                    (2 haber)
+  [40/316] ✓ FounderN                                 (1 haber)
+  [41/316] ✓ LOG                                      (10 haber)
+  [42/316] ○ Tech Dergi                               (0 haber)
+  [43/316] ✓ Megabayt Bilim ve Teknoloji              (0 haber)
+  [44/316] ✓ Teknolojioku                             (18 haber)
+  [45/316] ✓ Sordum                                   (1 haber)
+  [46/316] ○ Matematiksel                             (0 haber)
+  [47/316] ○ PC Hocası                                (0 haber)
+  [48/316] ✓ Teknoblog                                (7 haber)
+  [49/316] ✓ Tam İndir                                (20 haber)
+  [50/316] ✓ Techolay                                 (7 haber)
+  [51/316] ✓ Sihirli Elma                             (2 haber)
+  [52/316] ✓ Beyaz Perde                              (1 haber)
+  [53/316] ✓ Beetekno                                 (12 haber)
+  [54/316] ✓ Webrazzi                                 (0 haber)
+  [55/316] ✓ Upcorn                                   (0 haber)
+  [56/316] ✓ Teloji                                   (0 haber)
+  [57/316] ○ Popular Science                          (0 haber)
+  [58/316] ✓ Webtekno                                 (0 haber)
+  [59/316] ✓ FRPNET                                   (8 haber)
+  [60/316] ✓ Bilimkurgu Kulübü                        (1 haber)
+  [61/316] ✓ Altyazı                                  (0 haber)
+  [62/316] ✓ Webmasto                                 (3 haber)
+  [63/316] ✓ Ekşi Şeyler                              (0 haber)
+  [64/316] ✓ TechTurco                                (0 haber)
+  [65/316] ✓ TeknoBurada                              (3 haber)
+  [66/316] ✓ Fantastik Canavarlar                     (0 haber)
+  [67/316] ✓ IGN Türkiye                              (0 haber)
+  [68/316] ✓ Keşif Asya                               (0 haber)
+  [69/316] ✓ Marjinal Sinema                          (0 haber)
+  [70/316] ✓ Geekyapar                                (0 haber)
+  [71/316] ✓ Bağımsız Sinema                          (0 haber)
+  [72/316] ✓ Teknodiot                                (20 haber)
+  [73/316] ✓ Atarita                                  (0 haber)
+  [74/316] ✓ VoiceTekno                               (0 haber)
+  [75/316] ○ Megabayt Dijital Platformlar             (0 haber)
+  [76/316] ○ Megabayt Dizi-sinema                     (0 haber)
+  [77/316] ✓ Megabayt Oyun                            (0 haber)
+  [78/316] ✓ 22 Dakika                                (1 haber)
+  [79/316] ○ Megabayt Sinema                          (0 haber)
+  [80/316] ○ Megabayt Televizyon                      (0 haber)
+  [81/316] ✓ ShiftDelete                              (20 haber)
+  [82/316] ○ Megabayt Youtube                         (0 haber)
+  [83/316] ✓ Merlin'in Kazanı                         (5 haber)
+  [84/316] ✓ Onedio                                   (165 haber)
+  [85/316] ✓ ListeList                                (2 haber)
+  [86/316] ✓ Turuncu Levye                            (6 haber)
+  [87/316] ✓ Mister Noob                              (0 haber)
+  [88/316] ○ Çekiçle Felsefe                          (0 haber)
+  [89/316] ✓ Cafrande                                 (0 haber)
+  [90/316] ✓ Edebi Bülten                             (0 haber)
+  [91/316] ✓ Bant Mag                                 (10 haber)
+  [92/316] ✓ Artdog                                   (0 haber)
+  [93/316] ✓ The Geyik                                (0 haber)
+  [94/316] ✓ Sinetopya                                (2 haber)
+  [95/316] ✓ Kilikya Dergisi                          (0 haber)
+  [96/316] ✓ Argonotlar                               (0 haber)
+  [97/316] ✓ Öteki Sinema                             (1 haber)
+  [98/316] ✓ Gazete Sanat                             (0 haber)
+  [99/316] ✓ Görünüm Dergisi                          (0 haber)
+  [100/316] ✓ Edebiyat Haber                           (9 haber)
+  [101/316] ✓ Kitap Haber                              (1 haber)
+  [102/316] ✓ İşin Detayı Kültür Sanat                 (0 haber)
+  [103/316] ○ Megabayt Kültür Sanat                    (0 haber)
+  [104/316] ✓ Mitoloji                                 (0 haber)
+  [105/316] ✓ Mobidictum                               (0 haber)
+  [106/316] ✓ Kitaplar                                 (1 haber)
+  [107/316] ✓ Hafta                                    (2 haber)
+  [108/316] ○ Mesail                                   (0 haber)
+  [109/316] ✓ Edebiyat Burada                          (0 haber)
+  [110/316] ✓ Fikir Turu                               (0 haber)
+  [111/316] ✓ Artkolik                                 (1 haber)
+  [112/316] ✓ Nouvart                                  (0 haber)
+  [113/316] ✓ 10layn                                   (0 haber)
+  [114/316] ✓ Mürekkep Haber                           (0 haber)
+  [115/316] ✓ Manifold                                 (0 haber)
+  [116/316] ✓ Öncül                                    (0 haber)
+  [117/316] ✓ Sofos                                    (0 haber)
+  [118/316] ✓ Technopat                                (13 haber)
+  [119/316] ○ AjansSpor                                (0 haber)
+  [120/316] ✓ Vesaire                                  (0 haber)
+  [121/316] ✓ Kayıp Rıhtım                             (8 haber)
+  [122/316] ✓ Basket Dergisi                           (5 haber)
+  [123/316] ✓ Duhuliye                                 (60 haber)
+  [124/316] ✓ A Spor                                   (48 haber)
+  [125/316] ✓ Terrabayt                                (0 haber)
+  [126/316] ✓ Play Tuşu                                (0 haber)
+  [127/316] ✓ Turkmmo                                  (4 haber)
+  [128/316] ○ Megabayt Spor                            (0 haber)
+  [129/316] ✓ Sosyal Bilimler                          (0 haber)
+  [130/316] ✓ Sabah Spor                               (10 haber)
+  [131/316] ✓ NTV Spor Futbol                          (20 haber)
+  [132/316] ✓ Kontraspor                               (21 haber)
+  [133/316] ✓ NTV Spor Basketbol                       (1 haber)
+  [134/316] ✓ NTV Spor Anasayfa                        (30 haber)
+  [135/316] ✓ Futboo                                   (10 haber)
+  [136/316] ✓ Fotospor                                 (50 haber)
+  [137/316] ✓ Sözcü Spor                               (42 haber)
+  [138/316] ✓ Türkiyede ve Dünyada Golf                (0 haber)
+  [139/316] ✓ Yedikıta                                 (0 haber)
+  [140/316] ✓ Akşam                                    (20 haber)
+  [141/316] ✓ A Haber                                  (26 haber)
+  [142/316] ✓ Fotomaç                                  (49 haber)
+  [143/316] ✓ BBC Türkçe                               (11 haber)
+  [144/316] ✓ ABC Haber                                (40 haber)
+  [145/316] ✓ Ajans Kamu                               (0 haber)
+  [146/316] ✓ 10Haber                                  (48 haber)
+  [147/316] ✓ Aydınlık                                 (50 haber)
+  [148/316] ✓ Agos                                     (0 haber)
+  [149/316] ✓ Al Ain Türkçe                            (0 haber)
+  [150/316] ✓ Artı Gerçek                              (39 haber)
+  [151/316] ✓ Orta Çizgi                               (10 haber)
+  [152/316] ✓ Rotka                                    (4 haber)
+  [153/316] ✓ Aykırı                                   (0 haber)
+  [154/316] ○ BirGün                                   (0 haber)
+  [155/316] ○ Bianet                                   (0 haber)
+  [156/316] ✓ CNN Türk                                 (35 haber)
+  [157/316] ✓ Ayandon                                  (0 haber)
+  [158/316] ✓ Diken                                    (30 haber)
+  [159/316] ✓ Anadolu Ajansı                           (27 haber)
+  [160/316] ✓ CGTN Türk                                (20 haber)
+  [161/316] ✓ Doğru Haber                              (20 haber)
+  [162/316] ✓ Dünya                                    (25 haber)
+  [163/316] ○ Bir Gazete                               (0 haber)
+  [164/316] ✓ Cumhuriyet                               (100 haber)
+  [165/316] ✓ Dijital Gaste                            (20 haber)
+  [166/316] ✓ Diriliş Postası                          (20 haber)
+  [167/316] ✓ Diyanet Haber                            (1 haber)
+  [168/316] ✓ Beyaz Gazete                             (2 haber)
+  [169/316] ✓ DW Haber                                 (11 haber)
+  [170/316] ✓ Bengütürk                                (40 haber)
+  [171/316] ✓ BHA                                      (0 haber)
+  [172/316] ✓ En Politik                               (7 haber)
+  [173/316] ✓ Ekonomim                                 (50 haber)
+  [174/316] ○ Ekol TV                                  (0 haber)
+  [175/316] ✓ dikGAZETE                                (100 haber)
+  [176/316] ✓ F5 Haber                                 (50 haber)
+  [177/316] ✓ Elips Haber                              (24 haber)
+  [178/316] ✓ Dokuz8 Haber                             (20 haber)
+  [179/316] ○ Gazete.net                               (0 haber)
+  [180/316] ✓ Gazete Pencere                           (40 haber)
+  [181/316] ✓ Evrensel                                 (100 haber)
+  [182/316] ✓ Google News                              (25 haber)
+  [183/316] ✓ Fayn                                     (4 haber)
+  [184/316] ✓ Gazete Duvar                             (0 haber)
+  [185/316] ✓ Gerçek Gündem                            (46 haber)
+  [186/316] ✓ Haber 3                                  (25 haber)
+  [187/316] ✓ Habertürk                                (19 haber)
+  [188/316] ✓ Haber 7                                  (93 haber)
+  [189/316] ✓ GZT                                      (98 haber)
+  [190/316] ✓ Haberet                                  (40 haber)
+  [191/316] ✓ En Son Haber                             (25 haber)
+  [192/316] ✓ Haber                                    (10 haber)
+  [193/316] ✓ Halk TV                                  (40 haber)
+  [194/316] ✓ Açık Gazete                              (2 haber)
+  [195/316] ○ Haberport                                (0 haber)
+  [196/316] ✓ Hürriyet                                 (51 haber)
+  [197/316] ✓ Haber Global                             (50 haber)
+  [198/316] ✓ Gazete Emek                              (5 haber)
+  [199/316] ✓ Haberler                                 (792 haber)
+  [200/316] ✓ İfade Özgürlüğü Derneği                  (0 haber)
+  [201/316] ✓ Independent Türkçe                       (10 haber)
+  [202/316] ✓ İlke TV                                  (10 haber)
+  [203/316] ✓ İklim Haber                              (0 haber)
+  [204/316] ✓ İnternet Haber                           (50 haber)
+  [205/316] ✓ Gazete Zebra                             (0 haber)
+  [206/316] ✓ Haberiniz                                (10 haber)
+  [207/316] ✓ Bigumigu                                 (0 haber)
+  [208/316] ✓ İstiklal                                 (40 haber)
+  [209/316] ✓ İşçi Haber                               (50 haber)
+  [210/316] ✓ Hukuki Haber                             (4 haber)
+  [211/316] ✓ İşin Detayı                              (0 haber)
+  [212/316] ✓ Karar                                    (40 haber)
+  [213/316] ✓ Korkusuz                                 (17 haber)
+  [214/316] ✓ IRNA Türkçe                              (9 haber)
+  [215/316] ✓ KRT TV                                   (0 haber)
+  [216/316] ✓ Mynet                                    (21 haber)
+  [217/316] ✓ Kısa Dalga                               (25 haber)
+  [218/316] ✓ Demokrat Haber                           (14 haber)
+  [219/316] ○ Megabayt Gündem                          (0 haber)
+  [220/316] ✓ Medya Gazete                             (100 haber)
+  [221/316] ✓ NewsLab Turkey                           (0 haber)
+  [222/316] ✓ OdaTV                                    (50 haber)
+  [223/316] ✓ Milli Gazete                             (21 haber)
+  [224/316] ✓ Medya Tilkisi                            (0 haber)
+  [225/316] ✓ Sabah                                    (10 haber)
+  [226/316] ✓ Lotus News                               (0 haber)
+  [227/316] ✓ Kamudan Haber                            (21 haber)
+  [228/316] ✓ Sözcü Gündem                             (50 haber)
+  [229/316] ○ Muhalif                                  (0 haber)
+  [230/316] ✓ Perspektif                               (2 haber)
+  [231/316] ✓ Radikal                                  (6 haber)
+  [232/316] ✓ Polemik Haber                            (0 haber)
+  [233/316] ✓ Star                                     (10 haber)
+  [234/316] ✓ Teyit                                    (0 haber)
+  [235/316] ✓ Kagi                                     (1 haber)
+  [236/316] ✓ Sputnik                                  (29 haber)
+  [237/316] ✓ Tele1                                    (12 haber)
+  [238/316] ✓ Türkgün                                  (50 haber)
+  [239/316] ✓ TRT Haber                                (50 haber)
+  [240/316] ✓ Sözcü                                    (50 haber)
+  [241/316] ✓ soL Haber                                (10 haber)
+  [242/316] ✓ Türkiye Gazetesi                         (179 haber)
+  [243/316] ✓ Son Mühür                                (20 haber)
+  [244/316] ✓ Serbestiyet                              (8 haber)
+  [245/316] ✓ Yeni Akit                                (40 haber)
+  [246/316] ✓ Veryansın TV                             (10 haber)
+  [247/316] ✓ Ulusal Post                              (7 haber)
+  [248/316] ✓ TGRT Haber                               (85 haber)
+  [249/316] ○ Timeturk                                 (0 haber)
+  [250/316] ✓ Ulusal Kanal                             (43 haber)
+  [251/316] ✓ Yeni Asır Gazetesi                       (46 haber)
+  [252/316] ✓ TürkInform                               (30 haber)
+  [253/316] ✓ Yeni Şafak                               (20 haber)
+  [254/316] ✓ NTV                                      (14 haber)
+  [255/316] ✓ DefenceTurk                              (9 haber)
+  [256/316] ✓ Bloomberg HT                             (16 haber)
+  [257/316] ✓ Yurt Gazetesi                            (12 haber)
+  [258/316] ✓ Arkitera                                 (1 haber)
+  [259/316] ✓ Bigpara                                  (30 haber)
+  [260/316] ✓ Yeniçağ Gazetesi                         (50 haber)
+  [261/316] ✓ Uyan32                                   (20 haber)
+  [262/316] ✓ Sanayi Gazetesi                          (0 haber)
+  [263/316] ✓ Journo                                   (0 haber)
+  [264/316] ✓ Savunma Sanayi Gazetesi                  (10 haber)
+  [265/316] ✓ Döviz                                    (6 haber)
+  [266/316] ○ Foreks                                   (0 haber)
+  [267/316] ✓ C4 Defence                               (2 haber)
+  [268/316] ✓ Tele2                                    (14 haber)
+  [269/316] ✓ Investing Kripto                         (10 haber)
+  [270/316] ✓ Investing Döviz                          (10 haber)
+  [271/316] ✓ Yeni Yaşam Gazetesi                      (7 haber)
+  [272/316] ✓ Investing Haberler                       (10 haber)
+  [273/316] ✓ SavunmaTR                                (0 haber)
+  [274/316] ✓ Investing Hisse Senedi                   (10 haber)
+  [275/316] ✓ Sözcü Ekonomi                            (30 haber)
+  [276/316] ✓ Yurtsever                                (4 haber)
+  [277/316] ✓ Investing Genel                          (10 haber)
+  [278/316] ○ Megabayt Kripto Para                     (0 haber)
+  [279/316] ✓ Investing Tahvil                         (10 haber)
+  [280/316] ✓ Mavi Savunma                             (1 haber)
+  [281/316] ✓ Swipeline                                (0 haber)
+  [282/316] ✓ Ekonomi Gazetesi                         (13 haber)
+  [283/316] ✓ Yaşadıkça                                (8 haber)
+  [284/316] ✓ Midas                                    (0 haber)
+  [285/316] ✓ Forbes Türkiye                           (6 haber)
+  [286/316] ✓ İşin Detayı İş Dünyası                   (0 haber)
+  [287/316] ✓ CNBC-e                                   (13 haber)
+  [288/316] ○ Megabayt Şirket Haberleri                (0 haber)
+  [289/316] ✓ Elle Türkiye                             (3 haber)
+  [290/316] ✓ Elele                                    (5 haber)
+  [291/316] ✓ Investing Emtia                          (10 haber)
+  [292/316] ○ Megabayt Ekonomi                         (0 haber)
+  [293/316] ✓ İşin Detayı Gastronomi                   (0 haber)
+  [294/316] ✓ İşin Detayı Şirket Haberleri             (0 haber)
+  [295/316] ✓ Güzellik Yayında                         (0 haber)
+  [296/316] ✓ Anne Kaz                                 (0 haber)
+  [297/316] ✓ İşin Detayı Sağlık                       (0 haber)
+  [298/316] ✓ Gardırop Magazin                         (1 haber)
+  [299/316] ✓ SavunmaSanayiST                          (1 haber)
+  [300/316] ✓ İşin Detayı Yaşam                        (0 haber)
+  [301/316] ○ Marie Claire                             (0 haber)
+  [302/316] ○ Megabayt Magazin                         (0 haber)
+  [303/316] ✓ İşin Detayı Turizm                       (0 haber)
+  [304/316] ✓ PlumeMag                                 (1 haber)
+  [305/316] ○ Megabayt Sağlık                          (0 haber)
+  [306/316] ✓ Megabayt Otomobil                        (0 haber)
+  [307/316] ○ Megabayt Yaşam                           (0 haber)
+  [308/316] ✓ İşin Detayı Moda                         (0 haber)
+  [309/316] ✓ Medium Türkçe Yayın                      (7 haber)
+  [310/316] ✓ Live To Bloom                            (0 haber)
+  [311/316] ✓ Istanbul Life                            (0 haber)
+  [312/316] ✓ Uplifers                                 (0 haber)
+  [313/316] ○ Trendus                                  (0 haber)
+  [314/316] ✓ Medium Türkiye Yayını                    (10 haber)
+  [315/316] ✓ Martı Dergisi                            (0 haber)
+  [316/316] ✗ Yeşil Gazete                             (0 haber)
+
+📊 Besleme istatistikleri:
+  Başarılı: 274
+  Boş (24 saatte haber yok): 41
+  Hatalı: 1
+
+⚠️  Hatalı beslemeler:
+  - Yeşil Gazete: The read operation timed out
+
+📰 Toplam haber: 4728
+🔁 Tekrar eleme sonrası: 4353 (kaldırılan: 375)
+
+📁 Kategori dağılımı:
+  Gündem: 3354
+  Spor: 342
+  Teknoloji: 205
+  Eğlence: 204
+  Ekonomi ve Finans: 161
+  Kültür ve Sanat: 29
+  Yaşam: 27
+  Savunma ve Sanayi: 23
+  Bilim: 8
+
+💾 Kaydedildi: collected_news.json
+📰 Toplam 4353 haber yüklendi
+🎯 Gemini'ye gönderilecek: 587 haber
+📁 Örneklem dağılımı:
+  Gündem: 250
+  Teknoloji: 80
+  Spor: 60
+  Ekonomi ve Finans: 60
+  Eğlence: 50
+  Kültür ve Sanat: 29
+  Yaşam: 27
+  Savunma ve Sanayi: 23
+  Bilim: 8
+
+🤖 Gemini'ye gönderiliyor (model: gemini-2.5-flash-lite)...
+📏 Prompt uzunluğu: 43,636 karakter
+✓ Cevap alındı (79,118 karakter)
+
+❌ JSON parse hatası: Expecting ',' delimiter: line 6364 column 10 (char 79118)
+Ham cevap:
+{
+  "day_mood": "Gün, hem spor müsabakalarının heyecanıyla dolu hem de teknoloji ve ekonomi alanındaki gelişmelerle şekillenen dinamik bir gün atmosferi taşıyor.",
+  "key_themes": [
+    "Galatasaray'ın şampiyonluğu ve spor dünyasındaki diğer önemli gelişmeler",
+    "Teknoloji sektöründeki yeni ürünler, güncellemeler ve kesinti haberleri",
+    "Ekonomik gelişmeler, döviz kurları, kripto paralar ve sektör yatırımları",
+    "Uluslararası ilişkiler ve siyasi gelişmeler",
+    "Sağlık ve çevre ile ilgili gelişmeler"
+  ],
+  "dominant_emotion": "Heyecan",
+  "clusters": [
+    {
+      "title": "Galatasaray'ın 4. Kez Üst Üste Şampiyonluğu ve Spor Gündemi",
+      "meta_category": "Spor",
+      "summary": "Galatasaray, Süper Lig'de üst üste dördüncü şampiyonluğunu ilan etti. Bu başarı, futbol dünyasında büyük yankı uyandırırken, spor gündeminde küme düşen takımlar, transfer dedikoduları ve diğer maç sonuçları da yer aldı.",
+      "importance": 10,
+      "story_ids": [
+        109,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        123,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        231,
+        236,
+        240,
+        241,
+        242,
+        243,
+        247,
+        251,
+   
+🚀 ZeitgeistToday günlük pipeline başlıyor
+   10 May 2026, 06:00:01 TSİ
+
+======================================================================
+▶  RSS toplama
+   (collect_news.py)
+======================================================================
+
+======================================================================
+▶  Haber analizi (Gemini)
+   (analyze_news.py)
+======================================================================
+
+❌ Haber analizi (Gemini) başarısız: day_analysis.json oluşmadı.
