@@ -1,0 +1,647 @@
+{
+  "date": "2026-05-11",
+  "date_human": "11 May 2026",
+  "generated_at": "2026-05-11T03:01:09.066817+00:00",
+  "stats": {
+    "feeds_collected": 272,
+    "news_total": 4124,
+    "news_analyzed": 574,
+    "clusters": 12
+  },
+  "mood": {
+    "description": "Günün ruhu, teknoloji ve ekonomideki hızlı gelişmelerin yanı sıra, spor ve kültürel etkinliklerdeki hareketliliğin hakim olduğu, ancak bazı olumsuz olayların da gölgesinde kaldığı karmaşık bir atmosferi yansıtıyor.",
+    "dominant_emotion": "Karmaşık",
+    "key_themes": [
+      "Teknoloji ve Yapay Zeka Gelişmeleri",
+      "Spor Dünyasındaki Rekabet ve Şampiyonluklar",
+      "Ekonomik Dalgalanmalar ve Yatırım Fırsatları",
+      "Uluslararası İlişkiler ve Bölgesel Gerilimler",
+      "Toplumsal Olaylar ve Bireysel Hikayeler"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-05-11",
+        "code": 3,
+        "temp_max": 29.4,
+        "temp_min": 15.2
+      },
+      {
+        "date": "2026-05-12",
+        "code": 3,
+        "temp_max": 29.2,
+        "temp_min": 16.3
+      },
+      {
+        "date": "2026-05-13",
+        "code": 2,
+        "temp_max": 29.7,
+        "temp_min": 18.4
+      },
+      {
+        "date": "2026-05-14",
+        "code": 80,
+        "temp_max": 24.2,
+        "temp_min": 16.7
+      },
+      {
+        "date": "2026-05-15",
+        "code": 3,
+        "temp_max": 25.0,
+        "temp_min": 13.3
+      },
+      {
+        "date": "2026-05-16",
+        "code": 3,
+        "temp_max": 24.9,
+        "temp_min": 17.1
+      },
+      {
+        "date": "2026-05-17",
+        "code": 3,
+        "temp_max": 24.7,
+        "temp_min": 18.3
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Teknoloji Devrimleri ve Yapay Zeka Atılımları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Teknoloji dünyası, yapay zeka alanındaki hızlı ilerlemeler, yeni nesil çip teknolojileri, elektrikli araçlardaki yenilikler ve akıllı cihazlardaki gelişmelerle öne çıkıyor. Veri merkezlerine yeşil enerji zorunluluğu ve AI şirketlerine yapılan yatırımlar dikkat çekiyor.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "WhatsApp premium özellikleri bazı iPhone'lara geldi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/whatsapp-plus-bazi-iphone-larda-acildi-iste-premium-ozellikler--205481",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "AMD, veri merkezi gelirlerinde ilk kez Intel'i geride bıraktı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/amd-veri-merkezi-gelirlerinde-ilk-kez-intel-i-geride-birakti--205462",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Karton kutudan savaş sahasına: Japonya'nın şaşırtan karton dron hamlesi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/karton-kutudan-savas-sahasina-japonyanin-sasirtan-karton-dron-hamlesi_180146.html",
+          "also_in": []
+        },
+        {
+          "title": "Lityum iyon dönemi bitiyor mu: Su bazlı ve zehirsiz piller geliyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/lityum-iyon-donemi-bitiyor-mu-su-bazli-ve-zehirsiz-piller-geliyor_180143.html",
+          "also_in": []
+        },
+        {
+          "title": "Roborock Qrevo L Pro yüksek emiş gücü ve otomatik bakım özellikleriyle tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/roborock-qrevo-l-pro-yuksek-emis-gucu-ve-otomatik-bakim-ozellikleriyle-tanitildi_180153.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Arenasında Şampiyonluklar ve Transfer Hareketliliği",
+      "meta_category": "Spor",
+      "summary": "Futbol liglerinde şampiyonluklar belli olurken, transfer dedikoduları ve önemli maç sonuçları gündemde. Basketbol liglerinde de heyecanlı mücadeleler ve ligde kalma savaşları yaşanıyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Barcelona, Real Madrid&apos;e Karşı Farkı 14 Puana Çıkararak Şampiyon Oldu",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/barcelona-real-madrid-e-karsi-farki-14-puana-cikararak-sampiyon-oldu-1358445",
+          "also_in": []
+        },
+        {
+          "title": "Muğlaspor, Trendyol 1. Lig'e yükseldi!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/tff-birinci-lig/2026/05/10/muglaspor-trendyol-1-lige-yukseldi",
+          "also_in": [
+            "Fotospor",
+            "Bengütürk",
+            "Yeni Asır Gazetesi"
+          ]
+        },
+        {
+          "title": "Süper Lig'de son haftanın programı belli oldu",
+          "source": "Sözcü Spor",
+          "link": "https://www.sozcu.com.tr/super-lig-de-son-haftanin-programi-belli-oldu-p318354",
+          "also_in": [
+            "Evrensel",
+            "Gerçek Gündem",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "La Liga'da şampiyon Barcelona",
+          "source": "Futboo",
+          "link": "https://www.futboo.com/la-liga-da-sampiyon-barcelona/90187/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Barcelona El Clasico'yu kazandı, ligde şampiyonluğunu ilan etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/barcelona-el-clasicoyu-kazandi-ligde-sampiyonlugunu-ilan-etti-422607",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi ve Finans Piyasalarındaki Dinamikler",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Küresel ve yerel ekonomilerde önemli gelişmeler yaşanıyor. Yatırım, döviz kurları, enflasyon ve emeklilik gibi konular gündemde yer alırken, Türk ekonomisine yapılan dev yatırımlar dikkat çekiyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "AMD, veri merkezi gelirlerinde ilk kez Intel'i geride bıraktı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/amd-veri-merkezi-gelirlerinde-ilk-kez-intel-i-geride-birakti--205462",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Dünya Kupası taraftarına bilet şoku: Yakıt krizi maliyetleri katladı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/dunya-kupasi-taraftarina-bilet-soku-yakit-krizi-maliyetleri-katladi_180142.html",
+          "also_in": []
+        },
+        {
+          "title": "Avrupa’da negatif elektrik fiyatları rekor kırdı: Enerji fazlası piyasayı zorluyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/avrupa-da-negatif-elektrik-fiyatlari-rekor-kirdi--205477",
+          "also_in": []
+        },
+        {
+          "title": "Fintech Girişimi Parker İflas Başvurusunda Bulundu",
+          "source": "FounderN",
+          "link": "https://foundern.com/2026/05/parker-iflas-basvurusunda-bulundu/",
+          "also_in": []
+        },
+        {
+          "title": "Muhittin Böcek etkin pişmanlık başvurusu yaptı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/muhittin-bocek-etkin-pismanlik-basvurusu-yapti-268842h",
+          "also_in": [
+            "Elips Haber",
+            "F5 Haber",
+            "Haber 7",
+            "Haber Global",
+            "Hürriyet",
+            "Haberler",
+            "Mynet",
+            "NTV",
+            "OdaTV",
+            "Türkgün"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Uluslararası İlişkiler ve Bölgesel Gerilimler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran'ın nükleer faaliyetleri ve ABD ile olan gerilimi, Ortadoğu'daki gelişmeler ve uluslararası diplomasi trafiği gündemin üst sıralarında yer alıyor. Bakan Fidan'ın temasları ve Rusya-Ukrayna savaşına dair açıklamalar dikkat çekiyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trump: İran'da zenginleştirilmiş uranyumun bulunduğu tesisi gözetim altında tutuyoruz",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/trump-iranda-zenginlestirilmis-uranyumun-bulundugu-tesisi-gozetim-altinda-tutuyoruz/3933230",
+          "also_in": [
+            "dikGAZETE",
+            "Independent Türkçe",
+            "TRT Haber",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "İran’dan İngiltere ve Fransa’ya Hürmüz Boğazı uyarısı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/dunya/irandan-ingiltere-ve-fransaya-hurmuz-bogazi-uyarisi-haberi-824645",
+          "also_in": [
+            "Ekonomim",
+            "Haber 7",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "İsrail'de Netanyahu, Oslo Anlaşması'nın iptali için verilen kanun teklifinin görüşülmesini erteledi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/israilde-netanyahu-oslo-anlasmasinin-iptali-icin-verilen-kanun-teklifinin-gorusulmesini-erteledi/3933353",
+          "also_in": [
+            "dikGAZETE",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Fas, kaybolan ABD askerlerinden birinin cansız bedenine ulaşıldığını açıkladı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/fas-kaybolan-abd-askerlerinden-birinin-cansiz-bedenine-ulasildigini-acikladi/3933326",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Fransa Cumhurbaşkanı Macron, Cezayir ile ülkesi arasındaki ilişkilerin yeniden başlamasını istiyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-cezayir-ile-ulkesi-arasindaki-iliskilerin-yeniden-baslamasini-istiyor/3933280",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Toplumsal Olaylar, Kazalar ve Hukuki Süreçler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Günlük yaşamı etkileyen olaylar, trafik kazaları, şiddet olayları ve hukuki süreçler de haberlerde geniş yer buluyor. Muhittin Böcek'in etkin pişmanlık başvurusu ve 'İBB' soruşturması gibi konular öne çıkıyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İngiltere'nin internet yasasında sahte bıyık krizi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/ingilterenin-internet-yasasinda-sahte-biyik-krizi_180058.html",
+          "also_in": []
+        },
+        {
+          "title": "Eleştirenlere \"İt Kopuk\" Diye Hakaret Eden Emin Pazarcı&apos;nın Çakarlı Aracı Geri Alınıyor",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/elestirinlere-it-kopuk-diye-hakaret-eden-emin-pazarci-nin-cakarli-araci-geri-aliniyor-1358439",
+          "also_in": []
+        },
+        {
+          "title": "Yasa Dışı Bahis Operasyonlarında Yeni Aşama: Tespit Edilen 3 Milyon Kişiye Ceza Kapıda",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/yasa-disi-bahis-operasyonlarinda-yeni-asama-tespit-edilen-3-milyon-kisiye-ceza-kapida-1358428",
+          "also_in": []
+        },
+        {
+          "title": "En Güzel Yolculuk Kitapları – Edebi Turizm Neler Sunuyor?",
+          "source": "Edebi Bülten",
+          "link": "https://edebibulten.com/en-guzel-yolculuk-kitaplari-edebi-turizm-neler-sunuyor/",
+          "also_in": []
+        },
+        {
+          "title": "Muhittin Böcek etkin pişmanlık başvurusu yaptı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/muhittin-bocek-etkin-pismanlik-basvurusu-yapti-268842h",
+          "also_in": [
+            "Elips Haber",
+            "F5 Haber",
+            "Haber 7",
+            "Haber Global",
+            "Hürriyet",
+            "Haberler",
+            "Mynet",
+            "NTV",
+            "OdaTV",
+            "Türkgün"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültür Sanat ve Bilimsel Keşifler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Kültür ve sanat dünyası, yeni albümler, film haberleri, sergiler ve kitap fuarları ile hareketli bir dönem geçiriyor. Bilim dünyasında ise dil çeşitliliği, nükleer atıklar ve uyku düzeni gibi konulara dair ilginç araştırmalar yer alıyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Prof. Dr. Kemal Arı: Bir Göç Öyküsü: Mübadele",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/10/prof-dr-kemal-ari-bir-gok-oykusu-mubadele/",
+          "also_in": []
+        },
+        {
+          "title": "Nükleer Mezarlar: Dünyanın Radyoaktif Atıkları Gelecek Nesillerden Nasıl Saklanacak?",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/nukleer-mezarlar-dunyanin-radyoaktif-atiklari-gelecek-nesillerden-nasil-saklanacak-22914",
+          "also_in": []
+        },
+        {
+          "title": "Kaç Saat Uyumalısın?",
+          "source": "Tarihli Bilim",
+          "link": "https://www.tarihlibilim.com/post/kac-saat-uyumalisin/",
+          "also_in": []
+        },
+        {
+          "title": "Genetik İzolasyon Dil Çeşitliliğini Nasıl Artırıyor?",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/genetik-izolasyon-dil-cesitliligini-nasil-artiriyor/?utm_source=rss&utm_medium=rss&utm_campaign=genetik-izolasyon-dil-cesitliligini-nasil-artiriyor",
+          "also_in": []
+        },
+        {
+          "title": "Japonya’da Kadın Samuraylar Var mıydı?",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/japonyada-kadin-samuraylar-var-miydi/?utm_source=rss&utm_medium=rss&utm_campaign=japonyada-kadin-samuraylar-var-miydi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlık ve Kişisel Bakım Trendleri",
+      "meta_category": "Sağlık",
+      "summary": "Sağlıklı yaşam, beslenme ve kişisel bakım konuları da haberlerde yer buluyor. Uyku düzeni, Japon manikürü ve tatlı tüketimi gibi çeşitli başlıklara değiniliyor.",
+      "importance": 3,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kaç Saat Uyumalısın?",
+          "source": "Tarihli Bilim",
+          "link": "https://www.tarihlibilim.com/post/kac-saat-uyumalisin/",
+          "also_in": []
+        },
+        {
+          "title": "Erkekler, gezegenimiz için zararlı mı?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/erkekler-gezegenimiz-icin-zararli-mi_180074.html",
+          "also_in": []
+        },
+        {
+          "title": "Çekmecede sessiz sedasız bekleyen piller, o kadar da masum olmayabilir",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/cekmecede-sessiz-sedasiz-bekleyen-piller-o-kadar-da-masum-olmayabilir_179610.html",
+          "also_in": []
+        },
+        {
+          "title": "Minimal Güzellik Akımının Yeni Favorisi “Japon Manikürü”",
+          "source": "Elle Türkiye",
+          "link": "https://www.elle.com.tr/guzellik/makyaj/minimal-guzellik-akiminin-yeni-favorisi-japon-manikuru",
+          "also_in": []
+        },
+        {
+          "title": "Ege’de Yavaşlayan Zamanın İçinde Bir Güzellik Ritüeli",
+          "source": "Elle Türkiye",
+          "link": "https://www.elle.com.tr/guzellik/saglik/egede-yavaslayan-zamanin-icinde-bir-guzellik-ritueli",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Magazin ve Eğlence Dünyasındaki Gelişmeler",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Magazin dünyasında ünlülerin yaşamları, dizi ve film haberleri ile sosyal medyadaki viral olaylar dikkat çekiyor. Oyuncu ücretleri ve skandal haberler de gündemde.",
+      "importance": 3,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Victoria’s Secret’ten Anneler Günü’ne özel kampanya",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/victorias-secretten-anneler-gunune-ozel-kampanya/",
+          "also_in": []
+        },
+        {
+          "title": "Minyonlar ve Canavarlar filminin yeni fragmanı paylaşıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/minyonlar-ve-canavarlar-filminin-yeni-fragmani-paylasildi_180151.html",
+          "also_in": []
+        },
+        {
+          "title": "Netflix'ten La Casa de Papel sürprizi; Yeni bölümlerle macera devam edecek",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/la-casa-de-papel-geri-donuyor-netflix-duyurdu--205488",
+          "also_in": []
+        },
+        {
+          "title": "Dua Lipa’dan Samsung’a 15 Milyon Dolarlık Şok Dava",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/dua-lipadan-samsunga-15-milyon-dolarlik-430850",
+          "also_in": []
+        },
+        {
+          "title": "Grok Sohbeti Kabusa Döndü! xAI’ın Kendisini Öldürteceğini Sandı",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/grok-sohbeti-kabusa-dondu-xaiin-430846",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Doğa ve Çevresel Gelişmeler",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Çevre ve doğayla ilgili haberler arasında mevsim normallerinin üzerinde seyreden sıcaklıklar ve Keban Barajı'nın savaklarının açılması gibi konular bulunuyor.",
+      "importance": 2,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ege Denizi'nde 4.2 büyüklüğünde deprem",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/ege-denizinde-42-buyuklugunde-deprem-82989-h1533481",
+          "also_in": [
+            "Elips Haber",
+            "Halk TV",
+            "Haber Global",
+            "NTV",
+            "Türkgün",
+            "Yeni Şafak",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Sıcaklıklar yurdun bazı kesimlerinde mevsim normallerinin üzerinde seyredecek",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/sicakliklar-yurdun-bazi-kesimlerinde-mevsim-normallerinin-uzerinde-seyredecek-1000469.html",
+          "also_in": [
+            "İstiklal",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Keban Barajı'nda 7 yıl sonra ilk kez savaklar açılıyor",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/ekonomi/keban-barajinda-7-yil-sonra-ilk-kez-savaklar-aciliyor-haberi-893255",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "İstanbul barajlarında son durum",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/istanbul-barajlarinda-son-durum-6918168",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Muğla açıklarında 4,2 büyüklüğünde deprem",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/ege-denizi-deprem-10-05-2026-p318471",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve Üniversite Haberleri",
+      "meta_category": "Eğitim",
+      "summary": "Eğitim alanında önemli gelişmeler yaşanıyor. Heybeliada Ruhban Okulu'nun açılması ve üniversitelerin harcamaları gibi konular haberlerde yer alıyor.",
+      "importance": 2,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "\"Heybeliada Ruhban Okulu eylül ayında açılacak\"",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/heybeliada-ruhban-okulu-eylul-ayinda-acilacak",
+          "also_in": [
+            "Demokrat Haber"
+          ]
+        },
+        {
+          "title": "Üniversite bir masaya 2 milyon lira mı harcadı?",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/universite-bir-masaya-2-milyon-lira-mi-harcadi-p318492",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "AK Parti İstanbul İl Başkanlığı’ndan şehit annelerine özel Anneler Günü Programı",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/ak-parti-istanbul-il-baskanligindan-sehit-annelerine-ozel-anneler-gunu-programi/260422/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Tarihi ve Arkeolojik Keşifler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Tarihi ve arkeolojik araştırmalar, antik medeniyetlerin yaşam tarzları ve yazım pratikleri hakkında ilginç bilgiler sunuyor.",
+      "importance": 1,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Prof. Dr. Kemal Arı: Bir Göç Öyküsü: Mübadele",
+          "source": "Tarihten Yazılar",
+          "link": "https://tarihtenyazilar.com/2026/05/10/prof-dr-kemal-ari-bir-gok-oykusu-mubadele/",
+          "also_in": []
+        },
+        {
+          "title": "Japonya’da Kadın Samuraylar Var mıydı?",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/japonyada-kadin-samuraylar-var-miydi/?utm_source=rss&utm_medium=rss&utm_campaign=japonyada-kadin-samuraylar-var-miydi",
+          "also_in": []
+        },
+        {
+          "title": "Antik Ninova’nın Yazıcıları Mükemmeliyetçi Değil, Pragmatikti",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/antik-ninovanin-yazicilari-mukemmeliyetci-degil-pragmatikti/?utm_source=rss&utm_medium=rss&utm_campaign=antik-ninovanin-yazicilari-mukemmeliyetci-degil-pragmatikti",
+          "also_in": []
+        },
+        {
+          "title": "Antik Teos’un İş Dünyası: Romalı Tüccarlar ve Menophantos",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/antik-teosun-is-dunyasi-romali-tuccarlar-ve-menophantos/?utm_source=rss&utm_medium=rss&utm_campaign=antik-teosun-is-dunyasi-romali-tuccarlar-ve-menophantos",
+          "also_in": []
+        },
+        {
+          "title": "Bu Aletler, Zor Dönemlerde İnsanların Yaratıcılığını Gösteriyor",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/bu-aletler-zor-donemlerde-insanlarin-yaraticiligini-gosteriyor/?utm_source=rss&utm_medium=rss&utm_campaign=bu-aletler-zor-donemlerde-insanlarin-yaraticiligini-gosteriyor",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Gündemdeki Diğer Önemli Haberler",
+      "meta_category": "Diğer",
+      "summary": "Gündemdeki diğer önemli haberler arasında hava durumu tahminleri, çeşitli ihbarlar ve duyurular yer alıyor.",
+      "importance": 1,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yaz Geldi Derken Sıcaklıklar Yeniden Düşüyor: Sıcaklıklar 10 Derece Birden Düşecek",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/yaz-geldi-derken-sicakliklar-yeniden-dusuyor-sicakliklar-10-derece-birden-dusecek-1358437",
+          "also_in": []
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan Anneler Günü mesajı",
+          "source": "En Politik",
+          "link": "https://www.enpolitik.com/haber/cumhurbaskani-erdogandan-anneler-gunu-mesaji-355063",
+          "also_in": [
+            "Gerçek Gündem",
+            "İnternet Haber",
+            "Döviz"
+          ]
+        },
+        {
+          "title": "AJet'ten Anneler Günü için iç hatta indirim kampanyası",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/ajetten-anneler-gunu-icin-ic-hatta-indirim-kampanyasi-2442850h.htm",
+          "also_in": [
+            "Yeni Asır Gazetesi",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "İletişim Başkanı Duran'dan Anneler Günü mesajı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/iletisim-baskani-duran-dan-anneler-gunu-mesaji-1000464.html",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Belçika Kraliçesi Mathilde başkanlığındaki heyet İstanbul'a geldi",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/belcika-kralicesi-mathilde-baskanligindaki-heyet-istanbul-a-geldi-1000450.html",
+          "also_in": [
+            "İstiklal"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": "1889",
+    "form": "Painting",
+    "medium": "Oil on canvas",
+    "location": "Museum of Modern Art, New York City",
+    "description": "Koyu mavi gece gökyüzünde, parlak yıldızlar ve hilal ayın girdaplı bir dansını tasvir eden bu tablo, sanatçının içsel çalkantısını ve evrensel birliğe duyduğu özlemi yansıtıyor. Teknolojik ilerlemelerin ve ekonomik dalgalanmaların yarattığı karmaşık gündemin ortasında, doğanın sonsuz gücü ve insan ruhunun derinliklerine bir bakış sunuyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "wikipedia_extract": "The Starry Night, is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village. It has been in the permanent collection of the Museum of Modern Art in New York City since 1941, acquired through the Lillie P. Bliss Bequest. Described as a \"touchstone of modern art\", The Starry Night has been regarded as one of the most recognizable paintings in the Western canon.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/3840px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh_(Russell)"
+  },
+  "music": {
+    "title": "The Sound of Silence",
+    "artists": "Simon & Garfunkel",
+    "album": "The Singer",
+    "duration": "3:04",
+    "spotify_url": "https://open.spotify.com/track/3YfS47QufnLDFA71FUsgCM",
+    "spotify_id": "3YfS47QufnLDFA71FUsgCM",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273dd9e17a2000252d6b79cf904",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/3YfS47QufnLDFA71FUsgCM\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null,
+    "suggested_genre": "Folk rock",
+    "suggested_mood": "Melankolik, düşündürücü, içsel, gözlemci, yankılanan"
+  },
+  "curator_statement": "Bugünün karmaşık ruh halini yansıtmak üzere, Vincent van Gogh'un 'The Starry Night'ını seçtim. Bu eser, teknolojinin ve ekonominin hızlı ilerlemesinin yarattığı gürültünün ortasında, insanlığın evrensel yalnızlığını ve doğanın dingin gücünü hatırlatıyor. Arkaplanda yankılanan 'The Sound of Silence' ise, bireysel hikayelerin ve toplumsal olayların fısıltılarını, sessizliğin derinliğinde duyumsamamıza olanak tanıyor. Hem görsel hem de işitsel olarak, bu seçimler günümüzdeki karmaşıklığın içindeki o tanıdık melankoliyi ve derin düşünceleri kucaklıyor."
+}
