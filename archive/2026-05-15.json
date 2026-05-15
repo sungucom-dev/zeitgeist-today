@@ -1,22 +1,22 @@
 {
   "date": "2026-05-15",
   "date_human": "15 May 2026",
-  "generated_at": "2026-05-15T06:22:22.523855+00:00",
+  "generated_at": "2026-05-15T06:27:02.462706+00:00",
   "stats": {
     "feeds_collected": 273,
-    "news_total": 5251,
+    "news_total": 5217,
     "news_analyzed": 608,
-    "clusters": 22
+    "clusters": 19
   },
   "mood": {
-    "description": "Gün, teknolojik gelişmelerin ve küresel siyasi gerilimlerin bir arada yaşandığı, hem umut veren hem de endişe uyandıran bir atmosfer taşıyor.",
+    "description": "Gün, teknolojik gelişmelerin hız kazandığı, ancak aynı zamanda ekonomik dalgalanmaların ve bölgesel gerilimlerin de gündemde olduğu karmaşık bir atmosferi yansıtıyor.",
     "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Teknolojik inovasyon ve yapay zeka",
-      "Küresel jeopolitik ve ekonomik belirsizlikler",
-      "Spor dünyasındaki transfer ve rekabet dinamikleri",
-      "Kültür ve sanat etkinliklerindeki çeşitlilik",
-      "Hukuki ve toplumsal gündemdeki gelişmeler"
+      "Teknoloji ve Yapay Zeka Atılımları",
+      "Ekonomik Belirsizlikler ve Küresel Piyasa Hareketleri",
+      "Bölgesel Gerilimler ve Uluslararası Diplomasi",
+      "Spor Dünyasındaki Rekabet ve Transfer Haberleri",
+      "Toplumsal ve Kültürel Etkinlikler"
     ]
   },
   "weather": {
@@ -72,7 +72,7 @@
     {
       "title": "Yapay Zeka ve Teknoloji Devrimleri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Teknoloji dünyası, yapay zeka alanındaki hızlı ilerlemelerle öne çıkıyor. Google, Anthropic ve Microsoft gibi devler, yapay zeka destekli yeni ürünler ve hizmetler sunarken, bu gelişmelerin iş gücü üzerindeki etkileri de tartışılıyor. Ayrıca, akıllı telefonlar, giyilebilir teknolojiler ve oyun dünyasındaki yenilikler de dikkat çekiyor.",
+      "summary": "Google'ın yeni asistanı Gemini Spark, Anthropic'in yapay zeka yetenekleri ve yapay zeka destekli ürünler öne çıkıyor. Ayrıca, teknolojinin hayatımızdaki yeri ve yapay zekanın iş gücüne etkisi tartışılıyor.",
       "importance": 9,
       "story_count": 5,
       "stories": [
@@ -85,6 +85,18 @@
           ]
         },
         {
+          "title": "General Mobile yapay zeka özelliklerini yeni modellerine taşıdı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/general-mobile-yapay-zeka-ozelliklerini-yeni-modellerine-tasidi_180288.html",
+          "also_in": []
+        },
+        {
+          "title": "Apple’ın yeni planı: App Store’a AI ajanları mı geliyor?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/applein-yeni-plani-app-storea-ai-ajanlari-mi-geliyor_180313.html",
+          "also_in": []
+        },
+        {
           "title": "Anthropic: \"Claude artık şirket kodlarının %90'ını yazıyor\"",
           "source": "Donanım Haber",
           "link": "https://www.donanimhaber.com/anthropic-claude-artik-sirket-kodlarinin-yuzde-90-ini-yaziyor--205679",
@@ -95,128 +107,70 @@
           "source": "Donanım Haber",
           "link": "https://www.donanimhaber.com/anthropic-yazilim-sirketlerinin-isini-elinden-alabilir--205677",
           "also_in": []
-        },
-        {
-          "title": "OPPO’dan internetsiz yapay zeka destekli fotoğraf düzenleme hamlesi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/oppo-dan-internetsiz-yapay-zeka-destekli-fotograf-duzenleme-adimi--205676",
-          "also_in": []
-        },
-        {
-          "title": "Galaxy Z Fold 8 ve Flip 8, bir özelliğiyle ilk olacak: Gemini Intelligence geliyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/samsung-galaxy-z-fold-8-ve-flip-8-bir-ozelligiyle-ilk-olacak--205660",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Küresel Siyasi ve Ekonomik Gerilimler",
+      "title": "Uluslararası Ticaret ve Diplomasi Trafiği",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Uluslararası alanda siyasi tansiyonlar devam ederken, Trump'ın Çin ile yaptığı ticaret anlaşmaları ve İran'a yönelik gerilimler öne çıkıyor. Türkiye'nin uluslararası ilişkileri ve savunma sanayisindeki gelişmeleri de gündemde.",
-      "importance": 8,
+      "summary": "Türkiye'nin Kazakistan ile imzaladığı anlaşmalar ve Türk Devletleri Teşkilatı zirvesi hazırlıkları öne çıkıyor. Ayrıca, Trump'ın Çin ziyaretleri ve ticaret anlaşmaları uluslararası ilişkilerde önemli bir yer tutuyor.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
-        {
-          "title": "Fransa’nın sistemleri Bayraktar TB2’ye eklenecek: İmzalar atıldı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/fransa-nin-sistemleri-bayraktar-tb2-ye-eklenecek-imzalar-atildi--205686",
-          "also_in": []
-        },
-        {
-          "title": "CİRİT Anti-İHA füzesi havadaki hedefini başarıyla imha etti",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/cirit-anti-iha-fuzesi-havadaki-hedefini-basariyla-imha-etti--205683",
-          "also_in": []
-        },
-        {
-          "title": "İspanya Başbakanı Pedro Sanchez'den Lamine Yamal'a destek!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/05/14/ispanya-basbakani-pedro-sanchezden-lamine-yamala-destek",
-          "also_in": [
-            "Fotomaç"
-          ]
-        },
         {
           "title": "Türkiye ile Kazakistan arasında 13 anlaşma imzalandı",
           "source": "Diriliş Postası",
           "link": "https://www.dirilispostasi.com/turkiye-ile-kazakistan-arasinda-13-anlasma-imzalandi",
           "also_in": [
-            "dikGAZETE",
             "En Politik",
+            "dikGAZETE",
             "TRT Haber",
             "CNBC-e",
             "Sözcü Ekonomi"
           ]
         },
         {
-          "title": "Trump, Çin'in Boeing'den 200 uçak satın alacağını açıkladı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/ekonomi/trump-cin-in-boeing-den-200-ucak-satin-alacagini-acikladi-2503865",
+          "title": "Trump: İnanılmaz bir ziyaret oldu, harika ticaret anlaşmaları yaptık",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/trump-inanilmaz-bir-ziyaret-oldu-harika-ticaret-anlasmalari-yaptik/3938014",
+          "also_in": [
+            "Diriliş Postası",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Türk Devletleri Teşkilatı Gayriresmi Zirvesi hazırlıkları tamamlandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/turk-devletleri-teskilati-gayriresmi-zirvesi-hazirliklari-tamamlandi/3937906",
           "also_in": [
             "dikGAZETE",
-            "İnternet Haber",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Emine Erdoğan, Kazakistan'da Sıfır Atık Eğitim Laboratuvarı'nın açılışını yaptı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/05/14/emine-erdogan-kazakistanda-sifir-atik-egitim-laboratuvarinin-acilisini-yapti",
+          "also_in": [
+            "Diriliş Postası",
             "TRT Haber"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Türk Sporunda Transfer Hareketliliği ve Başarılar",
-      "meta_category": "Spor",
-      "summary": "Türk futbolunda büyük kulüplerin transfer politikaları ve yıldız oyuncuların durumu gündemde. Galatasaray, Fenerbahçe ve Beşiktaş'ın transfer hamleleri ve oyuncu dedikoduları öne çıkarken, milli takımın başarıları ve uluslararası spor etkinlikleri de yer alıyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Türkiye, tekvandoda üst üste 3. kez Avrupa'nın zirvesinde",
-          "source": "Sözcü Spor",
-          "link": "https://www.sozcu.com.tr/turkiye-tekvandoda-ust-uste-3-kez-avrupa-nin-zirvesinde-p319721",
-          "also_in": [
-            "Anadolu Ajansı",
-            "dikGAZETE",
-            "İstiklal"
-          ]
         },
         {
-          "title": "Fenerbahçe'de N'Golo Kante'yi sevindiren haber!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/05/14/fenerbahcede-ngolo-kanteyi-sevindiren-haber",
+          "title": "Bakan Kacır'dan Kazakistan ile imzalanan yatırım teşviki anlaşmasına ilişkin paylaşım",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacirdan-kazakistan-ile-imzalanan-yatirim-tesviki-anlasmasina-iliskin-paylasim/3937862",
           "also_in": [
-            "Fotomaç"
-          ]
-        },
-        {
-          "title": "Beşiktaş'tan kaleci transferinde Gollini harekatı!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/besiktas/2026/05/15/besiktastan-kaleci-transferinde-gollini-harekati",
-          "also_in": [
-            "Fotomaç"
-          ]
-        },
-        {
-          "title": "Trabzonspor'da Fatih Tekke farkı! Takımı şaha kaldırdı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/trabzonspor/2026/05/15/trabzonsporda-fatih-tekke-farki-takimi-saha-kaldirdi",
-          "also_in": [
-            "Fotomaç"
-          ]
-        },
-        {
-          "title": "Beşiktaş'ta Oh için transferde beklenmeyen teklif!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/besiktas/2026/05/15/besiktasta-oh-icin-transferde-beklenmeyen-teklif",
-          "also_in": [
-            "Fotomaç"
+            "dikGAZETE"
           ]
         }
       ]
     },
     {
-      "title": "Ekonomik Dalgalanmalar ve Piyasa Analizleri",
+      "title": "Ekonomik Dalgalanmalar ve Piyasa Hareketleri",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Ekonomik veriler, piyasa analizleri ve finansal gelişmeleri kapsayan haberler, küresel ve yerel ekonomideki hareketliliği yansıtıyor. Merkez Bankası rezervleri, döviz kurları, altın fiyatları ve borsa hareketleri öne çıkıyor. Ayrıca, çeşitli sektörlerdeki yatırım ve finansman haberleri de yer alıyor.",
-      "importance": 7,
+      "summary": "Merkez Bankası rezervleri, borsa hareketleri, altın ve petrol fiyatlarındaki dalgalanmalar ekonomik gündemin üst sıralarında yer alıyor. Küresel piyasalardaki endişeler ve enflasyon beklentileri de dikkat çekiyor.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
@@ -241,36 +195,309 @@
           ]
         },
         {
-          "title": "New York borsası yükselişle açıldı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/new-york-borsasi-yukselisle-acildi-576948",
+          "title": "New York borsası yükselişle kapandı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/finans/borsa/new-york-borsasi-yukselisle-kapandi-haberi-825201",
           "also_in": [
-            "Haberler"
+            "İstiklal"
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: Kazakistan ile ticaret hacmimiz 10 milyar dolara yaklaştı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/cumhurbaskani-erdogan-kazakistan-ile-ticaret-hacmimiz-10-milyar-dolara-yaklasti-1001118.html",
+          "title": "Brent, altın ve gümüşte dalgalanma srüyor",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/brent-altin-ve-gumuste-dalgalanma-sruyor/262542/",
+          "also_in": []
+        },
+        {
+          "title": "Küresel riskler ve ABD verileri piyasalarda yön arayışını sürdürüyor",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/kuresel-riskler-ve-abd-verileri-piyasalarda-yon-arayisini-surduruyor/262540/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Otomotiv Sektöründe Dönüşüm ve Yeni Modeller",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Otomotiv sektöründe elektrikli araçlara geçiş, yeni model tanıtımları ve stratejik işbirlikleri öne çıkıyor. Jaguar'ın elektrikli dönemi, BYD'nin yenilikleri ve geleneksel markaların strateji değişiklikleri haberlerde yer aldı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trump Mobile’ın tartışmalı telefonu geliyor",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/trump-mobilein-tartismali-telefonu-geliyor/",
+          "also_in": []
+        },
+        {
+          "title": "Jaguar’ın elektrikli dönemi Type 01 ile başlıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/jaguarin-elektrikli-donemi-type-01-ile-basliyor_180317.html",
+          "also_in": []
+        },
+        {
+          "title": "Bir dev daha, elektrikli hayallerden içten yanmalı motorlara geri dönüyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/bir-dev-daha-elektrikli-hayallerden-icten-yanmali-motorlara-geri-donuyor_180271.html",
+          "also_in": []
+        },
+        {
+          "title": "Honda, yeni nesil hibrit fastback modelini gösterdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/buyuk-merak-uyandirdi-honda-dan-yeni-nesil-hibrit-fastback--205696",
+          "also_in": []
+        },
+        {
+          "title": "Krikosuz lastik değiştirme dönemi: BYD Denza B5 ve B8 yenilendi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/krikosuz-lastik-degistirme-donemi-byd-denza-b5-ve-b8-yenilendi--205694",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Oyun Dünyası ve Yeni Çıkışlar",
+      "meta_category": "Eğlence",
+      "summary": "Yeni oyunların duyuruları, çıkış tarihleri ve incelemeleri oyunseverlerin ilgisini çekiyor. GTA 6, Saros ve diğer popüler oyunlar hakkında çıkan haberler dikkat çekiyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yılın oyunu adayı Saros için kritik gerçek: Güçlü puan, yavaş satış",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/yilin-oyunu-adayi-saros-icin-kritik-gercek-guclu-puan-yavas-satis_180329.html",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 fiyatı ve yeni fragman çok yakında ortaya çıkabilir",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/gta-6-fiyati-ve-yeni-fragman-cok-yakinda-ortaya-cikabilir_180314.html",
+          "also_in": []
+        },
+        {
+          "title": "Yılın en beğenilen oyunlarından Saros parasını bile çıkaramayabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yilin-en-begenilen-oyunlarindan-saros-parasini-cikaramayabilir--205668",
+          "also_in": []
+        },
+        {
+          "title": "Forza Horizon 6 inceleme",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/forza-horizon-6/133928/forza-horizon-6-inceleme",
           "also_in": [
-            "Haberler"
+            "Atarita"
           ]
         },
         {
-          "title": "Putin, Rus makine sanayisinin yaptırımlara rağmen farklı pazarlarda büyüdüğünü söyledi",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/putin-rus-makine-sanayisinin-yaptirimlara-ragmen-farkli-pazarlarda-buyudugunu-soyledi-1001110.html",
+          "title": "Sızıntılar büyüyor: GTA 6 ön siparişleri 18 Mayıs'ta başlayabilir",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/grand-theft-auto-vi/133936/sizintilar-buyuyor-gta-6-on-siparisleri-18-mayista-baslayabilir",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Transferler ve Şampiyonluklar",
+      "meta_category": "Spor",
+      "summary": "Futbol dünyasında önemli transferler, takım içi gelişmeler ve Avrupa şampiyonlukları öne çıkıyor. Galatasaray, Fenerbahçe, Beşiktaş ve Trabzonspor gibi kulüplerin transfer ve oyuncu haberleri yoğunlukta.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray'da 35 milyon euroluk flaş ayrılık! Herkes ters köşe",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/galatasarayda-35-milyon-euroluk-flas-ayrilik-herkes-ters-kose-422824",
           "also_in": [
-            "Haberler"
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Ve Guirassy, Fenerbahçe ateşini yaktı | Sporun manşetleri",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/ve-guirassy-fenerbahce-atesini-yakti-sporun-mansetleri-422823",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Trabzonspor'un Ernest Muçi teklifi ortaya çıktı! Beşiktaş ne yanıt verdi?",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/trabzonsporun-ernest-muci-teklifi-ortaya-cikti-besiktas-ne-yanit-verdi-422825",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Yıllardır Galatasaray ve Fenerbahçe'ye yazılıyordu, Beşiktaş'a gelmek istiyor",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/yillardir-galatasaray-ve-fenerbahceye-yaziliyordu-besiktasa-gelmek-istiyor-422827",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Real Madrid'de Mbappe krizi: Arbeloa, Fransız yıldızın sözlerine şok oldu",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/real-madridde-mbappe-krizi-arbeloa-fransiz-yildizin-sozlerine-sok-oldu-422822",
+          "also_in": [
+            "NTV Spor Futbol"
           ]
         }
       ]
     },
     {
-      "title": "Kültür, Sanat ve Sinema Dünyası",
+      "title": "Bölgesel Gerilimler ve Çatışmalar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran ve Hürmüz Boğazı çevresindeki gerilimler, İsrail-Filistin çatışmaları ve uluslararası alandaki diplomatik gelişmeler günün önemli konuları arasında yer alıyor. ABD ve Çin arasındaki tansiyon da dikkat çekiyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ABD: İran, Hürmüz Boğazı'nı kontrolü altında tutuyor",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/dunya/abd-iran-hurmuz-bogazini-kontrolu-altinda-tutuyor-haberi-894230",
+          "also_in": [
+            "Haber Global",
+            "İnternet Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Washington'daki İsrail-Lübnan 3. tur görüşmeleri başladı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5984124/washingtondaki-israil-lubnan-3-tur-gorusmeleri-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Haber 7",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Filistin: İsrail, Kudüs'teki statükoyu değiştirmek için sistematik bir politika yürütüyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/filistin-israil-kudusteki-statukoyu-degistirmek-icin-sistematik-bir-politika-yurutuyor/3937903",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Hürmüz Krizi’nde İtalya: Diplomasi, deniz misyonları ve gıda güvenliği",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/kose-yazisi/hurmuz-krizinde-italya-diplomasi-deniz-misyonlari-ve-gida-guvenligi/894205",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "İran'dan ABD’ye sert mesaj: “40 gün savaştılar, sonucu gördüler”",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/irandan-abdye-sert-mesaj-40-gun-savastilar-sonucu-gorduler",
+          "also_in": [
+            "CNBC-e"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Sektöründeki Kesintiler ve Güncellemeler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Sosyal medya ve teknoloji platformlarında yaşanan kesintiler ve kullanıcıları etkileyen yeni güncellemeler dikkat çekiyor. Microsoft Edge'in bir özelliğini kaldırması ve platformların stabilite sorunları gündemde.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Microsoft Edge kullanıcılarını şaşırtan veda: O özellik artık yok",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/microsoft-edge-kullanicilarini-sasirtan-veda-o-ozellik-artik-yok_180318.html",
+          "also_in": []
+        },
+        {
+          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (14 Mayıs 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-14-mayis-2026_176278.html",
+          "also_in": []
+        },
+        {
+          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (14 Mayıs 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-14-mayis-2026_178116.html",
+          "also_in": []
+        },
+        {
+          "title": "X (Twitter) çöktü mü? (14 Mayıs 2026) Hata bildirim raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-14-mayis-2026-hata-bildirim-raporu_178117.html",
+          "also_in": []
+        },
+        {
+          "title": "WhatsApp çöktü mü? 14 Mayıs’ta erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-14-mayisda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Hukuki ve Adli Süreçler",
+      "meta_category": "Diğer",
+      "summary": "Yolsuzluk ve usulsüzlük iddialarıyla ilgili yürütülen soruşturmalar, gözaltılar ve mahkeme süreçleri gündemde önemli bir yer tutuyor. İstanbul Büyükşehir Belediyesi ve Üsküdar Belediyesi ile ilgili operasyonlar dikkat çekiyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" soruşturmasında 12 zanlı gözaltına alındı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-sorusturmasinda-12-zanli-gozaltina-alindi/3938009",
+          "also_in": [
+            "Diriliş Postası",
+            "dikGAZETE",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Yeni kurulan ağır ceza mahkemelerinin yargı çevrelerinin belirlenmesine ilişkin karar Resmi Gazete'de",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/yeni-kurulan-agir-ceza-mahkemelerinin-yargi-cevrelerinin-belirlenmesine-iliskin-karar-resmi-gazetede/3937933",
+          "also_in": [
+            "Dünya",
+            "dikGAZETE",
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Üsküdar Belediyesi'ne ikinci dalga operasyon: 7 gözaltı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/uskudar-belediyesine-ikinci-dalga-operasyon-7-gozalti-346285h",
+          "also_in": [
+            "Gazete Pencere",
+            "Milli Gazete",
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Yeni kurulan ağır ceza mahkemelerinin yargı çevreleriyle ilgili karar Resmi Gazete’de",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/yeni-kurulan-agir-ceza-mahkemelerinin-yargi-cevreleriyle-ilgili-karar-resmi-gazetede-3422789",
+          "also_in": [
+            "Karar",
+            "NTV"
+          ]
+        },
+        {
+          "title": "İBB'ye yeni operasyon: 12 gözaltı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/ibbye-yeni-operasyon-12-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=ibbye-yeni-operasyon-12-gozalti",
+          "also_in": [
+            "soL Haber",
+            "Yeniçağ Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültür, Sanat ve Sinema Etkinlikleri",
       "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Sinema, edebiyat ve müzik dünyasından çeşitli haberler yer alıyor. Yeni filmlerin duyuruları, festivaller, ödül törenleri ve sanatçıların projeleri dikkat çekiyor. Ayrıca, felsefi ve edebi konulara da değiniliyor.",
-      "importance": 6,
+      "summary": "Film festivalleri, tiyatro oyunları, sergiler ve yeni film/dizi duyuruları kültürel alandaki hareketliliği gösteriyor. Peter Jackson'ın yeni projeleri ve uluslararası film festivalleri öne çıkıyor.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
@@ -306,108 +533,10 @@
       ]
     },
     {
-      "title": "Toplumsal Gündem ve Hukuki Gelişmeler",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Toplumsal olaylar, hukuki soruşturmalar ve önemli kararlar günün gündemini oluşturuyor. Belediyelere yönelik operasyonlar, gözaltı ve tahliye haberleri, trafik kazaları ve doğal afetler gibi konular öne çıkıyor. Ayrıca, sosyal konulara ve günlük yaşam pratiklerine dair haberler de bulunuyor.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" soruşturmasında 12 zanlı gözaltına alındı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-sorusturmasinda-12-zanli-gozaltina-alindi/3938009",
-          "also_in": [
-            "Diriliş Postası",
-            "dikGAZETE",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Yeni kurulan ağır ceza mahkemelerinin yargı çevrelerinin belirlenmesine ilişkin karar Resmi Gazete'de",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/yeni-kurulan-agir-ceza-mahkemelerinin-yargi-cevrelerinin-belirlenmesine-iliskin-karar-resmi-gazetede/3937933",
-          "also_in": [
-            "dikGAZETE",
-            "Dünya",
-            "İstiklal"
-          ]
-        },
-        {
-          "title": "EKPSS sonuçları açıklandı",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/ekpss-sonuclari-aciklandi-1",
-          "also_in": [
-            "Diyanet Haber",
-            "dikGAZETE",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Üsküdar Belediyesi'ne ikinci dalga operasyon: 7 gözaltı",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/politika/uskudar-belediyesine-ikinci-dalga-operasyon-7-gozalti-346285h",
-          "also_in": [
-            "Gazete Pencere",
-            "Milli Gazete",
-            "soL Haber"
-          ]
-        },
-        {
-          "title": "Rasim Ozan Kütahyalı gözaltına alındı",
-          "source": "Kısa Dalga",
-          "link": "https://kisadalga.net/haber/gundem/rasim-ozan-kutahyali-gozaltina-alindi-137926",
-          "also_in": [
-            "Tele1",
-            "Yurt Gazetesi",
-            "Kamudan Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji Şirketlerinin Hamleleri ve Düzenlemeler",
-      "meta_category": "Teknoloji",
-      "summary": "Teknoloji devleri, yeni ürünlerini piyasaya sürerken, mevcut teknolojilerde de güncellemeler ve düzenlemeler yapılıyor. Apple, Google, Microsoft ve Samsung gibi şirketlerin akıllı telefonlar, yazılımlar ve donanımlara yönelik yenilikleri dikkat çekiyor. Ayrıca, dijital platformlardaki kesintiler ve yeni düzenlemeler de gündemde.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Google'dan \"sonsuz kaydırma\"ya karşı yeni özellik",
-          "source": "Independent Bilim",
-          "link": "https://www.indyturk.com/node/777085/bi%CC%87li%CC%87m/googledan-sonsuz-kayd%C4%B1rmaya-kar%C5%9F%C4%B1-yeni-%C3%B6zellik",
-          "also_in": []
-        },
-        {
-          "title": "Lenovo dahili kablosu olan yeni bir powerbank tanıttı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/lenovo-legion-p5-tanitildi-iste-ozellikleri-ve-fiyati--205687",
-          "also_in": []
-        },
-        {
-          "title": "Windows 11 artık sorunlu sürücüleri otomatik geri alacak",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/windows-11-artik-sorunlu-suruculeri-otomatik-geri-alacak--205685",
-          "also_in": []
-        },
-        {
-          "title": "Arabanız sizi izliyor ve bu daha sadece başlangıç",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/arabaniz-sizi-izliyor-ve-bu-daha-sadece-baslangic--205690",
-          "also_in": []
-        },
-        {
-          "title": "Realme Watch S5 geliyor: 20 gün pil ömrü, 1500 nit ekran, Yapay zeka sağlık takibi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/realme-watch-s5-geliyor-uygun-fiyatli-ve-pil-canavari--205684",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Bilimsel Keşifler ve Tarihi Gizemler",
+      "title": "Bilimsel Keşifler ve Merak Uyandıran Bulgular",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Bilim dünyası, yeni keşifler ve tarihi gizemlerin çözülmesiyle dikkat çekiyor. Meyve ömrünü uzatan doğal çözümler, karanlık madde araştırmaları, insan evrimi ve antik tıbba dair bulgular öne çıkıyor. Ayrıca, evrenin sırlarına dair teoriler ve astrofiziksel olaylar da merak uyandırıyor.",
-      "importance": 5,
+      "summary": "Bilim dünyasında meyve ömrünü uzatan yeni solüsyonlar, karanlık maddeyi ortaya çıkarabilecek yöntemler ve insan evrimiyle ilgili yeni bulgular dikkat çekiyor. Antik kalıntılardan çıkan bilgiler de merak uyandırıyor.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
@@ -429,136 +558,26 @@
           "also_in": []
         },
         {
+          "title": "Yavaşlayan Nötron Yıldızları, Gazı Dönüş Yönlerinin Tersinden Yutuyor Olabilir!",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/yavaslayan-notron-yildizlari-gazi-donus-yonlerinin-tersinden-yutuyor-olabilir-12670",
+          "also_in": []
+        },
+        {
           "title": "Homo erectus’un Genetik Materyali İlk Kez Dizilendi!",
           "source": "Arkeofili",
           "link": "https://arkeofili.com/homo-erectusun-genetik-materyali-ilk-kez-dizilendi/?utm_source=rss&utm_medium=rss&utm_campaign=homo-erectusun-genetik-materyali-ilk-kez-dizilendi",
           "also_in": []
-        },
-        {
-          "title": "Sibirya’daki Neandertaller 60.000 Yıl Önce Diş Tedavisi Yapmış!",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/sibiryadaki-neandertaller-60-000-yil-once-dis-tedavisi-yapmis/?utm_source=rss&utm_medium=rss&utm_campaign=sibiryadaki-neandertaller-60-000-yil-once-dis-tedavisi-yapmis",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Oyun ve Dijital Eğlence Dünyası",
-      "meta_category": "Eğlence",
-      "summary": "Oyun dünyası, yeni çıkan oyunlar, sızdırılan bilgiler ve oyun şirketlerinin hamleleriyle hareketli. GTA 6 gibi merakla beklenen oyunların çıkış tarihleri ve fiyatları gündemde. Ayrıca, e-spor ve dijital platformlardaki içerikler de ilgi çekiyor.",
-      "importance": 5,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "iPhone 20’nin devrimsel ekran tasarımında büyük sorun ortaya çıktı: Ertelenebilir",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/apple-in-dort-kenardan-kavisli-iphone-plani-tehlikeye-girdi--205689",
-          "also_in": []
-        },
-        {
-          "title": "Çin’de e-spor kullanıcı sayısı nüfusun yüzde 35’ini geçti",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/cin-de-e-spor-kullanici-sayisi-nufusun-yuzde-35-ini-gecti--205681",
-          "also_in": []
-        },
-        {
-          "title": "Playstation 6'nın yeni teknik detayları sızdı: Sony, donanımdan kısmıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/sony-donanimdan-kismiyor-ps6-nin-yeni-teknik-detaylari-sizdi--205680",
-          "also_in": []
-        },
-        {
-          "title": "Epic Games'te bu haftanın gizemli oyunları erişime açıldı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/epic-games-te-bu-haftanin-gizemli-oyunlari-erisime-acildi--205692",
-          "also_in": []
-        },
-        {
-          "title": "iPhone 18 Pro ve Pro Max yeniden sızdırıldı: İşte yeni renk seçeneği",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/iphone-18-pro-ve-pro-max-tekrar-sizdi-iste-yeni-renk-secenegi--205674",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Tedbirler ve Merkez Bankası Adımları",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Ekonomik tedbirler, varlık barışı düzenlemeleri ve Merkez Bankası'nın adımları ekonomi gündeminde önemli yer tutuyor. Vergi düzenlemeleri, kredi politikaları ve enflasyonla mücadele çabaları dikkat çekiyor. Ayrıca, firmaların talep algısı ve yatırımcı davranışları da analiz ediliyor.",
-      "importance": 5,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Gençlik ve Spor Bakanlığı, 2 bin 610 personel alacak",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/genclik-ve-spor-bakanligi-2-bin-610-personel-alacak/3937940",
-          "also_in": [
-            "dikGAZETE",
-            "BHA",
-            "En Son Haber",
-            "Haberler",
-            "Haber Global",
-            "OdaTV",
-            "Milli Gazete",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "TBMM Genel Kurulu'nda, varlık barışını içeren kanun teklifinin ilk 5 maddesi kabul edildi",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/tbmm-genel-kurulunda-varlik-barisini-iceren-kanun-teklifinin-ilk-5-maddesi-kabul-edildi-3422785",
-          "also_in": [
-            "CNN Türk",
-            "Haber Global"
-          ]
-        },
-        {
-          "title": "İlk deniz üstü rüzgar enerjisi santralleri için 4 aday YEKA belirlendi",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/ilk-deniz-ustu-ruzgar-enerjisi-santralleri-icin-4-aday-yeka-belirlendi",
-          "also_in": [
-            "Haberler",
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "Arazi bedava güneş bedava elektrik parayla",
-          "source": "Haberiniz",
-          "link": "https://haberiniz.com.tr/arazi-bedava-gunes-bedava-elektrik-parayla/",
-          "also_in": [
-            "Sözcü",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "Özelleştirme İdaresi 4 ildeki 6 taşınmazı satacak",
-          "source": "Doğru Haber",
-          "link": "https://dogruhaber.com.tr/ozellestirme-idaresi-4-ildeki-6-tasinmazi-satacak",
-          "also_in": [
-            "Ekonomim"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayii ve Yerli Üretim Hamleleri",
+      "title": "Savunma Sanayii ve Askeri Gelişmeler",
       "meta_category": "Savunma ve Sanayi",
-      "summary": "Savunma sanayii, yerli ve milli üretim hamleleriyle öne çıkıyor. Türkiye'nin İHA teknolojisindeki gelişmeleri, Polonya'nın yerli füze üretimi ve ABD'nin savunma harcamaları dikkat çekiyor. Ayrıca, uluslararası savunma iş birlikleri de önem kazanıyor.",
-      "importance": 4,
+      "summary": "Yerli füze sistemleri, İHA teknolojileri ve savunma işbirlikleri savunma sanayiindeki güncel gelişmeler arasında yer alıyor. Türkiye'nin İHA teknolojisindeki ilerlemeleri ve uluslararası işbirlikleri dikkat çekiyor.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
-        {
-          "title": "Fransa’nın sistemleri Bayraktar TB2’ye eklenecek: İmzalar atıldı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/fransa-nin-sistemleri-bayraktar-tb2-ye-eklenecek-imzalar-atildi--205686",
-          "also_in": []
-        },
-        {
-          "title": "CİRİT Anti-İHA füzesi havadaki hedefini başarıyla imha etti",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/cirit-anti-iha-fuzesi-havadaki-hedefini-basariyla-imha-etti--205683",
-          "also_in": []
-        },
         {
           "title": "Yerli ve milli hücumbotu \"Karayel\" EFES tatbikatında ilk kez kullanıldı",
           "source": "Diriliş Postası",
@@ -580,127 +599,36 @@
           "source": "DefenceTurk",
           "link": "https://www.defenceturk.net/abd-ordusu-polonya-sevkiyatini-iptal-etti",
           "also_in": []
+        },
+        {
+          "title": "Prevot: Belçika bu ayrım gözetmeyen saldırıları kesin bir dille kınıyor",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/prevot-belcika-bu-ayrim-gozetmeyen-saldirilari-kesin-bir-dille-kiniyor/262544/",
+          "also_in": []
+        },
+        {
+          "title": "Stubb: Finlandiya’ya yönelik doğrudan bir askeri tehdit bulunmamaktadır",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/stubb-finlandiyaya-yonelik-dogrudan-bir-askeri-tehdit-bulunmamaktadir/262532/",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Mahkemeler ve Hukuki Soruşturmalar",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Hukuki süreçler ve soruşturmalar günün önemli bir bölümünü oluşturuyor. Yeni kurulan ağır ceza mahkemeleri, İmamoğlu soruşturması, Üsküdar Belediyesi'ne yönelik operasyonlar ve çeşitli davalar dikkat çekiyor. Adalet Bakanı'nın açıklamaları da gündemde.",
-      "importance": 4,
+      "title": "Ekonomi ve Finansal Düzenlemeler",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Varlık barışı, SGK prim borcu yapılandırması ve vergi düzenlemeleri gibi ekonomik düzenlemeler ve yeni finansman anlaşmaları öne çıkıyor. Şirketlerin finansal durumları ve halka arz başvuruları da gündemde.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" soruşturmasında 12 zanlı gözaltına alındı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-sorusturmasinda-12-zanli-gozaltina-alindi/3938009",
-          "also_in": [
-            "Diriliş Postası",
-            "dikGAZETE",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Yeni kurulan ağır ceza mahkemelerinin yargı çevrelerinin belirlenmesine ilişkin karar Resmi Gazete'de",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/yeni-kurulan-agir-ceza-mahkemelerinin-yargi-cevrelerinin-belirlenmesine-iliskin-karar-resmi-gazetede/3937933",
-          "also_in": [
-            "dikGAZETE",
-            "Dünya",
-            "İstiklal"
-          ]
-        },
-        {
-          "title": "Üsküdar Belediyesi'ne ikinci dalga operasyon: 7 gözaltı",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/politika/uskudar-belediyesine-ikinci-dalga-operasyon-7-gozalti-346285h",
-          "also_in": [
-            "Gazete Pencere",
-            "Milli Gazete",
-            "soL Haber"
-          ]
-        },
-        {
-          "title": "Rasim Ozan Kütahyalı gözaltına alındı",
-          "source": "Kısa Dalga",
-          "link": "https://kisadalga.net/haber/gundem/rasim-ozan-kutahyali-gozaltina-alindi-137926",
-          "also_in": [
-            "Tele1",
-            "Yurt Gazetesi",
-            "Kamudan Haber"
-          ]
-        },
-        {
-          "title": "Yeni kurulan ağır ceza mahkemelerinin yargı çevreleriyle ilgili karar Resmi Gazete’de",
+          "title": "TBMM Genel Kurulu'nda, varlık barışını içeren kanun teklifinin ilk 5 maddesi kabul edildi",
           "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/yeni-kurulan-agir-ceza-mahkemelerinin-yargi-cevreleriyle-ilgili-karar-resmi-gazetede-3422789",
+          "link": "https://www.cnnturk.com/turkiye/tbmm-genel-kurulunda-varlik-barisini-iceren-kanun-teklifinin-ilk-5-maddesi-kabul-edildi-3422785",
           "also_in": [
-            "Karar",
-            "NTV"
+            "CNN Türk",
+            "Haber Global"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Sağlık Sektöründeki Gelişmeler ve Düzenlemeler",
-      "meta_category": "Sağlık",
-      "summary": "Sağlık sektörü, takviye edici gıdalara yönelik yeni düzenlemeler, salgın hastalıklar ve sağlık sisteminin durumuyla gündemde. DSÖ'nün norovirüs vakaları ve hantavirüs uyarıları dikkat çekerken, hekimlerin çalışma koşulları ve sağlık yatırımları da tartışılıyor.",
-      "importance": 3,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Sağlık Bakanlığı’ndan takviye edici gıdalara yeni düzenleme: Denetim artıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/takviye-edici-gidalar-icin-yeni-bir-denetim-sistemi-kurulacak--205691",
-          "also_in": []
-        },
-        {
-          "title": "DSÖ, Fransa'da norovirüs vakalarının görüldüğü gemideki yolcuların tahliye edildiğini bildirdi",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/dso-fransa-da-norovirus-vakalarinin-goruldugu-gemideki-yolcularin-tahliye-edildigini-bildirdi-1001131.html",
-          "also_in": [
-            "Evrensel",
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "İngiltere'nin yeni Sağlık Bakanı James Murray oldu",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ingilterenin-yeni-saglik-bakani-james-murray-oldu-864225",
-          "also_in": [
-            "Aydınlık"
-          ]
-        },
-        {
-          "title": "İngiltere Sağlık Bakanı Wes Streeting İstifa Etti!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ingiltere-saglik-bakani-wes-streeting-istifa-etti-864202",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "AB, hantavirüs nedeniyle Entegre Siyasi Kriz Müdahale mekanizmasını aktif hale getirdi",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/ab-hantavirus-nedeniyle-entegre-siyasi-kriz-mudahale-mekanizmasini-aktif-hale-getirdi-1001117.html",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Doğa ve Çevre Haberleri",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Doğa ve çevre konuları, yeni bilimsel bulgular ve çevresel olaylarla gündeme geliyor. Meyve ömrünü uzatan çözümler, küresel ısınma etkileri ve doğal afetler dikkat çekiyor. Ayrıca, sıfır atık projeleri de yer alıyor.",
-      "importance": 3,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Yeni Doğal Yıkama Solüsyonu Meyve Ömrünü Uzatıyor",
-          "source": "Gerçek Bilim",
-          "link": "https://www.gercekbilim.com/yeni-dogal-yikama-solusyonuyla-meyve-omru-de-uzuyor/",
-          "also_in": []
         },
         {
           "title": "İlk deniz üstü rüzgar enerjisi santralleri için 4 aday YEKA belirlendi",
@@ -712,19 +640,20 @@
           ]
         },
         {
-          "title": "Hava Durumu (15-05-2026)",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-15-05-2026-3422762",
+          "title": "Özelleştirme İdaresi 4 ildeki 6 taşınmazı satacak",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/ekonomi/ozellestirme-idaresi-4-ildeki-6-tasinmazi-satacak-haberi-894224",
           "also_in": [
-            "CNN Türk"
+            "Doğru Haber",
+            "Haber 7"
           ]
         },
         {
-          "title": "İstanbul Boğazı'nda gemi trafiği çift yönlü askıya alındı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/05/15/istanbul-bogazinda-gemi-trafigi-cift-yonlu-askiya-alindi",
+          "title": "SGK yemek yardımı istisnasında yeni dönem ve dikkat edilmesi gerekenler",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/kose-yazisi/sgk-yemek-yardimi-istisnasinda-yeni-donem-ve-dikkat-edilmesi-gerekenler/894204",
           "also_in": [
-            "Evrensel"
+            "Ekonomi Gazetesi"
           ]
         },
         {
@@ -738,73 +667,113 @@
       ]
     },
     {
-      "title": "Ulaşım ve Altyapı Yatırımları",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Ulaşım ve altyapı yatırımları, ekonomi gündeminde yer buluyor. Yeni elektrikli araç modelleri, otomotiv sektöründeki gelişmeler ve petrol fiyatlarındaki değişimler dikkat çekiyor. Ayrıca, enerji santralleri ve altyapı projeleri de gündemde.",
-      "importance": 3,
+      "title": "Toplumsal Olaylar ve Kazalar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Ülke genelinde meydana gelen trafik kazaları, doğal afetler ve toplumsal olaylar gündemdeki yerini koruyor. Sağlığı tehdit eden gıda ürünleri ve işçi sağlığı konuları da dikkat çekiyor.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Honda, yeni nesil hibrit fastback modelini gösterdi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/buyuk-merak-uyandirdi-honda-dan-yeni-nesil-hibrit-fastback--205696",
+          "title": "Evlat acısına dayanamadı, oğluyla aynı gün vefat etti",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/evlat-acisina-dayanamadi-ogluyla-ayni-gun-vefat-etti-2503849",
+          "also_in": [
+            "Haberler",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "DSÖ, Fransa'da norovirüs vakalarının görüldüğü gemideki yolcuların tahliye edildiğini bildirdi",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5984126/dso-fransada-norovirus-vakalarinin-goruldugu-gemideki-yolcularin-tahliye-edildigini-bildirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "dikGAZETE",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Batman’da motosikletin çarptığı yaya ile sürücü öldü",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/batmanda-motosikletin-carptigi-yaya-ile-surucu-oldu-524602",
+          "also_in": [
+            "İstiklal",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "New York borsası yükselişle açıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/new-york-borsasi-yukselisle-acildi-576948",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Hava Durumu (15-05-2026)",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-15-05-2026-3422762",
+          "also_in": [
+            "CNN Türk"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sağlık ve Toplumsal Konular",
+      "meta_category": "Sağlık",
+      "summary": "Sağlık Bakanlığı'nın takviye edici gıdalara yönelik düzenlemeleri ve halk sağlığını ilgilendiren konular ön plana çıkıyor. Ayrıca, stresle başa çıkma ve travma sonrası iyileşme gibi toplumsal konular da ele alınıyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Stres çağında yaşamak… Ama nasıl?",
+          "source": "Herkese Bilim Teknoloji",
+          "link": "https://www.herkesebilimteknoloji.com/gunun-yorumu/stres-caginda-yasamak-ama-nasil",
           "also_in": []
         },
         {
-          "title": "Krikosuz lastik değiştirme dönemi: BYD Denza B5 ve B8 yenilendi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/krikosuz-lastik-degistirme-donemi-byd-denza-b5-ve-b8-yenilendi--205694",
-          "also_in": []
-        },
-        {
-          "title": "Yeni Renault Clio 6 nasıl olmuş? 4 Günde 500 KM yol yaptım!",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yeni-renault-clio-6-nasil-olmus-4-gunde-500-km-yol-yaptim--205661",
-          "also_in": []
-        },
-        {
-          "title": "Xpeng, Avrupa’da VW fabrikasını satın almayı değerlendiriyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/xpeng-avrupa-da-vw-fabrikasini-satin-almayi-degerlendiriyor--205673",
-          "also_in": []
-        },
-        {
-          "title": "Jaguar’ın elektrikli dönemi Type 01 ile başlıyor",
+          "title": "59 bin yıllık azı dişi, tıp dünyasını şaşırttı",
           "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/jaguarin-elektrikli-donemi-type-01-ile-basliyor_180317.html",
+          "link": "https://www.chip.com.tr/guncel/59-bin-yillik-azi-disi-tip-dunyasini-sasirtti_180309.html",
+          "also_in": []
+        },
+        {
+          "title": "Bilim dünyası doğruladı: Kuş gribi evcil hayvanlardan bize geçebiliyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/bilim-dunyasi-dogruladi-kus-gribi-evcil-hayvanlardan-bize-gecebiliyor_180297.html",
+          "also_in": []
+        },
+        {
+          "title": "Sağlık Bakanlığı’ndan takviye edici gıdalara yeni düzenleme: Denetim artıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/takviye-edici-gidalar-icin-yeni-bir-denetim-sistemi-kurulacak--205691",
+          "also_in": []
+        },
+        {
+          "title": "Hayatta Kalma Refleksinden İyileşmeye: Çocukluk Travmalarıyla Başa Çıkmak - Ekşi Şeyler",
+          "source": "Ekşi Şeyler",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2JWNlBxZGp4RU5IN1VRYUZ6Um84TkJoX2g4Q2NNYmw0NlZmSHhmbzJLQkV4WXpGUU05NFlnZXYxaU9va2xSNDdXYm84MEt3OWZOYWNXYWc1MmZvWDRNWnpxX0VIT05qRHJSenYwcmNfSTR1WnJzRzF1cFZYZXk1YlB4bDNQSk5BSjlSOEgwS2tCbW1yTF9aQzZDSQ?oc=5",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Eğitim ve Kariyer Gelişimleri",
+      "title": "Eğitim ve Kariyer Gelişmeleri",
       "meta_category": "Eğitim",
-      "summary": "Eğitim alanında personel alımları, sınav sonuçları ve kariyer gelişimine yönelik haberler yer alıyor. Gençlik ve Spor Bakanlığı'nın personel alımı, EKPSS sonuçları ve üniversitelerin öğretim görevlisi ilanları dikkat çekiyor. Ayrıca, çocukların gelişimine yönelik tavsiyeler de bulunuyor.",
-      "importance": 2,
+      "summary": "Gençlik ve Spor Bakanlığı'nın personel alımı ve eğitim kurumlarındaki gelişmeler eğitim ve kariyer alanındaki haberleri oluşturuyor. Ayrıca, çeşitli meslek gruplarına yönelik duyurular da yer alıyor.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
-        {
-          "title": "Disleksi teşhisi alan çocukların özgüvenini nasıl geliştirebilirsiniz?",
-          "source": "Fikir Turu",
-          "link": "https://fikirturu.com/toplum/insan/disleksi-teshisi-alan-cocuklarin-ozguve/",
-          "also_in": []
-        },
-        {
-          "title": "“Yazarlar Çocuklarla Buluşuyor: Ömür Kurt ile Cepheye Koşan At” etkinliği 16 Mayıs’ta",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/yazarlar-cocuklarla-bulusuyor-omur-kurt-ile-cepheye-kosan-at-etkinligi-16-mayista/",
-          "also_in": []
-        },
         {
           "title": "Gençlik ve Spor Bakanlığı, 2 bin 610 personel alacak",
           "source": "Anadolu Ajansı",
           "link": "https://www.aa.com.tr/tr/gundem/genclik-ve-spor-bakanligi-2-bin-610-personel-alacak/3937940",
           "also_in": [
-            "dikGAZETE",
             "BHA",
-            "En Son Haber",
-            "Haberler",
+            "dikGAZETE",
+            "Elips Haber",
             "Haber Global",
+            "Haberler",
             "OdaTV",
             "Milli Gazete",
             "TRT Haber"
@@ -821,164 +790,128 @@
           ]
         },
         {
-          "title": "Adıyaman Üniversitesi Öğretim Görevlisi alacak!",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/ekonomi/adiyaman-universitesi-ogretim-gorevlisi-alacak/haber-1667402",
+          "title": "Dünya Tesis Yönetimi Günü kapsamında Ankara Üniversitesi'nde etkinlik gerçekleştirildi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/dunya-tesis-yonetimi-gunu-kapsaminda-ankara-universitesinde-etkinlik-gerceklestirildi/3938016",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Bakan Işıkhan: Yapay zeka destekli sistemleri devreye alıyoruz",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/politika-haberleri/bakan-isikhan-yapay-zeka-destekli-sistemleri-devreye-aliyoruz_ID100701568/",
+          "also_in": []
+        },
+        {
+          "title": "LinkedIn yüzlerce çalışanını işten çıkarıyor",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/teknoloji/linkedin-yuzlerce-calisanini-isten-cikariyor-h30076",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Magazin ve Ünlülerin Gündemi",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Ünlü isimlerin hayatları, kırmızı halı şıklıkları ve sosyal medyadaki paylaşımları magazin gündemini oluşturuyor. Cannes Film Festivali'ndeki ünlüler, film ve dizi oyuncularının yeni projeleri ve özel hayatlarına dair haberler ilgi çekiyor.",
-      "importance": 2,
+      "title": "Fırsatlar ve Yatırım Alanları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Enerji yatırımları, gayrimenkul projeleri ve tarımsal üretimdeki gelişmeler yatırım fırsatlarını gündeme getiriyor. Türkiye'nin enerji bağımsızlığına yönelik adımları ve çiftçilere yönelik destekler dikkat çekiyor.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Will Smith, Aksiyon Gerilimi \"Supermax\" ile Dönüyor",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000204220/",
-          "also_in": []
+          "title": "İlk deniz üstü rüzgar enerjisi santralleri için 4 aday YEKA belirlendi",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/ilk-deniz-ustu-ruzgar-enerjisi-santralleri-icin-4-aday-yeka-belirlendi",
+          "also_in": [
+            "Haberler",
+            "CNBC-e"
+          ]
         },
         {
-          "title": "Apple TV, Yeni Hit Dizisi İçin 2. Sezon Onayını Verdi",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000204184/",
-          "also_in": []
+          "title": "Arazi bedava güneş bedava elektrik parayla",
+          "source": "Haberiniz",
+          "link": "https://haberiniz.com.tr/arazi-bedava-gunes-bedava-elektrik-parayla/",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Ekonomi"
+          ]
         },
         {
-          "title": "Prime Video'nun Yeni Romantik Dizisi \"Every Year After\"a İlk Bakış",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000204163/",
-          "also_in": []
+          "title": "Yunanistan’ın en büyük yaban mersini üreticisi oldu, İpsala’da 266 dönüme 150 bin fidan dikecek",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/kose-yazisi/yunanistanin-en-buyuk-yaban-mersini-ureticisi-oldu-ipsalada-266-donume-150-bin-fidan-dikecek/894183",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
         },
         {
-          "title": "Till Lindemann'ın, Şarkılarına Olduğu Gibi Yansıyan Tekinsiz Çocukluğu ve Yaşadıkları - Ekşi Şeyler",
-          "source": "Ekşi Şeyler",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUkdWdE5LTFJRT0FQb0hxbWExZFNWTTBxdXh4dTlCMTFxNjgtakxxWS1vXy1ERGM2VjYtXzE0SjhyeS1MVTZYQlNMOGxVWnZMa254N3ZOeGNGQmZoNlk5SGlJWUZaRzI1QTl4N185RDZmVEhrNXd4cEppT1dCdFdmcG5ERTcyMjFqb2ZWQVBoMUFyT2x4M1gyMng3M2ZkYjQ0OTEzOFZUQVBRQQ?oc=5",
-          "also_in": []
+          "title": "Kızıl metalin sessiz devrimi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/kose-yazisi/kizil-metalin-sessiz-devrimi/894195",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
         },
         {
-          "title": "Öldüğünde $500M Borcu Olan Michael Jackson'ın Mirası Nasıl 3 Milyar Dolara Ulaştı? - Ekşi Şeyler",
-          "source": "Ekşi Şeyler",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamRhcW95eVFtLTlkSDkzc3NibEhvSlhnS1F0YlB1NlAyMlREVXJsRF9uOTZjUzd5YTZOaWhXYTdJNjZVaEZmU1djVWVnVEZGRnJmYVF3SVdQZzV2SV8wSXZJMzNrUHZ4YWIwemFiWklDdTlSUVhUNENyRTI1aENOTGNfcVF4YkR3MjZPTzVJOGE1VU9FWjEyNkV2QnVrQ0pmYmdnbg?oc=5",
-          "also_in": []
+          "title": "Yozgat&apos;ta 60 besiciye 120 damızlık koç dağıtıldı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/ekonomi/yozgat-ta-besicilere-damizlik-koc-dagitildi-19846930-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
         }
       ]
     },
     {
-      "title": "Tarihi ve Kültürel Miras",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Tarihi olaylar, mitolojik konular ve kültürel miras öne çıkıyor. Dante'nin eserinin esin kaynakları, Neandertallerin diş tedavisi, antik Roma kayıtları ve mitolojik figürler hakkında bilgiler yer alıyor.",
-      "importance": 2,
+      "title": "Medya ve İletişim Sektörü Güncellemeleri",
+      "meta_category": "Diğer",
+      "summary": "Sosyal medya platformlarındaki güncellemeler, yeni içerik stratejileri ve medya kuruluşlarına yönelik haberler bu kümede yer alıyor. Spotify'ın Apple Podcasts'e içerik taşıması ve Netflix'in reklam stratejileri dikkat çekiyor.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Dante'nin Cehennem'i asteroit çarpışmasından mı esinleniyor?",
-          "source": "Independent Bilim",
-          "link": "https://www.indyturk.com/node/777096/bi%CC%87li%CC%87m/dantenin-cehennemi-asteroit-%C3%A7arp%C4%B1%C5%9Fmas%C4%B1ndan-m%C4%B1-esinleniyor",
-          "also_in": []
-        },
-        {
-          "title": "Sibirya’daki Neandertaller 60.000 Yıl Önce Diş Tedavisi Yapmış!",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/sibiryadaki-neandertaller-60-000-yil-once-dis-tedavisi-yapmis/?utm_source=rss&utm_medium=rss&utm_campaign=sibiryadaki-neandertaller-60-000-yil-once-dis-tedavisi-yapmis",
-          "also_in": []
-        },
-        {
-          "title": "\"Güneşin günü\" gizemi: Antik Roma'dan kalan en eski tam tarih kaydı",
+          "title": "Tek yükleme, çift platform: Spotify içerikleri Apple Podcasts’e taşıyor",
           "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/gunesin-gunu-gizemi-antik-romadan-kalan-en-eski-tam-tarih-kaydi_180166.html",
+          "link": "https://www.chip.com.tr/guncel/tek-yukleme-cift-platform-spotify-icerikleri-apple-podcastse-tasiyor_180333.html",
           "also_in": []
         },
         {
-          "title": "Naiadlar: Su Perileri ve Antik Mitolojide Tatlı Su Ruhları",
-          "source": "Mitoloji",
-          "link": "https://mitoloji.org.tr/naiadlar-su-perileri/",
+          "title": "Netflix daha fazla reklam gösterecek: Dikey videolar ve podcastler sırada",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/netflix-daha-fazla-reklam-gosterecek-dikey-videolar-ve-podcastler-sirada_180304.html",
           "also_in": []
         },
         {
-          "title": "15 Maddede Vasıl bin Ata",
-          "source": "Kitap Haber",
-          "link": "https://www.kitaphaber.com.tr/15-maddede-vasil-bin-ata-k7878.html",
+          "title": "Amazon, Lord of the Rings MMO Projesini İptal Etti, Yeni Bir Deneyim Yolda",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/amazon-lord-of-the-rings-mmo-projesini-iptal-etti-yeni-bir-deneyim-yolda",
+          "also_in": []
+        },
+        {
+          "title": "The Lord of the Rings MMO'su öldü, yaşasın yeni The Lord of the Rings oyunu!",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/the-lord-of-the-rings-mmo/133937/the-lord-of-the-rings-mmosu-oldu-yasasin-yeni-the-lord-of-the-rings-oyunu",
+          "also_in": []
+        },
+        {
+          "title": "Yeni Steam Controller'ı düşürdüğünüzde çığlık atıyor!",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/steam-controller/133926/yeni-steam-controlleri-dusurdugunuzde-ciglik-atiyor",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Gıda Güvenliği ve Tüketici Denetimleri",
+      "title": "Gündelik Yaşam ve Kişisel Gelişim",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "Gıda güvenliği ve tüketici denetimleri, toplumsal yaşamın önemli bir parçası. Ankara'da sağlığı tehdit eden et ele geçirilmesi, fabrikalarda toplu zehirlenmeler ve Ticaret Bakanlığı'nın denetimleri dikkat çekiyor. Ayrıca, tarımsal üretim ve gıda fiyatlarına dair bilgiler de bulunuyor.",
-      "importance": 2,
+      "summary": "Burç yorumları, ilişki dinamikleri ve kişisel gelişim üzerine yazılar gündelik yaşamın farklı yönlerini ele alıyor. Seyahat rotaları ve yaşam tarzı önerileri de dikkat çekiyor.",
+      "importance": 5,
       "story_count": 5,
       "stories": [
         {
-          "title": "Ankara'da sağlığı tehdit eden 40 ton et ele geçirildi",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3627965-ankarada-sagligi-tehdit-eden-40-ton-et-ele-gecirildi",
-          "also_in": [
-            "İnternet Haber",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Ordu'da 21 işçi yemekten zehirlendi",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3627985-orduda-21-isci-yemekten-zehirlendi",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Ordu'da yedikleri yemek sonrası rahatsızlanan 21 işçi hastanelik oldu",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/yasam/orduda-yedikleri-yemek-sonrasi-rahatsizlanan-21-isci-hastanelik-oldu-524596",
-          "also_in": [
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "Fabrikadaki yemekten 21 işçi zehirledi",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/fabrikadaki-yemekten-21-isci-zehirledi-p319792",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Yaşıtları okulda, onlar tarlada!",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/yasam/yasitlari-okulda-onlar-tarlada-aileler-yasak-dinlemiyor-1790602",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Kişisel Gelişim ve Ruh Sağlığı",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Kişisel gelişim, ruh sağlığı ve stres yönetimi konuları öne çıkıyor. Stresle başa çıkma yöntemleri, duygusal yeme döngüsünden çıkma, travmalarla başa çıkma ve tükenmişlik hissi gibi konular ele alınıyor.",
-      "importance": 2,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Stres çağında yaşamak… Ama nasıl?",
-          "source": "Herkese Bilim Teknoloji",
-          "link": "https://www.herkesebilimteknoloji.com/gunun-yorumu/stres-caginda-yasamak-ama-nasil",
-          "also_in": []
-        },
-        {
-          "title": "Hayatta Kalma Refleksinden İyileşmeye: Çocukluk Travmalarıyla Başa Çıkmak - Ekşi Şeyler",
-          "source": "Ekşi Şeyler",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2JWNlBxZGp4RU5IN1VRYUZ6Um84TkJoX2g4Q2NNYmw0NlZmSHhmbzJLQkV4WXpGUU05NFlnZXYxaU9va2xSNDdXYm84MEt3OWZOYWNXYWc1MmZvWDRNWnpxX0VIT05qRHJSenYwcmNfSTR1WnJzRzF1cFZYZXk1YlB4bDNQSk5BSjlSOEgwS2tCbW1yTF9aQzZDSQ?oc=5",
-          "also_in": []
-        },
-        {
-          "title": "Disleksi teşhisi alan çocukların özgüvenini nasıl geliştirebilirsiniz?",
-          "source": "Fikir Turu",
-          "link": "https://fikirturu.com/toplum/insan/disleksi-teshisi-alan-cocuklarin-ozguve/",
+          "title": "Annelik Yolculuğunda Konfor ve Zarafetin Yeni Yüzü Bercasa",
+          "source": "Anne Kaz",
+          "link": "https://www.annekaz.com/anne-koltugu.html",
           "also_in": []
         },
         {
@@ -988,118 +921,52 @@
           "also_in": []
         },
         {
-          "title": "Duygusal Yeme Döngüsünden Çıkmak Mümkün mü?",
-          "source": "Elle Türkiye",
-          "link": "https://www.elle.com.tr/guzellik/saglik/duygusal-yeme-dongusunden-cikmak-mumkun-mu",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Seyahat ve Turizm Önerileri",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Seyahat ve turizm alanında Kıbrıs tatili planlaması, Türkiye'nin bağ rotaları ve tatilde hasta olma gibi konular yer alıyor. Farklı destinasyonlar ve tatil deneyimleri hakkında bilgiler sunuluyor.",
-      "importance": 1,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kıbrıs Tatilinizi Planlarken Dikkat Etmeniz Gerekenler",
-          "source": "10layn",
-          "link": "https://10layn.com/kibris-tatilinizi-planlarken-dikkat-etmeniz-gerekenler/",
+          "title": "Demi Moore, Cannes Film Festivali’nin ikinci gününde Gucci imzalı elbisesiyle",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/moda/demi-moore-cannes-film-festivalinin-ikinci-gununde-gucci-imzali-elbisesiyle",
           "also_in": []
         },
         {
-          "title": "Türkiye’nin En Güzel Bağ Rotaları",
-          "source": "Live To Bloom",
-          "link": "https://livetobloom.com/turkiyenin-en-guzel-bag-rotalari/",
+          "title": "Yeraltı 16. bölüm fragmanı yayınlandı mı? Yeraltı 15. bölümde neler oldu?",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/yeralti-16-bolum-fragmani-yayinlandi-mi-yeralti-15-bolumde-neler-oldu",
           "also_in": []
         },
         {
-          "title": "Evinizi yaza nasıl hazırlarsınız?",
-          "source": "Uplifers",
-          "link": "https://www.uplifers.com/evinizi-yaza-nasil-hazirlarsiniz/",
-          "also_in": []
-        },
-        {
-          "title": "Tatilde hasta olmak sadece kötü bir tesadüf mü: ‘Leisure sickness’ nedir?",
-          "source": "Uplifers",
-          "link": "https://www.uplifers.com/leisure-sickness-tatil-hastaligi-nedir/",
-          "also_in": []
-        },
-        {
-          "title": "Afrika Pazarında İş Fırsatları (Etiyopya İzlenimleri)",
-          "source": "Medium Türkçe Yayın",
-          "link": "https://medium.com/t%C3%BCrkiye/afrika-pazar%C4%B1nda-i%CC%87%C5%9F-f%C4%B1rsatlar%C4%B1-etiyopya-i%CC%87zlenimleri-5cf226e4b480?source=rss----bb2c9a130e74---4",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Diğer Güncel Haberler",
-      "meta_category": "Diğer",
-      "summary": "Günün genel akışına dahil olan, ancak belirli bir kümelendirmeye uymayan çeşitli haber başlıkları yer alıyor. Bu haberler arasında hava durumu tahminleri, çeşitli kurumların duyuruları ve kısa bilgilendirmeler bulunuyor.",
-      "importance": 1,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "HBT Dergi 521. sayı – 15 Mayıs 2026",
-          "source": "Herkese Bilim Teknoloji",
-          "link": "https://www.herkesebilimteknoloji.com/dergi-sayilari/hbt-dergi-521-sayi-15-mayis-2026",
-          "also_in": []
-        },
-        {
-          "title": "Samsung’daki grev krizi bellek piyasasını sarsıyor: Şirket 21 milyar dolar kaybedebilir",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/samsung-daki-grev-krizi-bellek-piyasasini-simdiden-sarsiyor--205664",
-          "also_in": []
-        },
-        {
-          "title": "Radyasyonla renklenen devasa elmas yeni sahibini bekliyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/radyasyonla-renklenen-devasa-elmas-yeni-sahibini-bekliyor_180296.html",
-          "also_in": []
-        },
-        {
-          "title": "PlayStation Plus Mayıs 2026 Oyun Kataloğu oyunları açıklandı: Star Wars Outlaws ve Red Dead Redemption 2!",
-          "source": "IGN Türkiye",
-          "link": "https://tr.ign.com/red-dead-redemption-2/133929/playstation-plus-mayis-2026-oyun-katalogu-oyunlari-aciklandi-star-wars-outlaws-ve-red-dead-redemptio",
-          "also_in": []
-        },
-        {
-          "title": "Forza Horizon 6 Türkiye çıkış saati: Erken erişim, PC ve Xbox çıkış saatleri!",
-          "source": "IGN Türkiye",
-          "link": "https://tr.ign.com/forza-horizon-6/133934/forza-horizon-6-turkiye-cikis-saati-erken-erisim-pc-ve-xbox-cikis-saatleri",
+          "title": "Daha 17 dizisinin yayın tarihi belli oldu! Daha 17 dizisi oyuncuları kim?",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/daha-17-dizisinin-yayin-tarihi-belli-oldu-daha-17-dizisi-oyunculari-kim",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": null,
-    "artist": null,
-    "year": null,
-    "form": null,
-    "medium": null,
-    "location": null,
-    "description": null,
-    "verified": false,
-    "wikipedia_url": null,
-    "wikipedia_extract": null,
-    "image_url": null,
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Artist"
+    "title": "The Tower of Babel",
+    "artist": "Pieter Bruegel the Elder",
+    "year": "1563",
+    "form": "Painting",
+    "medium": "Oil on oak panel",
+    "location": "Royal Museums of Fine Arts of Belgium, Brussels",
+    "description": "Bu eser, insanlığın kibirini ve Tanrı'ya meydan okumasını simgeleyen Babil Kulesi'nin inşasını tasvir eder. Günümüzün küresel bağlantılı ancak aynı zamanda parçalanmış dünyasının, teknolojik ilerlemelerin ve diplomatik belirsizliklerin yarattığı karmaşıklığı ve potansiyel kaosu çağrıştırıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)",
+    "wikipedia_extract": "The Tower of Babel was the subject of two surviving paintings and one lost painting by Dutch and Flemish Renaissance painter Pieter Bruegel the Elder. The earliest of the three, a miniature painted on ivory, was completed in 1552–1553 while Bruegel was in Rome, and is now lost. The two surviving works are oil paintings on wood panels, sometimes distinguished by the prefix \"Great\" and \"Little\" and by their present location: Kunsthistorisches Museum Wien in Vienna and the latter in the Museum Boijmans Van Beuningen in Rotterdam. The Tower of Babel in Vienna is dated 1563, while the version in Rotterdam is undated but widely believed to have been painted sometime after.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/3840px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder"
   },
   "music": {
-    "title": "Also sprach Zarathustra, Op. 30: I. Einleitung (Sonnenaufgang) - 2024 Remastered, Vienna 1959",
-    "artists": "Richard Strauss, Herbert von Karajan, Wiener Philharmoniker",
-    "album": "Richard Strauss: Also Sprach Zarathustra, Op. 30 by Herbert von Karajan (2024 Remastered, Vienna 1959)",
-    "duration": "1:44",
-    "spotify_url": "https://open.spotify.com/track/5ZdxNpXkctcmHCade9Bkpd",
-    "spotify_id": "5ZdxNpXkctcmHCade9Bkpd",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2730441812a221cd8ed5e1922c3",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/5ZdxNpXkctcmHCade9Bkpd\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Where Is My Mind?",
+    "artists": "Pixies",
+    "album": "Death to the Pixies",
+    "duration": "3:49",
+    "spotify_url": "https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K",
+    "spotify_id": "0KzAbK6nItSqNh8q70tb0K",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0KzAbK6nItSqNh8q70tb0K\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": null,
-    "suggested_mood": null
+    "suggested_genre": "Alternative Rock",
+    "suggested_mood": "Melankolik, Sorgulayıcı, Dağınık, Umutsuz, Düşündürücü"
   },
-  "curator_statement": null
+  "curator_statement": "Bugünün karmaşık gündemi, yapay zeka atılımlarının eşlik ettiği ekonomik belirsizlikler ve bölgesel gerilimlerle dolu. Pieter Bruegel'in 'Babil Kulesi', insanlığın kolektif çabalarının hem yükselişini hem de potansiyel yıkımını betimleyerek bu dönemin ruhunu yakalıyor. Bu eserin yarattığı hayranlık ve endişe karışımı, Pixies'in 'Where Is My Mind?' şarkısının sorgulayıcı melodisiyle yankılanıyor. Bu parça, belirsizlik ve kaybolmuşluk hissini, teknolojik ilerlemelerin hızlı akışı içinde bireyin yerini sorgulayarak yansıtıyor. Her iki seçim de, ilerlemenin getirdiği potansiyel riskleri ve insanlığın kırılganlığını hatırlatıyor."
 }
