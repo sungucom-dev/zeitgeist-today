@@ -1,22 +1,22 @@
 {
   "date": "2026-05-16",
   "date_human": "16 May 2026",
-  "generated_at": "2026-05-16T06:41:05.802068+00:00",
+  "generated_at": "2026-05-16T06:45:35.280059+00:00",
   "stats": {
-    "feeds_collected": 266,
-    "news_total": 5086,
-    "news_analyzed": 613,
+    "feeds_collected": 269,
+    "news_total": 5118,
+    "news_analyzed": 610,
     "clusters": 15
   },
   "mood": {
-    "description": "Günün genel atmosferi, spor dünyasındaki coşkulu kutlamalar ve yoğun rekabetle, bir yandan da ekonomik belirsizlikler, yerel siyasetteki soruşturmalar ve uluslararası diplomatik gerilimlerle şekilleniyor. Teknoloji alanındaki hızlı gelişmeler ve siber güvenlik tehditleri ise değişimin ve risklerin dinamik bir karışımını sunuyor.",
-    "dominant_emotion": "Belirsizlik",
+    "description": "Gün, bir yanda sporun zirvesindeki kutlamalar ve transfer heyecanlarıyla renklenirken, diğer yanda uluslararası diplomasideki gerilimler, ekonomik tartışmalar ve teknolojik gelişmelerle oldukça dinamik ve yoğun bir atmosfer sunuyor.",
+    "dominant_emotion": "Dinamizm",
     "key_themes": [
-      "Ekonomik Zorluklar ve Politika Arayışları",
-      "Teknolojik Dönüşüm ve Dijital Tehditler",
-      "Bölgesel ve İç Siyasetteki Dinamizm",
-      "Sağlık Gündemi ve Toplumsal Refah",
-      "Sporun Toplumsal Etkisi ve Rekabet"
+      "Siyasi ve Ekonomik İstikrar Arayışı",
+      "Süper Lig'de Sezon Sonu Heyecanı",
+      "Teknolojik İlerleme ve Dijital Riskler",
+      "Uluslararası Diplomasi ve Bölgesel Çatışmalar",
+      "Sosyal ve Çevresel Farkındalık"
     ]
   },
   "weather": {
@@ -70,9 +70,9 @@
   },
   "clusters": [
     {
-      "title": "İsrail-Lübnan Ateşkes Görüşmeleri Uzatıldı",
+      "title": "İsrail-Lübnan Ateşkesi ve Bölgesel Gerilimler",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD Dışişleri Bakanlığı'nın açıklamasına göre, İsrail ile Lübnan arasındaki ateşkes 45 gün daha uzatıldı, bölgedeki diplomatik çabalar devam ediyor.",
+      "summary": "ABD'nin arabuluculuğunda İsrail ile Lübnan arasındaki ateşkesin 45 gün daha uzatıldığı duyurulurken, bölgedeki diplomatik ve askeri gelişmeler yakından takip ediliyor.",
       "importance": 9,
       "story_count": 5,
       "stories": [
@@ -81,8 +81,8 @@
           "source": "Anadolu Ajansı",
           "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakanligi-israil-ile-lubnan-arasindaki-ateskes-45-gun-daha-uzatildi/3939046",
           "also_in": [
-            "Haberler",
             "Independent Türkçe",
+            "Haberler",
             "TRT Haber"
           ]
         },
@@ -121,56 +121,48 @@
       ]
     },
     {
-      "title": "Galatasaray Şampiyonluk Kutlamaları ve Gelecek Planları",
-      "meta_category": "Spor",
-      "summary": "Süper Lig şampiyonu Galatasaray, kupasını RAMS Park'ta coşkuyla kaldırdı; Okan Buruk ve Dursun Özbek, gelecek sezon hedefleri ve transferler hakkında açıklamalarda bulundu.",
+      "title": "Yapay Zeka ve İleri Bilimsel Keşifler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Tokyo Üniversitesi'nden devrim niteliğinde çip teknolojisi, ultra güçlü lazer ışını üretimi ve ChatGPT'nin finansal panel gibi yapay zeka alanındaki gelişmeler bilim dünyasının gündemindeydi.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Galatasaray RAMS Park'ta kupasına kavuştu! İşte o anlar...",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/05/15/galatasaray-rams-parkta-sampiyonlugu-kutluyor-canli",
+          "title": "Tokyo Üniversitesi’nden devrim gibi çip teknolojisi: Bilgisayarları 1000 kat hızlandırabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/devrim-gibi-cip-bilgisayarlari-1000-kat-hizlandirabilir--205727",
           "also_in": []
         },
         {
-          "title": "Şampiyon Galatasaray, kupasını RAMS Park'ta kaldırdı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/sampiyon-galatasaray-kupasini-rams-parkta-kaldirdi-577084",
-          "also_in": [
-            "Dünya"
-          ]
+          "title": "\"Einstein'ın uçan aynası” tekniğiyle ultra güçlü lazer ışını üretildi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/einstein-in-ucan-aynasi-teknigiyle-ultra-guclu-lazer-uretildi--205718",
+          "also_in": []
         },
         {
-          "title": "Galatasaray'da Sacha Boey sahneye Filistin bayrağıyla çıktı!",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/galatasarayda-sacha-boey-sahneye-filistin-bayragiyla-cikti",
-          "also_in": [
-            "Demokrat Haber"
-          ]
+          "title": "Geleceğin Ayak Sesleri: Nanoteknoloji Nedir?",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/gelecegin-ayak-sesleri-nanoteknoloji-nedir-12608",
+          "also_in": []
         },
         {
-          "title": "Galatasaray RAMS Park'ta şampiyonluk kupasına kavuştu",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/galatasaray-rams-parkta-sampiyonluk-kupasina-kavustu-6920570",
-          "also_in": [
-            "İnternet Haber"
-          ]
+          "title": "ChatGPT artık paranı da takip ediyor: OpenAI finans panelini açtı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/chatgpt-artik-parani-da-takip-ediyor-openai-finans-panelini-acti_180375.html",
+          "also_in": []
         },
         {
-          "title": "Dursun Özbek: \"Icardi bizim ikon oyuncumuz kendisi ile yeni sezon için görüşeceğiz\"",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/spor/ozbek-icardi-ile-yeni-sezon-icin-gorusecegiz-19850865-haberi/",
-          "also_in": [
-            "Medya Gazete"
-          ]
+          "title": "Sony'nin yeni yapay zeka kamera asistanı yerden yere vuruldu!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/sony-nin-yeni-yapay-zeka-kamera-asistani-yerden-yere-vuruldu--205723",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Ekonomik Gelişmeler, Enflasyon ve Bütçe",
+      "title": "Ekonomi Politikaları ve Bütçe Gelişmeleri",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Bakan Şimşek bütçe performansının hedeflerle uyumlu olduğunu belirtirken, yeni vergi artışı olmayacağını ve enflasyonda kalıcı bozulma olursa para politikasının sıkılaştırılacağını açıkladı.",
+      "summary": "Bakan Mehmet Şimşek'ten yeni vergi artışı olmayacağı açıklaması ve bütçe performansına ilişkin veriler, Merkez Bankası'nın enflasyon görünümü hakkındaki değerlendirmeleri ekonomik gündemin ana başlıklarını oluşturdu.",
       "importance": 9,
       "story_count": 5,
       "stories": [
@@ -193,43 +185,90 @@
           ]
         },
         {
-          "title": "TCMB Başkanı Karahan: Enflasyon görünümünde bozulma olursa para politikası sıkılaştırılacak",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/tcmb-baskani-karahan-enflasyon-gorunumunde-bozulma-olursa-para-politikasi-sikilastirilacak-p320079",
-          "also_in": [
-            "Sözcü Ekonomi"
-          ]
+          "title": "‘Yeni bir vergi artışı yok’",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/yeni-bir-vergi-artisi-yok_ID100701634/",
+          "also_in": []
         },
         {
-          "title": "Merkez’e göre emekli için yüzde 15’lik zam göründü",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/merkez-e-gore-emekli-icin-15-lik-zam-gorundu-p320036",
-          "also_in": [
-            "Sözcü Ekonomi"
-          ]
+          "title": "Bütçede iyileşme! Bakan Şimşek açıkladı",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/butcede-iyilesme-bakan-simsek-acikladi_ID100701628/",
+          "also_in": []
         },
         {
-          "title": "Bütçe Nisan'da 338,7 milyar TL açık verdi",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/butce-nisan-da-338-7-milyar-tl-acik-verdi-3777887",
+          "title": "Enflasyonu Niçin Düşüremiyoruz?",
+          "source": "Investing Genel",
+          "link": "https://tr.investing.com/analysis/enflasyonu-nicin-dusuremiyoruz-200504422",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Fenerbahçe'de Transfer ve Başkanlık Yarışı",
+      "title": "Galatasaray Şampiyonluk Kutlamaları ve Sezon Gündemi",
       "meta_category": "Spor",
-      "summary": "Fenerbahçe'de başkanlık yarışı ve transfer gündemi yoğunluğunu koruyor; Aziz Yıldırım ve Sadettin Saran'ın teknik direktör ve oyuncu hedefleri tartışılıyor.",
+      "summary": "Süper Lig şampiyonu Galatasaray, kupasına kavuşurken, kutlamalar ve Okan Buruk'un açıklamaları ile Sacha Boey'in Filistin bayraklı mesajı spor gündeminin üst sıralarına yerleşti.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Aziz Yıldırım da Hakan Safi de onu istiyor! Fenerbahçe forması giymeye hazır, tam 40 milyon euro",
+          "title": "Galatasaray RAMS Park'ta kupasına kavuştu! İşte o anlar...",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/05/15/galatasaray-rams-parkta-sampiyonlugu-kutluyor-canli",
+          "also_in": []
+        },
+        {
+          "title": "Şampiyon Galatasaray, kupasını RAMS Park'ta kaldırdı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/sampiyon-galatasaray-kupasini-rams-parkta-kaldirdi-577084",
+          "also_in": [
+            "Dünya"
+          ]
+        },
+        {
+          "title": "Galatasaray RAMS Park'ta şampiyonluk kupasına kavuştu",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/galatasaray-rams-parkta-sampiyonluk-kupasina-kavustu-6920570",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Şampiyon Galatasaray kupasına kavuştu!",
+          "source": "Haber 7",
+          "link": "https://spor.haber7.com/galatasaray/haber/3628236-sampiyon-galatasaray-kupasina-kavustu",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Sacha Boey şampiyonluk kutlamalarına Filistin bayrağıyla çıktı",
           "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/aziz-yildirim-da-hakan-safi-de-onu-istiyor-fenerbahce-formasi-giymeye-hazir-tam-40-milyon-euro-422871",
+          "link": "https://www.ntvspor.net/foto-galeri/sacha-boey-sampiyonluk-kutlamalarina-filistin-bayragiyla-cikti-422862",
           "also_in": [
             "NTV Spor Futbol"
           ]
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe'de Başkanlık Seçimi ve Transfer Hedefleri",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'de yaklaşan başkanlık seçimi öncesi Aziz Yıldırım ve Sadettin Saran'ın transfer vaatleri ile teknik direktör arayışları camiada büyük yankı uyandırdı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe Kulübü Başkan Adayı Aziz Yıldırım'dan flaş açıklama!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/05/15/fenerbahce-kulubu-baskan-adayi-aziz-yildirimdan-flas-aciklama",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe'de Aziz Yıldırım'ın önceliği Jorge Jesus!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/05/15/fenerbahcede-aziz-yildirimin-onceligi-jorge-jesus",
+          "also_in": []
         },
         {
           "title": "BOMBA! Fenerbahçe'den Jorge Jesus'a reddedilemeyecek teklif, rakamı duyurdular",
@@ -246,196 +285,20 @@
           "also_in": []
         },
         {
-          "title": "Fenerbahçe Kulübü Başkan Adayı Aziz Yıldırım'dan flaş açıklama!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/05/15/fenerbahce-kulubu-baskan-adayi-aziz-yildirimdan-flas-aciklama",
-          "also_in": []
-        },
-        {
-          "title": "Aziz Yıldırım teknik direktörünü belirledi! Fenerbahçe'ye geri getirecek",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/aziz-yildirim-teknik-direktorunu-belirledi-fenerbahceye-geri-getirecek-6920532",
+          "title": "Yıldırım net konuştu: Şampiyonluğa mecburuz",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/aziz-yildirim-net-konustu-sampiyonluga-mecburuz-1790866",
           "also_in": [
-            "İnternet Haber"
+            "Türkiye Gazetesi"
           ]
         }
       ]
     },
     {
-      "title": "Siber Güvenlik Tehditleri ve Dolandırıcılık Operasyonları",
+      "title": "Sosyal Medya ve Teknoloji Kesintileri/Siber Güvenlik",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Windows ve Exchange'i hedef alan siber saldırılar, Android kullanıcılarını etkileyen CallPhantom dolandırıcılığı ve çeşitli illerde düzenlenen siber dolandırıcılık operasyonları güvenlik endişelerini artırdı.",
+      "summary": "TikTok, ChatGPT, X, WhatsApp, Instagram ve YouTube gibi popüler platformlarda yaşanan kesintiler ile Windows ve Exchange sunucularına yönelik siber saldırılar kullanıcıları endişelendirdi.",
       "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Hackerlar sahnede, devler savunmada: Windows ve Exchange zorlandı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/hackerlar-sahnede-devler-savunmada-windows-ve-exchange-zorlandi_180374.html",
-          "also_in": []
-        },
-        {
-          "title": "CallPhantom dolandırıcılığı Android kullanıcılarını hedef alıyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/callphantom-dolandiriciligi-android-kullanicilarini-hedef-aliyor_180290.html",
-          "also_in": []
-        },
-        {
-          "title": "Karabük merkezli 8 ilde siber dolandırıcılık operasyonu: 18 tutuklu",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/siber-dolandiricilik-operasyonunda-18-tutuklama-19850668-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Sahte yatırım vaadiyle dolandırıcılık yapan çete çökertildi: 18 tutuklama",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/3-sayfa/sahte-yatirim-vaadiyle-87-milyon-tl-dolandiran-sebekeye-operasyon-18-tutuklama-19849729-haberi/",
-          "also_in": [
-            "Kamudan Haber"
-          ]
-        },
-        {
-          "title": "ABD’de benzin istasyonları hacklendi: Saldırının arkasındaki el İran mı?",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/abdde-benzin-istasyonlari-hacklendi-saldirinin-arkasindaki-el-iran-mi-2443591h.htm",
-          "also_in": [
-            "TRT Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "EFES 2026 Tatbikatı ve Savunma Sanayii Katılımları",
-      "meta_category": "Savunma ve Sanayi",
-      "summary": "EFES 2026 tatbikatı kapsamında havadan ikmal ve lojistik destek görevleri gerçekleştirilirken, CANiK, ASPİLSAN Enerji ve Nurol Makina gibi Türk savunma sanayii şirketleri de tatbikata güçleriyle katıldı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "CANiK ve ekosistemi gücünü EFES 2026’ya taşıyor",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/canik-ve-ekosistemi-gucunu-efes-2026ya-tasiyor",
-          "also_in": []
-        },
-        {
-          "title": "ASPİLSAN Enerji’den EFES 2026 çıkarması",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/aspilsan-enerjiden-efes-2026-cikarmasi",
-          "also_in": []
-        },
-        {
-          "title": "Kazakistan’a ANKA üretim üssü",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/kazakistana-anka-uretim-ussu",
-          "also_in": []
-        },
-        {
-          "title": "Nurol Makina Zırhlı Araçları ile EFES 2026’da Yerini Alıyor",
-          "source": "C4 Defence",
-          "link": "https://www.c4defence.com/tr/nurol-makina-zirhli-araclari-efes-2026/",
-          "also_in": []
-        },
-        {
-          "title": "EFES-2026 tatbikatı kapsamında havadan ikmal ve lojistik destek görevi gerçekleştirildi",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/efes-2026-tatbikati-kapsaminda-havadan-ikmal-ve-lojistik-destek-gorevi-gerceklestirildi-1001345.html",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Kadir İnanır'ın Sağlık Durumu",
-      "meta_category": "Sağlık",
-      "summary": "Türk sinemasının usta ismi Kadir İnanır'ın yoğun bakıma kaldırıldığı ve sağlık durumunun yakından takip edildiği haberleri gündemde yer aldı.",
-      "importance": 8,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "Kadir İnanır yoğun bakıma kaldırıldı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/5984311/kadir-inanir-yogun-bakima-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Kısa Dalga",
-            "OdaTV",
-            "Elele"
-          ]
-        },
-        {
-          "title": "Kadir İnanır yoğun bakıma alındı",
-          "source": "Aykırı",
-          "link": "https://www.aykiri.com.tr/kadir-inanir-yogun-bakima-alindi/55520/",
-          "also_in": [
-            "İlke TV",
-            "Serbestiyet"
-          ]
-        },
-        {
-          "title": "Kadir İnanır yeniden yoğun bakımda",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/kultur-sanat/kadir-inanir-yeniden-yogun-bakimda-6920497",
-          "also_in": [
-            "Haberler",
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Kadir İnanır'ın son sağlık durumu nasıl? Hayat arkadaşı Jülide Kural açıkladı",
-          "source": "Elele",
-          "link": "https://www.elele.com.tr/magazin/kadir-inanirin-son-saglik-durumu-nasil-hayat-arkadasi-julide-kural-acikladi",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "İBB'ye Yönelik Soruşturmalar ve Görevden Almalar",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İstanbul Büyükşehir Belediyesi'ne yönelik yeni bir operasyon düzenlenerek çok sayıda kişinin gözaltına alındığı ve soruşturmayı yürüten müdürün görevden alındığı haberleri siyaset gündemine oturdu.",
-      "importance": 8,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "İBB'ye yeni operasyon: 12 kişi gözaltında",
-          "source": "Agos",
-          "link": "https://www.agos.com.tr/tr/haber/ibb-ye-yeni-operasyon-12-kisi-gozaltinda-40465",
-          "also_in": [
-            "Yurt Gazetesi"
-          ]
-        },
-        {
-          "title": "İBB soruşturmasını yürüten Mali Suçlarla Mücadele Şube Müdürü görevden alındı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/5984322/ibb-sorusturmasini-yuruten-mali-suclarla-mucadele-sube-muduru-gorevden-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Elips Haber"
-          ]
-        },
-        {
-          "title": "İmamoğlu’na operasyon savaş yıkımı yapmış",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/imamoglu-na-operasyon-savas-yikimi-yapmis-p320046",
-          "also_in": [
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "İstanbul Emniyeti'nde kritik atamalar: İBB soruşturmasını yürüten müdür görevden alındı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/istanbul-emniyeti-nde-atamalar-15-mayis-2026-p320023",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Büyük Teknoloji Platformlarında Kesintiler",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "TikTok, ChatGPT, X (Twitter), WhatsApp, Instagram ve YouTube gibi popüler platformlarda son 24 saat içinde erişim sorunları ve kesintiler yaşandığı bildirildi.",
-      "importance": 7,
       "story_count": 5,
       "stories": [
         {
@@ -463,106 +326,380 @@
           "also_in": []
         },
         {
-          "title": "Instagram çöktü mü? (15 Mayıs 2026) Instagram neden açılmıyor? Son 24 saat kesinti raporu",
+          "title": "Hackerlar sahnede, devler savunmada: Windows ve Exchange zorlandı",
           "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/instagram-coktu-mu-15-mayis-2026-instagram-neden-acilmiyor-son-24-saat-kesinti-raporu_178120.html",
+          "link": "https://www.chip.com.tr/guncel/hackerlar-sahnede-devler-savunmada-windows-ve-exchange-zorlandi_180374.html",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Hantavirüs Tehdidi ve DSÖ Açıklamaları",
-      "meta_category": "Sağlık",
-      "summary": "Dünya Sağlık Örgütü (DSÖ), hantavirüsün küresel nüfus için riskinin hala düşük olduğunu ve yeni bir salgına yol açma potansiyelinin sınırlı olduğunu açıkladı.",
-      "importance": 7,
+      "title": "Dolandırıcılık ve Kara Para Operasyonları",
+      "meta_category": "Gündem",
+      "summary": "Türkiye genelinde siber dolandırıcılık, sahte yatırım vaatleri ve kara para aklama iddialarına yönelik operasyonlar düzenlenerek çok sayıda şüpheli tutuklandı.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "DSÖ'den açıklama geldi: Hantavirüs, yeni bir salgına neden olabilir mi?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/dsoden-aciklama-geldi-hantavirus-yeni-bir-salgina-neden-olabilir-mi_180352.html",
-          "also_in": []
-        },
-        {
-          "title": "DSÖ: Hantavirüsün küresel nüfus için riski hala düşük",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/saglik/dso-hantavirusun-kuresel-nufus-icin-riski-hala-dusuk-haberi-894416",
-          "also_in": [
-            "Haberler",
-            "İnternet Haber",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "DSÖ, hantavirüsün küresel nüfus için riskinin düşük olduğunu tekrarladı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/dso-hantavirusun-kuresel-nufus-icin-riskinin-dusuk-oldugunu-tekrarladi-1001347.html",
+          "title": "Karabük merkezli 8 ilde siber dolandırıcılık operasyonu: 18 tutuklu",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/siber-dolandiricilik-operasyonunda-18-tutuklama-19850668-haberi/",
           "also_in": [
             "Haberler"
           ]
         },
         {
-          "title": "DSÖ’den hantavirüs açıklaması: Küresel risk düşük",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/dunya/dsoden-hantavirus-aciklamasi-kuresel-risk-dusuk-105303",
+          "title": "Sahte yatırım vaadiyle dolandırıcılık yapan çete çökertildi: 18 tutuklama",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/3-sayfa/sahte-yatirim-vaadiyle-87-milyon-tl-dolandiran-sebekeye-operasyon-18-tutuklama-19849729-haberi/",
           "also_in": [
             "Kamudan Haber"
           ]
         },
         {
-          "title": "Hantavirüste gıda hijyeni",
+          "title": "Ev sahibi olma vaadiyle vatandaşları dolandıran çift yakalandı",
           "source": "Haberler",
-          "link": "https://www.haberler.com/saglik/hantavirus-icin-pandemi-uyarisi-gidalari-kemirgenlerden-koruyun-19850512-haberi/",
+          "link": "https://www.haberler.com/guncel/ev-sahibi-olma-vaadiyle-dolandiran-ilayda-a-tutuklandi-19849716-haberi/",
           "also_in": [
-            "Medya Gazete"
+            "Tele1"
+          ]
+        },
+        {
+          "title": "100 milyarlık kara para ‘oyun’u",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/100-milyarlik-kara-para-oyunu-43174709",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Kenan Doğulu’ya milyonluk şantaj şoku: \"Otel videoların elimizde\"",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/kenan-dogulu-ya-milyonluk-santaj-soku-otel-videolarin-elimizde-p320078",
+          "also_in": [
+            "Sözcü"
           ]
         }
       ]
     },
     {
-      "title": "Yeni Teknoloji Ürünleri ve Akıllı Cihazlar",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "ASUS, Huawei, Honor, Samsung, Xiaomi ve Dyson gibi markalar yeni laptop, akıllı saat, gözlük, telefon, kulaklık ve akıllı ev aletleri modellerini tanıttı veya piyasaya sürdü.",
-      "importance": 7,
+      "title": "Belediyelere Yönelik Soruşturmalar ve Gözaltılar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Antalya ve İstanbul Büyükşehir Belediyelerine yönelik rüşvet ve yolsuzluk iddialarıyla ilgili soruşturmalarda yeni gözaltılar ve tutuklamalar yaşandı, İBB soruşturmasını yürüten müdür görevden alındı.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "ASUS, 320W toplam sistem gücüne sahip ROG Strix SCAR 18 modelini tanıttı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/asus-320w-toplam-sistem-gucune-sahip-rog-strix-scar-18-modelini-tanitti_180357.html",
+          "title": "İBB'ye yeni operasyon: 12 kişi gözaltında",
+          "source": "Agos",
+          "link": "https://www.agos.com.tr/tr/haber/ibb-ye-yeni-operasyon-12-kisi-gozaltinda-40465",
+          "also_in": [
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "İBB soruşturmasını yürüten Mali Suçlarla Mücadele Şube Müdürü görevden alındı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5984322/ibb-sorusturmasini-yuruten-mali-suclarla-mucadele-sube-muduru-gorevden-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "Antalya Büyükşehir Belediyesine yönelik soruşturmada 2 zanlı tutuklandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/antalya-buyuksehir-belediyesine-yonelik-sorusturmada-2-zanli-tutuklandi/3939096",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Antalya Büyükşehir Belediyesi soruşturmasında 2 tutuklama",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/antalya-buyuksehir-belediyesi-sorusturmasinda-2-tutuklama-haberi-894387",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "İmamoğlu’na operasyon savaş yıkımı yapmış",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/imamoglu-na-operasyon-savas-yikimi-yapmis-p320046",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türk Savunma Sanayii ve Uluslararası İşbirlikleri",
+      "meta_category": "Savunma ve Sanayi",
+      "summary": "CANiK, ASPİLSAN Enerji ve Nurol Makina gibi Türk savunma şirketleri EFES 2026 tatbikatında yer alırken, Kazakistan'a ANKA üretim üssü kurulması gibi uluslararası işbirlikleri dikkat çekti.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "CANiK ve ekosistemi gücünü EFES 2026’ya taşıyor",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/canik-ve-ekosistemi-gucunu-efes-2026ya-tasiyor",
           "also_in": []
         },
         {
-          "title": "FIT serisinin en şık, en dayanıklı ve en aktif modeli | HUAWEI Watch FIT 5 Pro inceleme",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/fit-serisinin-en-sik-en-dayanikli-ve-en-aktif-modeli-huawei-watch-fit-5-pro-inceleme_180010.html",
+          "title": "ASPİLSAN Enerji’den EFES 2026 çıkarması",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/aspilsan-enerjiden-efes-2026-cikarmasi",
           "also_in": []
         },
         {
-          "title": "Honor 600 Lite Türkiye pazarında satışa sunuldu. İşte fiyatı ve özellikleri",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/honor-600-lite-turkiye-pazarinda-satisa-sunuldu-iste-fiyati-ve-ozellikleri_180332.html",
+          "title": "Nurol Makina Zırhlı Araçları ile EFES 2026’da Yerini Alıyor",
+          "source": "C4 Defence",
+          "link": "https://www.c4defence.com/tr/nurol-makina-zirhli-araclari-efes-2026/",
           "also_in": []
         },
         {
-          "title": "Meta Ray-Ban Display gözlükleri üçüncü taraf uygulamalara açılıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/meta-ray-ban-display-gozlukler-ucuncu-taraf-uygulamalara-aciliyor--205715",
-          "also_in": []
+          "title": "EFES-2026 tatbikatı kapsamında havadan ikmal ve lojistik destek görevi gerçekleştirildi",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/efes-2026-tatbikati-kapsaminda-havadan-ikmal-ve-lojistik-destek-gorevi-gerceklestirildi-1001345.html",
+          "also_in": [
+            "Haberler"
+          ]
         },
         {
-          "title": "Dyson, kamerayla sizi takip eden akıllı vantilatörünü tanıttı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/dyson-kamerayla-sizi-takip-eden-akilli-vantilatorunu-tanitti--205722",
+          "title": "Kazakistan’a ANKA üretim üssü",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/kazakistana-anka-uretim-ussu",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Film ve Dizi Dünyasında Yeni Yapımlar ve Finaller",
-      "meta_category": "Eğlence",
-      "summary": "Kanal D'nin sevilen dizisi 'Eşref Rüya' final kararı alırken, 'Stranger Things' ve 'The Batman: Part 2' gibi yeni yapımların kadro ve detayları duyurularak eğlence dünyası hareketlendi.",
+      "title": "İklim, Çevre ve Doğal Afetler",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Türkiye'de son 38 yılın en yüksek yağış seviyelerine ulaşılmasına rağmen kuraklık uyarıları ve madenciliğin su kaynakları üzerindeki etkisi ile ormanlık alanlara giriş yasakları çevre gündemini meşgul etti.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye’de yağışlar son 38 yılın en yüksek seviyesine ulaştı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/turkiyede-yagislar-son-38-yilin-en-yuksek-seviyesine-ulasti-6920571",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Son 66 Yılın En Yağışlı Dönemi Yaşanırken Kuraklık İçin Kritik Bir Uyarı Yapıldı",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/son-66-yilin-en-yagisli-donemi-yasanirken-kuraklik-icin-kritik-bir-uyari-yapildi-1359630",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye’de madencilik patlaması su kaynaklarını kurutuyor",
+          "source": "Açık Gazete",
+          "link": "https://acikgazete.com/turkiye/turkiyede-madencilik-patlamasi-su-kaynaklarini-kurutuyor/",
+          "also_in": [
+            "DW Haber"
+          ]
+        },
+        {
+          "title": "Meteorolojik olaylar yıkım getiriyor!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/yasam/super-hucreli-hava-afet-etkisini-artirdi-meteorolojik-olaylar-yikim-getiriyor-1790887",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Adana&apos;da sağanak; yollar göle döndü",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/sanayi-sitesi-gole-dondu-usta-sup-board-ile-tepki-gosterdi-19850477-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş'ın Sezon Sonu Performansı ve Tartışmalı Maçlar",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş, sezonu Rizespor beraberliğiyle tamamlarken, maçtaki tartışmalı pozisyonlar ve teknik direktör Sergen Yalçın'ın açıklamaları spor yazarları tarafından değerlendirildi.",
       "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Beşiktaş, sezonu Rizespor beraberliğiyle bitirdi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/besiktas-sezonu-rizespor-beraberligiyle-bitirdi-422853",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Beşiktaş, Trendyol Süper Lig'in son haftasında Çaykur Rizespor ile berabere kaldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/besiktas-trendyol-super-ligin-son-haftasinda-caykur-rizespor-ile-berabere-kaldi/3939000",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Rize’de nefes kesen final: Beşiktaş sezonu beraberlikle tamamladı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/rizede-nefes-kesen-final-besiktas-sezonu-beraberlikle-tamamladi",
+          "also_in": [
+            "Demokrat Haber"
+          ]
+        },
+        {
+          "title": "Rize'de tartışmalı pozisyon! Beşiktaş'tan gol öncesi faul itirazı",
+          "source": "Duhuliye",
+          "link": "https://www.duhuliye.com/futbol/rizede-tartismali-pozisyon-besiktastan-gol-oncesi-faul-itirazi-30970",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Spor yazarları Çaykur Rizespor-Beşiktaş maçını yorumladı!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/besiktas/2026/05/16/spor-yazarlari-caykur-rizespor-besiktas-macini-yorumladi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yeni Tüketici Teknolojileri ve Gadget'lar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "En hızlı şarj olan telefonlar, Samsung'un akıllı gözlüğü, yeni Xbox kontrolcüleri ve Honor'un Türkiye pazarına sunduğu cihazlar teknoloji meraklılarının ilgisini çekti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "En hızlı şarj olan telefonlar belli oldu: 2 kazanan var!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/en-hizli-sarj-olan-telefonlar-belli-oldu-2-kazanan-var--205705",
+          "also_in": []
+        },
+        {
+          "title": "30 dakikada ne kadar doluyor? En hızlı şarj olan telefonlar testte",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/30-dakikada-ne-kadar-doluyor-en-hizli-sarj-olan-telefonlar-testte_180344.html",
+          "also_in": []
+        },
+        {
+          "title": "Xbox’ın yeni Elite 3 ve bulut oyun kontrolcüsü ortaya çıktı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/xbox-in-yeni-elite-3-ve-bulut-oyun-kontrolcusu-ortaya-cikti--205704",
+          "also_in": []
+        },
+        {
+          "title": "Yeni Xbox Elite 3 kontrolcüsü sızdırıldı: Gizemli butonlar ve Cloud Mode geliyor",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/xbox/133948/yeni-xbox-elite-3-kontrolcusu-sizdirildi-gizemli-butonlar-ve-cloud-mode-geliyor",
+          "also_in": []
+        },
+        {
+          "title": "Samsung'un akıllı gözlüğü için tanıtım tarihi sızdı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/samsungun-akilli-gozlugu-icin-tanitim-tarihi-sizdi_180363.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Uluslararası Ekonomi ve Yatırım Haberleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "BAE ile Hindistan arasında 5 milyar dolarlık yatırım anlaşması, Starbucks'ın işten çıkarmaları ve Japon devi Daikin'in Türkiye'ye yapacağı 100 milyon dolarlık yatırım gibi küresel ekonomik gelişmeler takip edildi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "BAE ile Hindistan arasında 5 milyar dolarlık yatırım anlaşması",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/bae-ile-hindistan-arasinda-5-milyar-dolarlik-yatirim-anlasmasi-h30137",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Starbucks ABD'de 300 çalışanını işten çıkarıyor",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/starbucks-abdde-300-calisanini-isten-cikariyor-h30135",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Yazılım şirketinden küresel işbirliği",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/yazilim-sirketinden-kuresel-isbirligi_ID100701639/",
+          "also_in": []
+        },
+        {
+          "title": "Japon devi Türkiye'ye 100 milyon dolarlık yatırım yapacak",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/japon-devi-turkiye-ye-100-milyon-dolarlik-yatirim-yapacak-p320051",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Coca-Cola İçecek’in Kazakistan’daki Yeni Yatırımı için İş Birliği Protokolü İmzalandı",
+          "source": "İşin Detayı Şirket Haberleri",
+          "link": "https://www.isindetayi.com/coca-cola-icecekin-kazakistandaki-yeni-yatirimi-icin-is-birligi-protokolu-imzalandi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kadir İnanır'ın Son Sağlık Durumu",
+      "meta_category": "Sağlık",
+      "summary": "Türk sinemasının usta ismi Kadir İnanır'ın yoğun bakımda tedavi görmesi ve sağlık durumuna ilişkin açıklamalar kamuoyunun gündeminde yer aldı.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Kadir İnanır yoğun bakıma kaldırıldı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5984311/kadir-inanir-yogun-bakima-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Kısa Dalga",
+            "OdaTV",
+            "Elele"
+          ]
+        },
+        {
+          "title": "Kadir İnanır yeniden yoğun bakımda",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/kultur-sanat/kadir-inanir-yeniden-yogun-bakimda-6920497",
+          "also_in": [
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Kadir İnanır yoğun bakıma alındı",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/kadir-inanir-yogun-bakima-alindi/55520/",
+          "also_in": [
+            "İlke TV",
+            "Serbestiyet"
+          ]
+        },
+        {
+          "title": "Kadir İnanır'ın son sağlık durumu nasıl? Hayat arkadaşı Jülide Kural açıkladı",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/kadir-inanirin-son-saglik-durumu-nasil-hayat-arkadasi-julide-kural-acikladi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türk Dizileri ve Film Dünyası Gelişmeleri",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Kanal D'nin sevilen dizisi 'Eşref Rüya'nın final kararı, 'The Batman 2'nin yıldızlarla dolu kadrosu ve Netflix'in yeni sezon onayları eğlence dünyasının öne çıkan haberleri oldu.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
@@ -570,6 +707,20 @@
           "source": "Beyaz Perde",
           "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000204442/",
           "also_in": []
+        },
+        {
+          "title": "Kanal D’nin “Eşref Rüya” dizisi, son 3 bölümlük büyük finale gidiyor!",
+          "source": "Edebi Bülten",
+          "link": "https://edebibulten.com/kanal-dnin-esref-ruya-dizisi-son-3-bolumluk-buyuk-finale-gidiyor/",
+          "also_in": []
+        },
+        {
+          "title": "Eşref Rüya’da şoke eden gelişme: Final yapıyor! İşte nedeni…",
+          "source": "TürkInform",
+          "link": "https://turkinform.com.tr/esref-ruyada-soke-eden-gelisme-final-yapiyor-iste-nedeni",
+          "also_in": [
+            "TürkInform"
+          ]
         },
         {
           "title": "\"The Batman: Part 2\" Kadrosu Şekilleniyor: Matt Reeves Yeni Yıldız İsimleri Duyurdu",
@@ -582,183 +733,36 @@
           "source": "IGN Türkiye",
           "link": "https://tr.ign.com/the-batman-part-ii/133949/the-batman-part-ii-kadrosu-aciklandi-scarlett-johansson-ve-sebastian-stan-soylentileri-dogru-cikti",
           "also_in": []
-        },
-        {
-          "title": "Will Smith Yeni Aksiyon Gerilim Filmi ile Dijitale Geri Dönüyor",
-          "source": "Kayıp Rıhtım",
-          "link": "https://kayiprihtim.com/haber/will-smith-supermax-filmi-basrol/",
-          "also_in": []
-        },
-        {
-          "title": "Eşref Rüya’da şoke eden gelişme: Final yapıyor! İşte nedeni…",
-          "source": "TürkInform",
-          "link": "https://turkinform.com.tr/esref-ruyada-soke-eden-gelisme-final-yapiyor-iste-nedeni",
-          "also_in": [
-            "TürkInform"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Çevresel Sorunlar ve Meteorolojik Olaylar",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Türkiye'de madencilik faaliyetlerinin su kaynaklarını kurutması ve son 38 yılın en yüksek yağış seviyelerine ulaşılması gibi çevresel sorunlar öne çıkarken, bazı illerde ormanlara giriş yasakları getirildi.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Türkiye’de madencilik patlaması su kaynaklarını kurutuyor",
-          "source": "Açık Gazete",
-          "link": "https://acikgazete.com/turkiye/turkiyede-madencilik-patlamasi-su-kaynaklarini-kurutuyor/",
-          "also_in": [
-            "DW Haber"
-          ]
-        },
-        {
-          "title": "Türkiye’de yağışlar son 38 yılın en yüksek seviyesine ulaştı",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/turkiyede-yagislar-son-38-yilin-en-yuksek-seviyesine-ulasti-6920571",
-          "also_in": [
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Mersin&apos;de 30 Ekim&apos;e kadar ormanlık alanlara girişler yasaklandı",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/haberler/mersinde-30-ekime-kadar-ormanlik-alanlara-19850370-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Orman yasakları başladı: Bir ilde daha girişler kısıtlandı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/orman-yasaklari-basladi-bir-ilde-daha-girisler-kisitlandi-p320064",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Meteorolojik olaylar yıkım getiriyor!",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/yasam/super-hucreli-hava-afet-etkisini-artirdi-meteorolojik-olaylar-yikim-getiriyor-1790887",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "YÖK ve Gençlik Politikaları",
-      "meta_category": "Eğitim",
-      "summary": "YÖK, yabancı öğrencilerin öğrenim ücretlerine yönelik iddiaları yalanlarken, Gençlik ve Spor Bakanlığı bağımlılıkla mücadeleye destek vereceğini ve 2 bin 610 personel alacağını duyurdu.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "YÖK'ten yabancı öğrencilerin öğrenim ücretlerine yönelik iddialara ilişkin açıklama",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/yokten-yabanci-ogrencilerin-ogrenim-ucretlerine-yonelik-iddialara-iliskin-aciklama/3939083",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "YÖK’ten “yabancı öğrenci ücreti” iddialarına yalanlama",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/05/15/yokten-yabanci-ogrenci-ucreti-iddialarina-yalanlama",
-          "also_in": [
-            "En Politik"
-          ]
-        },
-        {
-          "title": "Gençlik ve Spor Bakanlığı, \"bağımlılıkla mücadeleye\" destek verecek",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/genclik-ve-spor-bakanligi-bagimlilikla-mucadeleye-destek-verecek",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Gençlik ve Spor Bakanlığı 2 bin 610 personel alacak",
-          "source": "Diyanet Haber",
-          "link": "https://www.diyanethaber.com.tr/genclik-ve-spor-bakanligi-2-bin-610-personel-alacak",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        },
-        {
-          "title": "KYK yurtlarında eğitim faaliyetleri değerlendirildi",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/yerel/bilecik-te-kyk-yurtlarinda-egitim-faaliyetleri-degerlendirildi-19850994-haberi/",
-          "also_in": [
-            "Medya Gazete"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Edebiyat Ödülleri ve Sanatsal Etkinlikler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Duygu Asena Roman Ödülü'nde finale kalan kitaplar belirlenirken, 55. Orhan Kemal Roman Armağanı'nın sahibi açıklandı ve 2026 Sennur Sezer Şiir Ödülü başvuruları devam etti.",
-      "importance": 6,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "Duygu Asena Roman Ödülü’nde Finale kalan kitaplar belirlendi",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/duygu-asena-roman-odulunde-finale-kalan-kitaplar-belirlendi/",
-          "also_in": [
-            "Edebiyat Burada"
-          ]
-        },
-        {
-          "title": "2026 Yılın Yazarı Sennur Sezer Şiir Ödülü başvuruları devam ediyor",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/2026-yilin-yazari-sennur-sezer-siir-odulu-basvurulari-devam-ediyor-3/",
-          "also_in": []
-        },
-        {
-          "title": "55. Orhan Kemal Roman Armağanı’nın sahibi belli oldu",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/55-orhan-kemal-roman-armaganinin-sahibi-belli-oldu/",
-          "also_in": []
-        },
-        {
-          "title": "55. Orhan Kemal Roman Armağanı’nı kazanan belli oldu.",
-          "source": "Edebiyat Burada",
-          "link": "https://edebiyatburada.com/55-orhan-kemal-roman-armaganini-kazanan-belli-oldu/",
-          "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": null,
-    "artist": "Edvard Munch",
-    "year": null,
-    "form": null,
-    "medium": null,
-    "location": null,
-    "description": null,
-    "verified": false,
-    "wikipedia_url": null,
-    "wikipedia_extract": null,
-    "image_url": null,
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edvard_Munch_(film)"
+    "title": "Composition VII",
+    "artist": "Wassily Kandinsky",
+    "year": "1913",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "State Tretyakov Gallery, Moscow",
+    "description": "Kandinsky'nin soyut dışavurumculuğunun zirvesi olan bu eser, canlı renkler, dinamik çizgiler ve geometrik formların karmaşık bir birleşimidir. Patlayan bir enerji ve içsel bir gerilim hissi uyandıran 'Kompozisyon VII', çağın ve bugünün çok yönlü dinamizmini, hem yaratıcı hem de yıkıcı güçlerini yansıtır.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Composition_VII",
+    "wikipedia_extract": "Composition VII is a 1913 abstract oil painting by Russian-born painter Wassily Kandinsky. It is in the collection of the Tretyakov Gallery, in Moscow. Art historians have concluded that the work is a combination of the themes of Resurrection, Judgment Day, the Flood and the Garden of Eden.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg/3840px-Composition_VII_-_Wassily_Kandinsky%2C_GAC.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/List_of_paintings_by_Wassily_Kandinsky"
   },
   "music": {
-    "title": "Eclipse",
-    "artists": "Pink Floyd",
-    "album": "The Dark Side of the Moon",
-    "duration": "2:06",
-    "spotify_url": "https://open.spotify.com/track/1tDWVeCR9oWGX8d5J9rswk",
-    "spotify_id": "1tDWVeCR9oWGX8d5J9rswk",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1tDWVeCR9oWGX8d5J9rswk\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Boléro",
+    "artists": "Maurice Ravel, Orchestre De La Société Des Concerts Du Conservatoire, Albert Wolff",
+    "album": "Invitation To The Dance",
+    "duration": "15:19",
+    "spotify_url": "https://open.spotify.com/track/6Uacykwnv2mpfXtHaRbspy",
+    "spotify_id": "6Uacykwnv2mpfXtHaRbspy",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273b736b270c35d5373c1a7c534",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/6Uacykwnv2mpfXtHaRbspy\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": null,
-    "suggested_mood": null
+    "suggested_genre": "Classical",
+    "suggested_mood": "Dinamik, gerilimli, yükselen, hipnotik, sürükleyici"
   },
-  "curator_statement": null
+  "curator_statement": "Bugün, uluslararası sahnedeki kırılgan ateşkeslerden teknolojik atılımlara, spor zaferlerinden siber tehditlere kadar çok katmanlı bir dinamizmle çevriliyiz. Kandinsky'nin 'Kompozisyon VII' adlı eseri, bu karmaşık ve zıt güçlerin dansını, patlayıcı enerjisini ve sürekli hareketini soyut bir dille yakalar. Sanat eserinin kaotik ama bir o kadar da dengeli yapısı, günün hem kutlama hem de endişe barındıran ruhunu temsil eder. Maurice Ravel'in 'Boléro'su ise, bitmek bilmeyen ritmik tekrarı ve kademeli olarak yükselen yoğunluğuyla, günün haber akışının amansız ilerleyişini, temaların sürekli dönüşünü ve artan gerilimi mükemmel bir şekilde yansıtır. Her iki seçim de, modern yaşamın sürekli değişen ve güçlenen atmosferine bir övgü niteliğindedir."
 }
