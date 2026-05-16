@@ -212,7 +212,7 @@ def main():
     # story_ids'den kaynak linklerini çek (max 5 per cluster)
     for cluster in analysis.get("clusters", []):
         cluster["stories"] = []
-        for sid in cluster.get("story_ids", [])[:5]:
+            for sid in cluster.get("story_ids", [])[:5]:
             try:
                 sid = int(sid)
             except (ValueError, TypeError):
