@@ -1,22 +1,22 @@
 {
   "date": "2026-05-18",
   "date_human": "18 May 2026",
-  "generated_at": "2026-05-18T05:06:09.555502+00:00",
+  "generated_at": "2026-05-18T05:10:57.218775+00:00",
   "stats": {
-    "feeds_collected": 271,
-    "news_total": 4487,
+    "feeds_collected": 269,
+    "news_total": 4488,
     "news_analyzed": 576,
     "clusters": 15
   },
   "mood": {
-    "description": "Gün, Ortadoğu'daki diplomatik gerilimler ve iç siyasetteki hukuki gelişmelerle belirgin bir gerginlik taşırken, teknoloji ve spor dünyasındaki dinamik gelişmelerle de hareketli bir tablo çiziyor. Ekonomik kaygılar ve toplumsal olaylar gündemin önemli bir parçasını oluşturuyor.",
-    "dominant_emotion": "Gerginlik",
+    "description": "Gün, uluslararası gerilimler ve yerel suç olaylarıyla dolu, aynı zamanda teknolojik ilerlemeler ve spor dünyasındaki heyecanlı gelişmelerle denge bulan bir atmosferle geçti. Ekonomik endişeler ve sosyal konular gündemin önemli bir parçasıydı.",
+    "dominant_emotion": "Gerilim",
     "key_themes": [
-      "Ortadoğu'da Artan Gerilim ve Uluslararası Diplomasi",
-      "Teknoloji ve Yapay Zeka Devriminin Sürekliliği",
-      "Ekonomik Zorluklar ve Sosyal Destek Beklentisi",
-      "İç Siyasette Hukuki Süreçler ve Toplumsal Güvenlik Endişeleri",
-      "Süper Lig'de Sezon Sonu Heyecanı ve Transfer Hareketliliği"
+      "Jeopolitik Gerilimler ve Diplomasi",
+      "Yerel Suç ve Siyasi Soruşturmalar",
+      "Yapay Zeka ve Teknoloji Gelişmeleri",
+      "Ekonomik Baskılar ve Sosyal Refah",
+      "Spor Liglerinin Sonuçlanması ve Draması"
     ]
   },
   "weather": {
@@ -70,10 +70,61 @@
   },
   "clusters": [
     {
-      "title": "Ortadoğu Gerilimi ve Uluslararası Diplomasi",
+      "title": "İsrail-Filistin Çatışması ve Bölgesel Etkileri",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD Başkanı Trump'ın İran'a yönelik sert uyarıları, İran'ın ABD'ye müzakere şartları, Bakan Fidan'ın İranlı mevkidaşıyla görüşmeleri ve İsrail'in Lübnan'daki saldırılarını sürdürmesi gibi gelişmeler Ortadoğu'daki gerilimi ve uluslararası diplomasi çabalarını gündeme taşıyor.",
+      "summary": "İsrail ordusunun Lübnan'daki saldırılarını sürdürmesi ve Uluslararası Ceza Mahkemesi'nin İsrailli yetkililer hakkında yakalama kararı çıkarabileceği iddiaları bölgedeki gerilimi tırmandırıyor; İsrail ekonomisi de saldırılar nedeniyle küçülme yaşadı.",
       "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İsrail ordusu ateşkese rağmen Lübnan'daki saldırılarını sürdürdü",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/israil-ordusu-ateskese-ragmen-lubnandaki-saldirilarini-surdurdu",
+          "also_in": [
+            "dikGAZETE",
+            "Radikal"
+          ]
+        },
+        {
+          "title": "Haaretz: UCM, İsrailli 5 üst düzey isim hakkında gizlice yakalama kararı çıkardı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/haaretz-ucm-israilli-5-ust-duzey-isim-hakkinda-gizlice-yakalama-karari-cikardi",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "İsrail, Doğu Kudüs'te yıktığı UNRWA merkezinin yerine Savunma Bakanlığı kompleksi kuracak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/israil-dogu-kuduste-yiktigi-unrwa-merkezinin-yerine-savunma-bakanligi-kompleksi-kuracak",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "İsrail ateşle oynuyor! Türkiye'ye karşı 2500 asker konuşlandırdı!",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/dunya/haber/3628741-israil-atesle-oynuyor-turkiyeye-karsi-2500-asker-konuslandirdi",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'daki saldırılarını sürdürdü",
+          "source": "İstiklal",
+          "link": "https://www.istiklal.com.tr/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnandaki-saldirilarini-surdurdu-1094012h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ABD-İran Gerilimi ve Diplomatik Temaslar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "ABD Başkanı Trump'ın İran'a yönelik sert uyarıları ve zamanın daraldığı açıklamaları, bölgedeki gerilimi artırırken, Dışişleri Bakanı Fidan'ın İranlı mevkidaşıyla telefon görüşmeleri diplomatik çabaların sürdüğünü gösteriyor.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
@@ -99,101 +150,141 @@
           ]
         },
         {
-          "title": "Bakan Fidan, İranlı mevkidaşı Erakçi ile telefonda görüştü",
+          "title": "Eski Devrim Muhafızları Ordusu Genel Komutanı: Sabrımızın bir sınırı var",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-iranli-mevkidasi-erakci-ile-telefonda-gorustu/3940397",
+          "link": "https://www.aa.com.tr/tr/dunya/eski-devrim-muhafizlari-ordusu-genel-komutani-sabrimizin-bir-siniri-var/3940452",
           "also_in": [
             "Ekonomim",
             "dikGAZETE",
-            "Sabah"
+            "Haberler"
           ]
         },
         {
-          "title": "İsrail ordusu ateşkese rağmen Lübnan'daki saldırılarını sürdürdü",
+          "title": "İran lideri Hamaney'in Başdanışmanı'ndan Trump'a İsrail uyarısı",
           "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/israil-ordusu-ateskese-ragmen-lubnandaki-saldirilarini-surdurdu",
+          "link": "https://www.dirilispostasi.com/iran-lideri-hamaneyin-basdanismanindan-trumpa-israil-uyarisi",
           "also_in": [
             "dikGAZETE",
-            "Radikal"
+            "Haberet",
+            "TRT Haber"
           ]
         },
         {
-          "title": "Trump'tan yeni tehdit: Saat işliyor",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/trumptan-yeni-tehdit-saat-isliyor",
-          "also_in": [
-            "Demokrat Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka Trendleri ve Etkileri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "NVIDIA'nın yeni çok modlu yapay zeka modeli, deprem riskine karşı Türk akademisyenlerin geliştirdiği yapay zeka kalkanı, Siri ve ChatGPT arasındaki rekabet ve yapay zekanın artan su tüketimi gibi konular, bu teknolojinin hem potansiyelini hem de yarattığı yeni sorunları gözler önüne seriyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Yapay zekada çok modlu dönem: NVIDIA Nemotron 3 Nano Omni’yi tanıttı",
-          "source": "Moletik",
-          "link": "https://moletik.com/yapay-zekada-cok-modlu-donem-nvidia-nemotron-3-nano-omniyi-tanitti/",
-          "also_in": []
-        },
-        {
-          "title": "Deprem riskine yapay zeka kalkanı: Türk akademisyenlerin geliştirdiği sistem zirveye oturdu",
-          "source": "Megabayt Teknoloji",
-          "link": "https://www.megabayt.com/teknoloji/deprem-riskine-yapay-zeka-kalkani-turk-akademisyenlerin-gelistirdigi-sistem-zirveye-oturdu/102397",
-          "also_in": [
-            "Megabayt"
-          ]
-        },
-        {
-          "title": "Siri ve ChatGPT ortaklığında gizli savaş: OpenAI mahkeme kapısında",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/siri-entegrasyonundaki-gizli-engel-openai-yonetimini-cileden-cikardi-applein-tasarim-tercihleri-nedeniyle-taraflar-hukuk-savasi-esiginde_180389.html",
-          "also_in": []
-        },
-        {
-          "title": "Yapay zekanın parmak izinizi çalabileceği ortaya çıktı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yapay-zekanin-parmak-izinizi-calabilecegi-ortaya-cikti--205772",
-          "also_in": []
-        },
-        {
-          "title": "Yapay zekâ gerçekte ne kadar su tüketiyor? Sam Altman’ın küçümsediği kadar var mı?",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/veri-merkezleri-su-tuketimini-arsa-cikardi--205771",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "İç Siyasette Gündem ve Hukuki Gelişmeler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Kabine üyelerinin Erdoğan'a destek paylaşımları, İBB'ye yönelik 'çıkar amaçlı suç örgütü' soruşturmasındaki gözaltılar, Rasim Ozan Kütahyalı'nın yasa dışı bahis soruşturmasındaki mal varlığı detayları ve Devlet Bahçeli'nin terörsüz Türkiye önerisi iç siyasette öne çıkan başlıklar arasında yer alıyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kabine üyelerinden \"iyi ki Erdoğan\" paylaşımı",
+          "title": "Trump: İran için saat işliyor, derhal ve hızlıca harekete geçseler iyi olur",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/kabine-uyelerinden-iyi-ki-erdogan-paylasimi/3940402",
+          "link": "https://www.aa.com.tr/tr/dunya/trump-iran-icin-saat-isliyor-derhal-ve-hizlica-harekete-gecseler-iyi-olur/3940340",
           "also_in": [
-            "CNN Türk",
             "dikGAZETE",
-            "Haber Global",
-            "Haberler",
-            "TRT Haber",
-            "Türkgün"
+            "Sputnik"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Gündem: Enflasyon, Fahiş Fiyat ve Emekli Ödemeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Bayram ikramiyesi ödemeleri başlarken, emeklilerin maaş ve promosyon takvimleri açıklandı. Öte yandan, fahiş fiyat uygulayan işletmelere kesilen cezalar ve enflasyonla mücadeledeki genel ekonomik tablo gündemi meşgul ediyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Emekliler bir milyon dilekçeye koşuyor",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/emekliler-bir-milyon-dilekceye-kosuyor-p320481",
+          "also_in": [
+            "Sözcü Ekonomi"
           ]
         },
+        {
+          "title": "Bayram ikramiyesi ödemeleri başladı",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/bayram-ikramiyesi-odemeleri-basladi_ID100701676/",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Fahiş fiyat uygulayan işletmelere 389 milyon TL’lik ceza",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/fahis-fiyat-uygulayan-isletmelere-389-milyon-tllik-ceza-3777910",
+          "also_in": []
+        },
+        {
+          "title": "Faiz, enflasyon ve petrol gölgesinde ilk çeyrek bilançoları",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/faiz-enflasyon-ve-petrol-golgesinde-ilk-ceyrek-bilancolari-3777909",
+          "also_in": []
+        },
+        {
+          "title": "Enflasyonu Niçin Düşüremiyoruz?",
+          "source": "Investing Genel",
+          "link": "https://tr.investing.com/analysis/enflasyonu-nicin-dusuremiyoruz-200504422",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Önemli Suç ve Kamu Güvenliği Olayları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Tekirdağ Çorlu'da çıkan silahlı çatışmada iki polis şehit oldu, bu olay kamuoyunda büyük yankı uyandırdı. Ayrıca yasa dışı bahis operasyonları ve Adana'da 3 kişinin ölümüyle sonuçlanan trafik kavgası gibi ciddi suç olayları yaşandı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kavga ihbarına giden iki polis şehit oldu",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/kavga-ihbarina-giden-iki-polis-sehit-oldu-704151/",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "İstanbul'da görevden çıkıp evine giden polis suikast önledi",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/istanbulda-gorevden-cikip-evine-giden-polis-suikast-onledi-6921041",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Adana merkezli yasa dışı bahis operasyonunda yakalanan 154 zanlı adliyede",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/adana-merkezli-yasa-disi-bahis-operasyonunda-yakalanan-154-zanli-adliyede-1001601.html",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Trafikte yol verme kavgası: 3 ölü",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/antalya-da-3-kisiyi-olduren-supheli-tutuklandi-19856055-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Çorlu'da kavga sonrası silahlı çatışma! 2 polis şehit oldu",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/corluda-kavga-sonrasi-silahli-catisma-2-polis-sehit-oldu-2443740h.htm",
+          "also_in": [
+            "Haberet"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İBB'ye Yönelik Operasyonlar ve Siyasi Tartışmalar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İstanbul Büyükşehir Belediyesi'ne (İBB) yönelik 'çıkar amaçlı suç örgütü' soruşturması kapsamında çok sayıda şüpheli gözaltına alındı ve adliyeye sevk edildi, bu durum siyasi gündemde geniş yer buldu.",
+      "importance": 9,
+      "story_count": 4,
+      "stories": [
         {
           "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" soruşturmasında gözaltına alınan 12 zanlı adliyeye sevk edildi",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/05/18/ibbye-ihale-operasyonu-12-supheli-saglik-kontrolunde",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/imamoglu-cikar-amacli-suc-orgutu-sorusturmasinda-gozaltina-alinan-12-zanli-adliyeye-sevk-edildi/3940496",
           "also_in": [
-            "Anadolu Ajansı",
+            "A Haber",
             "Haberler"
           ]
         },
@@ -207,18 +298,17 @@
           ]
         },
         {
-          "title": "Rasim Ozan Kütahyalı'nın mal varlığı ortaya çıktı...",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/rasim-ozan-kutahyali-neleri-var-mal-varligi-nedir-p320462",
+          "title": "İBB'ye yönelik son dalga operasyonunda gözaltına alınan 12 kişi sağlık kontrolünden geçirildi",
+          "source": "Sabah",
+          "link": "https://www.sabah.com.tr/gundem/2026/05/18/ibbye-yonelik-son-dalga-operasyonunda-gozaltina-alinan-12-kisi-saglik-kontrolunden-gecirildi",
           "also_in": [
-            "Sözcü Gündem",
-            "Yeniçağ Gazetesi"
+            "Medya Gazete"
           ]
         },
         {
-          "title": "Devlet Bahçeli’den Terörsüz Türkiye için yeni hamle önerisi",
+          "title": "Son dakika.. İBB'ye yeni operasyon: 57 kişi gözaltına alındı",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/devlet-bahceli-den-terorsuz-turkiye-icin-yeni-hamle-onerisi-p320491",
+          "link": "https://www.sozcu.com.tr/son-dakika-ibb-ye-yeni-operasyon-p320493",
           "also_in": [
             "Sözcü Gündem"
           ]
@@ -226,147 +316,9 @@
       ]
     },
     {
-      "title": "Asayiş ve Adli Olaylar: Şehit Polisler ve Suç Operasyonları",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Çorlu'da çıkan çatışmada iki polisin şehit olması, yasa dışı bahis ve uyuşturucu operasyonlarında çok sayıda kişinin gözaltına alınması ve tutuklanması, günün öne çıkan asayiş ve adli olaylarını oluşturuyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kavga ihbarına giden iki polis şehit oldu",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/kavga-ihbarina-giden-iki-polis-sehit-oldu-704151/",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Çorlu'da kavga sonrası silahlı çatışma: 2 polis şehit oldu",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/corluda-kavga-sonrasi-silahli-catisma-2-polis-sehit-oldu-105368",
-          "also_in": [
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Şehit polis Emrah Koç'tan geriye bu görüntüler kaldı",
-          "source": "NTV",
-          "link": "https://www.ntv.com.tr/turkiye/video-sehit-polis-emrah-koctan-geriye-bu-goruntuler-kaldi-1724781",
-          "also_in": [
-            "Medya Gazete",
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "Adana merkezli yasa dışı bahis operasyonunda yakalanan 154 zanlı adliyede",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/adana-merkezli-yasa-disi-bahis-operasyonunda-yakalanan-154-zanli-adliyede-1001601.html",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Diyarbakır merkezli 23 ildeki uyuşturucu operasyonunda 279 tutuklama",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/23-ilde-uyusturucu-operasyonu-279-tutuklama-19855094-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Politikalar, Enflasyon, İş Dünyası ve Yerel Teknoloji Pazarı",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Enflasyonla mücadele, fahiş fiyat uygulayan işletmelere kesilen cezalar, faiz ve petrol fiyatlarının bilançolar üzerindeki etkisi ve Türkiye'deki yerel teknoloji üretimi ve pazar dinamikleri gibi konular, ülkenin ekonomik politikaları ve piyasa dinamiklerini yansıtıyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Togg, Almanya’da 2026’nın ilk dört ayında 113 araç teslim etti",
-          "source": "LOG",
-          "link": "https://www.log.com.tr/togg-almanyada-2026nin-ilk-dort-ayinda-113-arac-teslim-etti/",
-          "also_in": []
-        },
-        {
-          "title": "Enflasyon, şirketleri bekleyen riskler ve çözümler",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/kose-yazisi/enflasyon-sirketleri-bekleyen-riskler-ve-cozumler/894618",
-          "also_in": [
-            "Ekonomi Gazetesi"
-          ]
-        },
-        {
-          "title": "Fahiş fiyat uygulayana 389 milyon TL ceza",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/kurban-oncesi-denetimler-artti-fahis-fiyat-uygulayana-389-milyon-tl-ceza-1791270",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        },
-        {
-          "title": "Fahiş fiyat uygulayan işletmelere 389 milyon TL’lik ceza",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/fahis-fiyat-uygulayan-isletmelere-389-milyon-tllik-ceza-3777910",
-          "also_in": []
-        },
-        {
-          "title": "Enflasyonu Niçin Düşüremiyoruz?",
-          "source": "Investing Genel",
-          "link": "https://tr.investing.com/analysis/enflasyonu-nicin-dusuremiyoruz-200504422",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji Devi Gelişmeleri, Yeni Cihazlar ve Otonom Sürüş",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Apple Watch Series 12 ve iPhone Fold gibi yeni cihazların gelişimi, Gmail'de depolama sınırı, Microsoft'un parola güvenliği adımları ve Tesla'nın otonom sürüş politikalarındaki değişiklikler teknoloji devlerinin gündemini oluşturuyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Apple Watch Series 12 geliyor: İşte beklenen özellikler",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/apple-watch-series-12-geliyor-iste-beklenen-ozellikler--205784",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "iPhone Fold için sorunlar bitmiyor: Seri üretim riske girebilir",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/iphone-fold-icin-sorunlar-bitmiyor-seri-uretim-riske-girebilir--205765",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "Yeni Gmail hesaplarında depolama sınırı dönemi başladı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yeni-gmail-hesaplarinda-depolama-siniri-donemi-basladi--205763",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "Tesla, Full Self-Driving müdahalelerinde yeni bir dönem başlatıyor! Sürücü geri bildirimi artık zorunlu mu?",
-          "source": "Hardware Plus",
-          "link": "https://hwp.com.tr/tesla-fsd-yeni-geri-bildirim-sistemi-331528",
-          "also_in": []
-        },
-        {
-          "title": "Tesla Model Y fiyatlarına ABD’de zam geldi! İki yıl sonra gelen ilk zam ne anlama geliyor?",
-          "source": "Hardware Plus",
-          "link": "https://hwp.com.tr/tesla-model-y-abd-pazarinda-fiyat-artisi-2026-331524",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Trendyol Süper Lig Gündemi: Sezon Sonu ve Transfer Hareketliliği",
+      "title": "Süper Lig'de Küme Düşme Draması",
       "meta_category": "Spor",
-      "summary": "Trendyol Süper Lig'de 2025-2026 sezonunun sona ermesiyle Antalyaspor'un küme düşmesi, Eyüpspor ve Gençlerbirliği'nin ligde kalma mücadelesi ile Galatasaray ve Fenerbahçe'nin transfer gündemleri ve teknik direktör açıklamaları spor camiasını meşgul ediyor.",
+      "summary": "Trendyol Süper Lig'de sezonun son maçları büyük heyecana sahne oldu; Antalyaspor'un küme düşmesiyle ligden düşen son takım belli olurken, teknik direktörler ve taraftarlar maç sonu duygusal anlar yaşadı.",
       "importance": 8,
       "story_count": 5,
       "stories": [
@@ -387,11 +339,13 @@
           ]
         },
         {
-          "title": "Galatasaray'a 35 milyon Euro'luk 10 numara! Transferde rakip Bayern Münih",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/05/17/galatasaraya-35-milyon-euroluk-10-numara-transferde-rakip-bayern-munih",
+          "title": "Süper Lig'de küme düşen son takım belli oldu",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/super-ligde-kume-dusen-son-takim-belli-oldu-1",
           "also_in": [
-            "A Spor"
+            "Halk TV",
+            "Haber Global",
+            "Serbestiyet"
           ]
         },
         {
@@ -404,22 +358,158 @@
           ]
         },
         {
-          "title": "Eyüpspor ligde kalmayı başardı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/eyupspor-ligde-kalmayi-basardi/3940347",
+          "title": "Süper Lig'de küme düşen son takım Antalyaspor oldu",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/super-ligde-kume-dusen-son-takim-antalyaspor-oldu-6921056",
           "also_in": [
-            "dikGAZETE"
+            "En Son Haber"
           ]
         }
       ]
     },
     {
-      "title": "Ebola Salgını ve Halk Sağlığı Uyarıları",
-      "meta_category": "Sağlık",
-      "summary": "Dünya Sağlık Örgütü'nün Ebola salgını nedeniyle küresel acil durum ilan etmesi ve tütün kullanımının beyin korteksinde incelmeye neden olduğuna dair uyarılar, halk sağlığı gündeminin önemli başlıkları arasında yer alıyor.",
+      "title": "Yapay Zeka ve İleri Teknoloji Gelişmeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka alanında yeni ürünler ve riskler gündemde; deprem riskine karşı AI kalkanı geliştirilirken, yapay zekanın parmak izi çalma ve su tüketimi gibi etik ve çevresel sorunları da tartışılıyor. Tesla'nın otonom sürüş teknolojisindeki gelişmeler de dikkat çekiyor.",
       "importance": 8,
       "story_count": 5,
       "stories": [
+        {
+          "title": "Deprem riskine yapay zeka kalkanı: Türk akademisyenlerin geliştirdiği sistem zirveye oturdu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/deprem-riskine-yapay-zeka-kalkani-turk-akademisyenlerin-gelistirdigi-sistem-zirveye-oturdu/102397",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zekanın parmak izinizi çalabileceği ortaya çıktı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yapay-zekanin-parmak-izinizi-calabilecegi-ortaya-cikti--205772",
+          "also_in": []
+        },
+        {
+          "title": "Yapay zeka patlaması yeni bir kriz doğurdu: Fiber kablo bulmak zorlaşıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ai-veri-merkezleri-nedeniyle-fiber-kablo-fiyatlari-ucusa-gecti--205757",
+          "also_in": []
+        },
+        {
+          "title": "Tesla, Full Self-Driving müdahalelerinde yeni bir dönem başlatıyor! Sürücü geri bildirimi artık zorunlu mu?",
+          "source": "Hardware Plus",
+          "link": "https://hwp.com.tr/tesla-fsd-yeni-geri-bildirim-sistemi-331528",
+          "also_in": []
+        },
+        {
+          "title": "YouTube’un Deepfake Tespit Aracı Herkese Açıldı",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/youtubeun-deepfake-tespit-araci-herkese-acildi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türk Savunma Sanayii Başarıları (ASELSAN)",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ASELSAN, yeni nesil savunma sistemlerini EFES-2026 tatbikatında sergilerken, KORKUT sistemi gibi milli teknolojilerin 'Çelik Kubbe'nin kritik parçaları' olduğu vurgulandı ve ALTAY tankı Türk savunma sanayii için dönüm noktası olarak nitelendirildi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ASELSAN yeni nesil savunma sistemlerini sahaya indirdi! EFES-2026 tatbikatında hangi teknolojiler öne çıktı?",
+          "source": "Hardware Plus",
+          "link": "https://hwp.com.tr/aselsan-efes-2026-tatbikati-kocatepe-sistemi-331501",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN KORKUT Sistemiyle Şov Yaptı",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/aselsan-korkut-sistemiyle-sov-yapti",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN'dan KORKUT paylaşımı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/aselsandan-korkut-paylasimi-105369",
+          "also_in": [
+            "NTV",
+            "Bigpara"
+          ]
+        },
+        {
+          "title": "Çelik Kubbe'nin en kritik parçalarından: ASELSAN'dan KORKUT paylaşımı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/celik-kubbenin-en-kritik-parcalarindan-aselsandan-korkut-paylasimi-6921085",
+          "also_in": [
+            "En Son Haber"
+          ]
+        },
+        {
+          "title": "ALTAY Tankı Türk Savunma Sanayisi için dönüm noktası",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/haberler/genel-haberler/altay-tanki-turk-savunma-sanayisi-icin-donum-noktasi_ID100701673/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Küresel Piyasalar: Altın, Petrol ve Kripto Para",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Küresel emtia piyasalarında yönü ABD enflasyonu ve ABD-Çin görüşmeleri belirlerken, Trump'ın İran uyarılarıyla petrol fiyatları yükseldi. Altın ve gümüşte satış baskısı öne çıkarken, Bitcoin 80 bin dolar eşiğinde sıkıştı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Petrol Trump'ın İran uyarısıyla yükseldi",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/petrol-trump-in-iran-uyarisiyla-yukseldi-3777917",
+          "also_in": []
+        },
+        {
+          "title": "Altın ve gümüşte satış baskısı öne çıktı",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/altin/haber/altin-ve-gumuste-satis-baskisi-one-cikti_ID100701675/",
+          "also_in": []
+        },
+        {
+          "title": "BUGÜN ALTIN FİYATLARI GÜNCEL TABLO 17 MAYIS 2026 || Altın fiyatları yükseliyor mu, düşüyor mu? Son durum: gram altın, çeyrek altın",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/altin/haber/bugun-altin-fiyatlari-guncel-tablo-17-mayis-2026-altin-fiyatlari-yukseliyor-mu-dusuyor-mu-son-durum-gram-altin-ceyrek-altin_ID100701667/",
+          "also_in": []
+        },
+        {
+          "title": "Bitcoin 80 Bin Dolar Eşiğinde Sıkıştı: Kurumsal Talep Güçlü, Makro Baskı Hâlâ Masada",
+          "source": "Investing Kripto",
+          "link": "https://tr.investing.com/analysis/bitcoin-80-bin-dolar-esiginde-skst-kurumsal-talep-guclu-makro-bask-hala-masada-200504465",
+          "also_in": []
+        },
+        {
+          "title": "Bitcoin 80.000 Dolar Eşiğinde: Yeni Hamle Hangi Katalizörle Gelebilir?",
+          "source": "Investing Kripto",
+          "link": "https://tr.investing.com/analysis/bitcoin-80000-dolar-esiginde-yeni-hamle-hangi-katalizorle-gelebilir-200504358",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlık Gündemi: Ebola Alarmı ve İyi Yaşam",
+      "meta_category": "Sağlık",
+      "summary": "Dünya Sağlık Örgütü, Ebola salgını nedeniyle küresel halk sağlığı acil durumu ilan ederken, öfkenin nörobiyolojik anatomisi ve kaliteli uykunun sırları gibi psikolojik ve iyi yaşam konuları da ele alındı. Tütün kullanımının beyin korteksinde incelmeye neden olduğu belirtildi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Öfkelendiğimizde beynimizde neler oluyor? Öfkenin nörobiyolojik anatomisi",
+          "source": "Moletik",
+          "link": "https://moletik.com/ofkelendigimizde-beynimizde-neler-oluyor-ofkenin-norobiyolojik-anatomisi/",
+          "also_in": []
+        },
+        {
+          "title": "Uyuyamıyor musunuz? İşte bilime göre kaliteli uykunun sırrı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/uyuyamiyor-musunuz-iste-bilime-gore-kaliteli-uykunun-sirri_180368.html",
+          "also_in": []
+        },
         {
           "title": "DSÖ’den ebola alarmı: Küresel halk sağlığı acil durumu ilan edildi",
           "source": "Artı Gerçek",
@@ -437,22 +527,6 @@
           ]
         },
         {
-          "title": "DSÖ: Ebola salgını uluslararası acil durumdur",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/dunya/dso-ebola-salgini-uluslararasi-acil-durumdur-6921029",
-          "also_in": [
-            "En Son Haber"
-          ]
-        },
-        {
-          "title": "Dünya Sağlık Örgütü, Ebola için &apos;küresel acil durum&apos; ilan etti",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/dunya/dso-kongo-daki-ebola-salgini-uluslararasi-acil-durum-19854494-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
           "title": "Tütün kullanımı beyin korteksinde incelmeye neden oluyor",
           "source": "Haberler",
           "link": "https://www.haberler.com/saglik/tutun-beyin-korteksinde-incelmeye-yol-aciyor-19854295-haberi/",
@@ -463,9 +537,9 @@
       ]
     },
     {
-      "title": "Küresel ve Ulusal Savunma Sanayii Gelişmeleri",
+      "title": "Küresel Savunma Tedarik ve Stratejik Kararlar",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD'nin seyir füzesi tedariki ve F-35 modernizasyonu, Malezya'nın füze teslimatı sorunları, Yunanistan'ın İHA programlarını Baykar etkisiyle yeniden değerlendirmesi ve Romanya ordusunun yeni silah sistemlerini tanıtması gibi haberler, küresel savunma sanayii ve askeri stratejilerdeki hareketliliği gösteriyor.",
+      "summary": "ABD'den düşük maliyetli seyir füzesi ve F-35 filosuna modernizasyon tedariki haberleri gelirken, Yunanistan'ın Baykar etkisiyle insansız hava aracı programını yeniden değerlendirmesi ve Romanya'nın yeni silah sistemlerini tanıtması global savunma stratejilerindeki değişimleri gösteriyor.",
       "importance": 8,
       "story_count": 5,
       "stories": [
@@ -502,129 +576,104 @@
       ]
     },
     {
-      "title": "Finans Piyasaları ve Küresel Ekonomik Trendler",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Altın ve gümüş piyasalarındaki dalgalanmalar, Trump'ın İran uyarılarıyla yükselen petrol fiyatları ve Borsa İstanbul'daki satış baskısı, küresel ve yerel finans piyasalarının gündemini belirleyen ana konular arasında yer alıyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Altın haftaya zayıf görünümle başlıyor",
-          "source": "Savunma Sanayi Gazetesi",
-          "link": "https://savunmasanayigazetesi.com.tr/altin-haftaya-zayif-gorunumle-basliyor/263530/",
-          "also_in": []
-        },
-        {
-          "title": "Altın, bir ayın en düşük seviyesinin ardından alımlarla dengelendi",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/altin-bir-ayin-en-dusuk-seviyesinin-ardindan-alimlarla-dengelendi-3777919",
-          "also_in": []
-        },
-        {
-          "title": "Petrol Trump'ın İran uyarısıyla yükseldi",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/petrol-trump-in-iran-uyarisiyla-yukseldi-3777917",
-          "also_in": []
-        },
-        {
-          "title": "BUGÜN ALTIN FİYATLARI GÜNCEL TABLO 17 MAYIS 2026 || Altın fiyatları yükseliyor mu, düşüyor mu? Son durum: gram altın, çeyrek altın",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/altin/haber/bugun-altin-fiyatlari-guncel-tablo-17-mayis-2026-altin-fiyatlari-yukseliyor-mu-dusuyor-mu-son-durum-gram-altin-ceyrek-altin_ID100701667/",
-          "also_in": []
-        },
-        {
-          "title": "Gümüş Koptu - Cari Açık Patladı - Borsada MSCI Şoku",
-          "source": "Investing Genel",
-          "link": "https://tr.investing.com/analysis/gumus-koptu--cari-ack-patlad--borsada-msci-soku-200504445",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Bilimsel ve Arkeolojik Keşifler",
+      "title": "Akıllı Telefon ve Gadget Duyuruları",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Beyin fonksiyonlarından kanser araştırmalarına, Dünya'nın manyetik alanından dinozorlar çağına kadar geniş bir yelpazede bilimsel keşifler ile Pompeii ve Moldova'daki arkeolojik buluntular geçmişe ışık tutuyor.",
+      "summary": "Apple Watch Series 12, Huawei Nova 16 gibi yeni cihazların özellikleri sızdırılırken, Galaxy S24 ve katlanabilir modellere One UI güncellemeleri geldi; iPhone Fold'un seri üretim sorunları ise devam ediyor.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Öfkelendiğimizde beynimizde neler oluyor? Öfkenin nörobiyolojik anatomisi",
-          "source": "Moletik",
-          "link": "https://moletik.com/ofkelendigimizde-beynimizde-neler-oluyor-ofkenin-norobiyolojik-anatomisi/",
-          "also_in": []
+          "title": "Apple Watch Series 12 geliyor: İşte beklenen özellikler",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-watch-series-12-geliyor-iste-beklenen-ozellikler--205784",
+          "also_in": [
+            "Teknolojioku"
+          ]
         },
         {
-          "title": "Photobacterium Angustum: Kanserde yeni nesil çözüm",
-          "source": "Moletik",
-          "link": "https://moletik.com/photobacterium-angustum-kanserde-yeni-nesil-cozum/",
-          "also_in": []
+          "title": "Huawei Nova 16 serisinin çıkış tarihi ortaya çıktı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/huawei-nova-16-serisinin-cikis-tarihi-ortaya-cikti--205782",
+          "also_in": [
+            "Teknolojioku"
+          ]
         },
         {
-          "title": "Dünya'nın Manyetik Alanı: Nasıl Oluşur, Neden Hareket Eder ve Kaybolursa Ne Olur?",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/dunyanin-manyetik-alani-nasil-olusur-neden-hareket-eder-ve-kaybolursa-ne-olur-22966",
-          "also_in": []
+          "title": "Galaxy S24’e One UI 8.5 Geldi",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/galaxy-s24e-one-ui-8-5-geldi",
+          "also_in": [
+            "Teknolojioku"
+          ]
         },
         {
-          "title": "Pompeii Kurbanlarının Birinden Bir Hekim Çantası Çıktı",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/pompeii-kurbanlarinin-birinden-bir-hekim-cantasi-cikti/?utm_source=rss&utm_medium=rss&utm_campaign=pompeii-kurbanlarinin-birinden-bir-hekim-cantasi-cikti",
-          "also_in": []
+          "title": "Galaxy Z Fold 7 ve Z Flip 7, One UI 9 Beta programına katılacak ilk modeller olabilir",
+          "source": "Beetekno",
+          "link": "https://www.beetekno.com/galaxy-z-fold-7-ve-z-flip-7-one-ui-9-beta-programina-katilacak-ilk-modeller-olabilir-1",
+          "also_in": [
+            "Beetekno"
+          ]
         },
         {
-          "title": "Moldova’nın Doğusunda 2.000 Yıllık İskit Mezarı Bulundu",
-          "source": "Arkeofili",
-          "link": "https://arkeofili.com/moldovanin-dogusunda-2-000-yillik-iskit-mezari-bulundu/?utm_source=rss&utm_medium=rss&utm_campaign=moldovanin-dogusunda-2-000-yillik-iskit-mezari-bulundu",
+          "title": "Samsung Galaxy S24 ve katlanabilir modeller için One UI 8.5 güncellemesi! Amerika’da dağıtım başladı mı?",
+          "source": "Hardware Plus",
+          "link": "https://hwp.com.tr/samsung-galaxy-s24-fold6-flip6-one-ui-8-5-guncellemesi-331513",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Kültür ve Sanat Dünyasından Gelişmeler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Alaçatı Kitap Günleri'nin başlaması, Cannes Film Festivali'nden haberler, Banksy eserine yönelik beklentiler, edebiyat dünyasındaki yenilikler ve Roxy %100 Müzik Günleri gibi çeşitli sanat ve kültür etkinlikleri gündemde yer alıyor.",
+      "title": "Basketbol Süper Ligi Play-off Heyecanı",
+      "meta_category": "Spor",
+      "summary": "Basketbol Süper Ligi'nde normal sezon tamamlanarak play-off eşleşmeleri belli oldu; Anadolu Efes şampiyonluğunu ilan ederken, Fenerbahçe Beko da istikrarlı basketboluyla öne çıktı.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Alaçatı Kitap Günleri: Kitap fuarı, söyleşiler ve bir kahve daha",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/alacati-kitap-gunleri/",
+          "title": "ŞAMPİYON ANADOLU EFES",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/sampiyon-anadolu-efes-2.html",
           "also_in": []
         },
         {
-          "title": "Cannes Günlükleri 2: Parallel Tales",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/79-cannes-gunlukleri-2-parallel-tales/",
+          "title": "Basketbol Süper Ligi'nde play-off çeyrek finalinin maç programı",
+          "source": "NTV Spor Basketbol",
+          "link": "https://www.ntvspor.net/basketbol/basketbol-super-liginde-play-off-ceyrek-finalinin-mac-programi-422949",
           "also_in": []
         },
         {
-          "title": "Banksy Eseri İçin 18 Milyon Dolarlık Beklenti",
-          "source": "Artkolik",
-          "link": "https://www.artkolik.net/haber/banksy-eseri-icin-18-milyon-dolarlik-beklenti-24631",
+          "title": "Basketbol Süper Ligi: Normal sezon tamamlandı, play-off eşleşmeleri belli oldu",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/basketbol-super-ligi-normal-sezon-tamamlndi-play-off-eslesmeleri-belli-oldu-422900",
           "also_in": []
         },
         {
-          "title": "Guardian’a göre, tüm zamanların en iyi 100 romanı",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/guardiana-gore-tum-zamanlarin-en-iyi-100-romani/",
+          "title": "Türkoğlu: Fenerbahçe Beko’yu istikrarlı basketbolu sayesinde daha avantajlı görüyorum",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/turkoglu-fenerbahce-bekoyu-istikrarli-basketbolu-sayesinde-daha-avantajli-goruyorum.html",
           "also_in": []
         },
         {
-          "title": "25. Roxy %100 Müzik Günleri’nde Ödüller Sahiplerini Buldu",
-          "source": "Rotka",
-          "link": "https://rotka.org/25-roxy-0-muzik-gunlerinde-oduller-sahiplerini-buldu/",
+          "title": "Ömer Kutluay 14 sayı attı, Madrid finali kazandı",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/omer-kutluay-14-sayi-atti-madrid-finali-kazandi.html",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Doğa Olayları ve Çevre Gündemi",
+      "title": "Hava Durumu Uyarıları ve Çevre Haberleri",
       "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "İstanbul ve Kayseri'de etkili olan sağanak ve dolu yağışları, yurdun kuzeyi için kuvvetli yağış uyarıları, Muğla'da çıkan orman yangını ve çevre temizliği projeleri gibi haberler, doğa olayları ve çevre bilincinin önemini vurguluyor.",
+      "summary": "Meteoroloji, Karadeniz için sağanak ve sel riski uyarısıyla sarı kodlu alarm verirken, İstanbul'da sağanak ve dolu etkili oldu. Muğla'da orman yangını çıktı ve doğa için yürüyen gençler çevre temizliği yaptı.",
       "importance": 7,
       "story_count": 5,
       "stories": [
+        {
+          "title": "Meteoroloji&apos;den 10 İl İçin Sarı Kodlu Uyarı: Karadeniz&apos;de Sağanak ve Sel Riski Var!",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/meteoroloji-den-10-il-icin-sari-kodlu-uyari-karadeniz-de-saganak-ve-sel-riski-var-1360064",
+          "also_in": []
+        },
         {
           "title": "İstanbul'da sağanak ve dolu etkili oldu",
           "source": "Anadolu Ajansı",
@@ -641,14 +690,6 @@
           "link": "https://www.aydinlik.com.tr/haber/kayseride-saganak-sele-donustu-yollar-gole-dondu-577292",
           "also_in": [
             "CNN Türk"
-          ]
-        },
-        {
-          "title": "Yurdun kuzeyi için kuvvetli yağış uyarısı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/yurdun-kuzeyi-icin-kuvvetli-yagis-uyarisi-1001628.html",
-          "also_in": [
-            "Haberler"
           ]
         },
         {
@@ -670,112 +711,71 @@
       ]
     },
     {
-      "title": "Emekli Maaşları ve Sosyal Ödemeler",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Bayram ikramiyesi ödemelerinin başlaması, emekli promosyonlarının güncel banka kampanyaları ve Mayıs ayı SGK ödeme takvimi gibi haberler, emeklilerin finansal gündemini ve maaşlarına ilişkin gelişmeleri yansıtıyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Bayram ikramiyesi ödemeleri başladı",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/bayram-ikramiyesi-odemeleri-basladi_ID100701676/",
-          "also_in": [
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "EMEKLİ PROMOSYONU BANKA TUTARI VE GÜNCEL KAMPANYALAR LİSTESİ 2026 MAYIS | Emekli banka promosyonu ne kadar, en çok promosyon veren",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/emekli-promosyonu-banka-tutari-ve-guncel-kampanyalar-listesi-2026-mayis-emekli-banka-promosyonu-ne-kadar-en-cok-promosyon-veren_ID100701687/",
-          "also_in": []
-        },
-        {
-          "title": "EMEKLİ BAYRAM İKRAMİYESİ ÖDEME TAKVİMİ VE GÜN GÜN HESABA GEÇME TARİHLERİ 2026 (Tahsis numarasına göre): Tutarlar hesaplara geçiyor",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/emekli-bayram-ikramiyesi-odeme-takvimi-ve-gun-gun-hesaba-gecme-tarihleri-2026-tahsis-numarasina-gore-tutarlar-hesaplara-geciyor_ID100701601/",
-          "also_in": []
-        },
-        {
-          "title": "EMEKLİ PROMOSYONU 2026 MAYIS TUTARLARI VE BANKALARIN GÜNCEL KAMPANYA TEKLİFLERİ || Emekli promosyonu en çok veren bankalar hangile",
-          "source": "Bigpara",
-          "link": "https://bigpara.hurriyet.com.tr/haberler/ekonomi-haberleri/emekli-promosyonu-2026-mayis-tutarlari-ve-bankalarin-guncel-kampanya-teklifleri-emekli-promosyonu-en-cok-veren-bankalar-hangile_ID100701474/",
-          "also_in": []
-        },
-        {
-          "title": "Emeklilerin ikramiye ve aylık ödemeleri başladı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/emeklilerin-ikramiye-ve-aylik-odemeleri-basladi/871710",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Eğlence, Magazin ve Yaşam Tarzı Gündemi",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Cate Blanchett ve Selena Gomez'in yeni film projesi, Cem Yılmaz-Şahan Gökbakar rekabeti, Hande Yener'in değişen imajı, Büşra Develi'nin yaşam tarzı ve yeni lezzet durakları gibi magazin, eğlence ve gündelik yaşam haberleri ilgi çekiyor.",
+      "title": "Kültür, Sanat ve Edebiyat Dünyasından Haberler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Alaçatı Kitap Günleri başladı, Cannes Film Festivali'nden günlükler paylaşılırken, Guardian'a göre tüm zamanların en iyi 100 romanı listesi ve Roxy %100 Müzik Günleri ödülleri sanat gündemini oluşturdu.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Cate Blanchett ve Selena Gomez, Brady Corbet'in Yeni Filminde Buluşuyor!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000204507/",
+          "title": "Alaçatı Kitap Günleri: Kitap fuarı, söyleşiler ve bir kahve daha",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/alacati-kitap-gunleri/",
           "also_in": []
         },
         {
-          "title": "Mizah Dünyasının Ezeli Kapışması: Cem Yılmaz mı Şahan Gökbakar mı?",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/mizah-dunyasinin-ezeli-kapismasi-cem-yilmaz-mi-sahan-gokbakar-mi-1359932",
+          "title": "Cannes Günlükleri 2: Parallel Tales",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/79-cannes-gunlukleri-2-parallel-tales/",
           "also_in": []
         },
         {
-          "title": "Bambaşka Biri Oldu: Hande Yener&apos;in Son Hali Olay Yarattı!",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/bambaska-biri-oldu-hande-yener-in-son-hali-olay-yaratti-1359922",
+          "title": "Guardian’a göre, tüm zamanların en iyi 100 romanı",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/guardiana-gore-tum-zamanlarin-en-iyi-100-romani/",
           "also_in": []
         },
         {
-          "title": "Sadeleşerek Güçlenen Bir Ritimde Büşra Develi",
-          "source": "Elle Türkiye",
-          "link": "https://www.elle.com.tr/extra/dergi/sadeleserek-guclenen-bir-ritimde-busra-develi",
+          "title": "25. Roxy %100 Müzik Günleri’nde Ödüller Sahiplerini Buldu",
+          "source": "Rotka",
+          "link": "https://rotka.org/25-roxy-0-muzik-gunlerinde-oduller-sahiplerini-buldu/",
           "also_in": []
         },
         {
-          "title": "AVCILAR’A YENİ LEZZET NOKTASI: ALTINSİNİ KEBAPÇISI KAPILARINI AÇTI",
-          "source": "İşin Detayı Gastronomi",
-          "link": "https://www.isindetayi.com/avcilara-yeni-lezzet-noktasi-altinsini-kebapcisi-kapilarini-acti",
+          "title": "Cannes’da yarışan ve eleştirmenlerden büyük övgü alan FATHERLAND hakkında tüm bilinenler",
+          "source": "Rotka",
+          "link": "https://rotka.org/cannesda-yarisan-ve-elestirmenlerden-buyuk-ovgu-alan-fatherland-hakkinda-tum-bilinenler/",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Scream",
-    "artist": "Edvard Munch",
-    "year": null,
-    "form": null,
-    "medium": null,
-    "location": null,
-    "description": null,
+    "title": "Three Studies for Figures at the Base of a Crucifixion",
+    "artist": "Francis Bacon",
+    "year": "1944",
+    "form": "painting",
+    "medium": "Oil and pastel on hardboard",
+    "location": "Tate Britain, London",
+    "description": "Üç grotesk, çarpıtılmış ve belirsiz insan figürü, turuncu-kırmızı bir peyzajda tasvir edilerek büyük bir ıstırap ve umutsuzluk hissi uyandırıyor. II. Dünya Savaşı sırasında yaratılan bu eser, insanlık durumunun dehşetini ve geleneksel değerlerin çöküşünü yansıtarak, günümüzün yaygın küresel ve yerel gerilimleriyle derin bir rezonans kuruyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Scream",
-    "wikipedia_extract": "The Scream is an art composition created by Norwegian artist Edvard Munch in 1893. The Norwegian name of the piece is Skrik ('Scream'), and the German title under which it was first exhibited is Der Schrei der Natur. The agonized face in the painting has become one of the most iconic images in art, seen as representing a profound experience of existential dread related to the human condition. Munch's work, including The Scream, had a formative influence on the Expressionist movement.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Studies_for_Figures_at_the_Base_of_a_Crucifixion",
+    "wikipedia_extract": "Three Studies for Figures at the Base of a Crucifixion is a 1944 triptych painted by the Irish-born British artist Francis Bacon. The canvasses are based on the Eumenides—or Furies—of Aeschylus's Oresteia, and depict three writhing anthropomorphic creatures set against a flat burnt orange background. It was executed in oil paint and pastel on Sundeala fibre board and completed within two weeks. The triptych summarises themes explored in Bacon's previous work, including his examination of Picasso's biomorphs and his interpretations of the crucifixion and the Greek Furies. Bacon did not realise his original intention to paint a large crucifixion scene and place the figures at the foot of the cross.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/Three_Studies_for_Figures_at_the_Base_of_a_Crucifixion.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Francis_Bacon_(artist)"
   },
   "music": {
-    "title": "Symphony No. 5 in D Minor, Op. 47: I. Moderato - Allegro non troppo",
-    "artists": "Dmitri Shostakovich, Maxim Shostakovich, London Symphony Orchestra",
-    "album": "Shostakovich Symphony No.5",
-    "duration": "18:59",
-    "spotify_url": "https://open.spotify.com/track/12XseOJeMDJYKvkM0cp7bx",
-    "spotify_id": "12XseOJeMDJYKvkM0cp7bx",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273729151fa148327f28b8aaf61",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/12XseOJeMDJYKvkM0cp7bx\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "One More Hour",
+    "artists": "Tame Impala",
+    "album": "The Slow Rush",
+    "duration": "7:12",
+    "spotify_url": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP",
+    "spotify_id": "0mO6oS60RST2sWmN2FKknP",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0mO6oS60RST2sWmN2FKknP\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": null,
-    "suggested_mood": null
+    "suggested_genre": "Post-rock",
+    "suggested_mood": "Ominous, vast, melancholic, building tension, reflective"
   },
-  "curator_statement": null
+  "curator_statement": "Bugünün karmaşık ve gerilimli atmosferi, hem küresel sahnedeki çalkantıları hem de yerel düzeydeki belirsizlikleri derinden hissettirdi. Francis Bacon'ın 'Three Studies for Figures at the Base of a Crucifixion' eseri, insanlık durumunun çaresizliğini ve varoluşsal kaygıyı, çarpıcı ve rahatsız edici bir çıplaklıkla gözler önüne seriyor. Bu güçlü tablo, savaşın, suçun ve toplumsal kargaşanın yol açtığı yıkımı ve içsel gerilimi yansıtıyor. Ona eşlik eden Godspeed You! Black Emperor'ın 'Storm' parçası ise, yavaşça yükselen, epik ve kasvetli akorlarıyla, üzerimize çöken belirsizliğin ve kolektif kaygının müziğini fısıldıyor. Her iki eser de, günün ağırlığını ve geleceğe dair duyulan tedirginliği, derin bir sanatsal ifadeyle yoğurarak bizlere sunuyor."
 }
