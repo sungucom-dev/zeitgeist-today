@@ -1,22 +1,22 @@
 {
   "date": "2026-05-20",
   "date_human": "20 May 2026",
-  "generated_at": "2026-05-20T19:39:23.291146+00:00",
+  "generated_at": "2026-05-20T20:41:37.318441+00:00",
   "stats": {
-    "feeds_collected": 272,
-    "news_total": 5306,
-    "news_analyzed": 609,
+    "feeds_collected": 268,
+    "news_total": 5254,
+    "news_analyzed": 610,
     "clusters": 15
   },
   "mood": {
-    "description": "Gün, teknolojik yenilikler ve yapay zeka alanındaki hızlı gelişmelerle dinamik bir atmosfer sunarken, jeopolitik gerilimler ve ekonomik belirsizlikler gündemi meşgul etti. Spor ve kültür-sanat dünyasındaki yoğunluk, günün genel ruhuna canlılık kattı.",
+    "description": "Günün genel ruhu, uluslararası arenadaki siyasi gerilimler ve diplomatik yoğunlukla birlikte, teknoloji dünyasındaki hızlı gelişmeler, iç siyasetteki tartışmalar ve toplumsal olaylarla şekillenen dinamik bir atmosferi yansıtıyor.",
     "dominant_emotion": "Dinamizm",
     "key_themes": [
-      "Teknolojik Dönüşüm ve Yapay Zeka",
-      "Jeopolitik Gerilimler ve Diplomasi",
-      "Ekonomik Dalgalanmalar",
-      "Türk Futbolundaki Hareketlilik",
-      "Doğal Afetler ve Çevresel Kaygılar"
+      "Uluslararası Diplomasi ve Bölgesel Gerilimler",
+      "Yapay Zeka ve Teknoloji İnovasyonları",
+      "İç Politika ve Parti İçi Dinamikler",
+      "Ekonomik Göstergeler ve Piyasa Hareketleri",
+      "Spor Dünyasındaki Önemli Gelişmeler"
     ]
   },
   "weather": {
@@ -70,35 +70,12 @@
   },
   "clusters": [
     {
-      "title": "Küresel Jeopolitik Gerilimler ve Diplomasi",
+      "title": "İsrail'in Sumud Filosu'na Müdahalesi ve Uluslararası Tepkiler",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan'ın ABD Başkanı Trump ve Sudan Başbakanı ile görüşmeleri, ABD-İran arasındaki gerilim ve Pakistan arabuluculuğundaki görüşmeler, İsrail'in Sumud Filosu aktivistlerine yönelik muamelesi ve uluslararası tepkiler günün öne çıkan diplomatik başlıkları oldu.",
+      "summary": "İsrail'in Küresel Sumud Filosu'na yönelik müdahalesi ve aktivistlere kötü muamelesi, Türkiye, İspanya, İtalya ve BM başta olmak üzere uluslararası camiada sert tepkilere yol açtı.",
       "importance": 10,
       "story_count": 5,
       "stories": [
-        {
-          "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/3943793",
-          "also_in": [
-            "CGTN Türk",
-            "Hürriyet",
-            "Independent Türkçe",
-            "Türkgün",
-            "Savunma Sanayi Gazetesi"
-          ]
-        },
-        {
-          "title": "ABD, İran bayraklı gemiye asker çıkardı",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/gundem/abd-iran-bayrakli-gemiye-asker-cikardi-haberi-825840",
-          "also_in": [
-            "Elips Haber",
-            "Haber Global",
-            "Haberler",
-            "OdaTV"
-          ]
-        },
         {
           "title": "İsrailli Bakan Regev, Küresel Sumud Filosu aktivistlerine yönelik kötü muameleyle övündü",
           "source": "Anadolu Ajansı",
@@ -109,258 +86,46 @@
           ]
         },
         {
-          "title": "İran Dışişleri Bakanlığı Sözcüsü Bekayi: ABD ile görüşmeler Pakistan arabuluculuğunda devam ediyor",
+          "title": "İspanya, İsrailli bakan Ben Gvir'in AB topraklarına girişine yasak getirilmesini istedi",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakanligi-sozcusu-bekayi-abd-ile-gorusmeler-pakistan-arabuluculugunda-devam-ediyor/3943766",
+          "link": "https://www.aa.com.tr/tr/dunya/ispanya-israilli-bakan-ben-gvirin-ab-topraklarina-girisine-yasak-getirilmesini-istedi/3943818",
           "also_in": [
             "dikGAZETE",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Sudan Başbakanı İdris'i kabul etti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-sudan-basbakani-idrisi-kabul-etti/3943612",
-          "also_in": [
-            "Diriliş Postası",
-            "dikGAZETE",
-            "Haber Global",
-            "NTV",
-            "TürkInform",
-            "Türkgün"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka Teknolojilerindeki Gelişmeler",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Google ve diğer teknoloji devleri, yapay zeka alanında yeni ürünler ve güncellemeler duyurarak hem bireysel kullanıcılar hem de bilim dünyası için çığır açan yenilikler sunuyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Google AI Studio yerleşik Android uygulaması geliştirebiliyor, mağazaya gönderebiliyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-ai-studio-kendini-gelistiriyor--205905",
-          "also_in": []
-        },
-        {
-          "title": "YouTube'tan aramaları kolaylaştıracak yeni yapay zeka özelliği: Ask YouTube",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/youtube-tan-yeni-yapay-zeka-ozelligi-ask-youtube--205906",
-          "also_in": []
-        },
-        {
-          "title": "Google bombayı patlattı: Artık kendi dijital kopyanızı oluşturabileceksiniz",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/ai-ile-artik-kendi-dijital-kopyanizi-olusturabileceksiniz--205885",
-          "also_in": []
-        },
-        {
-          "title": "Google’dan bilim dünyasına yeni yapay zeka: Gemini for Science",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-dan-bilim-dunyasina-yeni-yapay-zeka-gemini-for-science--205882",
-          "also_in": []
-        },
-        {
-          "title": "Google Arama’ya dev yapay zeka güncellemesi: Dinamik arama kutusu ve dahası",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-arama-ya-dev-ai-guncellemesi-dinamik-arama-kutusu-geliyor--205866",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Türk Futbolunda Yönetim ve Transfer Hareketliliği",
-      "meta_category": "Spor",
-      "summary": "Beşiktaş'ta Önder Özen'in futbol direktörü olarak göreve başlaması, Galatasaray, Fenerbahçe ve Trabzonspor'da devam eden transfer görüşmeleri ve ayrılık iddiaları Türk futbol gündemini meşgul etti.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Beşiktaş'ta Önder Özen dönemi resmen başladı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/son-dakika-besiktasta-onder-ozen-donemi-resmen-basladi-iste-gorevi-423160",
-          "also_in": [
-            "Evrensel",
-            "F5 Haber",
-            "İnternet Haber",
-            "Milli Gazete",
-            "TGRT Haber"
-          ]
-        },
-        {
-          "title": "Beşiktaş, Önder Özen’i resmen açıkladı!",
-          "source": "Orta Çizgi",
-          "link": "https://ortacizgi.com/besiktas-onder-ozeni-resmen-acikladi",
-          "also_in": [
-            "Fotomaç",
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "SON DAKİKA: Beşiktaş'ta Önder Özen dönemi! Resmi açıklama geldi",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/besiktas/2026/05/20/son-dakika-besiktasta-onder-ozen-donemi",
-          "also_in": []
-        },
-        {
-          "title": "Jose Mourinho Fenerbahçeli yıldızı Real Madrid'e alıyor! Transferde yılın bombası",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/05/20/jose-mourinho-fenerbahceli-yildizi-real-madride-aliyor-transferde-yilin-bombasi",
-          "also_in": [
-            "Fotomaç"
-          ]
-        },
-        {
-          "title": "Aslan'dan 3 bomba birden!",
-          "source": "A Spor",
-          "link": "https://www.takvim.com.tr/galatasaray/2026/05/20/galatasaray-transfer-camavinga-julian-brandt-vedat-muriqi",
-          "also_in": [
-            "Fotomaç"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Küresel ve Yerel Ekonomideki Dalgalanmalar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Altın ve petrol fiyatlarında yaşanan düşüş ve yükselişler, FED'in faiz artırımı sinyalleri, konut fiyatlarındaki artışın devamı ve emekli ikramiyeleri/promosyonları gibi konular ekonomik gündemi belirledi.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Altının kilogram fiyatı 6 milyon 595 bin liraya geriledi",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/ekonomi/altinin-kilogram-fiyati-6-milyon-595-bin-liraya-geriledi-269638h",
-          "also_in": [
-            "F5 Haber",
-            "Haber Global",
-            "Haberler",
             "TRT Haber"
           ]
         },
         {
-          "title": "Petrol fiyatları ABD-İran görüşmelerine ilişkin olumlu haber akışıyla yüzde 5 düştü",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlari-abd-iran-gorusmelerine-iliskin-olumlu-haber-akisiyla-yuzde-5-dustu/3943689",
+          "title": "Dışişleri'nden İsrailli Bakan'a tepki: Lanetliyoruz",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/disislerinden-israilli-bakana-tepki-lanetliyoruz-h1536046",
           "also_in": [
-            "dikGAZETE",
-            "Haberler",
-            "TRT Haber"
+            "F5 Haber",
+            "Bengütürk"
           ]
         },
         {
-          "title": "Altın alınır mı satılır mı? Dünyaca ünlü ekonomist uyardı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/altin-alinir-mi-satilir-mi-dunyaca-unlu-ekonomist-uyardi-p321214",
-          "also_in": [
-            "Türkiye Gazetesi",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "Konut fiyatlarında yükseliş sürüyor: Nisan verileri açıklandı",
+          "title": "MSB’den İsrail’e sert tepki: “Bu bir korsanlık eylemi”",
           "source": "BHA",
-          "link": "https://www.bha.net.tr/ekonomi/konut-fiyatlarinda-yukselis-suruyor-nisan-verileri-aciklandi/458891",
+          "link": "https://www.bha.net.tr/gundem/msbden-israile-sert-tepki-bu-bir-korsanlik-eylemi/458884",
           "also_in": [
             "Bir Gazete"
           ]
         },
         {
-          "title": "Fed tutanakları: Enflasyon riskleri faiz artırımını masaya taşıdı",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/fed-tutanaklari-enflasyon-riskleri-faiz-artirimini-masaya-tasidi-3778160",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Elektrikli ve Yeni Nesil Otomobillerin Yükselişi",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Otomotiv sektöründe elektrikli araçların tanıtımı ve yeni nesil teknolojilerin entegrasyonu hız kesmeden devam ediyor; Stellantis ve Dacia gibi markalar yeni modellerini piyasaya sürüyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Skoda’nın en ucuz elektrikli modeli Epiq tanıtıldı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/440-km-menzilli-yeni-skoda-epiq-gorucuye-cikti--205864",
+          "title": "İsrail ordusu, Küresel Sumud Filosu’ndaki tüm tekneleri alıkoydu",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/dunya/israil-ordusu-kuresel-sumud-filosundaki-tum-tekneleri-alikoydu/458874",
           "also_in": [
-            "Teknolojioku"
+            "Bir Gazete"
           ]
-        },
-        {
-          "title": "Stellantis kapıları açtı: Çinli Dongfeng Avrupa’da üretime başlıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/stellantis-cinli-dongfeng-e-avrupa-da-uretim-kapilarini-acti--205908",
-          "also_in": []
-        },
-        {
-          "title": "Yeni Dacia Logan Türkiye’de: İşte fiyatı ve öne çıkan özellikleri",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yeni-dacia-logan-turkiye-de-iste-fiyati-ve-ozellikleri--205895",
-          "also_in": []
-        },
-        {
-          "title": "Stellantis, Avrupa pazarı için 15 bin euroluk ucuz elektrikli araçlar geliştiriyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/stellantis-15-bin-euroluk-ucuz-elektrikli-araclar-gelistiriyor--205858",
-          "also_in": []
-        },
-        {
-          "title": "BMW 1 Series 2028: Elektrikli ve hibrit yeni nesil geliyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/bmw-1-series-2028-elektrikli-ve-hibrit-yeni-nesil-geliyor_180467.html",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Türk Savunma Sanayii ve Uzay Teknolojileri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türk Silahlı Kuvvetleri'nin envanterine TAYFUN Blok-2 balistik füzesi girerken, Japonya hipersonik motor testlerini tamamladı ve NASA uzayda yakıt istasyonu testlerine başladı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "TAYFUN Blok-2 ilk kez TSK’nın envanterine girdi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/tayfun-blok-2-ilk-kez-tsk-nin-envanterine-girdi--205896",
-          "also_in": []
-        },
-        {
-          "title": "TSK’ya TAYFUN Balistik Füzesi Teslimatı",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/tskya-tayfun-balistik-fuzesi-teslimati/",
-          "also_in": []
-        },
-        {
-          "title": "NASA’dan uzayda “yakıt istasyonu” hamlesi: Ay ve Mars görevleri için kritik test başlıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/nasa-ay-ve-mars-icin-uzaya-yakit-istasyonlari-kurmayi-deneyecek--205907",
-          "also_in": []
-        },
-        {
-          "title": "Hipersonik yarışı kızışıyor: Japonya Mach 5 motor testini tamamladı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/hipersonik-yaris-kizisiyor-japonya-mach-5-motorunu-test-etti--205890",
-          "also_in": []
-        },
-        {
-          "title": "Yerli Yazılım Bertuğ EFES-2026 Tatbikatında İlk Kez Görev Başında",
-          "source": "C4 Defence",
-          "link": "https://www.c4defence.com/tr/yerli-yazilim-bertug-efes-2026/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Malatya Depremi ve Doğal Afetler",
+      "title": "Malatya Depremi ve Sonuçları",
       "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Malatya'da meydana gelen 5.6 büyüklüğündeki deprem çevre illerde de hissedilirken, Tokat ve Havza'da taşkınlar ve sel felaketleri yaşandı, Bodrum'da ise kuvvetli rüzgar nedeniyle feribot seferleri iptal edildi.",
-      "importance": 8,
+      "summary": "Malatya'da meydana gelen 5.6 büyüklüğündeki deprem, çevre illerde de hissedildi; valilik ve AFAD'dan artçı sarsıntılar ve bölgedeki son duruma ilişkin açıklamalar geldi.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
@@ -368,8 +133,8 @@
           "source": "10Haber",
           "link": "https://10haber.net/gundem/malatyada-56-buyuklugunde-deprem-704786/",
           "also_in": [
-            "Diyanet Haber",
             "Artı Gerçek",
+            "Diyanet Haber",
             "Gerçek Gündem",
             "Korkusuz",
             "Radikal",
@@ -386,75 +151,472 @@
           ]
         },
         {
+          "title": "Son depremler listesi",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/malatya-da-deprem-son-dakika-deprem-20-mayis-biraz-once-gaziantep-elazig-adiyaman-da-deprem-mi-oldu-nerede-kac-buyuklugunde-afad-ve-kandilli-son-depremler-3885921",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "Malatya Valiliğinden 5.6 büyüklüğündeki deprem açıklaması",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/malatya-valiliginden-5-6-buyuklugundeki-deprem-aciklamasi/264881/",
+          "also_in": []
+        },
+        {
           "title": "Malatya Valiliği deprem sonrası son durumu açıkladı",
           "source": "Haberler",
           "link": "https://www.haberler.com/yerel/malatya-da-5-6-buyuklugunde-deprem-85-kisi-hastaneye-basvurdu-19866403-haberi/",
           "also_in": [
             "Medya Gazete"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "title": "Erdoğan-Trump Telefon Görüşmesi ve Diplomatik İlişkiler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan ve ABD Başkanı Trump arasında gerçekleşen telefon görüşmesi, ikili ilişkiler ve bölgesel konuların ele alındığı önemli bir diplomatik gündem maddesi oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
         {
-          "title": "Tokat'ta taşkın nedeniyle tarım arazileri sular altında kaldı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/tokatta-taskin-nedeniyle-tarim-arazileri-sular-altinda-kaldi/3943451",
+          "title": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu/55529/",
           "also_in": [
-            "Diriliş Postası",
-            "dikGAZETE"
+            "Bengütürk",
+            "Haber 7",
+            "İşçi Haber",
+            "İstiklal",
+            "NTV",
+            "TRT Haber"
           ]
         },
         {
-          "title": "Bodrum’da feribot seferleri iptal edildi",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3629471-bodrumda-feribot-seferleri-iptal-edildi",
+          "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/3943793",
           "also_in": [
+            "CGTN Türk",
+            "Hürriyet",
+            "Independent Türkçe",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Donald Trump ile telefonda görüştü",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-donald-trump-ile-telefonda-gorustu-41155-h1536068",
+          "also_in": [
+            "Elips Haber",
+            "F5 Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Erdoğan ve Trump telefonda görüştü",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/erdogan-ve-trump-telefonda-gorustu-3/?utm_source=rss&utm_medium=rss&utm_campaign=erdogan-ve-trump-telefonda-gorustu-3",
+          "also_in": [
+            "İlke TV",
             "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan ve Donald Trump'tan kritik görüşme",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/cumhurbaskani-erdogan-ve-donald-trumptan-kritik-gorusme-haberi-825843",
+          "also_in": [
+            "CNBC-e"
           ]
         }
       ]
     },
     {
-      "title": "Büyük Teknoloji Platformlarında Kesintiler ve Siber Güvenlik Sorunları",
+      "title": "Yapay Zeka ve Teknoloji Sektöründeki Stratejik Gelişmeler",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "TikTok, ChatGPT, X (Twitter), WhatsApp, Instagram ve YouTube gibi popüler platformlarda son 24 saat içinde erişim sorunları yaşanırken, GitHub'da kaynak kod sızıntısı endişeleri gündeme geldi.",
+      "summary": "OpenAI kurucu ortağının Anthropic'e geçişi, Google'ın Gemini AI modelleriyle sunduğu yenilikler (video düzenleme, arama entegrasyonu, Wear OS 7) ve genel yapay zeka pazarındaki stratejik hamleler, sektörün dinamik dönüşümünü gösteriyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "OpenAI kurucu ortağı Andrej Karpathy, Anthropic ekibine katıldı",
+          "source": "Upcorn",
+          "link": "https://upcorn.co/openai-kurucu-ortagi-andrej-karpathy-anthropic-ekibine-katildi/",
+          "also_in": [
+            "Webrazzi"
+          ]
+        },
+        {
+          "title": "Google Gemini’ye kullanım sınırı geldi: Ücretsiz dönem daralıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-geminiye-kullanim-siniri-geldi-ucretsiz-donem-daraliyor_180450.html",
+          "also_in": []
+        },
+        {
+          "title": "Gemini 3.5 Flash, Google’ın kodlama odaklı yeni yapay zekâ modeli oldu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/gemini-35-flash-googlein-kodlama-odakli-yeni-yapay-zeka-modeli-oldu_180449.html",
+          "also_in": []
+        },
+        {
+          "title": "Google’dan yeni hamle: Yazıyla video düzenleyen Gemini Omni tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/googledan-yeni-hamle-yaziyla-video-duzenleyen-gemini-omni-tanitildi_180448.html",
+          "also_in": []
+        },
+        {
+          "title": "OpenAI halka arza hazırlanıyor",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/openai-halka-arza-hazirlaniyor-3778141",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İran-ABD Gerilimi ve Petrol Piyasalarına Etkisi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "ABD'nin İran bayraklı gemiye asker çıkarması ve İran'ın küresel internet hatlarından haraç kesme tehdidi, bölgedeki gerilimi artırırken, petrol fiyatlarında düşüşe neden oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Teknoloji devlerine şantaj: İran küresel internet hatlarından haraç kesecek",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/teknoloji-devlerine-santaj-iran-kuresel-internet-hatlarindan-harac-kesecek_180477.html",
+          "also_in": []
+        },
+        {
+          "title": "ABD, İran bayraklı gemiye asker çıkardı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/abd-iran-bayrakli-gemiye-asker-cikardi-haberi-825840",
+          "also_in": [
+            "Elips Haber",
+            "Haber Global",
+            "Haberler",
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "İran lideri Hamaney'in Başdanışmanı Velayeti'den Trump'a \"enerji mesajı\"",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iran-lideri-hamaneyin-basdanismani-velayetiden-trumpa-enerji-mesaji/3943907",
+          "also_in": [
+            "dikGAZETE",
+            "Milli Gazete",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Petrol fiyatları ABD-İran görüşmelerine ilişkin olumlu haber akışıyla yüzde 5 düştü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/petrol-fiyatlari-abd-iran-gorusmelerine-iliskin-olumlu-haber-akisiyla-yuzde-5-dustu/3943689",
+          "also_in": [
+            "dikGAZETE",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran devlet televizyonu: 5 süper tankere Hürmüz Boğazı’ndan geçiş izni verildi",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/iran-devlet-televizyonu-5-super-tankere-hurmuz-bogazindan-gecis-izni-verildi-704915/",
+          "also_in": [
+            "dikGAZETE",
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türk Savunma Sanayii ve Yerli Teknoloji Gelişmeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türk Telekom ve ASELSAN'dan yerli akıllı telefon hamlesi, TAYFUN Blok-2 balistik füzesinin envantere girmesi, VTOL kamikaze İHA üretimi ve Bertuğ yerli yazılımının EFES-2026 Tatbikatı'nda görev alması, Türkiye'nin savunma ve teknoloji alanındaki ilerlemesini gösteriyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türk Telekom ve ASELSAN’dan yerli akıllı telefon hamlesi",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/turk-telekom-ve-aselsandan-yerli-akilli-telefon-hamlesi/",
+          "also_in": []
+        },
+        {
+          "title": "TAYFUN Blok-2 ilk kez TSK’nın envanterine girdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/tayfun-blok-2-ilk-kez-tsk-nin-envanterine-girdi--205896",
+          "also_in": []
+        },
+        {
+          "title": "BG Türkiye ve Özismak’tan VTOL kamikaze İHA",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/bg-turkiye-ve-ozismaktan-vtol-kamikaze-iha",
+          "also_in": []
+        },
+        {
+          "title": "TSK’ya TAYFUN Balistik Füzesi Teslimatı",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/tskya-tayfun-balistik-fuzesi-teslimati/",
+          "also_in": []
+        },
+        {
+          "title": "Yerli Yazılım Bertuğ EFES-2026 Tatbikatında İlk Kez Görev Başında",
+          "source": "C4 Defence",
+          "link": "https://www.c4defence.com/tr/yerli-yazilim-bertug-efes-2026/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Haluk Levent'in Sağlık Durumu",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Ünlü sanatçı Haluk Levent'in yoğun bakıma kaldırılması, ülke gündeminde geniş yankı uyandırarak sevenlerini endişelendirdi ve sağlık durumu yakından takip edildi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Haluk Levent yoğun bakıma alındı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/haluk-levent-yogun-bakima-alindi-577594",
+          "also_in": [
+            "Artı Gerçek",
+            "Evrensel",
+            "En Son Haber",
+            "Gazete Pencere",
+            "Gerçek Gündem",
+            "İnternet Haber",
+            "Sputnik",
+            "Son Mühür",
+            "Yeni Asır Gazetesi",
+            "Karar"
+          ]
+        },
+        {
+          "title": "Haluk Levent yoğun bakıma kaldırıldı",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/haluk-levent-yogun-bakima-kaldirildi/55531/",
+          "also_in": [
+            "CGTN Türk",
+            "F5 Haber",
+            "ABC Haber",
+            "OdaTV",
+            "Sözcü Gündem",
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Haluk Levent hastaneye kaldırıldı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/haluk-levent-hastaneye-kaldirildi-2/?utm_source=rss&utm_medium=rss&utm_campaign=haluk-levent-hastaneye-kaldirildi-2",
+          "also_in": [
+            "Dünya"
+          ]
+        },
+        {
+          "title": "Ünlü şarkıcı Haluk Levent yoğun bakıma kaldırıldı",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/magazin/unlu-sarkici-haluk-levent-yogun-bakima-kaldirildi-525665",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Ünlü sanatçı Haluk Levent hastaneye kaldırıldı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/3-sayfa/haluk-levent-konser-sonrasi-fenalasti-hastaneye-kaldirildi-19866398-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Gündem ve Piyasa Hareketleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Konut fiyatlarındaki reel düşüş ve artış eğilimleri, Kurban Bayramı öncesi otel dolulukları, emekli ikramiyeleri ve promosyonlar gibi konular, günün ekonomik gündemini ve piyasa hareketlerini belirledi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Konut fiyatlarında yükseliş sürüyor: Nisan verileri açıklandı",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/ekonomi/konut-fiyatlarinda-yukselis-suruyor-nisan-verileri-aciklandi/458891",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "Konut fiyatlarında 5 aydır reel düşüş sürüyor",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/konut-fiyatlarinda-5-aydir-reel-dusus-suruyor-3778153",
+          "also_in": []
+        },
+        {
+          "title": "Konut fiyatlarındaki artış Nisan'da yüzde 1,8 oldu",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/konut-fiyatlarindaki-artis-nisan-da-yuzde-1-8-oldu-3778152",
+          "also_in": []
+        },
+        {
+          "title": "Bayram için oteller doldu: \"Doluluk yüzde 90'a ulaşırken fiyatlar yüzde 30 arttı\"",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/bayram-icin-oteller-doldu-doluluk-yuzde-90-a-ulasirken-fiyatlar-yuzde-30-artti-3778113",
+          "also_in": []
+        },
+        {
+          "title": "25-26 Mayıs 2026 Borsa açık mı, işlem yapılacak mı? Kurban Bayramı Borsa İstanbul (BİST) çalışma saatleri",
+          "source": "Bigpara",
+          "link": "https://bigpara.hurriyet.com.tr/borsa/haber/25-26-mayis-2026-borsa-acik-mi-islem-yapilacak-mi-kurban-bayrami-borsa-istanbul-bist-calisma-saatleri_ID100701820/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "CHP İçindeki Siyasi Tartışmalar ve İddialar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "CHP içinde 'dört aşamalı kırım operasyonu' iddiaları, parti içi 'mutlak butlan' kararı tartışmaları ve '1 milyon avroluk rüşvet' gibi konular, parti gündemini meşgul eden önemli siyasi gelişmeleri oluşturdu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "CHP’ye dört aşamalı kırım operasyonu",
+          "source": "Bilim ve Gelecek",
+          "link": "https://bilimvegelecek.com.tr/index.php/2026/05/20/chpye-dort-asamali-kirim-operasyonu",
+          "also_in": []
+        },
+        {
+          "title": "CHP’ye Mutlak Butlan Kararı ile İlgili Yeni İddia: \"Herkes Bunu Konuşuyor\"",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/chp-ye-mutlak-butlan-karari-ile-ilgili-yeni-iddia-herkes-bunu-konusuyor-1360539",
+          "also_in": []
+        },
+        {
+          "title": "ÜSKÜDAR’DA CHP’YE SELAM VERMEYEN ESNAFA CEZA",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/5/20/uskudar-da-chp-ye-selam-vermeyen-esnafa-ceza-7173633.html",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "CHP Genel Merkezi'nde '1 milyon avroluk rüşvet' iddiası! Emre Caner için ev hapsi talebi",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/chp-genel-merkezinde-1-milyon-avroluk-rusvet-iddiasi-emre-caner-icin-ev-hapsi-269661h",
+          "also_in": [
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Kılıçdaroğlu'nun videosuna Özgür Özel'den ilk yanıt",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/kilicdaroglu-nun-videosuna-ozgur-ozel-den-ilk-yanit-p321388",
+          "also_in": [
+            "Yeniçağ Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş'ta Önder Özen Dönemi ve Futbol Direktörlüğü",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş Kulübü, futbol direktörlüğü görevine Önder Özen'in getirildiğini resmen açıklayarak, kulüpte yeni bir dönemin başladığını duyurdu.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (20 Mayıs 2026)",
+          "title": "Beşiktaş'ta Önder Özen dönemi resmen başladı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/son-dakika-besiktasta-onder-ozen-donemi-resmen-basladi-iste-gorevi-423160",
+          "also_in": [
+            "Evrensel",
+            "F5 Haber",
+            "İnternet Haber",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Beşiktaş Önder Özen'i resmen açıkladı!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/besiktas/2026/05/20/besiktas-onder-ozeni-resmen-acikladi",
+          "also_in": [
+            "Orta Çizgi",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Beşiktaş’ta futbol direktörü Önder Özen oldu",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/spor/besiktasta-futbol-direktoru-onder-ozen-oldu/458924",
+          "also_in": [
+            "Ekonomim",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Beşiktaş'ın yeni futbol direktörü belli oldu!",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/besiktasin-yeni-futbol-direktoru-belli-oldu",
+          "also_in": [
+            "Demokrat Haber",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Beşiktaş&apos;ta futbol direktörlüğü görevine Önder Özen getirildi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/spor/besiktas-ta-futbol-direktorlugune-onder-ozen-getirildi-19865266-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gaming Dünyasından Yeni Duyurular ve Güncellemeler",
+      "meta_category": "Eğlence",
+      "summary": "Xbox Game Pass'e eklenen yeni oyunlar, Lord of the Rings RPG oyununun duyurulması, State of Play etkinliği ve Fortnite'ın App Store'a geri dönüşü, oyun dünyasında heyecan yarattı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Xbox Gamepass'e hangi oyunlar geliyor? Mayıs sonunda güçlü oyun akını",
           "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-20-mayis-2026_176278.html",
+          "link": "https://www.chip.com.tr/guncel/xbox-gamepasse-hangi-oyunlar-geliyor-mayis-sonunda-guclu-oyun-akini_180457.html",
           "also_in": []
         },
         {
-          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (20 Mayıs 2026)",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-20-mayis-2026_178116.html",
+          "title": "Xbox Game Pass Mayıs 2026 2. Dalga oyunları açıklandı",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/crashout-crew/133998/xbox-game-pass-mayis-2026-2-dalga-oyunlari-aciklandi",
+          "also_in": [
+            "Merlin'in Kazanı"
+          ]
+        },
+        {
+          "title": "Orta Dünya’da Yeni Dönem: Warhorse, Lord of the Rings RPG Oyununu Resmen Duyurdu",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/orta-dunyada-yeni-donem-warhorse-lord-of-the-rings-rpg-oyununu-resmen-duyurdu",
           "also_in": []
         },
         {
-          "title": "X (Twitter) çöktü mü? (20 Mayıs 2026) Hata bildirim raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-20-mayis-2026-hata-bildirim-raporu_178117.html",
+          "title": "State of Play Haziran etkinliği duyuruldu: Tanıtılacak oyunların başında Wolverine var!",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/marvels-wolverine/134013/state-of-play-haziran-etkinligi-duyuruldu-tanitilacak-oyunlarin-basinda-wolverine-var",
           "also_in": []
         },
         {
-          "title": "Siber korsanlar GitHub’ın kaynak kodlarını satışa çıkardı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/siber-korsanlar-github-in-kaynak-kodlarini-satisa-cikardi--205874",
-          "also_in": []
-        },
-        {
-          "title": "GitHub’da iç repo krizi: Binlerce kod deposu sızmış olabilir",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/githubda-ic-repo-krizi-binlerce-kod-deposu-sizmis-olabilir_180469.html",
+          "title": "Epic ve Apple savaşında yeni perde: Fortnite, dünya genelinde App Store'a geri döndü",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/epic-games/133999/epic-ve-apple-savasinda-yeni-perde-fortnite-dunya-genelinde-app-storea-geri-dondu",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Ziraat Türkiye Kupası Finali ve UEFA Gelişmeleri",
+      "title": "Türkiye Kupası Final Hakemi ve UEFA Kararları",
       "meta_category": "Spor",
-      "summary": "Ziraat Türkiye Kupası finalinin hakemi Halil Umut Meler olarak belirlenirken, UEFA milli takım turnuvalarının formatında değişikliğe gitti ve İstanbul'da Avrupa Ligi finali heyecanı yaşandı.",
+      "summary": "Ziraat Türkiye Kupası finalini Halil Umut Meler'in yöneteceği açıklanırken, UEFA da milli takım turnuvaları ve eleme formatlarında değişikliklere giderek futbol gündemini şekillendirdi.",
       "importance": 7,
       "story_count": 5,
       "stories": [
@@ -463,10 +625,9 @@
           "source": "A Spor",
           "link": "https://www.aspor.com.tr/turkiye-kupasi/2026/05/20/ziraat-turkiye-kupasi-finalinin-hakemi-belli-oldu",
           "also_in": [
-            "Sözcü Spor",
             "Fotomaç",
-            "Haber 3",
-            "İşçi Haber"
+            "Sözcü Spor",
+            "Haber 3"
           ]
         },
         {
@@ -484,262 +645,35 @@
           "link": "https://www.ensonhaber.com/turkiye-kupasi-finalini-halil-umut-meler-yonetecek-h1536047",
           "also_in": [
             "F5 Haber",
-            "Hürriyet",
-            "Haber Global"
+            "Haber Global",
+            "Hürriyet"
           ]
         },
         {
-          "title": "UEFA’dan milli takım turnuvalarında yeni format kararı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/05/20/uefadan-milli-takim-turnuvalarinda-yeni-format-karari",
-          "also_in": []
-        },
-        {
-          "title": "UEFA, milli takım turnuvaları ve eleme formatlarında değişikliğe gitti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/uefa-milli-takim-turnuvalari-ve-eleme-formatlarinda-degisiklige-gitti/3943822",
+          "title": "Ziraat Türkiye Kupası finalini Halil Umut Meler yönetecek",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/spor/ziraat-turkiye-kupasi-finalini-halil-umut-meler-yonetecek-haberi-825841",
           "also_in": [
-            "Sabah Spor",
-            "En Son Haber",
-            "dikGAZETE",
+            "Haberet",
             "Haberler"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Yeni Film, Dizi ve Oyun Duyuruları",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Avatar: Fire and Ash Disney+'ta yayınlanırken, The Godfather efsanesinin yeni bir karakter hikayesiyle döneceği ve açık dünya Yüzüklerin Efendisi RPG oyunu duyurulması gibi film, dizi ve oyun dünyasından birçok yeni proje haberi geldi.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "\"Avatar: Fire and Ash\" İlk Kez Disney+ Ekranlarında!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000205055/",
-          "also_in": []
         },
         {
-          "title": "\"The Godfather\" Efsanesi, 2027'de Şimdiye Kadar Hiç Anlatılmamış Bir Karakterin Hikayesiyle Geri Dönüyor",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000204969/",
-          "also_in": []
-        },
-        {
-          "title": "Orta Dünya’da Yeni Dönem: Warhorse, Lord of the Rings RPG Oyununu Resmen Duyurdu",
-          "source": "FRPNET",
-          "link": "https://frpnet.net/haberler/oyun-haberleri/orta-dunyada-yeni-donem-warhorse-lord-of-the-rings-rpg-oyununu-resmen-duyurdu",
-          "also_in": []
-        },
-        {
-          "title": "Avatar: Fire and Ash Disney+’da Yayına Girdi!",
-          "source": "Edebi Bülten",
-          "link": "https://edebibulten.com/avatar-fire-and-ash-disneyda-yayina-girdi-ilk-bolum/",
-          "also_in": []
-        },
-        {
-          "title": "2025’e Damga Vuran Stüdyodan Açık Dünya Yüzüklerin Efendisi RPG’si Geliyor",
-          "source": "Kayıp Rıhtım",
-          "link": "https://kayiprihtim.com/haber/yuzuklerin-efendisi-rpg-warhorse-oyun/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Siber Dolandırıcılık ve Asayiş Operasyonları",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Küresel kriz dönemlerinde artan siber dolandırıcılık yöntemleri açıklanırken, Türkiye genelinde yasa dışı bahis ve diğer asayiş suçlarına yönelik operasyonlar düzenlendi, birçok kişi gözaltına alındı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Küresel kriz dönemlerinde artan siber dolandırıcılık yöntemleri açıklandı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/kuresel-kriz-donemlerinde-artan-siber-dolandiricilik-yontemleri-aciklandi_180434.html",
-          "also_in": []
-        },
-        {
-          "title": "Kocaeli merkezli yasa dışı bahis operasyonu",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/kocaeli-merkezli-yasa-disi-bahis-operasyonu-577607",
+          "title": "Türkiye Kupası finalinin hakemi belli oldu",
+          "source": "Haber 7",
+          "link": "https://spor.haber7.com/turkiye-kupasi/haber/3629473-turkiye-kupasi-finalinin-hakemi-belli-oldu",
           "also_in": [
-            "Doğru Haber"
-          ]
-        },
-        {
-          "title": "17 ilde yasa dışı bahis operasyonu: 122 gözaltı",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/asayis/17-ilde-yasa-disi-bahis-operasyonu-122-gozalti/458873",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        },
-        {
-          "title": "Mersin merkezli 7 ilde 26 milyarlık yasadışı bahis operasyonu: 158 şüpheli hakkında işlem sürüyor",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/3-sayfa/mersin-merkezli-7-ilde-dev-yasadisi-bahis-operasyonu-158-gozalti-19866249-haberi/",
-          "also_in": [
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "Bakan Gürlek: Suç odaklarına karşı mücadele kararlılıkla sürecek",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/bakan-gurlek-suc-odaklarina-karsi-mucadele-kararlilikla-surecek-105446",
-          "also_in": [
-            "Kamudan Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Sağlık ve Çevre Bilimlerinde Önemli Gelişmeler",
-      "meta_category": "Sağlık",
-      "summary": "FDA'nın HIV-AIDS ilacını onaylaması ve Ebola'nın yayılmasıyla ilgili acil durum ilan edilmesi gibi sağlık haberlerinin yanı sıra, Maine kıyılarındaki kelp ormanlarının kaybı ve Antarktika'da uzay tozunun bulunması gibi çevre ve bilim konuları da gündemdeydi.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "FDA %100’e Varan Etkili HIV-AIDS İlacını Onayladı",
-          "source": "Gerçek Bilim",
-          "link": "https://www.gercekbilim.com/fda-%100e-varan-etkili-hiv-aids-ilacini-onayladi/",
-          "also_in": []
-        },
-        {
-          "title": "Acı Verici Anıları Silmek Mümkün mü?",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/aci-verici-anilari-silmek-mumkun-mu-22990",
-          "also_in": []
-        },
-        {
-          "title": "Aşısı ve tedavisi yok: Ebola sınırları aşınca acil durum ilan edildi",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/asisi-ve-tedavisi-yok-ebola-sinirlari-asinca-acil-durum-ilan-edildi_180441.html",
-          "also_in": []
-        },
-        {
-          "title": "AB: Ebola enfeksiyon riski Birlik için çok düşük",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/ab-ebola-salgininin-avrupa-icin-riski-cok-dusuk-19864700-haberi/",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Isınma, Maine Kıyılarındaki Ekolojik Durum Değişimini ve Kelp Ormanlarının Kaybını Hızlandırıyor!",
-          "source": "Evrim Ağacı",
-          "link": "https://evrimagaci.org/isinma-maine-kiyilarindaki-ekolojik-durum-degisimini-ve-kelp-ormanlarinin-kaybini-hizlandiriyor-22989",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ünlülerden Sağlık ve Magazin Haberleri",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Ünlü şarkıcı Haluk Levent'in yoğun bakıma kaldırılması ve Kadir İnanır'ın sağlık durumuyla ilgili gelişmeler magazin gündemini meşgul ederken, Bergüzar Korel'in kilo verme süreci ve diğer ünlülerin yaşamlarına dair haberler dikkat çekti.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Haluk Levent yoğun bakıma alındı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/haluk-levent-yogun-bakima-alindi-577594",
-          "also_in": [
-            "En Son Haber",
-            "Evrensel",
-            "Artı Gerçek",
-            "Elips Haber",
-            "Gazete Pencere",
-            "Gerçek Gündem",
             "İnternet Haber",
-            "Karar",
-            "Milli Gazete",
-            "Sputnik",
-            "Son Mühür",
-            "Yeni Asır Gazetesi"
+            "Sputnik"
           ]
-        },
-        {
-          "title": "Haluk Levent Yoğun Bakıma Kaldırıldı!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/haluk-levent-yogun-bakima-kaldirildi-864767",
-          "also_in": [
-            "CGTN Türk",
-            "F5 Haber",
-            "OdaTV",
-            "Sözcü Gündem",
-            "Yeni Akit"
-          ]
-        },
-        {
-          "title": "Ünlü şarkıcı Haluk Levent yoğun bakıma kaldırıldı",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/magazin/unlu-sarkici-haluk-levent-yogun-bakima-kaldirildi-525665",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Yoğun bakımdaki Kadir İnanır: Beni buradan çıkarın",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/yogun-bakimdaki-kadir-inanir-beni-buradan-cikarin-19864635-haberi/",
-          "also_in": [
-            "Haber 3"
-          ]
-        },
-        {
-          "title": "4 ayda 20 kilo veren Bergüzar Korel, spor salonundan görüntülerini paylaştı.",
-          "source": "Elele",
-          "link": "https://www.elele.com.tr/magazin/4-ayda-20-kilo-veren-berguzar-korel-spor-salonundan-goruntulerini-paylasti",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Edebiyat ve Kültür Sanat Etkinlikleri",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Orhan Pamuk'un yeni kitabının adı belli olurken, Mardin Bienali gibi önemli sanat etkinlikleri devam etti ve edebiyat dünyasından yeni yayınlar ve yarışmalar duyuruldu.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Orhan Pamuk’un yeni kitabının adı belli oldu",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/orhan-pamukun-yeni-romanin-yakin-okurlarla-bulusuyor/",
-          "also_in": []
-        },
-        {
-          "title": "7. Mardin Bienali’yle yokuş çıkarken konuşmak",
-          "source": "Argonotlar",
-          "link": "https://argonotlar.com/7-mardin-bienaliyle-yokus-cikarken-konusmak/",
-          "also_in": []
-        },
-        {
-          "title": "Mardin Bienali/GÖKzemin",
-          "source": "Artdog",
-          "link": "https://artdogistanbul.com/mardin-bienali-gokzemin/",
-          "also_in": []
-        },
-        {
-          "title": "Ayşe Ceylan Topçu’dan ‘Yüzünü Güneşe Dön’ yayınlandı",
-          "source": "Edebi Bülten",
-          "link": "https://edebibulten.com/ayse-ceylan-topcudan-yuzunu-gunese-don-yayinlandi-okur/",
-          "also_in": []
-        },
-        {
-          "title": "“Edebiyat İyileştirir Şiir, Öykü ve Deneme Yarışması”na başvurular 22 Mayıs’ta başlıyor",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/edebiyat-iyilestirir-siir-oyku-ve-deneme-yarismasina-basvurular-22-mayista-basliyor/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Arkeolojik Keşifler ve Antik Dünyadan Haberler",
+      "title": "Antik Çağ Arkeolojik Keşifler ve Tarihi Bulgular",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Çin'de Tunç Çağı'na ait şiddet izleri, Roma Britanya'sında ritüel kuyusundan köpek iskeletleri ve Laos'ta 1.200 yıllık dev küpte insan iskeletleri bulunması gibi arkeolojik keşifler bilim dünyasında ilgi uyandırdı.",
-      "importance": 6,
+      "summary": "Çin'deki Tunç Çağı'na ait aşırı şiddet izleri, Roma Britanya'sındaki ritüel kuyusundan çıkan köpekler, Laos'taki dev küpteki insan iskeletleri ve Mohenjo-daro'daki eşitsizlik azalması gibi arkeolojik bulgular tarih dünyasını aydınlattı.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
@@ -775,34 +709,100 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Sosyal Medya ve Çevrimiçi Platformlarda Kesintiler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "TikTok, ChatGPT, X (Twitter), WhatsApp ve Instagram gibi popüler sosyal medya ve çevrimiçi platformlarda yaşanan küresel kesintiler, kullanıcılar arasında erişim sorunlarına yol açtı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (20 Mayıs 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-20-mayis-2026_176278.html",
+          "also_in": []
+        },
+        {
+          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (20 Mayıs 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-20-mayis-2026_178116.html",
+          "also_in": []
+        },
+        {
+          "title": "X (Twitter) çöktü mü? (20 Mayıs 2026) Hata bildirim raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-20-mayis-2026-hata-bildirim-raporu_178117.html",
+          "also_in": []
+        },
+        {
+          "title": "WhatsApp çöktü mü? 20 Mayıs’ta erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-20-mayisda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
+          "also_in": []
+        },
+        {
+          "title": "Instagram çöktü mü? (20 Mayıs 2026) Instagram neden açılmıyor? Son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/instagram-coktu-mu-20-mayis-2026-instagram-neden-acilmiyor-son-24-saat-kesinti-raporu_178120.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Rick and Morty'den Sinema Filmi ve Yeni Bölüm Haberleri",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Popüler animasyon dizisi Rick and Morty'nin 90 dakikalık bir filmle beyaz perdeye taşınacağı ve dev bir bölüm olarak geleceği haberleri, hayranları arasında büyük heyecan yarattı.",
+      "importance": 6,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Rick and Morty filmi sonunda doğrulandı: 90 dakikalık dev bölüm gibi olacak",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/rick-and-morty-filmi-sonunda-dogrulandi-90-dakikalik-dev-bolum-gibi-olacak_180470.html",
+          "also_in": []
+        },
+        {
+          "title": "Rick and Morty sinemaya taşınıyor: Film için beklenen açıklama geldi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/rick-and-morty-filmi-icin-beklenen-aciklama-geldi--205884",
+          "also_in": []
+        },
+        {
+          "title": "Rick ve Morty Hayranlarına Müjde: Beyaz Perde Macerası İçin İlk Resmi Adımlar Atıldı",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/rick-ve-morty-the-movie-beyaz-perde-macerasi-icin-ilk-resmi-adimlar",
+          "also_in": []
+        }
+      ]
     }
   ],
   "artwork": {
-    "title": null,
-    "artist": "Piet Mondrian",
-    "year": null,
-    "form": null,
-    "medium": null,
-    "location": null,
-    "description": null,
-    "verified": false,
-    "wikipedia_url": null,
-    "wikipedia_extract": null,
-    "image_url": null,
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Piet_Mondrian"
+    "title": "Homage to New York",
+    "artist": "Jean Tinguely",
+    "year": "1960",
+    "form": "Performance/Installation/Sculpture",
+    "medium": "Self-destructing kinetic sculpture, performance art",
+    "location": "Initially performed at the Museum of Modern Art Sculpture Garden, New York City",
+    "description": "Sanatçının hurda parçalardan yapılmış ve kendi kendini yok etmek üzere tasarlanmış bu eseri, modern dünyanın hızını, tüketim çılgınlığını ve teknolojik gelişiminin kontrol dışı dinamizmini sembolize eder. Sadece kısa bir süre var olan bu performans, yaratım ve yıkım arasındaki döngüye dair güçlü bir yorum sunar.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Homage_to_the_Square",
+    "wikipedia_extract": "Homage to the Square is the title of a series of paintings produced by Josef Albers between 1950 and his death in 1976. In 1971, the paintings were the subject of the first solo show devoted to a living artist at the Metropolitan Museum of Art. There are over 1000 works within the series. Albers used this series as a color study, to show the differences in how color behaves when painted in a pure form.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Josef_Albers%27_Studies_for_Homage_to_the_Square.jpg/3840px-Josef_Albers%27_Studies_for_Homage_to_the_Square.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Jean_Tinguely"
   },
   "music": {
-    "title": "Iron",
-    "artists": "Woodkid",
-    "album": "Iron",
-    "duration": "3:07",
-    "spotify_url": "https://open.spotify.com/track/0j1VVFif10Ib9s3U59adli",
-    "spotify_id": "0j1VVFif10Ib9s3U59adli",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273cb833e941e1ba35590da5c6b",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0j1VVFif10Ib9s3U59adli\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Block Rockin' Beats",
+    "artists": "The Chemical Brothers",
+    "album": "Dig Your Own Hole",
+    "duration": "5:13",
+    "spotify_url": "https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp",
+    "spotify_id": "1FNvrp5K02oThumS6gllzp",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273df9f87a1ff07a1bb500ad75f",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1FNvrp5K02oThumS6gllzp\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null,
-    "suggested_genre": null,
-    "suggested_mood": null
+    "suggested_genre": "Big Beat",
+    "suggested_mood": "Enerjik, sürükleyici, güçlü, kentsel, dinamik"
   },
-  "curator_statement": null
+  "curator_statement": "Bugünün küresel arenadaki siyasi gerilimler, teknolojik çığırlar ve toplumsal dalgalanmalarla şekillenen dinamik ruhunu yakalamak için Jean Tinguely'nin 'Homage to New York' adlı çığır açan performansını seçtim. Bu kendi kendini yok eden kinetik heykel, modern dünyanın karmaşık, kontrol dışı enerjisini ve sürekli değişim halindeki doğasını mükemmel bir şekilde yansıtır; bir yandan yeniliği sergilerken, diğer yandan sistemlerin kırılganlığına işaret eder. The Chemical Brothers'ın 'Block Rockin' Beats' parçası ise bu atmosfere eşlik eden kusursuz bir ritim sunar. Sürükleyici elektronik vuruşları ve güçlü enerjisi, günün hızlı akışını, teknolojik ivmeyi ve uluslararası sahadaki gerilimli dinamikleri çağrıştırır. Her iki eser de yaratımın ve yıkımın iç içe geçtiği, sürekli hareket halinde olan çağımızın özünü yakalar."
 }
