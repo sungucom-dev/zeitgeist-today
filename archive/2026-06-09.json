@@ -1,0 +1,892 @@
+{
+  "date": "2026-06-09",
+  "date_human": "09 June 2026",
+  "generated_at": "2026-06-09T18:07:27.686218+00:00",
+  "stats": {
+    "feeds_collected": 267,
+    "news_total": 5242,
+    "news_analyzed": 609,
+    "clusters": 18
+  },
+  "mood": {
+    "description": "Türkiye'de gündem, teknoloji ve spor alanlarında yoğun bir gün yaşanırken, ekonomi ve diplomasi de önemli gelişmelerle takip edildi.",
+    "dominant_emotion": "Hareketlilik",
+    "key_themes": [
+      "Teknoloji ve Yapay Zeka",
+      "Spor Transferleri ve Gelişmeler",
+      "Ekonomi ve Finansal Durum",
+      "Uluslararası İlişkiler ve Diplomasi",
+      "Kültür ve Sanat Etkinlikleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-06-09",
+        "code": 80,
+        "temp_max": 33.4,
+        "temp_min": 21.2
+      },
+      {
+        "date": "2026-06-10",
+        "code": 3,
+        "temp_max": 33.2,
+        "temp_min": 20.9
+      },
+      {
+        "date": "2026-06-11",
+        "code": 2,
+        "temp_max": 33.1,
+        "temp_min": 19.6
+      },
+      {
+        "date": "2026-06-12",
+        "code": 3,
+        "temp_max": 33.3,
+        "temp_min": 18.9
+      },
+      {
+        "date": "2026-06-13",
+        "code": 80,
+        "temp_max": 28.8,
+        "temp_min": 19.6
+      },
+      {
+        "date": "2026-06-14",
+        "code": 1,
+        "temp_max": 29.6,
+        "temp_min": 17.3
+      },
+      {
+        "date": "2026-06-15",
+        "code": 0,
+        "temp_max": 31.2,
+        "temp_min": 20.6
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Teknoloji ve Yapay Zeka Yenilikleri",
+      "meta_category": "Teknoloji",
+      "summary": "Apple, Samsung, Google gibi dev şirketlerin yeni ürün ve yazılımları tanıtılırken, yapay zeka teknolojilerinin gelişimi ve uygulamaları öne çıktı. Siber güvenlik ve veri gizliliği konuları da gündemdeki yerini korudu.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cannes Lions 2026: Yaratıcılık, teknoloji ve kültürün kesişim noktası",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/cannes-lions-2026-yaraticilik-teknoloji-ve-kulturun-kesisim-noktasi/",
+          "also_in": []
+        },
+        {
+          "title": "Spotify ve Universal Music’ten yapay zekâ hamlesi",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/spotify-ve-universal-musicten-yapay-zeka-hamlesi/",
+          "also_in": []
+        },
+        {
+          "title": "Okul saldırısında büyük skandal: 1 milyon dolarlık yapay zeka katili göremedi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/okul-saldirisinda-buyuk-skandal-1-milyon-dolarlik-yapay-zeka-katili-goremedi_180915.html",
+          "also_in": []
+        },
+        {
+          "title": "iPhone 17 sahiplerine kötü haber: Yeni yapay zeka her modele gelmiyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/iphone-17-sahiplerine-kotu-haber-yeni-yapay-zeka-her-modele-gelmiyor_180950.html",
+          "also_in": []
+        },
+        {
+          "title": "Yapay zekalı watchOS 27 hangi Apple Watch modellerine geliyor?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/yapay-zekali-watchos-27-hangi-apple-watch-modellerine-geliyor_180947.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Futbol Dünyasında Transfer Hareketliliği ve Kulüp Gelişmeleri",
+      "meta_category": "Spor",
+      "summary": "Türk futbol kulüpleri, özellikle büyük takımlar, transfer döneminde hareketli günler geçirdi. Hem yerli hem de yabancı oyuncular için yapılan hamleler ve teknik direktörlerle ilgili kararlar dikkat çekti.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Eyüpspor'da Atila Gerin ile yollar ayrıldı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/eyupspor/2026/06/09/eyupsporda-atila-gerin-ile-yollar-ayrildi",
+          "also_in": [
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Beşiktaş, PSG'nin 40 milyon euroluk yıldızını istiyor",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/besiktas-psgnin-40-milyon-euroluk-yildizini-istiyor-424188",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Yarım sezonda Aziz Yıldırım'ın gözdesi oldu! Başkan kesinlikle göndermeyecek",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/yarim-sezonda-aziz-yildirimin-gozdesi-oldu-baskan-kesinlikle-gondermeyecek-424192",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Galatasaray'a gelmek için yanıp tutuşuyor! Jhon Duran her şeyi kabul etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/galatasaraya-gelmek-icin-yanip-tutusuyor-jhon-duran-her-seyi-kabul-etti-424191",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Jose Mourinho imza atmadan Galatasaray'a anılan yıldızın ismini çizdi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/jose-mourinho-imza-atmadan-galatasaraya-anilan-yildizin-ismini-cizdi-424196",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Dalgalanmalar ve Küresel Finansal Durum",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Brent petrol fiyatlarındaki düşüş, Hazine ihaleleri, borsa hareketleri ve Fitch Ratings'in küresel ekonomi görünümünü düşürmesi gibi gelişmeler, ekonomik belirsizlikleri ve piyasalardaki durumu yansıttı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Brent petrolün varili 90 doların altına geriledi",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3634379-brent-petrolun-varili-90-dolarin-altina-geriledi",
+          "also_in": [
+            "Elips Haber",
+            "Haberler",
+            "İnternet Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Hazine iki ihaleyle 150,9 milyar lira borçlandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/hazine-iki-ihaleyle-1509-milyar-lira-borclandi-579708",
+          "also_in": [
+            "Haberler",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Fitch Ratings, küresel ekonomi sektör görünümünü \"kötüleşiyor\" seviyesine düşürdü",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/fitch-ratings-kuresel-ekonomi-sektor-gorunumunu-kotulesiyor-seviyesine-dusurdu",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "New York borsası yükselişle açıldı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/finans/haberler/new-york-borsasi-yukselisle-acildi-haberi-827960",
+          "also_in": [
+            "Ekonomim",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Borsa günü düşüşle tamamladı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-gune-yukselisle-basladi-haberi-898678",
+          "also_in": [
+            "Haber 7",
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Siyasi Gelişmeler ve Diplomasi Trafiği",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın şehit öğretmenleri anması, dış politika alanında önemli temaslar ve parti içi siyasi gelişmeler gündemdeki yerini aldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, şehit öğretmen Aybüke Yalçın'ı andı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-sehit-ogretmen-aybuke-yalcini-andi-haberi-898805",
+          "also_in": [
+            "Haber 7",
+            "Haber Global",
+            "Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "MHP'de 3 il başkanlığı daha feshedildi",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/mhpde-3-il-baskanligi-daha-feshedildi-2446267h.htm",
+          "also_in": [
+            "İstiklal",
+            "Sözcü Gündem",
+            "Sputnik",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Rusya: Avrupa, Ukrayna krizinin çözüm sürecinde arabuluculuk rolünden uzak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/rusya-avrupa-ukrayna-krizinin-cozum-surecinde-arabuluculuk-rolunden-uzak",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Dışişleri Bakanı Fidan yeni büyükelçilik görevlerini tebliğ etti",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/disisleri-bakani-fidan-yeni-buyukelcilik-gorevlerini-teblig-etti-1005125.html",
+          "also_in": [
+            "Bengütürk",
+            "Haberler",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Başkan Erdoğan, şehit öğretmen Aybüke Yalçın'ı andı",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-sehit-ogretmen-aybuke-yalcini-andi/haber-1673520",
+          "also_in": [
+            "Sabah",
+            "Yeni Asır Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültür, Sanat ve Eğlence Dünyasından Haberler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Sinema, müzik, edebiyat ve festival haberleri, kültürel etkinlikler ve sanat dünyasındaki gelişmeler bu kategoride yer aldı. Yeni film ve dizi duyuruları, müzik albümleri ve sanat sergileri dikkat çekti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cannes Lions 2026: Yaratıcılık, teknoloji ve kültürün kesişim noktası",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/cannes-lions-2026-yaraticilik-teknoloji-ve-kulturun-kesisim-noktasi/",
+          "also_in": []
+        },
+        {
+          "title": "Ant-Man İçin Yolun Sonu Geldi Mi?: Marvel Evreninde Scott Lang İçin Yeni Dönem",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000207932/",
+          "also_in": []
+        },
+        {
+          "title": "Ridley Scott’ın “The Dog Stars” Filminden Yeni Fragman ve Afiş Geldi",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000207906/",
+          "also_in": []
+        },
+        {
+          "title": "John Krasinski, \"Jack Ryan\" Defterini Kapatıyor!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000207899/",
+          "also_in": []
+        },
+        {
+          "title": "Marvel Tarihinde Yeni Rekor: \"Spider-Man: Brand New Day\" Serinin En Uzun Filmi Olacak!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000207896/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Toplumsal Konular ve Günlük Yaşamdan Haberler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Sıfır Atık Festivali gibi çevresel etkinlikler, obezite tedavisi, ekran bağımlılığı gibi toplumsal sorunlar ve günlük yaşamla ilgili çeşitli konular haberlerde yer aldı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Tarımsal Atıklar Atık Suları Temizlemek İçin Kullanılabilir!",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/tarimsal-atiklar-atik-sulari-temizlemek-icin-kullanilabilir-23171",
+          "also_in": []
+        },
+        {
+          "title": "Sıradaki Türdiriltimi Hedefi: Mavi Antilop!",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/siradaki-turdiriltimi-hedefi-mavi-antilop-22865",
+          "also_in": []
+        },
+        {
+          "title": "Akaryakıt Tabancası Yakıtın Dolduğunu Nasıl Anlayıp “Tak” Diye Atıyor? - Ekşi Şeyler",
+          "source": "Ekşi Şeyler",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRC1tT0dsT0hkbjJRalNGQ05ZNHhhaEFsVzMwTWpEeFFQVnhXUFptQmg5MEpuT1NzdnhCTEFXNUEzbnFnM01Uak9lQVNvT1RtMEhDRjNJRXJKbi15RVMxU0FDZzJJSUl2bS1ZRW4zOFNzZnZOazNhbFk0MmF2TWhqcTFhVllPWXNEUnpoTUlJMkJ5cEpV?oc=5",
+          "also_in": []
+        },
+        {
+          "title": "Bir Üzüm Nasıl Olur da Mikrodalgada Alev Topuna Dönüşür? - Ekşi Şeyler",
+          "source": "Ekşi Şeyler",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYW9pZkhPVmdwdkZoZmF1aXllZnlNczBqeUFqNkRiRWlzYjFzS0Q1QnNqM3Z4NTRkbUxuNWVmSkNPNTU1bWp5bEc4UEoxS0hKWVpod1RuQlBGUC1lcno5aEtmNGlhaDUxRWl5UmU1TEVXYmRfMFA3ZDQxbTYwYTQzSGhYdmI?oc=5",
+          "also_in": []
+        },
+        {
+          "title": "Pas İçin Gerekli Koşulların Bulunmadığı Ay Nasıl Paslanabiliyor? - Ekşi Şeyler",
+          "source": "Ekşi Şeyler",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOczcyQW16MjVuVllxRlJHaEoyTVFtZGo1dFZNR1BYVl9CZC1YazdPOHNrWHpfQm9CQUtsMGwzSXZmNlBpNmdtbk9OY29QaThyeWhJbWJCUWw3UGNUYlBBajRsZFZOZnhhUkJ6Szc1ZHJ1c3d0WVFMTFF0RTROdXZZWmktWUR2QUZaWkFZclI4bw?oc=5",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bilimsel Keşifler ve Tarihi Buluntular",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Güneş Sistemi dışı atmosfer keşfi, tarımsal atıkların su temizliğinde kullanımı gibi bilimsel çalışmaların yanı sıra, Roma su kemeri, hamam terlikleri gibi tarihi buluntular da dikkat çekti.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Güneş Sistemi'nin Dışındaki Küçük ve Donmuş Bir Dünyada Atmosfer Bulundu!",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/gunes-sisteminin-disindaki-kucuk-ve-donmus-bir-dunyada-atmosfer-bulundu-23133",
+          "also_in": []
+        },
+        {
+          "title": "Tarımsal Atıklar Atık Suları Temizlemek İçin Kullanılabilir!",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/tarimsal-atiklar-atik-sulari-temizlemek-icin-kullanilabilir-23171",
+          "also_in": []
+        },
+        {
+          "title": "Yer Bilimleri Bağlamında Jeoarkeoloji: Günümüz, Neden Geçmişin Anahtarıdır?",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/yer-bilimleri-baglaminda-jeoarkeoloji-gunumuz-neden-gecmisin-anahtaridir-22931",
+          "also_in": []
+        },
+        {
+          "title": "İnkalardan Çok Önce Peru’da Evlilik ve Göç Ağları Ortaya Çıkıyor",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/inkalardan-cok-once-peruda-evlilik-ve-goc-aglari-ortaya-cikiyor/",
+          "also_in": []
+        },
+        {
+          "title": "Slovakya’da İlk Defa Roma Su Kemeri Bulundu",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/slovakyada-ilk-defa-roma-su-kemeri-bulundu/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayii Gelişmeleri ve Uluslararası Tatbikatlar",
+      "meta_category": "Savunma ve Sanayi",
+      "summary": "Türkiye'nin savunma sanayii projelerindeki ilerlemeler ve uluslararası savunma işbirlikleri ile tatbikatlar haberlerde yer buldu. Almanya ve Fransa'nın savaş uçağı programlarını iptal etmesi de dikkat çeken bir gelişme oldu.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Oyun dünyasında Nazi sembolü krizi: Slav mitolojisi nasıl SS amblemine döndü?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/oyun-dunyasinda-nazi-sembolu-krizi-slav-mitolojisi-nasil-ss-amblemine-dondu_180910.html",
+          "also_in": []
+        },
+        {
+          "title": "Almanya ve Fransa, 100 milyar euroluk 6.nesil savaş uçağı programını sonlandırdı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/almanya-ve-fransa-6-nesil-savas-ucagi-programini-sonlandirdi--206602",
+          "also_in": []
+        },
+        {
+          "title": "Florentino Perez'in Los Galacticos planına Atletico Madrid engeli: 150 milyon euroyu reddettiler",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/florentino-perezin-los-galacticos-planina-atletico-madrid-engeli-150-milyon-euroyu-reddettiler-424199",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Pentagon kara listesini güncelledi",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/pentagon-kara-listesini-guncelledi",
+          "also_in": []
+        },
+        {
+          "title": "Deniz Güvenliği Konferansı’nda CANiK imzası",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/deniz-guvenligi-konferansinda-canik-imzasi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siber Güvenlik ve Teknoloji Altyapısındaki Riskler",
+      "meta_category": "Teknoloji",
+      "summary": "IP adreslerinin korunması, Docker Hub imajlarındaki riskler ve siber saldırılara karşı alınan önlemler gibi konular, dijital güvenlik endişelerini gündeme getirdi.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "IP adresinizin siber korsanların eline geçmesini nasıl engellersiniz?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/ip-adresinizin-siber-korsanlarin-eline-gecmesini-nasil-engellersiniz_180916.html",
+          "also_in": []
+        },
+        {
+          "title": "Docker Hub imajlarında büyük tehlike: Popüler imajların %64'ü riskli",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/docker-hub-imajlarinda-buyuk-tehlike-populer-imajlarin-64u-riskli_180917.html",
+          "also_in": []
+        },
+        {
+          "title": "Mühendislerin prototip yükünü azaltan yerli yazılım",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/muhendislerin-prototip-yukunu-azaltan-yerli-yazilim_180929.html",
+          "also_in": []
+        },
+        {
+          "title": "Milyon dolarlık ceza yetmedi, WhatsApp kullanıcılarına yönelik siber operasyon deşifre oldu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/milyon-dolarlik-ceza-yetmedi-whatsapp-kullanicilarina-yonelik-siber-operasyon-desifre-oldu_180913.html",
+          "also_in": []
+        },
+        {
+          "title": "Minecraft modlarında gizlenen virüs ile 116 bin oyuncunun kamerasına sızdılar",
+          "source": "IGN Türkiye",
+          "link": "https://tr.ign.com/minecraft/134272/minecraft-modlarinda-gizlenen-virus-ile-116-bin-oyuncunun-kamerasina-sizdilar",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Otomotiv Sektöründeki Yeni Modeller ve Teknolojiler",
+      "meta_category": "Teknoloji",
+      "summary": "Otomotiv devlerinin yeni modelleri, elektrikli araç teknolojileri ve sürücü destek sistemlerindeki gelişmeler haberlerde geniş yer buldu. Türkiye'de de yeni otomobil modellerinin satışa sunulması ve takas sistemlerinin gündeme gelmesi dikkat çekti.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Apple, İPhone 17 Pro ile birlikte titanyumu neden terk etti?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/apple-iphone-17-pro-ile-birlikte-titanyumu-neden-terk-etti_180899.html",
+          "also_in": []
+        },
+        {
+          "title": "Gösterge paneli sırrı ele verdi: Yeni e-208 GTi beklenenden daha uzun yol gidecek",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/gosterge-paneli-sirri-ele-verdi-yeni-e-208-gti-beklenenden-daha-uzun-yol-gidecek_180943.html",
+          "also_in": []
+        },
+        {
+          "title": "Opel milyar euroluk kumbarayı açtı: Çin altyapılı yeni C-SUV yolda",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/opel-milyar-euroluk-kumbarayi-acti-cin-altyapili-yeni-c-suv-yolda_180926.html",
+          "also_in": []
+        },
+        {
+          "title": "Samsung, AB’nin akıllı cihazlar için enerji tasarrufu protokolünü imzaladı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/samsung-abnin-akilli-cihazlar-icin-enerji-tasarrufu-protokolunu-imzaladi_180918.html",
+          "also_in": []
+        },
+        {
+          "title": "Tesla'nın tam otonom sürüş (FSD) sistemi Avrupa'da yayılıyor: Bir ülke daha onay verdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/avrupa-da-tesla-fsd-ruzgari-yeni-onay-geldi--206645",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlık Alanındaki Gelişmeler ve Tedavi Yöntemleri",
+      "meta_category": "Sağlık",
+      "summary": "Obezite tedavisinde yeni yöntemler, kanser tedavisi ve beslenme alışkanlıklarının ruh sağlığına etkileri gibi sağlık konuları haberlerde yer aldı.",
+      "importance": 3,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Her kış aşı olmaya son: Mutasyonları önceden tahmin eden \"iğnesiz aşı\" geliştirildi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/her-kis-asi-olmaya-son-mutasyonlari-onceden-tahmin-eden-ignesiz-asi-gelistirildi_180871.html",
+          "also_in": []
+        },
+        {
+          "title": "Kanser tedavisinde yeni umutlar, eski sorunlar",
+          "source": "Fikir Turu",
+          "link": "https://fikirturu.com/saglik/kanser-tedavisinde-yeni-umutlar-eski-sorunlar/",
+          "also_in": []
+        },
+        {
+          "title": "Obezite tedavisinde sessiz devrim: Yutulabilir mide balonu",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/is-dunyasi/obezite-tedavisinde-sessiz-devrim-yutulabilir-mide-balonu-2510835",
+          "also_in": [
+            "Haberler",
+            "Karar",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Rejeneratif fizyoterapiye ilgi artıyor: Hücresel düzeyde iyileşmeyi hedefleyen teknolojiler öne çıkıyor",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/is-dunyasi/rejeneratif-fizyoterapiye-ilgi-artiyor-hucresel-duzeyde-iyilesmeyi-hedefleyen-teknolojiler-one-cikiyor-2510836",
+          "also_in": [
+            "Haberler",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Giresun yağlı fındığının \"formaldehit\" kaynaklı kısırlık tedavisindeki etkisi araştırıldı",
+          "source": "Diyanet Haber",
+          "link": "https://www.diyanethaber.com.tr/giresun-yagli-findiginin-formaldehit-kaynakli-kisirlik-tedavisindeki-etkisi-arastirildi",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Eğitim ve Gençlik Faaliyetleri",
+      "meta_category": "Eğitim",
+      "summary": "LGS'ye hazırlık, yaz dönemi spor okulları ve gençlik merkezleri gibi eğitim ve gençlik faaliyetleri ile ilgili haberler yer aldı.",
+      "importance": 3,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Popüler nişancı oyunları için özel mühendislik dönemi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/populer-nisanci-oyunlari-icin-ozel-muhendislik-donemi_180928.html",
+          "also_in": []
+        },
+        {
+          "title": "\"Dijital Anafor\" zirvesinde ekran bağımlılığına çözüm aranacak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/dijital-anafor-zirvesinde-ekran-bagimliligina-cozum-aranacak",
+          "also_in": [
+            "Beyaz Gazete",
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "GSB spor okullarında yaz dönemi başlıyor",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/spor/gsb-spor-okullarinda-yaz-donemi-basliyor/460000",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "Malatya’da Dijital Gençlik Merkezi hizmete açıldı",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/malatya/malatyada-dijital-genclik-merkezi-hizmete-acildi/459987",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "LGS'ye girecek öğrenciler için 'son hafta' uyarısı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/yasam/lgs-ye-girecek-ogrenciler-icin-son-hafta-uyarisi-2510766",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İklim ve Çevre Konuları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Sıfır Atık Festivali gibi çevre bilincini artırmaya yönelik etkinlikler ve su kaynaklarının önemi vurgulandı.",
+      "importance": 2,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Tarımsal Atıklar Atık Suları Temizlemek İçin Kullanılabilir!",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/tarimsal-atiklar-atik-sulari-temizlemek-icin-kullanilabilir-23171",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye’nin ilk ekolojik sanayi sitesi kuruluyor",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/is-dunyasi/turkiye-nin-ilk-ekolojik-sanayi-sitesi-kuruluyor-2510834",
+          "also_in": [
+            "Karar",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Bakan Yumaklı: Türkiye Su Atlası, geçmişle geleceğin arasında köprü kuran bir çalışma",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/bakan-yumakli-turkiye-su-atlasi-gecmisle-gelecegin-arasinda-kopru-kuran-bir-calisma-1005123.html",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Bakan Yumaklı: Suyu kaybeden geleceğini de kaybeder",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/bakan-yumakli-suyu-kaybeden-gelecegini-de-kaybeder-271147h",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "İpsala'da mera yangını: İtfaiye seferber oldu",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/yasam/ipsalada-mera-yangini-itfaiye-seferber-oldu-528861",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Geleceğin Oyunları ve Oyuncu Deneyimleri",
+      "meta_category": "Teknoloji",
+      "summary": "Popüler oyunlar ve oyun platformlarındaki yenilikler, yeni oyun duyuruları ve oyuncu deneyimlerini iyileştirmeye yönelik teknolojiler haberlerde yer aldı.",
+      "importance": 2,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "PC, Konsol ve Mobil Cihazları Tek Kulaklıkta Buluşturan Premium Oyuncu Kulaklığı | SteelSeries Arctis Nova Pro Omni İnceleme",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/pc-konsol-ve-mobil-cihazlari-tek-kulaklikta-bulusturan-premium-oyuncu-kulakligi-steelseries-arctis-nova-pro-omni-inceleme_180884.html",
+          "also_in": []
+        },
+        {
+          "title": "Popüler nişancı oyunları için özel mühendislik dönemi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/populer-nisanci-oyunlari-icin-ozel-muhendislik-donemi_180928.html",
+          "also_in": []
+        },
+        {
+          "title": "Docker Hub imajlarında büyük tehlike: Popüler imajların %64'ü riskli",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/docker-hub-imajlarinda-buyuk-tehlike-populer-imajlarin-64u-riskli_180917.html",
+          "also_in": []
+        },
+        {
+          "title": "Xbox itiraf etti: Zam nedeniyle milyonlarca Game Pass abonesini kaybettik",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/xbox-itiraf-etti-zam-nedeniyle-milyonlarca-game-pass-abonesini-kaybettik_180948.html",
+          "also_in": []
+        },
+        {
+          "title": "Oyun dünyasında Nazi sembolü krizi: Slav mitolojisi nasıl SS amblemine döndü?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/oyun-dunyasinda-nazi-sembolu-krizi-slav-mitolojisi-nasil-ss-amblemine-dondu_180910.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Uluslararası İlişkiler ve Çatışmalar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Rusya-Avrupa ilişkileri, Orta Doğu'daki gelişmeler ve uluslararası yaptırımlar gündemdeki yerini korudu. Ukrayna krizi ve Gazze'deki durumla ilgili haberler de dikkat çekti.",
+      "importance": 2,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Rusya: Avrupa, Ukrayna krizinin çözüm sürecinde arabuluculuk rolünden uzak",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/rusya-avrupa-ukrayna-krizinin-cozum-surecinde-arabuluculuk-rolunden-uzak",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "İsrail Parlamentosu, Filistin'in vergi gelirlerinden kesinti yapılmasını öngören yasayı kabul etti",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/israil-parlamentosu-filistinin-vergi-gelirlerinden-kesinti-yapilmasini-ongoren-yasayi-kabul-etti",
+          "also_in": [
+            "Independent Türkçe",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Guterres’ten Orta Doğu için acil çağrı: Tüm saldırılar durmalı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/guterresten-orta-dogu-icin-acil-cagri-tum-saldirilar-durmali",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Avrupa'dan Rusya'ya yeni yaptırım paketi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/avrupadan-rusyaya-yeni-yaptirim-paketi",
+          "also_in": [
+            "Demokrat Haber"
+          ]
+        },
+        {
+          "title": "Hamas'tan Gazze'de ateşkes anlaşmasına ilişkin açıklama!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/hamastan-gazzede-ateskes-anlasmasina-iliskin-aciklama",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültürel Miras ve Arkeolojik Keşifler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Tarihi yapıların korunması, arkeolojik buluntular ve kültürel mirasın korunmasına yönelik çalışmalar haberlerde yer aldı.",
+      "importance": 1,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İnkalardan Çok Önce Peru’da Evlilik ve Göç Ağları Ortaya Çıkıyor",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/inkalardan-cok-once-peruda-evlilik-ve-goc-aglari-ortaya-cikiyor/",
+          "also_in": []
+        },
+        {
+          "title": "Slovakya’da İlk Defa Roma Su Kemeri Bulundu",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/slovakyada-ilk-defa-roma-su-kemeri-bulundu/",
+          "also_in": []
+        },
+        {
+          "title": "Karayipler'de tarihi keşif: 300 yıllık gerçek korsan gemileri bulundu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/karayiplerde-tarihi-kesif-300-yillik-gercek-korsan-gemileri-bulundu_180844.html",
+          "also_in": []
+        },
+        {
+          "title": "Antik Çağdan Dünya Savaşlarına: Tarihin En Acımasız Düşmanlıkları - Ekşi Şeyler",
+          "source": "Ekşi Şeyler",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanZQN2xlRlVjNDMwMlNZYWd4RDNoRnhLRl9DTzN2OV9fMkRMandnWHhjN2o3VDNCZHZuRFVFOFQ5dmhTNDhrbTA0OEN5NHRHWnNWRnRUMHRxRXJrWkNnWEExekVhNVIxdUt1eE90QkZXSEoyRmZOdy10Y0E3Q2o1NGpaZ201eTluUzBmMmV3aUU?oc=5",
+          "also_in": []
+        },
+        {
+          "title": "Astronomi ve Mitoloji #15: Gemini (İkizler) Takımyıldızı",
+          "source": "Bilimkurgu Kulübü",
+          "link": "https://www.bilimkurgukulubu.com/genel/inceleme/astronomi-ve-mitoloji-15-gemini-ikizler-takimyildizi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sosyal Medya ve Dijital İletişim Platformları",
+      "meta_category": "Teknoloji",
+      "summary": "Sosyal medya platformlarındaki kesintiler, yeni özellikler ve dijital dünyanın kullanıcılar üzerindeki etkileri haberlerde yer aldı.",
+      "importance": 1,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Günün Kampanyası: Uber Eats’ten Gordon Ramsay’li Dünya Kupası kampanyası",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/genel/gunun-kampanyasi-uber-eatsten-gordon-ramsayli-dunya-kupasi-kampanyasi/",
+          "also_in": []
+        },
+        {
+          "title": "X (Twitter) çöktü mü? (9 Haziran 2026) Hata bildirim raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-9-haziran-2026-hata-bildirim-raporu_178117.html",
+          "also_in": []
+        },
+        {
+          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (9 Haziran 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-9-haziran-2026_176278.html",
+          "also_in": []
+        },
+        {
+          "title": "WhatsApp çöktü mü? 9 Haziran’da erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-9-haziranda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
+          "also_in": []
+        },
+        {
+          "title": "Instagram çöktü mü? (9 Haziran 2026) Instagram neden açılmıyor? Son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/instagram-coktu-mu-9-haziran-2026-instagram-neden-acilmiyor-son-24-saat-kesinti-raporu_178120.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Uzay ve Havacılık Teknolojileri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Uzay modası, uzay görevleri ve havacılık teknolojilerindeki gelişmeler haberlerde yer aldı.",
+      "importance": 1,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Prada x Axiom Space’ten uzay modasında dev ortaklık",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/genel/prada-x-axiom-spaceten-uzay-modasinda-dev-ortaklik/",
+          "also_in": []
+        },
+        {
+          "title": "Havacılık tarihinde eşi benzeri yok: Acil durumda uçağın altından atlayan pilotlar",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/havacilik-tarihinde-esi-benzeri-yok-acil-durumda-ucagin-altindan-atlayan-pilotlar_180895.html",
+          "also_in": []
+        },
+        {
+          "title": "Airbus, insansız otonom helikopteri U145’i tanıttı: İlk uçuşu bu yıl",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/airbus-insansiz-helikopteri-u145-i-tanitti-ilk-ucusu-bu-yil--206638",
+          "also_in": []
+        },
+        {
+          "title": "NASA, Artemis III'te aya gidecek mürettebatını açıkladı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/nasa-artemis-iii-te-aya-gidecek-murettebatini-acikladi-3779486",
+          "also_in": []
+        },
+        {
+          "title": "Trump: İran'ın helikopter saldırısına karşılık vermek zorundayız",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/trump-iran-in-helikopter-saldirisina-karsilik-vermek-zorundayiz-3779485",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Thinker",
+    "artist": "Auguste Rodin",
+    "year": "1904 (bronze cast)",
+    "form": "heykel",
+    "medium": "Bronze",
+    "location": "Musée Rodin, Paris (veya dünyanın çeşitli müzelerinde ve koleksiyonlarında)",
+    "description": "Düşünce ve felsefenin somutlaşmış hali olan bu bronz heykel, insanın içsel sorgulamalarını ve entelektüel çabasını temsil eder. Günümüzün teknoloji, spor ve ekonomi gibi hızlı ilerleyen gündeminde, insanın derinlemesine düşünme ihtiyacını ve zihinsel eylemin gücünü hatırlatır.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Thinker",
+    "wikipedia_extract": "The Thinker, by Auguste Rodin, is a bronze sculpture depicting a nude male figure of heroic size, seated on a large rock, leaning forward, his right elbow placed upon his left thigh, with the back of his right hand supporting his chin in a posture evocative of deep thought and contemplation. This universally recognized expression of \"deep thought\" has made the sculpture one of the most widely known artworks in the world. It has become the iconic symbol of thinking; images of the sculpture in profile are often used to indicate philosophy and other practices of contemplation or introspection.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+  },
+  "music": {
+    "title": "Genesis",
+    "artists": "Grimes",
+    "album": "Visions",
+    "duration": "4:15",
+    "spotify_url": "https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X",
+    "spotify_id": "0yljUudXzjVcGEoYmLB17X",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273918fee4073aa392349123e63",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0yljUudXzjVcGEoYmLB17X\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": null
+}

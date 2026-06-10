@@ -23,7 +23,7 @@ load_dotenv()
 INPUT_FILE = "day_analysis.json"
 OUTPUT_FILE = "curation.json"
 ARCHIVE_DIR = Path("archive")
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.1-flash-lite"
 USER_AGENT = "ZeitgeistToday/1.0 (https://sungu.com; personal project)"
 MAX_ATTEMPTS = 3
 HISTORY_DAYS = 60
