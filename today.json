@@ -1,21 +1,22 @@
 {
-  "date": "2026-06-15",
-  "date_human": "15 June 2026",
-  "generated_at": "2026-06-15T09:50:30.195415+00:00",
+  "date": "2026-06-16",
+  "date_human": "16 June 2026",
+  "generated_at": "2026-06-16T07:02:44.589965+00:00",
   "stats": {
-    "feeds_collected": 270,
-    "news_total": 4037,
-    "news_analyzed": 593,
+    "feeds_collected": 269,
+    "news_total": 5113,
+    "news_analyzed": 608,
     "clusters": 10
   },
   "mood": {
-    "description": "Siyasetin yarattığı jeopolitik iyimserlik rüzgarları piyasalara yansırken, spor sahalarındaki hayal kırıklıkları ve teknolojik belirsizliklerle dolu, değişken bir atmosfer hakim.",
+    "description": "Küresel jeopolitik yumuşama ve piyasalardaki rahatlama ile başlayan, ancak yerel belediye operasyonları ve vefat haberleriyle gölgelenen, teknolojinin ve sporun yoğun gündemiyle harmanlanmış hareketli bir gün.",
     "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "ABD-İran barış mutabakatı ve küresel piyasalara etkisi",
-      "Dünya Kupası heyecanı ve Milli Takım'ın performansı",
-      "Yapay zeka ve teknoloji sektöründeki radikal değişimler",
-      "Türkiye'de konut ve ekonomi politikaları"
+      "ABD-İran jeopolitik mutabakatı ve piyasalara yansıması",
+      "Türkiye'de yerel belediyelere yönelik yolsuzluk/usulsüzlük operasyonları",
+      "Dünya Kupası heyecanı ve spor dünyasındaki büyük değişimler",
+      "Yapay zeka ve dijitalleşmenin toplumsal etkileri",
+      "Ekonomik dengelenme ve enflasyonla mücadele"
     ]
   },
   "weather": {
@@ -24,502 +25,544 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-06-15",
-        "code": 3,
-        "temp_max": 32.1,
-        "temp_min": 16.0
-      },
-      {
         "date": "2026-06-16",
         "code": 1,
-        "temp_max": 34.9,
-        "temp_min": 17.3
+        "temp_max": 34.0,
+        "temp_min": 18.6
       },
       {
         "date": "2026-06-17",
         "code": 3,
-        "temp_max": 34.5,
+        "temp_max": 34.2,
         "temp_min": 19.2
       },
       {
         "date": "2026-06-18",
-        "code": 1,
-        "temp_max": 35.0,
-        "temp_min": 19.9
+        "code": 2,
+        "temp_max": 35.1,
+        "temp_min": 22.2
       },
       {
         "date": "2026-06-19",
-        "code": 1,
-        "temp_max": 32.6,
+        "code": 0,
+        "temp_max": 32.1,
         "temp_min": 21.2
       },
       {
         "date": "2026-06-20",
-        "code": 2,
-        "temp_max": 32.5,
-        "temp_min": 20.5
+        "code": 1,
+        "temp_max": 33.5,
+        "temp_min": 20.8
       },
       {
         "date": "2026-06-21",
         "code": 0,
-        "temp_max": 33.6,
-        "temp_min": 21.1
+        "temp_max": 33.9,
+        "temp_min": 21.4
+      },
+      {
+        "date": "2026-06-22",
+        "code": 0,
+        "temp_max": 34.1,
+        "temp_min": 21.5
       }
     ]
   },
   "clusters": [
     {
-      "title": "ABD-İran Barış Mutabakatı",
+      "title": "ABD-İran Mutabakatı ve Küresel Etkileri",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD ve İran arasında varılan mutabakat küresel piyasaları, petrol fiyatlarını ve Orta Doğu dengelerini kökten etkiledi; imzaların 19 Haziran'da atılması bekleniyor.",
+      "summary": "ABD ve İran arasında imzalanan mutabakat, küresel piyasalarda petrol fiyatlarını etkilerken diplomatik alanda barış beklentilerini artırdı.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "ABD ile İran anlaşmaya vardı",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/dunya/abd-ile-iran-anlasmaya-vardi-271536h",
+          "title": "İsrail basını: Tel Aviv yönetimi ABD-İran mutabakatından rahatsız",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/israil-basini-tel-aviv-yonetimi-abd-iran-mutabakatindan-rahatsiz",
           "also_in": [
-            "Haberet",
-            "Tele1",
+            "Haberler",
             "TRT Haber"
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: ABD ve İran arasında varılan mutabakatı memnuniyetle karşılıyorum",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/cumhurbaskani-erdogan-abd-ve-iran-arasinda-varilan-mutabakati-memnuniyetle-271537h",
+          "title": "İran-ABD anlaştı, İsrail fena karıştı",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/iran-abd-anlasti-israil-fena-karisti-711936/",
           "also_in": [
-            "İşin Detayı",
-            "TRT Haber"
+            "Serbestiyet"
           ]
         },
         {
-          "title": "ABD ve İran anlaşmaya vardı: Hürmüz’de kilit açılıyor, petrol fiyatları çakıldı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/dunya/abd-ve-iran-anlasmaya-vardi-hurmuz-de-kilit-aciliyor-petrol-fiyatlari-cakildi-2512238",
+          "title": "ABD ile İran anlaşmayı imzaladı: Gözler Hürmüz Boğazı'na çevrildi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/abdli-yetkili-iran-ile-mutabakat-zapti-imzalandi",
           "also_in": [
-            "Yurt Gazetesi"
+            "Demokrat Haber"
           ]
         },
         {
-          "title": "ABD-İran Arasında barış mutabakatı: İmzalar 19 Haziran'da atılacak",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/dunya/abd-iran-arasinda-baris-mutabakati-imzalar-19-haziranda-atilacak/460348",
+          "title": "İran basını: 'Hürmüz Boğazı yakınlarında 3 patlama sesi duyuldu'",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/dunya/iran-basini-hurmuz-bogazi-yakinlarinda-3-patlama-sesi-duyuldu-haberi-900072",
           "also_in": [
-            "Bir Gazete"
+            "Haberler"
           ]
         },
         {
-          "title": "ABD ve İran anlaştı: Enerji fiyatları gerilemeye başladı",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/ekonomi/abd-ve-iran-anlasti-enerji-fiyatlari-gerilemeye-basladi/haber-1674882",
+          "title": "ABD ve İran’dan anlaşma",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/abd-ve-irandan-anlasma",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Türkiye'nin Dünya Kupası Performansı",
-      "meta_category": "Spor",
-      "summary": "A Milli Futbol Takımı'nın Avustralya'ya karşı aldığı mağlubiyet Türkiye genelinde büyük bir hayal kırıklığı ve tartışma konusu oldu.",
+      "title": "Belediyelere 'Usulsüzlük' Operasyonları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İstanbul ve Antalya merkezli belediyelere yönelik düzenlenen operasyonlarda çok sayıda gözaltı ve tutuklama gerçekleşti.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Türkiye'nin mağlubiyeti dünya gündeminde",
+          "title": "Silivri Belediye Başkanı Bora Balcıoğlu tutuklandı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/silivri-belediye-baskani-bora-balcioglu-tutuklandi-347338h",
+          "also_in": [
+            "CGTN Türk",
+            "Gazete Pencere",
+            "Independent Türkçe",
+            "OdaTV",
+            "TGRT Haber",
+            "Yeniçağ Gazetesi",
+            "Veryansın TV",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Beylikdüzü Belediyesi'ne operasyon: 27 gözaltı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/beylikduzu-belediyesine-operasyon-27-gozalti-h1542509",
+          "also_in": [
+            "Independent Türkçe",
+            "Haber Global",
+            "Türkiye Gazetesi",
+            "Sputnik",
+            "İlke TV",
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Antalya Büyükşehir Belediyesine yönelik soruşturmada 10 şüpheli gözaltına alındı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/antalya/antalya-buyuksehir-belediyesine-yonelik-sorusturmada-10-supheli-gozaltina-alindi-3431263",
+          "also_in": [
+            "Diriliş Postası",
+            "Dünya",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Antalya Büyükşehir Belediyesi'nde 'rüşvet' operasyonu: 10 kişi hakkında gözaltı kararı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/06/16/antalya-buyuksehir-belediyesinde-rusvet-operasyonu-10-kisi-hakkinda-gozalti-karari",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "İstanbul merkezli \"usulsüz iskan\" operasyonunda 27 şüpheli yakalandı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/imamoglu-na-yonelik-usulsuz-iskan-operasyonunda-27-gozalti-19953019-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Büyük Değişimler",
+      "meta_category": "Spor",
+      "summary": "Ergin Ataman'ın Panathinaikos ile yollarını ayırması ve Fenerbahçe/Galatasaray'daki köklü transfer hareketliliği spor gündemini belirledi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Panathinaikos'ta Ergin Ataman dönemi sona erdi",
+          "source": "NTV Spor Basketbol",
+          "link": "https://www.ntvspor.net/foto-galeri/panathinaikosta-ergin-ataman-donemi-sona-erdi-424509",
+          "also_in": [
+            "NTV Spor Anasayfa",
+            "Sözcü Spor",
+            "10Haber",
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Fenerbahçe Beko seriyi eşitledi",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/fenerbahce-beko-seriyi-esitledi.html",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "ATAMAN İLE PANATHINAIKOS VEDALAŞTI",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/ataman-ile-panathinaikos-vedalasti.html",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe Beko, Beşiktaş Gain karşısında seride durumu eşitledi!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/06/15/fenerbahce-beko-besiktas-gain-karsisinda-seride-durumu-esitledi",
+          "also_in": []
+        },
+        {
+          "title": "Ergin Ataman, Panathinaikos'tan ayrıldı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/ergin-ataman-panathinaikostan-ayrildi-6933280",
+          "also_in": [
+            "Sputnik"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Piyasa Hareketliliği",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Japonya'nın faiz kararı, Türkiye'deki enflasyonist baskılar ve küresel piyasalardaki dengelenme çabaları öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Beş aylık bütçe açığı 1 trilyon TL'yi aştı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5988350/bes-aylik-butce-acigi-1-trilyon-tlyi-asti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Yurtsever"
+          ]
+        },
+        {
+          "title": "Japonya'da 31 sene sonra bir ilk! Faiz yüzde 1'e çıkarıldı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/japonya-da-31-sene-sonra-bir-ilk-faiz-yuzde-1-e-cikarildi-p328272",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Faiz artıyor: Hazine 2 yıllık borca yüzde 41,93 faiz verdi",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/faiz-artiyor-hazine-2-yillik-borca-yuzde-4193-faiz-verdi-711841/",
+          "also_in": []
+        },
+        {
+          "title": "Japonya Merkez Bankası faizi 30 yılın zirvesine çıkardı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/japonya-merkez-bankasi-faizi-30-yilin-zirvesine-cikardi-3780123",
+          "also_in": []
+        },
+        {
+          "title": "Barış sonrası ilk faiz kararı: Japonya'da faiz yüzde 1'e yükseldi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/faiz/baris-karari-sonrasi-ilk-faiz-karari-japonyada-faiz-yuzde-1e-yukseldi-h31655",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Oyuncu Ece İrtem'in Vefatı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Kızılcık Şerbeti dizisiyle tanınan oyuncu Ece İrtem'in vefatı sanat camiasında üzüntüyle karşılandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "\"Kızılcık Şerbeti\"nin Işıl'ı Ece İrtem Hayatını Kaybetti!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000208732/",
+          "also_in": [
+            "Korkusuz",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Kızılcık Şerbeti Oyuncusu Ece İrtem Hayatını Kaybetti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/kizilcik-serbeti-oyuncusu-ece-irtem-hayatini-kaybetti-1365026",
+          "also_in": [
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "Oyuncu Ece İrtem'in son görüntüleri ortaya çıktı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/oyuncu-ece-irtemin-son-goruntuleri-ortaya-cikti",
+          "also_in": [
+            "F5 Haber",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Oyuncu Ece İrtem hayatını kaybetti",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/kelebek/televizyon/oyuncu-ece-irtem-hayatini-kaybetti-43206121",
+          "also_in": [
+            "Haberler",
+            "Radikal"
+          ]
+        },
+        {
+          "title": "Hayatını kaybeden oyuncu Ece İrtem'in son görüntüleri ortaya çıktı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/hayatini-kaybeden-oyuncu-ece-irtem-in-son-goruntuleri-ortaya-cikti-2512471",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dünya Kupası Maçları",
+      "meta_category": "Spor",
+      "summary": "2026 FIFA Dünya Kupası'nda oynanan maçlar ve sürpriz sonuçlar futbolseverleri ekran başına kilitledi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Belçika ile Mısır yenişemedi",
           "source": "Futboo",
-          "link": "https://www.futboo.com/turkiye-nin-maglubiyeti-dunya-gundeminde/90647/",
+          "link": "https://www.futboo.com/belcika-ile-misir-yenisemedi/90683/",
+          "also_in": [
+            "Futboo",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Belçika ile Mısır puanları paylaştı!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/futbol/2026/06/15/belcika-ile-misir-puanlari-paylasti",
+          "also_in": [
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Suudi Arabistan ile Uruguay maçında da kazanan yok",
+          "source": "Futboo",
+          "link": "https://www.futboo.com/suudi-arabistan-ile-uruguay-macinda-da-kazanan-yok/90689/",
           "also_in": [
             "Futboo"
           ]
         },
         {
-          "title": "Bizim Çocuklar Dünya Kupası'na kötü başladı! A Milli Futbol Takımımız ilk maçında Avustralya'ya kaybetti",
+          "title": "FIFA Dünya Kupası'nda İran ile Yeni Zelanda'nın gol düellosunda kazanan yok! İşte maçın özeti",
           "source": "A Spor",
-          "link": "https://www.aspor.com.tr/milli-takim/2026/06/14/bizim-cocuklar-dunya-kupasina-kotu-basladi-a-milli-futbol-takimimiz-ilk-macinda-avustralyaya-kaybetti",
+          "link": "https://www.aspor.com.tr/futbol/2026/06/15/fifa-dunya-kupasinda-iran-ile-yeni-zelandanin-gol-duellosunda-kazanan-yok-iste-macin-ozeti",
           "also_in": []
         },
         {
-          "title": "Avustralya karşısında A Milli Takımımız penaltı bekledi! İşte o pozisyon",
+          "title": "FIFA Dünya Kupası'nda Suudi Arabistan ile Uruguay yenişemedi! İşte maçın özeti",
           "source": "A Spor",
-          "link": "https://www.aspor.com.tr/milli-takim/2026/06/14/avustralya-karsisinda-a-milli-takimimiz-penalti-bekledi-iste-o-pozisyon",
-          "also_in": []
-        },
-        {
-          "title": "A Milli Takımımız gole çok yaklaştı! Abdülkerim Bardakcı'nın sert şutu direğe takıldı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/milli-takim/2026/06/14/a-milli-takimimiz-gole-cok-yaklasti-abdulkerim-bardakcinin-sert-sutu-direge-takildi",
-          "also_in": []
-        },
-        {
-          "title": "Dünya basını da mağlubiyete şaşırdı!",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/spor/dunya-basini-da-maglubiyete-sasirdi-turkler-duvara-carpti-1797077",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Veriler ve TOKİ Hamlesi",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "TOKİ'nin 64 ilde başlattığı 20 bin konutluk açık satış kampanyası ve Türkiye'nin kredi risk primindeki iyileşme ekonomik gündemin merkezinde.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kura Yok, İkamet Şartı Yok: TOKİ 64 İlde 20 Bin Konut Satışını Başlattı! TOKİ Evleri Başvuru Şartları Netleşti",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/kura-yok-ikamet-sarti-yok-toki-64-ilde-20-bin-konut-satisini-baslatti-toki-evleri-basvuru-sartlari-netlesti-1364973",
-          "also_in": []
-        },
-        {
-          "title": "Türkiye'nin kredi risk primi 225 baz puana geriledi",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/ekonomik-veriler/turkiyenin-kredi-risk-primi-225-baz-puana-geriledi-haberi-828581",
-          "also_in": [
-            "Sözcü",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "TOKİ'den 64 ilde kurasız konut satışı başladı",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/ekonomi/tokiden-64-ilde-kurasiz-konut-satisi-basladi/460347",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        },
-        {
-          "title": "Bakan Kurum: \"TOKİ açık satış kampanyası bugün başlıyor\"",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/cevre/toki-den-64-ilde-20-bin-konutluk-acik-satis-kampanyasi-basladi-19949968-haberi/",
-          "also_in": [
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "TOKİ'nin 64 ildeki 20 bin konut için açık satış kampanyası bugün başlıyor",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/toki-konutlari-acik-satisi-basliyor-en-cok-hangi-il-one-cikiyor-h31578",
+          "link": "https://www.aspor.com.tr/futbol/2026/06/15/fifa-dunya-kupasinda-suudi-arabistan-ile-uruguay-yenisemedi-iste-macin-ozeti",
           "also_in": []
         }
       ]
     },
     {
-      "title": "YKS ve Eğitim Gündemi",
-      "meta_category": "Eğitim",
-      "summary": "Üniversite adayları için YKS maratonu hafta sonu başlıyor, eğitim süresi ve liyakat tartışmaları devam ediyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Üniversite adaylarının YKS maratonu hafta sonu başlıyor",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/universite-adaylarinin-yks-maratonu-hafta-sonu-basliyor/3967285",
-          "also_in": [
-            "Independent Türkçe"
-          ]
-        },
-        {
-          "title": "YKS maratonu hafta sonu başlıyor",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/yks-maratonu-hafta-sonu-basliyor",
-          "also_in": [
-            "Elips Haber"
-          ]
-        },
-        {
-          "title": "LGS sonuçları ne zaman açıklanacak?",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/lgs-2026-sonuc-aciklama-tarihi-lgs-sinav-sonuclari-ne-zaman-aciklanacak-lgs-sonuc-sorgulama-ekrani-3891573",
-          "also_in": [
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "13 yaşındaki çocuklara LGS’de çok tuhaf bir evlilik sorusu soruldu",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/13-yasindaki-cocuklara-lgsde-cok-tuhaf-bir-evlilik-sorusu-soruldu-711632/",
-          "also_in": []
-        },
-        {
-          "title": "Okullar 14 eylülde açılacak",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/okullar-14-eylulde-acilacak-711630/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Teknolojide Yapay Zeka ve Kesintiler",
+      "title": "Savunma Sanayii ve Yerli Üretim",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Google Arama'nın AI odaklı dönüşümü ve ChatGPT Plus zamları ile birlikte dünya genelinde büyük teknoloji platformlarında yaşanan erişim kesintileri dikkat çekti.",
+      "summary": "Türkiye'nin savunma sanayiindeki ihracat başarıları ve uluslararası iş birlikleri Paris ve Tokyo merkezli fuarlarda konuşuldu.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Google Arama, AI ile artık sizin yerinize interneti takip edecek",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-arama-ai-ile-artik-sizin-yerinize-interneti-takip-edecek--206828",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "ChatGPT Plus fiyatına yüzde 100 zam geldi",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/chatgpt-plus-yerel-fiyatlandirma-sona-erdi--206829",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (15 Haziran 2026)",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-15-haziran-2026_176278.html",
+          "title": "TUSAŞ, “En Gözde Şirketler” araştırmasında lider oldu",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/tusas-en-gozde-sirketler-arastirmasinda-lider-oldu",
           "also_in": []
         },
         {
-          "title": "YouTube çöktü mü? (15 Haziran 2026) Son 24 saat hata bildirim raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/youtube-coktu-mu-15-haziran-2026-son-24-saat-hata-bildirim-raporu_178122.html",
+          "title": "Türkiye, Malezya’ya Komuta Kontrol gemisi satacak",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/turkiye-malezyaya-komuta-kontrol-gemisi-satacak",
           "also_in": []
         },
         {
-          "title": "WhatsApp çöktü mü? 15 Haziran’da erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-15-haziranda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
+          "title": "ROKETSAN, ileri teknoloji savunma sistemleriyle Paris’te sahneye çıktı",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/roketsan-ileri-teknoloji-savunma-sistemleriyle-pariste-sahneye-cikti/",
+          "also_in": []
+        },
+        {
+          "title": "ROKETSAN, Eurosatory 2026 Fuarında Gövde Gösterisi Yapıyor",
+          "source": "Mavi Savunma",
+          "link": "https://www.mavisavunma.com/roketsan-eurosatory-2026-fuarinda-govde-gosterisi-yapiyor/",
+          "also_in": []
+        },
+        {
+          "title": "Aselsan'dan 780 milyon euroluk hava savunma sistemi sözleşmesi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/borsa/borsanin-dev-sirketi-kapa-duyurdu-780-milyon-euroluk-sozlesme-imzalandi-h31667",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Azerbaycan'ın Milli Kurtuluş Günü",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan ve devlet erkanı, Azerbaycan'ın Milli Kurtuluş Günü'nü kutlayarak iki ülke arasındaki stratejik bağları vurguladı.",
-      "importance": 7,
+      "title": "Teknoloji Dünyasında Yeni Gelişmeler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "İngiltere'nin sosyal medya yasakları ve teknoloji devlerinin yeni ürün/satın alma hamleleri dikkat çekti.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Cumhurbaşkanı Erdoğan Azerbaycan'ın Milli Kurtuluş Günü'nü kutladı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycanin-milli-kurtulus-gununu-kutladi/3967364",
+          "title": "İngiltere'den 16 yaş altına kapsamlı sosyal medya yasağı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ingiltere-den-16-yas-altina-kapsamli-sosyal-medya-yasagi--206846",
           "also_in": [
-            "Haber 7",
-            "Haber Global"
+            "Teknolojioku"
           ]
         },
         {
-          "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Azerbaycan'ın Milli Kurtuluş Günü'nü kutladı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-azerbaycanin-milli-kurtulus-gununu-kutladi/3967281",
+          "title": "Fox dev hamleyle oturma odamıza yerleşiyor: Roku’yu satın aldılar",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/fox-dev-hamleyle-oturma-odamiza-yerlesiyor-rokuyu-satin-aldilar_181138.html",
+          "also_in": []
+        },
+        {
+          "title": "Huawei, 13 inç ve üzeri kategoride segmentinin en ince modeli olarak konumlandırılan MatePad Pro Max'i tanıttı.",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/huawei-13-inc-ve-uzeri-kategoride-segmentinin-en-ince-modeli-olarak-konumlandirilan-matepad-pro-maxi-tanitti_181123.html",
+          "also_in": []
+        },
+        {
+          "title": "Ekranları kapatın, çocuklar mahalleye dönüyor: İngiltere 16 yaş altına sosyal medyayı tamamen yasaklıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/ekranlari-kapatin-cocuklar-mahalleye-donuyor-ingiltere-16-yas-altina-sosyal-medyayi-tamamen-yasakliyor_181115.html",
+          "also_in": []
+        },
+        {
+          "title": "Yayın sektöründe dev satın alma: Fox, Roku’yu 22 milyar dolara bünyesine kattı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/fox-yayin-platformu-roku-yu-22-milyar-dolara-satin-aldi--206862",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Çevre ve Şehir Politikaları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "İzmit Körfezi'ndeki dip çamuru temizliği ve sokak hayvanlarına yönelik yeni düzenlemeler gündemde yer aldı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Emine Erdoğan’dan İzmit Körfezi’ndeki dip çamuru temizliğine övgü",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/emine-erdogandan-izmit-korfezindeki-dip-camuru-temizligine-ovgu-271590h",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Emine Erdoğan, İzmit Körfezi'ndeki temizlik çalışmalarında emeği geçenleri tebrik etti",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3635822-emine-erdogan-izmit-korfezindeki-temizlik-calismalarinda-emegi-gecenleri-tebrik-etti",
           "also_in": [
             "İnternet Haber"
           ]
         },
         {
-          "title": "TBMM Başkanı Kurtulmuş, Azerbaycan'ın Milli Kurtuluş Günü'nü kutladı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-azerbaycanin-milli-kurtulus-gununu-kutladi/3967338",
-          "also_in": []
-        },
-        {
-          "title": "Şuşa Beyannamesi'nin 5. yılında Türkiye-Azerbaycan ilişkileri",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/analiz/susa-beyannamesinin-5-yilinda-turkiye-azerbaycan-iliskileri/3967292",
-          "also_in": []
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan’dan Azerbaycan’a Kurtuluş Günü mesajı",
-          "source": "Savunma Sanayi Gazetesi",
-          "link": "https://savunmasanayigazetesi.com.tr/cumhurbaskani-erdogandan-azerbaycana-kurtulus-gunu-mesaji/274461/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Steven Spielberg ve Sinema Dünyası",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Steven Spielberg'in yeni filmi Disclosure Day küresel gişede büyük bir başarı yakalarken, proje iptalleri ve sektörel birleşmeler tartışılıyor.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Steven Spielberg'in UFO filmi Disclosure Day, izleyicilerde beklenen etkiyi yaratmadı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/disclosure-day-izleyicilerde-beklenen-etkiyi-yaratmadi--206821",
-          "also_in": []
-        },
-        {
-          "title": "Gişede Steven Spielberg Rüzgarı: “İfşa Günü” Küresel Çapta 93 Milyon Dolarla Açılış Yaptı!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000208688/",
-          "also_in": []
-        },
-        {
-          "title": "Steven Spielberg, Colman Domingo’nun Başrolünde Olduğu Projeyi Son Anda İptal Etti!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000208653/",
-          "also_in": []
-        },
-        {
-          "title": "Gişede Steven Spielberg Fırtınası: Disclosure Day Açılış Haftasında Tüm Tahminleri Altüst Etti",
-          "source": "FRPNET",
-          "link": "https://frpnet.net/haberler/sinema-haberleri/gisede-steven-spielberg-firtinasi-disclosure-day-acilis-haftasinda-tum-tahminleri-altust-etti",
-          "also_in": []
-        },
-        {
-          "title": "Blue Heron, Disclosure Day ve bu hafta başka ne izlesek?",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/blue-heron-ne-izlesek/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Türkiye'de Sanayi ve İhracat",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Türkiye'de sanayi üretimi Nisan ayında artış gösterirken, savunma sanayi ihracatında yeni sözleşmeler imzalandı.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Bakan Kacır: \"Nisanda sanayi üretimi yıllık yüzde 6,0 arttı\"",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/teknoloji/sanayi-uretimi-nisanda-yillik-yuzde-6-0-artti-19950305-haberi/",
-          "also_in": [
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "Sanayi üretimi nisanda yüzde 3,7 arttı",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/sanayi-uretimi-nisanda-yuzde-37-artti-711659/",
-          "also_in": []
-        },
-        {
-          "title": "Sanayi üretimi 11 ayın zirvesinde",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/veriler/sanayi-uretimi-11-ayin-zirvesinde-h31604",
-          "also_in": []
-        },
-        {
-          "title": "Aselsan'dan 114,7 milyon dolarlık ihracat sözleşmesi",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/borsa/aselsandan-1147-milyon-dolarlik-ihracat-sozlesmesi-h31600",
-          "also_in": []
-        },
-        {
-          "title": "Renault ve Thales'ten askeri araç geliştirme işbirliği",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/otomotiv/renaultdan-askeri-arac-hamlesi-dev-sirketle-isbirligi-yapacak-h31599",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Otomotiv Sektöründeki Gelişmeler",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "İkinci el araç satışındaki düzenlemeler ve Renault'nun Türkiye pazarındaki hamleleri otomotiv piyasasında hareketlilik yarattı.",
-      "importance": 5,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "İkinci el araç satıcılarından \"güvenli dijital devir sistemi\" talebi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/ikinci-el-arac-saticilarindan-guvenli-dijital-devir-sistemi-talebi/3967273",
-          "also_in": [
-            "Diriliş Postası",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "Yetki belgesiz araç satanlara 108 milyon lirayı aşkın ceza",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/ekonomi/yetki-belgesiz-arac-satanlara-108-milyon-lirayi-askin-ceza-271548h",
+          "title": "Bakan Kurum: Fethiye Körfezi'nde de dip çamuru temizliği çalışmalarımızı başlatacağız",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/bakan-kurum-fethiye-korfezinde-de-dip-camuru-temizligi-calismalarimizi-baslatacagiz-2447026h.htm",
           "also_in": [
             "TRT Haber"
           ]
         },
         {
-          "title": "İkinci el araç satanlar dikkat! Yetkisiz satışa 108 milyon TL ceza",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/ikinci-el-arac-satanlar-dikkat-yetkisiz-satisa-102-milyon-tl-ceza-1797114",
+          "title": "Sahipsiz köpeklerin tamamı yıl sonuna kadar barınaklara alınacak",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/3-sayfa/bakan-ciftci-yilbasina-kadar-tum-sahipsiz-kopekler-barinaklara-alinacak-19953109-haberi/",
           "also_in": [
-            "Türkiye Gazetesi"
+            "Medya Gazete"
           ]
         },
         {
-          "title": "İkinci el araç satanlar dikkat: Bakanlıktan 176 kişiye 102 milyon TL'lik ceza",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/otomotiv/ikinci-el-arac-satanlar-dikkat-bakanliktan-176-kisiye-102-milyon-tllik-ceza-g31598",
-          "also_in": []
-        },
-        {
-          "title": "Otomotiv üretimine bayram freni: Yüzde 33'e yakın düşüş",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/otomotiv/otomotive-bayram-freni-yuzde-33e-yakin-dusus-h31597",
+          "title": "Bakan Çiftçi tarih verdi: Tüm sokak köpekleri barınaklara alınacak",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/bakan-ciftci-tarih-verdi-tum-sokak-kopekleri-barinaklara-alinacak-711802/",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Restorasyon ve Tarihi Yapılar",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "İstanbul'un sembolü Haydarpaşa Garı'ndaki restorasyon çalışmalarında sona gelinirken, tarihi cephe tekrar gün yüzüne çıktı.",
+      "title": "Eğitim ve Kültür Etkinlikleri",
+      "meta_category": "Eğitim",
+      "summary": "YKS sınavı öncesi hazırlıklar ve Türkiye genelindeki kültürel etkinlikler, sergiler ve kitap fuarları öne çıktı.",
       "importance": 5,
-      "story_count": 3,
+      "story_count": 5,
       "stories": [
         {
-          "title": "İstanbul’un Tarihi Simgelerinden Biri Olan Haydarpaşa Garı’ndaki Restorasyon Çalışmalarında Sona Gelindi",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/istanbul-un-tarihi-simgelerinden-biri-olan-haydarpasa-gari-ndaki-restorasyon-calismalarinda-sona-gelindi-1364981",
-          "also_in": []
-        },
-        {
-          "title": "Haydarpaşa'da iskeleler kalktı, tarihi cephe gün yüzüne çıktı",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/haydarpasa-da-iskeleler-kalkti-tarihi-cephe-gun-yuzune-cikti-3891693",
+          "title": "YKS maratonu hafta sonu başlıyor",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/yks-maratonu-hafta-sonu-basliyor-h1542513",
           "also_in": [
-            "Haber Global"
+            "TRT Haber"
           ]
         },
         {
-          "title": "İskeleler kalktı Haydarpaşa yeni yüzünü gösterdi: İstanbul'un simgesi için kapsamlı restorasyon",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/06/15/iskeleler-kalkti-haydarpasa-yeni-yuzunu-gosterdi-istanbulun-simgesi-icin-kapsamli-restorasyon",
+          "title": "Türkiye Yazarlar Sendikası 10. Kadıköy Kitap Günleri’nde",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/turkiye-yazarlar-sendikasi-10-kadikoy-kitap-gunlerinde/",
+          "also_in": []
+        },
+        {
+          "title": "İTEF 2026’da edebiyat maratonu: Yazarlar ve okurlar Edebiyat Bahçesi’nde buluştu",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/itef-2026-da-edebiyat-maratonu-yazarlar-ve-okurlar-edebiyat-bahcesi-nde-bulustu/21913/",
+          "also_in": []
+        },
+        {
+          "title": "Mahalle Afet Donatıları: Modüler Acil İhtiyaç Üniteleri Tasarımı Öğrenci Proje Yarışması Sonuçlandı",
+          "source": "Arkitera",
+          "link": "https://www.arkitera.com/haber/mahalle-afet-donatilari-moduler-acil-ihtiyac-uniteleri-tasarimi-ogrenci-proje-yarismasi-sonuclandi/",
+          "also_in": []
+        },
+        {
+          "title": "Çuhadaroğlu Alüminyum 2026 Öğrenci Proje Yarışması",
+          "source": "Arkitera",
+          "link": "https://www.arkitera.com/yarisma/cuhadaroglu-aluminyum-2026-ogrenci-proje-yarismasi/",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Enigma of Hitler",
-    "artist": "Salvador Dalí",
-    "year": "1939",
+    "title": "The Ambassadors",
+    "artist": "Hans Holbein the Younger",
+    "year": "1533",
     "form": "resim",
-    "medium": "Oil on canvas",
-    "location": "Museo Reina Sofía, Madrid",
-    "description": "Sürrealizmin belirsizlik dolu dilini kullanan bu eser, politik bir figürün gölgesinde parçalanmış bir dünyayı ve yaklaşan tarihsel değişimlerin yarattığı tekinsiz gerilimi yansıtmaktadır.",
+    "medium": "Oil on oak",
+    "location": "National Gallery, London",
+    "description": "Eser, dönemin jeopolitik gerilimleri ve entelektüel dünyasını yansıtan nesnelerle doludur; alt kısımdaki esrarengiz anamorfik kuru kafa ise günümüzün belirsizlik ve fanilik temalarıyla güçlü bir paralellik kurar.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Hitler_Masturbating",
-    "wikipedia_extract": "Hitler Masturbating is a gouache-on-paper painting by Spanish Surrealist artist Salvador Dalí, which, in turn, is an alteration of a work by an unknown artist. Completed in 1973, it is 16.5 cm × 21.6 cm in size and is housed at the Salvador Dalí Museum in St. Petersburg, Florida, United States. As of 2022, the painting is not available for public viewing.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/26/Hitler_Masturbating.png",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD_House_Museum"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ambassadors_of_Agamemnon_in_the_tent_of_Achilles",
+    "wikipedia_extract": "The Ambassadors of Agamemnon in the tent of Achilles is an oil-on-canvas painting by Jean-Auguste-Dominique Ingres, produced in 1801 for the Prix de Rome competition. It is now in the École nationale supérieure des beaux-arts in Paris.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Envoys_of_Agamemnon_by_Ingres.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
   },
   "music": {
-    "title": "Everything In Its Right Place",
-    "artists": "Radiohead",
-    "album": "Kid A",
-    "duration": "4:11",
-    "spotify_url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-    "spotify_id": "2kRFrWaLWiKq48YYVdGcm8",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2kRFrWaLWiKq48YYVdGcm8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
+    "artists": "Coldplay",
+    "album": "Parachutes",
+    "duration": "7:16",
+    "spotify_url": "https://open.spotify.com/track/1RNtm45kw0hPMBz7gKiIYu",
+    "spotify_id": "1RNtm45kw0hPMBz7gKiIYu",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1RNtm45kw0hPMBz7gKiIYu\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-
-  "curator_statement": "Bugünün ruhu, jeopolitik iyimserliğin rüzgarlarıyla şişen piyasalar ile spor sahalarındaki buruk hayal kırıklıkları ve teknolojik belirsizliklerin gölgesinde, karmaşık bir belirsizliğin hüküm sürdüğü bir manzara çiziyor. Salvador Dalí'nin The Enigma of Hitler eseri, bu çalkantılı dönemin altında yatan görünmez gerilimleri, insan doğasının karanlık dehlizlerini ve iktidarın esrarengiz yüzünü adeta bir kâbus senaryosuyla tuvale taşıyor. Ardından Radiohead'in Kid A albümünden Everything In Its Right Place, bu teknolojik çağın yabancılaşmış, melankolik ve döngüsel ritmini yakalayarak, her şeyin doğru yerinde olup olmadığına dair derin bir sorgulamayı fısıldıyor. Bu iki eser, iyimserlik maskesinin ardındaki radikal değişim beklentileri ve kişisel kaygılarla dolu bir dünyada, belirsizliğin hem bireysel hem de küresel ölçekte nasıl bir sanat ve müzik dili bulduğunu çarpıcı bir şekilde gözler önüne seriyor."
+  "curator_statement": "Bugün, küresel diplomasi rüzgarları piyasalarda bir nefes aldırırken, yerel gölgelerimiz ve hayatın kırılganlığı belirsiz bir atmosfer örüyor; adeta teknoloji ve sporun hızına rağmen içsel bir duraksama yaşıyoruz. Hans Holbein the Younger'ın The Ambassadors eseri, bu çelişkili ruhu, diplomatik ihtişamın ve entelektüel zenginliğin arasına gizlenmiş ölümün anamorfik kafatasıyla çarpıcı bir şekilde yansıtıyor. Tablonun zengin detayları, günümüzün yoğun gündemini, ekonomik dengelenme arayışlarını ve dijitalleşmenin karmaşık etkilerini simgelerken, o gizli kafatası, yolsuzluk operasyonları ve vefat haberleriyle yüzleştiğimiz fani gerçekliği fısıldıyor. İşte bu karmaşanın ortasında, Coldplay'den Everything's Not Lost parçası, melankolik bir sakinlikle umudu dengeliyor; her şeyin yitirilmediğini, yaşamın süregittiğini fısıldıyor. Tıpkı tablodaki gibi, belirsizlik perdesinin ardında bile bir denge, bir direniş ve ileriye doğru narin bir adım olduğunu hatırlatıyor bize."
 }
