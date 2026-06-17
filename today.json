@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-16",
-  "date_human": "16 June 2026",
-  "generated_at": "2026-06-16T07:02:44.589965+00:00",
+  "date": "2026-06-17",
+  "date_human": "17 June 2026",
+  "generated_at": "2026-06-17T17:34:28.048853+00:00",
   "stats": {
-    "feeds_collected": 269,
-    "news_total": 5113,
-    "news_analyzed": 608,
+    "feeds_collected": 268,
+    "news_total": 5203,
+    "news_analyzed": 616,
     "clusters": 10
   },
   "mood": {
-    "description": "Küresel jeopolitik yumuşama ve piyasalardaki rahatlama ile başlayan, ancak yerel belediye operasyonları ve vefat haberleriyle gölgelenen, teknolojinin ve sporun yoğun gündemiyle harmanlanmış hareketli bir gün.",
-    "dominant_emotion": "Belirsizlik",
+    "description": "İş dünyasındaki büyük hukuki ve ekonomik kazanımların yarattığı iyimserlik, yerel siyasi çalkantılar ve askeri sanayi hamleleriyle dengeleniyor. Toplum, bir yandan 2026 Dünya Kupası heyecanını yaşarken diğer yandan sıcak hava ve asayiş haberleriyle meşgul.",
+    "dominant_emotion": "Hareketli",
     "key_themes": [
-      "ABD-İran jeopolitik mutabakatı ve piyasalara yansıması",
-      "Türkiye'de yerel belediyelere yönelik yolsuzluk/usulsüzlük operasyonları",
-      "Dünya Kupası heyecanı ve spor dünyasındaki büyük değişimler",
-      "Yapay zeka ve dijitalleşmenin toplumsal etkileri",
-      "Ekonomik dengelenme ve enflasyonla mücadele"
+      "Halkbank davasının düşmesi ve ekonomik yansımalar",
+      "2026 Dünya Kupası heyecanı ve spor dünyasındaki transferler",
+      "Savunma sanayii iş birlikleri ve İHA teknolojileri",
+      "CHP içindeki disiplin süreçleri ve siyasi istifalar",
+      "İSO 500 sanayi verileri ve sanayi performansı"
     ]
   },
   "weather": {
@@ -25,299 +25,199 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-06-16",
-        "code": 1,
-        "temp_max": 34.0,
-        "temp_min": 18.6
-      },
-      {
         "date": "2026-06-17",
         "code": 3,
-        "temp_max": 34.2,
-        "temp_min": 19.2
+        "temp_max": 34.4,
+        "temp_min": 19.7
       },
       {
         "date": "2026-06-18",
-        "code": 2,
-        "temp_max": 35.1,
+        "code": 3,
+        "temp_max": 33.8,
         "temp_min": 22.2
       },
       {
         "date": "2026-06-19",
-        "code": 0,
-        "temp_max": 32.1,
-        "temp_min": 21.2
+        "code": 3,
+        "temp_max": 31.8,
+        "temp_min": 21.4
       },
       {
         "date": "2026-06-20",
-        "code": 1,
-        "temp_max": 33.5,
-        "temp_min": 20.8
+        "code": 2,
+        "temp_max": 32.3,
+        "temp_min": 20.1
       },
       {
         "date": "2026-06-21",
         "code": 0,
-        "temp_max": 33.9,
-        "temp_min": 21.4
+        "temp_max": 34.8,
+        "temp_min": 20.2
       },
       {
         "date": "2026-06-22",
         "code": 0,
-        "temp_max": 34.1,
-        "temp_min": 21.5
+        "temp_max": 35.4,
+        "temp_min": 20.2
+      },
+      {
+        "date": "2026-06-23",
+        "code": 0,
+        "temp_max": 35.2,
+        "temp_min": 23.2
       }
     ]
   },
   "clusters": [
     {
-      "title": "ABD-İran Mutabakatı ve Küresel Etkileri",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD ve İran arasında imzalanan mutabakat, küresel piyasalarda petrol fiyatlarını etkilerken diplomatik alanda barış beklentilerini artırdı.",
+      "title": "Halkbank Davası ve Ekonomik Etkileri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "9 yıldır süren ABD'deki Halkbank davasının düşmesi, piyasalarda olumlu karşılanırken finansal çevrelerde büyük yankı uyandırdı.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "İsrail basını: Tel Aviv yönetimi ABD-İran mutabakatından rahatsız",
+          "title": "ABD'deki Halkbank davası düştü!",
           "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/israil-basini-tel-aviv-yonetimi-abd-iran-mutabakatindan-rahatsiz",
+          "link": "https://www.cgtnturk.com/abddeki-halkbank-davasi-dustu",
           "also_in": [
-            "Haberler",
-            "TRT Haber"
+            "DW Haber",
+            "Haber 7",
+            "İstiklal",
+            "Karar",
+            "Yeni Asır Gazetesi"
           ]
         },
         {
-          "title": "İran-ABD anlaştı, İsrail fena karıştı",
-          "source": "10Haber",
-          "link": "https://10haber.net/dunya/iran-abd-anlasti-israil-fena-karisti-711936/",
-          "also_in": [
-            "Serbestiyet"
-          ]
-        },
-        {
-          "title": "ABD ile İran anlaşmayı imzaladı: Gözler Hürmüz Boğazı'na çevrildi",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/abdli-yetkili-iran-ile-mutabakat-zapti-imzalandi",
-          "also_in": [
-            "Demokrat Haber"
-          ]
-        },
-        {
-          "title": "İran basını: 'Hürmüz Boğazı yakınlarında 3 patlama sesi duyuldu'",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/dunya/iran-basini-hurmuz-bogazi-yakinlarinda-3-patlama-sesi-duyuldu-haberi-900072",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "ABD ve İran’dan anlaşma",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/abd-ve-irandan-anlasma",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Belediyelere 'Usulsüzlük' Operasyonları",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İstanbul ve Antalya merkezli belediyelere yönelik düzenlenen operasyonlarda çok sayıda gözaltı ve tutuklama gerçekleşti.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Silivri Belediye Başkanı Bora Balcıoğlu tutuklandı",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/politika/silivri-belediye-baskani-bora-balcioglu-tutuklandi-347338h",
-          "also_in": [
-            "CGTN Türk",
-            "Gazete Pencere",
-            "Independent Türkçe",
-            "OdaTV",
-            "TGRT Haber",
-            "Yeniçağ Gazetesi",
-            "Veryansın TV",
-            "Yurt Gazetesi"
-          ]
-        },
-        {
-          "title": "Beylikdüzü Belediyesi'ne operasyon: 27 gözaltı",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/beylikduzu-belediyesine-operasyon-27-gozalti-h1542509",
-          "also_in": [
-            "Independent Türkçe",
-            "Haber Global",
-            "Türkiye Gazetesi",
-            "Sputnik",
-            "İlke TV",
-            "Tele2"
-          ]
-        },
-        {
-          "title": "Antalya Büyükşehir Belediyesine yönelik soruşturmada 10 şüpheli gözaltına alındı",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/yerel-haberler/antalya/antalya-buyuksehir-belediyesine-yonelik-sorusturmada-10-supheli-gozaltina-alindi-3431263",
-          "also_in": [
-            "Diriliş Postası",
-            "Dünya",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Antalya Büyükşehir Belediyesi'nde 'rüşvet' operasyonu: 10 kişi hakkında gözaltı kararı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/06/16/antalya-buyuksehir-belediyesinde-rusvet-operasyonu-10-kisi-hakkinda-gozalti-karari",
-          "also_in": [
-            "Sözcü Gündem",
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "İstanbul merkezli \"usulsüz iskan\" operasyonunda 27 şüpheli yakalandı",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/imamoglu-na-yonelik-usulsuz-iskan-operasyonunda-27-gozalti-19953019-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Spor Dünyasında Büyük Değişimler",
-      "meta_category": "Spor",
-      "summary": "Ergin Ataman'ın Panathinaikos ile yollarını ayırması ve Fenerbahçe/Galatasaray'daki köklü transfer hareketliliği spor gündemini belirledi.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Panathinaikos'ta Ergin Ataman dönemi sona erdi",
-          "source": "NTV Spor Basketbol",
-          "link": "https://www.ntvspor.net/foto-galeri/panathinaikosta-ergin-ataman-donemi-sona-erdi-424509",
-          "also_in": [
-            "NTV Spor Anasayfa",
-            "Sözcü Spor",
-            "10Haber",
-            "İstiklal"
-          ]
-        },
-        {
-          "title": "Fenerbahçe Beko seriyi eşitledi",
-          "source": "Basket Dergisi",
-          "link": "https://basketdergisi.com/fenerbahce-beko-seriyi-esitledi.html",
-          "also_in": [
-            "NTV Spor Anasayfa"
-          ]
-        },
-        {
-          "title": "ATAMAN İLE PANATHINAIKOS VEDALAŞTI",
-          "source": "Basket Dergisi",
-          "link": "https://basketdergisi.com/ataman-ile-panathinaikos-vedalasti.html",
-          "also_in": []
-        },
-        {
-          "title": "Fenerbahçe Beko, Beşiktaş Gain karşısında seride durumu eşitledi!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/basketbol/2026/06/15/fenerbahce-beko-besiktas-gain-karsisinda-seride-durumu-esitledi",
-          "also_in": []
-        },
-        {
-          "title": "Ergin Ataman, Panathinaikos'tan ayrıldı",
+          "title": "9 yıldır süren Halkbank davası düştü",
           "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/ergin-ataman-panathinaikostan-ayrildi-6933280",
+          "link": "https://www.f5haber.com/gundem/9-yildir-suren-halkbank-davasi-dustu-6934309",
           "also_in": [
-            "Sputnik"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Veriler ve Piyasa Hareketliliği",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Japonya'nın faiz kararı, Türkiye'deki enflasyonist baskılar ve küresel piyasalardaki dengelenme çabaları öne çıktı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Beş aylık bütçe açığı 1 trilyon TL'yi aştı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/5988350/bes-aylik-butce-acigi-1-trilyon-tlyi-asti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Yurtsever"
+            "Gazete Pencere",
+            "Korkusuz"
           ]
         },
         {
-          "title": "Japonya'da 31 sene sonra bir ilk! Faiz yüzde 1'e çıkarıldı",
+          "title": "ABD'deki Halkbank davası 9 yıl sonra düştü",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/japonya-da-31-sene-sonra-bir-ilk-faiz-yuzde-1-e-cikarildi-p328272",
+          "link": "https://www.sozcu.com.tr/abd-de-halkbank-davasi-dusuruldu-p328823",
           "also_in": [
             "Sözcü Ekonomi"
           ]
         },
         {
-          "title": "Faiz artıyor: Hazine 2 yıllık borca yüzde 41,93 faiz verdi",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/faiz-artiyor-hazine-2-yillik-borca-yuzde-4193-faiz-verdi-711841/",
-          "also_in": []
+          "title": "Halkbank'ın 9 yıllık davası düştü, hisseler uçuşa geçti",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/piyasalarda-gun-sonu-halkbankin-9-yillik-davasi-dustu-hisseler-ucusa-gecti-1797684",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
         },
         {
-          "title": "Japonya Merkez Bankası faizi 30 yılın zirvesine çıkardı",
+          "title": "Halkbank davası düşürüldü",
           "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/japonya-merkez-bankasi-faizi-30-yilin-zirvesine-cikardi-3780123",
-          "also_in": []
-        },
-        {
-          "title": "Barış sonrası ilk faiz kararı: Japonya'da faiz yüzde 1'e yükseldi",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/faiz/baris-karari-sonrasi-ilk-faiz-karari-japonyada-faiz-yuzde-1e-yukseldi-h31655",
+          "link": "https://www.bloomberght.com/halkbank-davasi-dusuruldu-3780340",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Oyuncu Ece İrtem'in Vefatı",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Kızılcık Şerbeti dizisiyle tanınan oyuncu Ece İrtem'in vefatı sanat camiasında üzüntüyle karşılandı.",
-      "importance": 7,
+      "title": "2026 Dünya Kupası ve Spor Gündemi",
+      "meta_category": "Spor",
+      "summary": "Dünya Kupası maçları devam ederken Türk takımlarının Avrupa kupalarındaki rakipleri belli oldu ve transfer piyasası hareketlendi.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "\"Kızılcık Şerbeti\"nin Işıl'ı Ece İrtem Hayatını Kaybetti!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000208732/",
+          "title": "Fenerbahçe'nin Şampiyonlar Ligi'ndeki rakibi belli oldu!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/06/17/fenerbahcenin-sampiyonlar-ligindeki-rakibi-belli-oldu",
           "also_in": [
-            "Korkusuz",
+            "Sözcü Spor",
+            "Demokrat Haber",
+            "Gerçek Gündem",
+            "Tele2",
+            "Yeni Asır Gazetesi",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "2026 DÜNYA KUPASI | İngiltere - Hırvatistan maçı ne zaman, saat kaçta, hangi kanalda?",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/2026-dunya-kupasi-ingiltere-hirvatistan-maci-ne-zaman-saat-kacta-hangi-kanalda-424614",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "2026 DÜNYA KUPASI | Portekiz - Demokratik Kongo maçı ne zaman, saat kaçta, hangi kanalda?",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/2026-dunya-kupasi-portekiz-demokratik-kongo-maci-ne-zaman-saat-kacta-hangi-kanalda-424598",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Messi'nin hat-trick'i ile Arjantin Cezayir'i rahat geçti! İşte maçın golleri",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/futbol/2026/06/16/messinin-hat-tricki-ile-arjantin-cezayiri-rahat-gecti-iste-macin-golleri",
+          "also_in": []
+        },
+        {
+          "title": "Dünya Kupası'nda ilk maçlar sona eriyor: 2026 Dünya Kupası maç sonuçları, fikstür ve puan durumları",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/2026-dunya-kupasi/buyuk-heyecan-suruyor-2026-dunya-kupasi-mac-sonuclari-fikstur-ve-guncel-puan-durumu-g31754",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "CHP'de İstifa ve Disiplin Krizi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "CHP içerisinde yaşanan il başkanı görevden almaları, istifalar ve disiplin süreçleri parti içi dengeleri sarstı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "CHP İstanbul Milletvekili Nimet Özdemir partisinden istifa etti",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/chp-istanbul-milletvekili-nimet-ozdemir-partisinden-istifa-etti-271733h",
+          "also_in": [
+            "Evrensel",
+            "Gazete Pencere",
+            "Haberler",
+            "Medya Gazete",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "CHP'de birçok il başkanı görevden alındı!",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/chpde-bircok-il-baskani-gorevden-alindi",
+          "also_in": [
+            "Demokrat Haber"
+          ]
+        },
+        {
+          "title": "CHP MYK'da İhraç Kararı: Listede Özgür Çelik Dahil Çok Sayıda İsim Var",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/chp-mykda-ihrac-karari-listede-ozgur-celik-dahil-cok-sayida-isim-var-573376",
+          "also_in": [
             "Yurt Gazetesi"
           ]
         },
         {
-          "title": "Kızılcık Şerbeti Oyuncusu Ece İrtem Hayatını Kaybetti",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/kizilcik-serbeti-oyuncusu-ece-irtem-hayatini-kaybetti-1365026",
+          "title": "İstanbul Milletvekili Nimet Özdemir, CHP&apos;den istifa etti",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/politika/chp-li-nimet-ozdemir-istifa-etti-bagimsiz-oldu-19959487-haberi/",
           "also_in": [
-            "Evrensel"
+            "Haberler"
           ]
         },
         {
-          "title": "Oyuncu Ece İrtem'in son görüntüleri ortaya çıktı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/oyuncu-ece-irtemin-son-goruntuleri-ortaya-cikti",
-          "also_in": [
-            "F5 Haber",
-            "Haberet"
-          ]
-        },
-        {
-          "title": "Oyuncu Ece İrtem hayatını kaybetti",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/kelebek/televizyon/oyuncu-ece-irtem-hayatini-kaybetti-43206121",
-          "also_in": [
-            "Haberler",
-            "Radikal"
-          ]
-        },
-        {
-          "title": "Hayatını kaybeden oyuncu Ece İrtem'in son görüntüleri ortaya çıktı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/hayatini-kaybeden-oyuncu-ece-irtem-in-son-goruntuleri-ortaya-cikti-2512471",
+          "title": "Son dakika...CHP'de 3 mevcut 3 eski il başkanı YDK'ya sevk edildi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/son-dakika-chp-de-3-mevcut-3-eski-il-baskani-ydk-ya-sevk-edildi-p328834",
           "also_in": [
             "Sözcü Gündem"
           ]
@@ -325,244 +225,348 @@
       ]
     },
     {
-      "title": "Dünya Kupası Maçları",
-      "meta_category": "Spor",
-      "summary": "2026 FIFA Dünya Kupası'nda oynanan maçlar ve sürpriz sonuçlar futbolseverleri ekran başına kilitledi.",
+      "title": "İSO 500 Sanayi Verileri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Türkiye'nin en büyük 500 sanayi kuruluşu açıklandı; savunma sanayisinin yükselişi ve genel ekonomik performans verileri paylaşıldı.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Belçika ile Mısır yenişemedi",
-          "source": "Futboo",
-          "link": "https://www.futboo.com/belcika-ile-misir-yenisemedi/90683/",
-          "also_in": [
-            "Futboo",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Belçika ile Mısır puanları paylaştı!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/06/15/belcika-ile-misir-puanlari-paylasti",
-          "also_in": [
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "Suudi Arabistan ile Uruguay maçında da kazanan yok",
-          "source": "Futboo",
-          "link": "https://www.futboo.com/suudi-arabistan-ile-uruguay-macinda-da-kazanan-yok/90689/",
-          "also_in": [
-            "Futboo"
-          ]
-        },
-        {
-          "title": "FIFA Dünya Kupası'nda İran ile Yeni Zelanda'nın gol düellosunda kazanan yok! İşte maçın özeti",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/06/15/fifa-dunya-kupasinda-iran-ile-yeni-zelandanin-gol-duellosunda-kazanan-yok-iste-macin-ozeti",
+          "title": "İSO 500 açıklandı: Savunma sanayisi ilk 10'a damga vurdu",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/iso-500-aciklandi-savunma-sanayisi-ilk-10-a-damga-vurdu--206977",
           "also_in": []
         },
         {
-          "title": "FIFA Dünya Kupası'nda Suudi Arabistan ile Uruguay yenişemedi! İşte maçın özeti",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/06/15/fifa-dunya-kupasinda-suudi-arabistan-ile-uruguay-yenisemedi-iste-macin-ozeti",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayii ve Yerli Üretim",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin savunma sanayiindeki ihracat başarıları ve uluslararası iş birlikleri Paris ve Tokyo merkezli fuarlarda konuşuldu.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "TUSAŞ, “En Gözde Şirketler” araştırmasında lider oldu",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/tusas-en-gozde-sirketler-arastirmasinda-lider-oldu",
+          "title": "İSO 500 vergi öncesi dönem kâr ve zarar toplamı / net satışlar",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/iso-500-vergi-oncesi-donem-kr-ve-zarar-toplami-net-satislar-3780373",
           "also_in": []
         },
         {
-          "title": "Türkiye, Malezya’ya Komuta Kontrol gemisi satacak",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/turkiye-malezyaya-komuta-kontrol-gemisi-satacak",
-          "also_in": []
-        },
-        {
-          "title": "ROKETSAN, ileri teknoloji savunma sistemleriyle Paris’te sahneye çıktı",
-          "source": "SavunmaTR",
-          "link": "https://www.savunmatr.com/roketsan-ileri-teknoloji-savunma-sistemleriyle-pariste-sahneye-cikti/",
-          "also_in": []
-        },
-        {
-          "title": "ROKETSAN, Eurosatory 2026 Fuarında Gövde Gösterisi Yapıyor",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/roketsan-eurosatory-2026-fuarinda-govde-gosterisi-yapiyor/",
-          "also_in": []
-        },
-        {
-          "title": "Aselsan'dan 780 milyon euroluk hava savunma sistemi sözleşmesi",
+          "title": "İSO 500'de dengeler nasıl değişti? İşte 2025'in kazanan ve kaybeden sektörleri",
           "source": "CNBC-e",
-          "link": "https://www.cnbce.com/borsa/borsanin-dev-sirketi-kapa-duyurdu-780-milyon-euroluk-sozlesme-imzalandi-h31667",
+          "link": "https://www.cnbce.com/is-dunyasi/iso-500de-dengeler-nasil-degisti-iste-2025in-kazanan-ve-kaybeden-sektorleri-h31751",
+          "also_in": []
+        },
+        {
+          "title": "İSO 500 2025 listesi açıklandı, Türkiye'nin sanayi devleri belli oldu: İlk 10'a 4 yeni şirket girdi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-haberleri/yeni-liste-aciklandi-turkiyenin-sanayi-devleri-belli-oldu-ilk-10a-4-yeni-sirket-girdi-g31750",
+          "also_in": []
+        },
+        {
+          "title": "İSO 500 açıklandı: Satışlar yüzde 28 arttı, zirve yine değişmedi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/is-dunyasi/iso-500-aciklandi-satislar-yuzde-28-artti-zirve-yine-degismedi-h31749",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Teknoloji Dünyasında Yeni Gelişmeler",
+      "title": "Savunma Sanayiinde Uluslararası Ortaklıklar",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "İngiltere'nin sosyal medya yasakları ve teknoloji devlerinin yeni ürün/satın alma hamleleri dikkat çekti.",
-      "importance": 6,
+      "summary": "Baykar ve Leonardo ortaklığına İtalya'dan onay çıkarken, Türk savunma sanayii ürünlerinin ihracat kapasitesi ve iş birlikleri genişliyor.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "İngiltere'den 16 yaş altına kapsamlı sosyal medya yasağı",
+          "title": "Baykar ve Leonardo ortaklığına İtalya'dan şartlı onay: Her ülkeye satış yapamayacak",
           "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/ingiltere-den-16-yas-altina-kapsamli-sosyal-medya-yasagi--206846",
+          "link": "https://www.donanimhaber.com/baykar-ve-leonardo-ortakligina-italya-dan-sartli-onay--206984",
+          "also_in": []
+        },
+        {
+          "title": "CİRİT Anti-İHA füzesi Avrupa yolunda: İspanyol sistemine entegre edilecek",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/cirit-anti-iha-fuzesi-ispanyol-sistemine-entegre-edilecek--206974",
+          "also_in": []
+        },
+        {
+          "title": "İtalya hükümeti, Leonardo ve Baykar arasındaki ortak girişime onay verdi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/italya-hukumeti-leonardo-ve-baykar-arasindaki-ortak-girisime-onay-verdi",
           "also_in": [
-            "Teknolojioku"
+            "Diriliş Postası",
+            "Haberler",
+            "Haber Global"
           ]
         },
         {
-          "title": "Fox dev hamleyle oturma odamıza yerleşiyor: Roku’yu satın aldılar",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/fox-dev-hamleyle-oturma-odamiza-yerlesiyor-rokuyu-satin-aldilar_181138.html",
-          "also_in": []
-        },
-        {
-          "title": "Huawei, 13 inç ve üzeri kategoride segmentinin en ince modeli olarak konumlandırılan MatePad Pro Max'i tanıttı.",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/huawei-13-inc-ve-uzeri-kategoride-segmentinin-en-ince-modeli-olarak-konumlandirilan-matepad-pro-maxi-tanitti_181123.html",
-          "also_in": []
-        },
-        {
-          "title": "Ekranları kapatın, çocuklar mahalleye dönüyor: İngiltere 16 yaş altına sosyal medyayı tamamen yasaklıyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/ekranlari-kapatin-cocuklar-mahalleye-donuyor-ingiltere-16-yas-altina-sosyal-medyayi-tamamen-yasakliyor_181115.html",
-          "also_in": []
-        },
-        {
-          "title": "Yayın sektöründe dev satın alma: Fox, Roku’yu 22 milyar dolara bünyesine kattı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/fox-yayin-platformu-roku-yu-22-milyar-dolara-satin-aldi--206862",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Çevre ve Şehir Politikaları",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "İzmit Körfezi'ndeki dip çamuru temizliği ve sokak hayvanlarına yönelik yeni düzenlemeler gündemde yer aldı.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Emine Erdoğan’dan İzmit Körfezi’ndeki dip çamuru temizliğine övgü",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/emine-erdogandan-izmit-korfezindeki-dip-camuru-temizligine-ovgu-271590h",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Emine Erdoğan, İzmit Körfezi'ndeki temizlik çalışmalarında emeği geçenleri tebrik etti",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3635822-emine-erdogan-izmit-korfezindeki-temizlik-calismalarinda-emegi-gecenleri-tebrik-etti",
+          "title": "Baykar-Leonardo ortak girişimine İtalya'dan şartlı onay: 'AB ve NATO çizgisi'",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/c05yn12524qo?at_medium=RSS&at_campaign=rss",
           "also_in": [
             "İnternet Haber"
           ]
         },
         {
-          "title": "Bakan Kurum: Fethiye Körfezi'nde de dip çamuru temizliği çalışmalarımızı başlatacağız",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/bakan-kurum-fethiye-korfezinde-de-dip-camuru-temizligi-calismalarimizi-baslatacagiz-2447026h.htm",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Sahipsiz köpeklerin tamamı yıl sonuna kadar barınaklara alınacak",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/3-sayfa/bakan-ciftci-yilbasina-kadar-tum-sahipsiz-kopekler-barinaklara-alinacak-19953109-haberi/",
-          "also_in": [
-            "Medya Gazete"
-          ]
-        },
-        {
-          "title": "Bakan Çiftçi tarih verdi: Tüm sokak köpekleri barınaklara alınacak",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/bakan-ciftci-tarih-verdi-tum-sokak-kopekleri-barinaklara-alinacak-711802/",
+          "title": "İtalya Hükümetinden Leonardo ve Baykar’ın Ortak Girişim Anlaşmasına Şartlı Onay",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/italya-hukumetinden-leonardo-ve-baykarin-ortak-girisim-anlasmasina-sartli-onay/",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Eğitim ve Kültür Etkinlikleri",
-      "meta_category": "Eğitim",
-      "summary": "YKS sınavı öncesi hazırlıklar ve Türkiye genelindeki kültürel etkinlikler, sergiler ve kitap fuarları öne çıktı.",
-      "importance": 5,
+      "title": "Sosyal Medya ve Asayiş Operasyonları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "54 ilde düzenlenen operasyonlarla sosyal medya üzerinden suç örgütlerini öven ve tetikçilik yapan şüpheliler yakalandı.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "YKS maratonu hafta sonu başlıyor",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/yks-maratonu-hafta-sonu-basliyor-h1542513",
+          "title": "54 ilde 'tetikçi ve suç örgütü övücü' paylaşımlara operasyon",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/54-ilde-tetikci-ve-suc-orgutu-ovucu-paylasimlara-operasyon-580589",
           "also_in": [
+            "En Son Haber",
             "TRT Haber"
           ]
         },
         {
-          "title": "Türkiye Yazarlar Sendikası 10. Kadıköy Kitap Günleri’nde",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/turkiye-yazarlar-sendikasi-10-kadikoy-kitap-gunlerinde/",
+          "title": "54 ilde sosyal medya operasyonu: 258 şüpheli yakalandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/54-ilde-sosyal-medya-operasyonu-258-supheli-yakalandi",
+          "also_in": [
+            "Ekonomim",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "AVM’deki kanlı suikasttan kan donduran ayrıntılar. Telegram'daki \"infaz grubu\"ndan 200 bin liraya tetikçi olarak kiralanmış",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/avmdeki-kanli-suikasttan-kan-donduran-ayrintilar-telegramdaki-infaz-grubundan-200-bin-liraya-tetikci-olarak-kiralanmis-fotogaleri-6934275",
+          "also_in": [
+            "Kamudan Haber",
+            "NTV"
+          ]
+        },
+        {
+          "title": "Sosyal medya üzerinden \"tetikçi ve suç örgütlerini övücü\" paylaşım yapan 258 şüpheli yakalandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/sosyal-medya-uzerinden-tetikci-ve-suc-orgutlerini-ovucu-paylasim-yapan-258-supheli-yakalandi/3969952",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Sosyal medya suçlarına darbe: Samsun’da 7 şüpheli yakalandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/asayis/sosyal-medya-suclarina-darbe-samsunda-7-supheli-yakalandi-271743h",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Shrek 5 Heyecanı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Uzun süredir beklenen Shrek 5 filminin ilk fragmanı yayınlandı ve sosyal medyada geniş yankı buldu.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Şrek geri dönüyor: Shrek 5 filminden beklenen fragman geldi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/shrek-5-fragmani-yayinlandi-efsane-geri-donuyor--206947",
           "also_in": []
         },
         {
-          "title": "İTEF 2026’da edebiyat maratonu: Yazarlar ve okurlar Edebiyat Bahçesi’nde buluştu",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/itef-2026-da-edebiyat-maratonu-yazarlar-ve-okurlar-edebiyat-bahcesi-nde-bulustu/21913/",
+          "title": "Eşek yine susmuyor: Shrek 5 ilk fragmanıyla karşımızda",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/esek-yine-susmuyor-shrek-5-ilk-fragmaniyla-karsimizda_181189.html",
           "also_in": []
         },
         {
-          "title": "Mahalle Afet Donatıları: Modüler Acil İhtiyaç Üniteleri Tasarımı Öğrenci Proje Yarışması Sonuçlandı",
-          "source": "Arkitera",
-          "link": "https://www.arkitera.com/haber/mahalle-afet-donatilari-moduler-acil-ihtiyac-uniteleri-tasarimi-ogrenci-proje-yarismasi-sonuclandi/",
+          "title": "Bataklığa Dönüş Vakti: \"Shrek 5\"in İlk Fragmanı Yayınlandı!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000209086/",
           "also_in": []
         },
         {
-          "title": "Çuhadaroğlu Alüminyum 2026 Öğrenci Proje Yarışması",
-          "source": "Arkitera",
-          "link": "https://www.arkitera.com/yarisma/cuhadaroglu-aluminyum-2026-ogrenci-proje-yarismasi/",
+          "title": "Bataklığın Efsanesi Geri Dönüyor: Shrek 5 İlk Fragman Yayınlandı",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/batakligin-efsanesi-geri-donuyor-shrek-5-ilk-fragman-yayinlandi",
+          "also_in": []
+        },
+        {
+          "title": "Shrek ve Fiona&apos;nın Çocuğundan LGS Annelerine Son 24 Saatin Viral Tweetleri",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/shrek-ve-fiona-nin-cocugundan-lgs-annelerine-son-24-saatin-viral-tweetleri-1365585",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sıcak Hava ve Meteorolojik Uyarılar",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Türkiye genelinde kavurucu sıcaklar etkili olurken, Meteoroloji birçok il için sağanak ve sel uyarısında bulundu.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Şanlıurfa'da termometreler 45 dereceyi gösterdi",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/foto-galeri/gundem/sanliurfada-termometreler-45-dereceyi-gosterdi-galeri-828905",
+          "also_in": [
+            "Diriliş Postası",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Meteoroloji’den 19 il için yağış uyarısı: Sel ve dolu riskine dikkat",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/turkiye/meteorolojiden-19-il-icin-yagis-uyarisi-sel-ve-dolu-riskine-dikkat/460520",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "Kavurucu sıcaklara yağış molası: Hafta sonu hava değişiyor",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/turkiye/kavurucu-sicaklara-yagis-molasi-hafta-sonu-hava-degisiyor/460477",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "Yurdun büyük bölümünde 3 gün boyunca yağış görülecek",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/yasam/yurdun-buyuk-bolumunde-3-gun-boyunca-yagis-gorulecek-271728h",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Termometreler 45 dereceyi gösterdi! Şehir resmen kavruluyor",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/termometreler-45-dereceyi-gosterdi-sehir-resmen-kavruluyor-6934262",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Dünyasındaki Yenilikler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Samsung, Qualcomm ve DJI gibi devlerin yeni ürün lansmanları ve yapay zeka alanındaki gelişmeler öne çıktı.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "DJI Osmo Pocket 4P iki kamera sensörü ile geliyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/dji-osmo-pocket-4p-tanitildi-iste-ozellikleri-ve-fiyati--206904",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Samsung’dan dünyayı değiştirecek başarı: Türünün ilk transistörü",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/samsung-dan-dunyayi-degistirecek-basari-turunun-ilk-transistoru--206969",
+          "also_in": []
+        },
+        {
+          "title": "Samsung yaptı: 40.000 nit parlaklığa ulaşan yeni XR ekran",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/samsung-yapti-40-000-nit-parlakliga-ulasan-yeni-xr-ekran--206961",
+          "also_in": []
+        },
+        {
+          "title": "Snapdragon Reality Elite tanıtıldı: Toplam 9K çözünürlük ve dahası",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/snapdragon-reality-elite-tanitildi-9k-cozunurluk-ve-dahasi--206951",
+          "also_in": []
+        },
+        {
+          "title": "DJI küçük gövdeye ikinci kamera ekledi: Osmo Pocket 4P sahnede",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/dji-kucuk-govdeye-ikinci-kamera-ekledi-osmo-pocket-4p-sahnede_181187.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Vefat ve Anma Haberleri",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Oyuncu Ece İrtem ve Emel Yıldız'ın vefatı ile Prof. Dr. Halil İnalcık'ın anma törenleri basında yer aldı.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Oyuncu Ece İrtem son yolculuğuna uğurlandı",
+          "source": "10Haber",
+          "link": "https://10haber.net/kultur-sanat/oyuncu-ece-irtem-son-yolculuguna-ugurlandi-712469/",
+          "also_in": [
+            "Aydınlık",
+            "Evrensel",
+            "En Son Haber",
+            "Haberler",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Oyuncu Ece İrtem Kuşadası’nda son yolculuğuna uğurlandı",
+          "source": "Dijital Gaste",
+          "link": "https://www.dijitalgaste.com/oyuncu-ece-irtem-kusadasinda-son-yolculuguna-ugurlandi",
+          "also_in": [
+            "Kısa Dalga",
+            "Elele"
+          ]
+        },
+        {
+          "title": "Tarihçilerin duayeni Prof. Dr. Halil İnalcık, vefatının 10. yılında Türk Tarih Kurumunda anıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/kultur/tarihcilerin-duayeni-prof-dr-halil-inalcik-vefatinin-10-yilinda-turk-tarih-kurumunda-anildi/3969961",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Türk Sinemasının Acı Günü... Emel Yıldız Hayatını Kaybetti",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/turk-sinemasinin-aci-gunu-emel-yildiz-hayatini-kaybetti-573339",
+          "also_in": [
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Panter Emel lakaplı oyuncu Emel Yıldız hayatını kaybetti",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/panter-emel-lakapli-oyuncu-emel-yildiz-hayatini-kaybetti-panter-emel-kimdir-kac-yasinda-nereli",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Ambassadors",
-    "artist": "Hans Holbein the Younger",
-    "year": "1533",
+    "title": "Industrial Landscape",
+    "artist": "Charles Sheeler",
+    "year": "1932",
     "form": "resim",
-    "medium": "Oil on oak",
-    "location": "National Gallery, London",
-    "description": "Eser, dönemin jeopolitik gerilimleri ve entelektüel dünyasını yansıtan nesnelerle doludur; alt kısımdaki esrarengiz anamorfik kuru kafa ise günümüzün belirsizlik ve fanilik temalarıyla güçlü bir paralellik kurar.",
+    "medium": "Oil on canvas",
+    "location": "Art Institute of Chicago",
+    "description": "Sanayinin mekanik estetiğini ve savunma sanayisinin yükselişine göz kırpan yapısal düzeni yansıtan, modernleşme ve endüstriyel güce dair bir başyapıt. Net hatları ve soğuk gerçekliğiyle, ekonomik verilerin ve teknolojik atılımların yarattığı düzenli ama hareketli atmosferi simgeliyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ambassadors_of_Agamemnon_in_the_tent_of_Achilles",
-    "wikipedia_extract": "The Ambassadors of Agamemnon in the tent of Achilles is an oil-on-canvas painting by Jean-Auguste-Dominique Ingres, produced in 1801 for the Prix de Rome competition. It is now in the École nationale supérieure des beaux-arts in Paris.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/The_Envoys_of_Agamemnon_by_Ingres.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Hans_Holbein_the_Younger"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Industrial_Landscape",
+    "wikipedia_extract": "Industrial Landscape is the title given to each of a series of oil paintings by the English artist L. S. Lowry, painted over a number of years between 1934 and 1955.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Industrial_Landscape_%281955%29_by_L.S._Lowry.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Sheeler"
   },
   "music": {
-    "title": "Everything's Not Lost - Includes Hidden Track 'Life Is For Living'",
-    "artists": "Coldplay",
-    "album": "Parachutes",
-    "duration": "7:16",
-    "spotify_url": "https://open.spotify.com/track/1RNtm45kw0hPMBz7gKiIYu",
-    "spotify_id": "1RNtm45kw0hPMBz7gKiIYu",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1RNtm45kw0hPMBz7gKiIYu\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Harder, Better, Faster, Stronger",
+    "artists": "Daft Punk",
+    "album": "Discovery",
+    "duration": "3:46",
+    "spotify_url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn",
+    "spotify_id": "5W3cjX2J3tjhG8zb6u0qHn",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/5W3cjX2J3tjhG8zb6u0qHn\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugün, küresel diplomasi rüzgarları piyasalarda bir nefes aldırırken, yerel gölgelerimiz ve hayatın kırılganlığı belirsiz bir atmosfer örüyor; adeta teknoloji ve sporun hızına rağmen içsel bir duraksama yaşıyoruz. Hans Holbein the Younger'ın The Ambassadors eseri, bu çelişkili ruhu, diplomatik ihtişamın ve entelektüel zenginliğin arasına gizlenmiş ölümün anamorfik kafatasıyla çarpıcı bir şekilde yansıtıyor. Tablonun zengin detayları, günümüzün yoğun gündemini, ekonomik dengelenme arayışlarını ve dijitalleşmenin karmaşık etkilerini simgelerken, o gizli kafatası, yolsuzluk operasyonları ve vefat haberleriyle yüzleştiğimiz fani gerçekliği fısıldıyor. İşte bu karmaşanın ortasında, Coldplay'den Everything's Not Lost parçası, melankolik bir sakinlikle umudu dengeliyor; her şeyin yitirilmediğini, yaşamın süregittiğini fısıldıyor. Tıpkı tablodaki gibi, belirsizlik perdesinin ardında bile bir denge, bir direniş ve ileriye doğru narin bir adım olduğunu hatırlatıyor bize."
+  "curator_statement": "Bugün, ekonomik atılımların iyimserliği ile siyasi çalkantıların ve askeri hamlelerin gerilimi arasında salınan, hareketli bir enerjiyle doluyuz. Charles Sheeler'ın Industrial Landscape eseri, bu çelişkili ama bir o kadar da dinamik atmosfere güçlü bir görsel referans sunarken, sanayinin ve teknolojinin şekillendirdiği modern yaşamı tasvir ediyor. Daft Punk'ın Harder, Better, Faster, Stronger parçası ise, Halkbank davasının düşmesinden Dünya Kupası heyecanına, savunma sanayii iş birliklerinden spor transferlerine dek uzanan, daha iyisini, daha hızlısını arayan çağımızın ritmik nabzını tutuyor. Sheeler'ın endüstriyel manzarası ile Daft Punk'ın teknolojik enerjisi, iyimserlik ve belirsizliğin iç içe geçtiği, sürekli bir dönüşüm ve ilerleme arayışındaki günümüz toplumunun canlı ruhunu kusursuzca birleştiriyor."
 }
