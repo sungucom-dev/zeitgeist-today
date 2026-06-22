@@ -1,22 +1,22 @@
 {
-  "date": "2026-06-21",
-  "date_human": "21 June 2026",
-  "generated_at": "2026-06-21T07:38:45.664918+00:00",
+  "date": "2026-06-22",
+  "date_human": "22 June 2026",
+  "generated_at": "2026-06-22T06:05:00.642952+00:00",
   "stats": {
     "feeds_collected": 266,
-    "news_total": 4286,
+    "news_total": 4420,
     "news_analyzed": 571,
-    "clusters": 8
+    "clusters": 10
   },
   "mood": {
-    "description": "21 Haziran 2026, hem AYT sınavının yarattığı toplumsal sınav stresiyle hem de Hürmüz Boğazı'ndaki küresel gerilim ve jeopolitik belirsizliğin gölgesinde, yüksek tansiyonlu ve arayış dolu bir gün.",
-    "dominant_emotion": "Endişe",
+    "description": "Küresel jeopolitik gerilimlerin ve ekonomik belirsizliklerin gölgesinde, teknolojik gelişmelerin ve 2026 Dünya Kupası heyecanının yarattığı hareketli, biraz gergin ama umutlu bir atmosfer hakim.",
+    "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Jeopolitik Gerilim ve Hürmüz Boğazı Krizi",
-      "YKS (AYT) Sınav Maratonu",
-      "Dijital Erişim Engelleri ve Teknoloji Regülasyonları",
-      "2026 Dünya Kupası Heyecanı",
-      "Ekonomik Belirsizlik ve Piyasalar"
+      "ABD-İran Hürmüz Boğazı müzakereleri",
+      "2026 Dünya Kupası ve spor gündemi",
+      "Ekonomik piyasalarda jeopolitik dalgalanmalar",
+      "Yapay zeka ve teknoloji dünyasındaki hızlı dönüşüm",
+      "Babalar Günü ve toplumsal yaşam"
     ]
   },
   "weather": {
@@ -25,278 +25,141 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-06-21",
-        "code": 2,
-        "temp_max": 33.9,
-        "temp_min": 22.1
-      },
-      {
         "date": "2026-06-22",
         "code": 1,
-        "temp_max": 34.7,
-        "temp_min": 21.9
+        "temp_max": 34.5,
+        "temp_min": 23.5
       },
       {
         "date": "2026-06-23",
         "code": 1,
-        "temp_max": 35.1,
-        "temp_min": 21.6
+        "temp_max": 34.9,
+        "temp_min": 21.9
       },
       {
         "date": "2026-06-24",
-        "code": 0,
-        "temp_max": 33.4,
-        "temp_min": 19.9
+        "code": 1,
+        "temp_max": 33.3,
+        "temp_min": 19.4
       },
       {
         "date": "2026-06-25",
-        "code": 0,
-        "temp_max": 36.8,
-        "temp_min": 19.3
+        "code": 1,
+        "temp_max": 35.1,
+        "temp_min": 19.7
       },
       {
         "date": "2026-06-26",
-        "code": 1,
-        "temp_max": 34.7,
-        "temp_min": 23.6
+        "code": 0,
+        "temp_max": 37.9,
+        "temp_min": 22.7
       },
       {
         "date": "2026-06-27",
-        "code": 1,
-        "temp_max": 35.2,
-        "temp_min": 24.2
+        "code": 0,
+        "temp_max": 35.8,
+        "temp_min": 25.0
+      },
+      {
+        "date": "2026-06-28",
+        "code": 0,
+        "temp_max": 33.8,
+        "temp_min": 23.8
       }
     ]
   },
   "clusters": [
     {
-      "title": "Hürmüz Boğazı'nda Jeopolitik Kriz ve Müzakereler",
+      "title": "ABD-İran Hürmüz Boğazı Müzakereleri",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "İran'ın Hürmüz Boğazı'nı kapatma kararı ve sonrasında ABD ile İsviçre'de yürütülecek müzakere süreçleri küresel piyasaları ve diplomasiyi kilitledi.",
+      "summary": "İsviçre'de düzenlenen 18 saatlik yoğun müzakereler sonucunda ABD ve İran arasında Hürmüz Boğazı konusunda bir anlaşma sağlandığı bildirildi; ancak tarafların açıklamaları arasında çelişkiler sürüyor.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Trump: 60 günlük ateşkes boyunca Hürmüz'de geçiş ücreti olmayacak",
+          "title": "Katar ve Pakistan: İsviçre'deki ABD-İran müzakerelerinin birinci turu olumlu ve yapıcı atmosferde tamamlandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/katar-ve-pakistan-isvicredeki-abd-iran-muzakerelerinin-birinci-turu-olumlu-ve-yapici-atmosferde-tamamlandi/3974039",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "İlk tur görüşmede ‘tehdit’ krizi... ABD ve İran masaya oturdu",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/dunya/ilk-tur-gorusmede-tehdit-krizi-abd-ve-iran-masaya-oturdu-43213811",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "ABD ve İran 'Hürmüz' konusunda anlaştı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/dunya/abd-ve-iran-hurmuz-konusunda-anlasti-106542",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran ile ABD arasında, Pakistanlı ve Katarlı arabulucuların katılımıyla dörtlü görüşmeler başladı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/abd-iran-mutabakati-sonrasi-dortlu-zirve-isvicre-de-basladi-19973645-haberi/",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "ABD-İran görüşmelerinde ilerleme sağlandı",
           "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/trump-60-gunluk-ateskes-boyunca-hurmuz-de-gecis-ucreti-olmayacak-3780725",
-          "also_in": []
-        },
-        {
-          "title": "İran, Hürmüz Boğazı'nı kapatma kararı aldı",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/iran-hurmuz-bogazi-ni-kapatma-karari-aldi-3780722",
-          "also_in": []
-        },
-        {
-          "title": "Mehr: İran Hürmüz’ü kapatma kararı aldı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/mehr-iran-hurmuz-u-kapatma-karari-aldi/887713",
-          "also_in": []
-        },
-        {
-          "title": "Kapatılan Hürmüz Boğazı odakta: ABD Başkan Yardımcısı Vance, görüşmeler için İsviçre'de",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/kapatilan-hurmuz-bogazi-odakta-abd-baskan-yardimcisi-vance-gorusmeler-icin-isvicrede-h31959",
-          "also_in": []
-        },
-        {
-          "title": "İsrail saldırdı, İran Hürmüz'ü yeniden kapattı: ABD ile geçici anlaşma tehlikeye girdi",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/israil-saldirdi-iran-hurmuzu-yeniden-kapatti-abd-ile-gecici-anlasma-tehlikeye-girdi-h31956",
+          "link": "https://www.bloomberght.com/abd-iran-gorusmelerinde-ilerleme-saglandi-3780745",
           "also_in": []
         }
       ]
     },
     {
-      "title": "YKS AYT Oturumu ve Sınav Günü Gelişmeleri",
-      "meta_category": "Eğitim",
-      "summary": "Milyonlarca gencin katıldığı YKS'nin ikinci oturumu AYT bugün gerçekleştirildi; sınav süreci ve adayların deneyimleri günün ana gündem maddelerinden biri oldu.",
+      "title": "2026 Dünya Kupası Heyecanı",
+      "meta_category": "Spor",
+      "summary": "Dünya Kupası maçları tüm hızıyla devam ederken, İspanya'nın Suudi Arabistan karşısındaki farklı galibiyeti ve Belçika-İran maçının beraberliği dikkat çekti.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "YKS'nin ikinci oturumu AYT başladı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/yksnin-ikinci-oturumu-ayt-basladi/3973442",
-          "also_in": [
-            "Elips Haber",
-            "İlke TV"
-          ]
-        },
-        {
-          "title": "YKS maratonu devam ediyor: İkinci oturum AYT başladı",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/egitim/yks-maratonu-devam-ediyor-ikinci-oturum-ayt-basladi-haberi-901226",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Türkçe ve fen soruları adayları zorladı",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/turkce-ve-fen-sorulari-adaylari-zorladi",
-          "also_in": [
-            "Gazete Pencere"
-          ]
-        },
-        {
-          "title": "YKS'de İkinci Gün Heyecanı: AYT Başladı",
-          "source": "Gerçek Gündem",
-          "link": "https://www.gercekgundem.com/guncel/yksde-ikinci-gun-heyecani-ayt-basladi-573585",
-          "also_in": [
-            "Haber 7"
-          ]
-        },
-        {
-          "title": "Ankara&apos;da YKS heyecanı",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/yks-tyt-sona-erdi-ogrenciler-sinav-sorularini-degerlendirdi-19970915-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "2026 Dünya Kupası'nda Sonuçlar ve Tepkiler",
-      "meta_category": "Spor",
-      "summary": "Dünya Kupası maçları devam ederken, A Milli Takım'ın elenmesi sonrası yaşanan duygusal anlar ve teknik heyete yönelik eleştiriler spor medyasının gündeminde.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "A Milli Takım için olay yaratan ifade: \"İçler acısı\"",
+          "title": "İspanya kendine geldi: Suudi Arabistan'a farklı tarife! Lamine Yamal'dan bir ilk",
           "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/a-milli-takim-icin-olay-yaratan-ifade-icler-acisi-424804",
+          "link": "https://www.ntvspor.net/foto-galeri/ispanya-kendine-geldi-suudi-arabistana-farkli-tarife-lamine-yamaldan-bir-ilk-424830",
           "also_in": [
             "NTV Spor Futbol"
           ]
         },
         {
-          "title": "A Milli Takımımızın vedası Dünya basınında gündem oldu! İşte o manşetler...",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/dunya-kupasi/haberler/2026/06/20/a-milli-takimimizin-vedasi-dunya-basininda-gundem-oldu-iste-o-mansetler",
-          "also_in": []
-        },
-        {
-          "title": "A Milli Futbol Takımımızda büyük üzüntü! Paraguay maçı sonrası sahayı gözyaşlarıyla terk ettiler",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/dunya-kupasi/haberler/2026/06/20/a-milli-futbol-takimimizda-buyuk-uzuntu-paraguay-maci-sonrasi-sahayi-gozyaslariyla-terk-ettiler",
-          "also_in": []
-        },
-        {
-          "title": "Montella ile ilgili çarpıcı sözler! \"Aklı ile duyguları arasında kaldı\"",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/webtv/dunya-kupasi/montella-ile-ilgili-carpici-sozler-akli-ile-duygulari-arasinda-kaldi",
-          "also_in": []
-        },
-        {
-          "title": "A Milli Takım'da şimdi hesap vakti",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/spor/a-milli-takimda-simdi-hesap-vakti-1798346",
+          "title": "İspanya, gövde gösterisiyle kazandı",
+          "source": "Futboo",
+          "link": "https://www.futboo.com/ispanya-govde-gosterisiyle-kazandi/90837/",
           "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Dijital Platformlara Erişim Engelleri",
-      "meta_category": "Teknoloji",
-      "summary": "Change.org ve Roblox gibi platformlara Türkiye'de erişim engeli getirilmesi ve sonrasında yaşanan hukuki süreçler dijital dünyada tartışma yarattı.",
-      "importance": 8,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Change.org Türkiye'de erişime engellendi",
-          "source": "Teknolojioku",
-          "link": "https://www.teknolojioku.com/internet/changeorg-turkiyede-erisime-engellendi-6a361e87314fe7152403ef13",
-          "also_in": [
-            "Edebi Bülten"
+            "Futboo"
           ]
         },
         {
-          "title": "ROBLOX Erişim Engeli Resmen Kaldırıldı!",
-          "source": "İndir",
-          "link": "https://www.indir.com/haber/roblox-erisim-engeli-resmen-kaldirildi/",
-          "also_in": []
-        },
-        {
-          "title": "Change.org’a Türkiye’den Erişim Engeli Getirildi",
-          "source": "ÇözümPark",
-          "link": "https://www.cozumpark.com/change-orga-turkiyeden-erisim-engeli-getirildi/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomi ve Piyasalar: Döviz ve Fon Hareketleri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Borsa İstanbul'daki endeks değişiklikleri, altın ve gümüşteki hareketlilik ile yatırım fonlarının performansı piyasa analistleri tarafından mercek altına alındı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Borsada endeks değişiklikleri açıklandı: İşte güncellenen BIST listeleri",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/borsa-haberleri/borsada-endeks-degisiklikleri-aciklandi-iste-guncellenen-bist-listeleri/887474",
-          "also_in": []
-        },
-        {
-          "title": "Konut Fiyatları Çöker mi? - Borsayı Kim Uçurdu? - Fed, Altını Düşürdü",
-          "source": "Investing Genel",
-          "link": "https://tr.investing.com/analysis/konut-fiyatlar-coker-mi--borsay-kim-ucurdu--fed-altn-dusurdu-200504953",
-          "also_in": []
-        },
-        {
-          "title": "Altın ve Gümüşün Dönüşü - Dikkat Çeken İki Yatırım Fonu - Dolar/TL’ye Yeni Ayar",
-          "source": "Investing Genel",
-          "link": "https://tr.investing.com/analysis/altn-ve-gumusun-donusu--dikkat-ceken-iki-yatrm-fonu--dolartlye-yeni-ayar-200504895",
-          "also_in": []
-        },
-        {
-          "title": "En çok kazandıran ve kaybettiren fonlar",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/borsa/en-cok-kazandiran-ve-kaybettiren-fonlar-15-19-haziran-2026-g31947",
-          "also_in": []
-        },
-        {
-          "title": "Milyonların takibindeki o hisseler endeksten çıkarıldı: İşte BIST 50 ve BIST 100'de yeni liste",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/borsa/milyonlarin-takibindeki-o-hisseler-endeksten-cikarildi-iste-bist-50-ve-bist-100de-yeni-liste-g31945",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ülke Genelinde Meydana Gelen Trajik Kazalar",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Isparta'da tur otobüsünün devrilmesi ve çeşitli bölgelerdeki trafik kazaları sonucunda yaşanan can kayıpları toplumda üzüntüye neden oldu.",
-      "importance": 7,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Isparta'da tur otobüsü devrildi: 4 ölü, 15 yaralı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/5989163/ispartada-tur-otobusu-devrildi-4-olu-15-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "2026 Dünya Kupası heyecanı yarın 5 maçla devam edecek",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/2026-dunya-kupasi-heyecani-yarin-5-macla-devam-edecek/3974063",
           "also_in": [
-            "Kamudan Haber",
-            "BHA"
+            "dikGAZETE",
+            "Haberler"
           ]
         },
         {
-          "title": "Isparta’da tur minibüsü şarampole yuvarlandı: Çok sayıda ölü ve yaralı var",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/ispartada-tur-minibusu-sarampole-yuvarlandi-cok-sayida-olu-ve-yarali-var-6935902",
-          "also_in": [
-            "GZT"
-          ]
-        },
-        {
-          "title": "Isparta Valiliğinden kaza açıklaması: 4 ölü, 26 yaralı",
+          "title": "2026 FIFA Dünya Kupası: Belçika: 0 İran: 0",
           "source": "Haberler",
-          "link": "https://www.haberler.com/3-sayfa/isparta-da-midibus-devrildi-4-olu-26-yarali-19971604-haberi/",
+          "link": "https://www.haberler.com/spor/belcika-iran-0-0-10-kisi-kalan-belcika-beraberlige-razi-oldu-19974462-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "2026 Dünya Kupası: İspanya: 4 Suudi Arabistan: 0",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/spor/ispanya-suudi-arabistan-i-4-0-maglup-etti-19974227-haberi/",
           "also_in": [
             "Medya Gazete"
           ]
@@ -304,102 +167,395 @@
       ]
     },
     {
-      "title": "Yapay Zeka ve Teknoloji Sektöründeki Gelişmeler",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka modellerinin yönetimi, büyük teknoloji şirketleri arasındaki transferler ve yeni donanım duyuruları sektörün odağında.",
-      "importance": 6,
+      "title": "Ekonomik Piyasalar ve Jeopolitik Etki",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "İran-ABD müzakerelerinden gelen haberler petrol fiyatlarında gerilemeye neden olurken, küresel piyasalar Fed mesajları ve ticaret kısıtlamalarıyla hareketli bir gün geçiriyor.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Google, Nobel ödüllü araştırmacısını Anthropic'e kaptırdı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-nobel-odullu-arastirmacisini-rakibine-kaptirdi--207115",
+          "title": "18 saatlik zirve piyasaları rahatlattı! Petrol fiyatlarında büyük gerilime yaşandı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/18-saatlik-zirve-piyasalari-rahatlatti-petrol-fiyatlarinda-buyuk-gerilime-yasandi-6936334",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Piyasalar alev aldı: Altın, gümüş ve platin çakıldı, dolar yükseldi",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/piyasalar-alev-aldi-altin-gumus-ve-platin-cakildi-dolar-yukseldi-6936209",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "İsviçre'den kritik haber geldi: Petrol düştü, altın ve gümüş yükseldi!",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/isvicre-den-kritik-haber-geldi-petrol-dustu-altin-ve-gumus-yukseldi-p329981",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Petrol ABD-İran görüşmelerindeki ilerleme sinyalleriyle geriledi",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/petrol-abd-iran-gorusmelerindeki-ilerleme-sinyalleriyle-geriledi-3780739",
           "also_in": []
         },
         {
-          "title": "Google’ın Kilit İsimleri OpenAI ve Anthropic’e Transfer Oldu",
-          "source": "Donanım Günlüğü",
-          "link": "https://donanimgunlugu.com/googlein-kilit-isimleri-openai-433178",
-          "also_in": []
-        },
-        {
-          "title": "Murf AI Özellikleri Nedir? Murf AI ile Neler Yapılabilir?",
-          "source": "Geç Bunları",
-          "link": "https://gecbunlari.com/murf-ai-ozellikleri-nedir-murf-ai-ile-neler-yapilabilir/",
-          "also_in": []
-        },
-        {
-          "title": "Çin, Yapay Zekâ Çiplerinde Kritik Hammaddenin İhracatını Sıkılaştırıyor",
-          "source": "ÇözümPark",
-          "link": "https://www.cozumpark.com/cin-yapay-zeka-ciplerinde-kritik-hammaddenin-ihracatini-sikilastiriyor/",
-          "also_in": []
-        },
-        {
-          "title": "Microsoft’un Yapay Zeka Harcamaları Başını Derde Soktu",
-          "source": "ShiftDelete",
-          "link": "https://shiftdelete.net/microsoftun-yapay-zeka-harcamalari-basini-derde-soktu",
+          "title": "Hürmüz için anlaşma tamam: Petrol fiyatlarında sert dönüş",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/enerji/hurmuz-icin-anlasma-tamam-petrol-fiyatlarinda-sert-donus-h31988",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Kültür ve Sanat Dünyasından Kayıplar ve Etkinlikler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Türk Halk Müziği sanatçısı Yücel Paşmakçı'nın kaybı sanat dünyasını yasa boğarken, çeşitli sergiler ve festival haberleri öne çıktı.",
-      "importance": 6,
-      "story_count": 3,
+      "title": "Karadeniz'de Dron Saldırısı",
+      "meta_category": "Diğer",
+      "summary": "Karadeniz'de seyir halindeki bir yük gemisine düzenlenen dron saldırısında yaralananlar olduğu ve aralarında Türk mürettebatın da bulunduğu rapor edildi.",
+      "importance": 8,
+      "story_count": 5,
       "stories": [
         {
-          "title": "Türk Halk Müziği sanatçısı Yücel Paşmakçı hayatını kaybetti",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3637165-turk-halk-muzigi-sanatcisi-yucel-pasmakci-hayatini-kaybetti",
+          "title": "Karadeniz'de yük gemisine dron saldırısı! Kurtarılan 9 mürettebat arasında Türkler de var",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/karadenizde-yuk-gemisine-dron-saldirisi-kurtarilan-9-murettebat-arasinda-turkler-de-var-6936333",
           "also_in": [
-            "İnternet Haber",
-            "Haberler",
+            "Karar"
+          ]
+        },
+        {
+          "title": "Karadeniz'de yük gemisine dron saldırısı! Aralarında Türkler de var",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/karadenizde-yuk-gemisine-dron-saldirisi-aralarinda-turkler-de-var-106541",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Karadeniz'de Türklerin olduğu gemiye dron saldırısı! Yaralılar var",
+          "source": "Halk TV",
+          "link": "https://halktv.com.tr/turkiye/karadenizde-turklerin-oldugu-gemiye-dron-saldirisi-yaralilar-var-1037724h",
+          "also_in": [
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Karadeniz'de sıcak saatler! Türklerin bulunduğu gemiye dron isabet etti",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/karadenizde-sicak-saatler-turklerin-bulundugu-gemiye-dron-isabet-etti/haber-1676598",
+          "also_in": []
+        },
+        {
+          "title": "Ukrayna duyurdu: Karadeniz'de yük gemisine dron isabet etti",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/ukrayna-duyurdu-karadeniz-de-yuk-gemisine-dron-isabet-etti/888114",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Devrimleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka ajanları, yeni nesil donanımlar ve dev şirket ortaklıkları teknoloji gündemini domine ederken, tüketici elektroniğinde yeni ürün lansmanları hız kazandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "AISpeech yapay zekâ kayıt asistanı duyuruldu",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/aispeech-tanitildi-iste-ozellikleri-ve-fiyati--207120",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Sadece hedefi belirleyerek çalışan otonom yapay zeka ajanları iş başında",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/sadece-hedefi-belirleyerek-calisan-otonom-yapay-zeka-ajanlari-is-basinda_181294.html",
+          "also_in": []
+        },
+        {
+          "title": "TECNO ve Google’dan Google AI Plus için iş birliği",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/tecno-ve-googledan-google-ai-plus-icin-is-birligi_181289.html",
+          "also_in": []
+        },
+        {
+          "title": "AMD ve Rackspace'ten küresel yapay zeka altyapısı için dev ortaklık",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/amd-ve-rackspaceten-kuresel-yapay-zeka-altyapisi-icin-dev-ortaklik_181257.html",
+          "also_in": []
+        },
+        {
+          "title": "Google’ın soğutma girişimi yapay zeka veri merkezi pazarını değiştirebilir",
+          "source": "Investing Teknoloji",
+          "link": "https://tr.investing.com/news/technology-news/googlen-sogutma-girisimi-yapay-zeka-veri-merkezi-pazarn-degistirebilir-3950674",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "YKS Sınav Sonrası Gelişmeler",
+      "meta_category": "Eğitim",
+      "summary": "Yükseköğretim Kurumları Sınavı (YKS) oturumlarının tamamlanmasının ardından soru kitapçıkları ve cevap anahtarları erişime açıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "YKS soru kitapçıkları ve cevap anahtarları erişime açıldı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/yks-soru-kitapciklari-ve-cevap-anahtarlari-erisime-acildi-2514134",
+          "also_in": [
+            "F5 Haber",
+            "Gazete Pencere",
+            "Haberet",
             "TRT Haber"
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan Yücel Paşmakçı için Taziye Mesajı",
-          "source": "Gerçek Gündem",
-          "link": "https://www.gercekgundem.com/guncel/cumhurbaskani-erdogandan-yucel-pasmakci-icin-taziye-mesaji-573573",
+          "title": "2026-YKS soru kitapçıkları ve cevap anahtarları erişime açıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/2026-yks-soru-kitapciklari-ve-cevap-anahtarlari-erisime-acildi-581008",
           "also_in": [
-            "Medya Gazete"
+            "Haber Global",
+            "Haberler"
           ]
         },
         {
-          "title": "Türkülerin hafızasıydı: Yücel Paşmakçı 91 yaşında hayatını kaybetti",
-          "source": "10Haber",
-          "link": "https://10haber.net/kultur-sanat/turkulerin-hafizasiydi-yucel-pasmakci-91-yasinda-hayatini-kaybetti-713291/",
+          "title": "YKS'de oturumlar sona erdi",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/egitim/haber/3637348-yksde-oturumlar-sona-erdi",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "YKS soru kitapçıkları ve cevap anahtarları yayımlandı",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/yks-soru-kitapciklari-ve-cevap-anahtarlari-yayimlandi-2447867h.htm",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "YKS bitti tercihler ağustosta",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/yks-bitti-tercihler-agustosta/haber-1676591",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Filenin Sultanları'ndan Başarı",
+      "meta_category": "Spor",
+      "summary": "A Milli Kadın Voleybol Takımı, FIVB Milletler Ligi'nde Çin karşısında aldığı galibiyetle serisini 4'te 4'e çıkardı.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "A Milli Kadın Voleybol Takımı, VNL'nin ikinci haftasında 4'te 4 yaptı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-vnlnin-ikinci-haftasinda-4te-4-yapti/3973944",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Filenin Sultanları’ndan müthiş seri: Çin engelini de aşarak 4'te 4 yaptık",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/filenin-sultanlarindan-muthis-seri-cin-engelini-de-asarak-4te-4-yaptik-h1544049",
+          "also_in": [
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "Filenin Sultanları Çin'i geriden gelerek devirdi!",
+          "source": "Haber 7",
+          "link": "https://spor.haber7.com/voleybol/haber/3637370-filenin-sultanlari-cini-geriden-gelerek-devirdi",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Voleybol: FIVB Kadınlar Milletler Ligi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/spor/a-milli-kadin-voleybol-takimi-cin-i-3-2-yenerek-vnl-de-galibiyete-ulasti-19974310-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sultangazi ve Balıkesir'de Yangınlar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Türkiye'nin farklı bölgelerinde meydana gelen çatı ve orman yangınları paniğe neden oldu, yetkililer müdahalelerin tamamlandığını duyurdu.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Balıkesir'de orman yangını",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5989204/balikesirde-orman-yangini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Gerçek Gündem",
+            "Habertürk",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Balıkesir'de çıkan orman yangını söndürüldü",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/balikesirde-cikan-orman-yangini-sonduruldu-581016",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Sultangazi'de çatı yangını çevredeki binalara da sıçradı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/yerel-haberler/sultangazide-cati-yangini-cevredeki-binalara-da-sicradi-106535",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Sultangazi&apos;de çatı yangını komşu binaya sıçradı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/3-sayfa/sultangazi-de-4-katli-binanin-catisinda-yangin-19973727-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Otoyolda tır alev alev yandı",
+          "source": "OdaTV",
+          "link": "https://www.odatv.com/guncel/otoyolda-tir-alev-alev-yandi-120151744",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Babalar Günü ve Sosyal Gündem",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Toplum genelinde Babalar Günü kutlamaları ve bu özel güne dair mesajlar öne çıkarken, aile içi dinamiklere dair toplumsal tartışmalar devam ediyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan Babalar Günü mesajı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-babalar-gunu-mesaji-3433704",
+          "also_in": [
+            "Haber Global",
+            "NTV",
+            "TGRT Haber",
+            "TRT Haber",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Gençlerden Cumhurbaşkanı Erdoğan'a Babalar Günü sürprizi",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/genclerden-cumhurbaskani-erdogan-a-babalar-gunu-surprizi-1007076.html",
+          "also_in": [
+            "Kamudan Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Tüm imkanlarını evlatlarına adayan kahraman babalarımızın Babalar Günü'nü tebrik ediyorum",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tum-imkanlarini-evlatlarina-adayan-kahraman-babalarimizin-babalar-gununu-tebrik-ediyorum/3973841",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Emine Erdoğan'dan Babalar Günü mesajı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/emine-erdogandan-babalar-gunu-mesaji-2-272040h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Erkeklere fazla mesai... Babaların evdeki yükü yüzde 200 arttı!",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/trend/erkeklere-fazla-mesai-babalarin-evdeki-yuku-yuzde-200-artti/haber-1676592",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür ve Sanat Dünyasından Haberler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Müzik gündemi, edebiyat söyleşileri ve sanat etkinlikleri 21-25 Haziran haftası rehberinde sanatseverlerle buluşuyor.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Pet Shop Boys DREAMWORLD “The Greatest Hits Live” İstanbul konserine hazırlanıyoruz",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/pet-shop-boys-the-greatest-hits-sohbet/",
+          "also_in": []
+        },
+        {
+          "title": "19-25 Haziran etkinlik rehberi",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/19-25-haziran-etkinlik-rehberi/",
+          "also_in": []
+        },
+        {
+          "title": "Kısa formun sınırlarını keşfetmek isteyenlere: Kısalar Festivali ikinci kez başlıyor",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/kisalar-festivali-2026/",
+          "also_in": []
+        },
+        {
+          "title": "Emin Antik Sanat Kahvesi’nde “Şehir ve Edebiyat Söyleşileri” konuğu Ali Bektaş",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/emin-antik-sanat-kahvesinde-sehir-ve-edebiyat-soylesileri-konugu-ali-bektas/",
+          "also_in": []
+        },
+        {
+          "title": "Haftanın Kitaplığı – 21 Haziran 2026",
+          "source": "Rotka",
+          "link": "https://rotka.org/haftanin-kitapligi-21-haziran-2026/",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Nightmare",
-    "artist": "Henry Fuseli",
-    "year": "1781",
+    "title": "Nighthawks",
+    "artist": "Edward Hopper",
+    "year": "1942",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Detroit Institute of Arts",
-    "description": "Sınav stresinin yarattığı ağırlık hissini ve jeopolitik belirsizliğin neden olduğu kabusvari atmosferi metaforik bir dille yansıtır. Uyuyan bir figürün üzerine çöken gizemli bir varlık, toplumun üzerindeki baskıyı ve geleceğe dair endişeyi görselleştirir.",
+    "location": "Art Institute of Chicago",
+    "description": "Issız bir gece vaktinde bir kafede oturan figürleri tasvir eden bu eser, modern yaşamın getirdiği izolasyonu, kentsel yalnızlığı ve belirsizlikle harmanlanmış sessiz bir tekinsizliği mükemmel bir şekilde yansıtmaktadır.",
     "verified": true,
-    "wikipedia_url": "https://tr.wikipedia.org/wiki/K%C3%A2bus_(tablo)",
-    "wikipedia_extract": "The Nightmare Before Christmas is a 1993 American stop-motion musical fantasy film directed by Henry Selick and written by Caroline Thompson. It tells the tale of Jack Skellington, King of Halloween Town, who stumbles upon Christmas Town and becomes obsessed with celebrating the holiday himself. Danny Elfman wrote the songs and score and provided the singing voice of Jack. The principal voice cast includes Chris Sarandon, Ken Page, Catherine O'Hara, Glenn Shadix, William Hickey, Paul Reubens and Ed Ivory.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Fuseli"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nighthawks_(Hopper)",
+    "wikipedia_extract": "Nighthawks is a 1942 oil on canvas painting by the American artist Edward Hopper that portrays four people in a downtown diner late at night as viewed through the diner's large glass window. The light coming from the diner illuminates a darkened and deserted urban streetscape.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/3840px-Nighthawks_by_Edward_Hopper_1942.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Hopper"
   },
   "music": {
-    "title": "EVERYTHING IN ITS RIGHT PLACE",
-    "artists": "LE YORA, SOMMA, JEWELS, YUMA, MAGNUS",
-    "album": "EVERYTHING IN ITS RIGHT PLACE",
-    "duration": "5:02",
-    "spotify_url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs",
-    "spotify_id": "03p9MCjq5ld1kRmqCGNXgs",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2730e3f20d3d1aa8bc551cf271a",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/03p9MCjq5ld1kRmqCGNXgs\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "To Build A Home",
+    "artists": "The Cinematic Orchestra, Patrick Watson",
+    "album": "Ma Fleur",
+    "duration": "6:11",
+    "spotify_url": "https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK",
+    "spotify_id": "54KFQB6N4pn926IUUYZGzK",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273f04457d8ce4be7b714f35cb1",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/54KFQB6N4pn926IUUYZGzK\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "21 Haziran 2026, Hürmüz Boğazı'ndan yükselen jeopolitik gerilimle, AYT maratonunun yarattığı toplumsal kaygıyla ve ekonomik belirsizliğin gölgesinde, yüksek tansiyonlu bir arayış günüdür. Bu derin endişe hali, Henry Fuseli'nin The Nightmare adlı eserinde ete kemiğe bürünür; uykunun en savunmasız anında bilincimize sızan korkuları, üzerimize çöken görünmez yükleri gözler önüne serer. LE YORA, SOMMA, JEWELS, YUMA ve MAGNUS'un EVERYTHING IN ITS RIGHT PLACE parçası, gergin, tekinsiz ve arayış dolu atmosferiyle bu tablonun görsel tedirginliğini işitsel bir yoğunluğa taşır. Melankolik tonları ve sürekli bir düzen arayışı içindeki notalarıyla, hem bireysel sınav stresinin hem de küresel belirsizliğin ruhumuzda yarattığı dalgalanmaları yankılar. Bu kürasyon, içinde bulunduğumuz kaosun ortasında, her şeyin doğru yerinde olup olmadığına dair derin bir sorgulamayı tetiklerken, aynı zamanda kolektif bir teselli ve çözüm arayışını da fısıldar."
+  "curator_statement": "Küresel gerilimler ve ekonomik dalgalanmaların gölgesinde, teknoloji ve sporun heyecanıyla harmanlanmış, belirsiz ama umutlu bir ruh hali bu günü sarıyor. Edward Hopper'ın Nighthawks eseri, gece şehrin loşluğunda parlayan bir dinerda oturan figürlerin yalnızlığını ve yapay ışığın ardındaki sessiz bekleyişi, bu karmaşık dönemin bireysel tecritini ve güvence arayışını yansıtıyor. The Cinematic Orchestra'nın To Build A Home parçası ise, melankolik notalarıyla bu belirsizliğin ortasında yuva kurma arzusunu, aidiyet hissini ve kırılgan umudu fısıldıyor. Her iki eser de, Hürmüz Boğazı'ndaki müzakerelerden yapay zekanın dönüştürücü gücüne, Dünya Kupası'nın coşkusundan Babalar Günü'nün sıcaklığına uzanan bu çalkantılı zamanlarda, insanın kendini ve yerini bulma çabasını derinden hissettiriyor. Kısacası, bu seçki, dış dünyadaki gürültüye rağmen içsel bir sığınak inşa etme arzusunu ve bilinmeyene karşı duran direnci yüceltiyor."
 }
