@@ -5,16 +5,11 @@ Pipeline:
 2. Haber analizi (Gemini)
 3. Sanat eseri + müzik önerisi (Gemini + Wikipedia)
 4. Spotify arama
-5. Küratör metni (Gemini - gerçek Spotify parçasına göre)
+5. Küratör metni (Gemini — gerçek Spotify parçasına göre)
 6. Hava durumu
 7. Final today.json
-
-Kullanım:
-  python run_daily.py              # bugün için
-  python run_daily.py --date 2026-05-10  # geçmiş tarih için
 """
 
-import argparse
 import subprocess
 import json
 import sys
@@ -30,10 +25,10 @@ from google.genai import types
 load_dotenv()
 
 STEPS = [
-    ("collect_news.py",       "RSS toplama"),
-    ("analyze_news.py",       "Haber analizi (Gemini)"),
-    ("curate.py",             "Sanat & müzik önerisi (Gemini + Wikipedia)"),
-    ("find_spotify_track.py", "Spotify parça arama"),
+    ("collect_news.py",      "RSS toplama"),
+    ("analyze_news.py",      "Haber analizi (Gemini)"),
+    ("curate.py",            "Sanat & müzik önerisi (Gemini + Wikipedia)"),
+    ("find_spotify_track.py","Spotify parça arama"),
 ]
 
 ARCHIVE_DIR = Path("archive")
@@ -44,13 +39,6 @@ IZMIR_LON = 27.1287
 CURATOR_MODEL = "gemini-2.5-flash"
 MAX_RETRIES = 4
 RETRY_DELAYS = [30, 60, 120, 240]
-
-
-def parse_args():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--date', type=str, default=None,
-                        help='Tarih (YYYY-MM-DD). Belirtilmezse bugün kullanılır.')
-    return parser.parse_args()
 
 
 def run_step(script_name, description):
@@ -79,15 +67,10 @@ def generate_curator_statement(curation_data, spotify_data, analysis_data):
     spotify_track = spotify_data.get("spotify_track", {})
     analysis = analysis_data.get("analysis", {})
 
+    # Gerçekte çalacak parça
     real_title = spotify_track.get("name", music_suggestion.get("title", ""))
     real_artist = spotify_track.get("artists", music_suggestion.get("artist", ""))
     real_album = spotify_track.get("album", music_suggestion.get("album", ""))
-
-    artwork_desc = ""
-    if artwork_page and artwork_page.get("extract"):
-        artwork_desc = artwork_page["extract"][:300]
-    elif artwork.get("description"):
-        artwork_desc = artwork.get("description")
 
     prompt = f"""Sen deneyimli bir sanat ve müzik küratörüsün. Aşağıdaki bilgilere dayanarak Türkçe, edebi ve düşünceli bir küratör yorumu yaz.
 
@@ -99,7 +82,7 @@ SEÇİLEN SANAT ESERİ:
 - Eser: {artwork.get('title', '')} ({artwork.get('year', '')})
 - Sanatçı: {artwork.get('artist', '')}
 - Teknik: {artwork.get('medium', '')}
-- Açıklama: {artwork_desc}
+- Açıklama: {artwork_page.get('extract', artwork.get('description', ''))[:300] if artwork_page else artwork.get('description', '')}
 
 ÇALACAK MÜZİK PARÇASI:
 - Parça: {real_title}
@@ -113,7 +96,8 @@ Küratör yorumu şunları yapmalı:
 - Edebi ve düşünceli bir dil kullanmalı
 - 4-6 cümle olmalı
 - SADECE küratör metnini yaz, başka hiçbir şey ekleme
-- Tırnak işareti kullanma, düz metin yaz
+- Tırnak işareti (" veya ') kullanma, düz metin yaz
+- Eser ve parça adlarını parantez olmadan yaz
 """
 
     client = genai.Client(api_key=api_key)
@@ -130,7 +114,7 @@ Küratör yorumu şunları yapmalı:
                 ),
             )
             text = response.text.strip()
-            print(f"   ✓ Küratör metni üretildi")
+            print(f"   ✓ Küratör metni üretildi ({len(text)} karakter)")
             print(f"\n📝 Küratör Metni:\n{text}\n")
             return text
         except Exception as e:
@@ -154,11 +138,9 @@ def fetch_weather():
     print(f"{'='*70}")
     url = "https://api.open-meteo.com/v1/forecast"
     params = {
-        "latitude": IZMIR_LAT,
-        "longitude": IZMIR_LON,
+        "latitude": IZMIR_LAT, "longitude": IZMIR_LON,
         "daily": "weather_code,temperature_2m_max,temperature_2m_min",
-        "timezone": "Europe/Istanbul",
-        "forecast_days": 7,
+        "timezone": "Europe/Istanbul", "forecast_days": 7,
     }
     try:
         r = requests.get(url, params=params, timeout=15)
@@ -173,25 +155,37 @@ def fetch_weather():
                 "temp_min": data.get("temperature_2m_min", [None])[i],
             })
         print(f"   ✓ {len(days)} günlük tahmin alındı")
+        for d in days:
+            print(f"     {d['date']}: kod={d['code']}, {d['temp_min']}°C - {d['temp_max']}°C")
         return {"location": "İzmir", "latitude": IZMIR_LAT, "longitude": IZMIR_LON, "days": days}
     except Exception as e:
         print(f"   ⚠️  Hava durumu hatası: {e}")
         return None
 
 
-def build_today_json(today, weather, curator_statement):
+def build_today_json(weather, curator_statement):
     print(f"\n{'='*70}")
     print(f"▶  Final today.json üretiliyor")
     print(f"{'='*70}")
 
+    import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--date', type=str, default=None)
+args = parser.parse_args()
+
+if args.date:
+    today = datetime.strptime(args.date, "%Y-%m-%d").replace(tzinfo=TR_TZ)
+else:
+    today = datetime.now(TR_TZ)
     today_iso = today.strftime("%Y-%m-%d")
     today_human = today.strftime("%d %B %Y")
 
     files_to_load = {
         "collected": "collected_news.json",
-        "analysis":  "day_analysis.json",
-        "curation":  "curation.json",
-        "spotify":   "spotify_result.json",
+        "analysis": "day_analysis.json",
+        "curation": "curation.json",
+        "spotify": "spotify_result.json",
     }
 
     data = {}
@@ -287,9 +281,7 @@ def print_summary(today_json):
     print(f"🎉 GÜNÜN ÖZETİ — {today_json['date_human']}")
     print(f"{'='*70}\n")
     stats = today_json.get("stats", {})
-    print(f"📊 {stats.get('feeds_collected', 0)} kaynaktan "
-          f"{stats.get('news_total', 0)} haber, "
-          f"{stats.get('clusters', 0)} kümeye indirgendi\n")
+    print(f"📊 {stats.get('feeds_collected', 0)} kaynaktan {stats.get('news_total', 0)} haber, {stats.get('clusters', 0)} kümeye indirgendi\n")
     mood = today_json.get("mood", {})
     print(f"🎭 Günün Ruhu:\n   {mood.get('description', '?')}\n")
     weather = today_json.get("weather")
@@ -299,8 +291,7 @@ def print_summary(today_json):
     artwork = today_json.get("artwork", {})
     if artwork:
         verified = "✓" if artwork.get("verified") else "✗"
-        print(f"🖼️  Eser ({verified} doğrulandı):\n   "
-              f"{artwork.get('title')} — {artwork.get('artist')} ({artwork.get('year')})")
+        print(f"🖼️  Eser ({verified} doğrulandı):\n   {artwork.get('title')} — {artwork.get('artist')} ({artwork.get('year')})")
     music = today_json.get("music", {})
     if music:
         print(f"\n🎵 Müzik:\n   {music.get('title')} — {music.get('artists')}")
@@ -308,26 +299,13 @@ def print_summary(today_json):
 
 
 def main():
-    args = parse_args()
-
-    # Tarih belirle
-    if args.date:
-        try:
-            today = datetime.strptime(args.date, "%Y-%m-%d").replace(tzinfo=TR_TZ)
-            print(f"📅 Geçmiş tarih modu: {args.date}")
-        except ValueError:
-            print(f"❌ Geçersiz tarih formatı: {args.date} (YYYY-MM-DD olmalı)")
-            sys.exit(1)
-    else:
-        today = datetime.now(TR_TZ)
-
     start_time = datetime.now()
 
     for f in ["day_analysis.json", "curation.json", "spotify_result.json"]:
         Path(f).unlink(missing_ok=True)
 
     print(f"🚀 ZeitgeistToday günlük pipeline başlıyor")
-    print(f"   {today.strftime('%d %B %Y, %H:%M:%S')} TSİ")
+    print(f"   {datetime.now(TR_TZ).strftime('%d %B %Y, %H:%M:%S')} TSİ")
 
     expected_outputs = {
         "collect_news.py":       "collected_news.json",
@@ -363,7 +341,7 @@ def main():
         print(f"   ⚠️  Küratör metni üretilirken hata: {e}")
 
     weather = fetch_weather()
-    today_json = build_today_json(today, weather, curator_statement)
+    today_json = build_today_json(weather, curator_statement)
     print_summary(today_json)
 
     elapsed = datetime.now() - start_time
