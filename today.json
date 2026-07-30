@@ -1,22 +1,22 @@
 {
-  "date": "2026-07-29",
-  "date_human": "29 July 2026",
-  "generated_at": "2026-07-29T18:49:01.006752+00:00",
+  "date": "2026-06-30",
+  "date_human": "30 June 2026",
+  "generated_at": "2026-07-30T21:13:34.995844+00:00",
   "stats": {
     "feeds_collected": 265,
-    "news_total": 4442,
-    "news_analyzed": 612,
-    "clusters": 10
+    "news_total": 4994,
+    "news_analyzed": 608,
+    "clusters": 8
   },
   "mood": {
-    "description": "29 Temmuz 2026, hem sevilen bir ismin kaybıyla gelen hüzün hem de siyasi ve ekonomik hareketliliğin yarattığı yoğun bir atmosferle geçti. Toplum, bir yandan orman yangınlarıyla mücadele ederken diğer yandan FED kararları ve siyasi değişimleri takip ediyor.",
-    "dominant_emotion": "Melankoli",
+    "description": "Türkiye'nin dört bir yanından gelen orman yangını haberlerinin yarattığı endişe ve hüzün, spor ve siyasetteki yoğun hareketlilikle birleşerek toplumsal bir gerginlik atmosferi yaratıyor.",
+    "dominant_emotion": "Endişe",
     "key_themes": [
-      "MasterChef şampiyonu Eren Kaşıkçı'nın vefatı",
-      "FED faiz kararı ve küresel piyasalar",
-      "Gelecek Partisi'nin feshi ve siyasi hareketlilik",
-      "Türkiye genelindeki orman yangınları",
-      "Teknoloji dünyasında yapay zeka tartışmaları"
+      "Orman Yangınları ve Çevre Krizi",
+      "Spor Dünyasında Avrupa Kupaları ve Transfer Hareketliliği",
+      "Ekonomik Göstergeler ve Yaşam Maliyeti",
+      "Siyasal Gelişmeler ve Yasal Düzenlemeler",
+      "Teknolojik İnovasyon ve Yapay Zeka"
     ]
   },
   "weather": {
@@ -25,564 +25,483 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-07-29",
-        "code": 0,
-        "temp_max": 35.9,
-        "temp_min": 26.5
-      },
-      {
-        "date": "2026-07-30",
-        "code": 0,
-        "temp_max": 36.4,
-        "temp_min": 23.9
-      },
-      {
         "date": "2026-07-31",
         "code": 0,
-        "temp_max": 36.2,
-        "temp_min": 23.7
+        "temp_max": 36.5,
+        "temp_min": 24.4
       },
       {
         "date": "2026-08-01",
         "code": 0,
-        "temp_max": 37.7,
+        "temp_max": 37.5,
         "temp_min": 24.6
       },
       {
         "date": "2026-08-02",
         "code": 1,
         "temp_max": 35.9,
-        "temp_min": 23.9
+        "temp_min": 24.0
       },
       {
         "date": "2026-08-03",
         "code": 1,
-        "temp_max": 33.7,
-        "temp_min": 22.3
+        "temp_max": 35.1,
+        "temp_min": 22.6
       },
       {
         "date": "2026-08-04",
-        "code": 0,
-        "temp_max": 33.4,
-        "temp_min": 23.5
+        "code": 1,
+        "temp_max": 34.2,
+        "temp_min": 21.8
+      },
+      {
+        "date": "2026-08-05",
+        "code": 1,
+        "temp_max": 34.4,
+        "temp_min": 23.8
+      },
+      {
+        "date": "2026-08-06",
+        "code": 2,
+        "temp_max": 37.8,
+        "temp_min": 24.2
       }
     ]
   },
   "clusters": [
     {
-      "title": "Eren Kaşıkçı'nın Vefatı",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "MasterChef Türkiye şampiyonu Eren Kaşıkçı'nın evinde ölü bulunması, hem hayranlarını hem de gastronomi camiasını yasa boğdu.",
+      "title": "Türkiye'de Orman Yangınları Alarmı",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Türkiye genelinde çıkan çok sayıda orman yangını ile mücadele sürerken, yetkililer yangın bölgelerinden uzak durulması çağrısında bulunuyor.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "MasterChef şampiyonu Eren Kaşıkçı evinde ölü bulundu",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/masterchef-2021-birincisi-eren-kasikci-evinde-olu-bulundu-585032",
-          "also_in": [
-            "Diken",
-            "Dünya",
-            "En Son Haber",
-            "F5 Haber",
-            "Kamudan Haber",
-            "İlke TV",
-            "OdaTV",
-            "Türkgün",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Masterchef birincisi Eren Kaşıkçı evinde ölü bulundu",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/guncel/masterchef-birincisi-eren-kasikci-evinde-olu-bulundu-348899h",
-          "also_in": [
-            "Evrensel",
-            "Gazete Pencere",
-            "Elips Haber",
-            "Haber Global",
-            "İnternet Haber",
-            "İstiklal",
-            "Haber 7",
-            "Yeni Yaşam Gazetesi"
-          ]
-        },
-        {
-          "title": "Somer Şef’ten, ölü bulunan Eren Kaşıkçı'nın ardından yürek burkan paylaşım",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/magazin/somer-seften-olu-bulunan-eren-kasikcinin-ardindan-yurek-burkan-paylasim-6953612",
-          "also_in": [
-            "Sözcü",
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Eren Kaşıkçı kimdir?",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/gundem/eren-kasikci-kimdir-haberi-834168",
-          "also_in": [
-            "Elips Haber"
-          ]
-        },
-        {
-          "title": "Masterchef Birincisi Şef Eren Kaşıkçı Evinde Ölü Bulundu",
-          "source": "Haber",
-          "link": "https://www.haber.com/magazin/masterchef-birincisi-sef-eren-kasikci-evinde-olu-bulundu-21770",
-          "also_in": [
-            "İşçi Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "FED Faiz Kararı ve Piyasa Etkileri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "ABD Merkez Bankası FED'in faiz kararını açıklaması dünya piyasalarında yakından takip edilirken, yatırımcılar belirsizliklerin sürmesiyle temkinli.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Fed faiz kararını açıkladı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/fed-faiz-kararini-acikladi-585050",
-          "also_in": [
-            "F5 Haber",
-            "Habertürk",
-            "Elips Haber",
-            "Haber Global",
-            "Haberler",
-            "İstiklal",
-            "OdaTV",
-            "CNBC-e",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Son dakika... Fed faiz kararını açıkladı",
+          "title": "Balıkesir’deki yangın Bergama sınırına ulaştı: Gazeteciler alevler arasından zor kurtuldu",
           "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/ekonomi/son-dakika-fed-faiz-kararini-acikladi-2524872",
-          "also_in": [
-            "Ekonomim",
-            "Sözcü",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "Fed faiz oranını sabit tuttu",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-sabit-tuttu/4013092",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-deki-yangin-bergama-sinirina-ulasti-gazeteciler-alevler-arasindan-zor-kurtuldu-2525132",
           "also_in": [
             "Haberler",
-            "Kamudan Haber"
+            "Medya Gazete"
           ]
         },
         {
-          "title": "FED faiz kararını duyurdu: Piyasaların kilitlendiği açıklama geldi!",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/fed-faiz-kararini-duyurdu-piyasalarin-kilitlendigi-aciklama-geldi-2453080h.htm",
+          "title": "4 noktada alevlerle mücadele sürüyor",
+          "source": "Diyanet Haber",
+          "link": "https://www.diyanethaber.com.tr/4-noktada-alevlerle-mucadele-suruyor",
           "also_in": [
-            "Haber 7"
+            "Haberet"
           ]
         },
         {
-          "title": "ABD Merkez Bankası FED faiz kararını açıkladı",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/ekonomi/fed-faiz-kararini-acikladi/haber-1686586",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Gelecek Partisi'nin Feshi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Ahmet Davutoğlu liderliğindeki Gelecek Partisi'nin tüm siyasi faaliyetlerini sonlandırarak feshedilmesi, Türkiye siyasetinde önemli bir kırılma yarattı.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Gelecek Partisi feshedildi",
-          "source": "İstiklal",
-          "link": "https://www.istiklal.com.tr/siyaset/gelecek-partisi-feshedildi-1100565h",
+          "title": "Çanakkale'de tarım arazisinde çıkan yangın ormanlık alana sıçradı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/yerel-haberler/canakkalede-tarim-arazisinde-cikan-yangin-ormanlik-alana-sicradi-1-275939h",
           "also_in": [
-            "NTV",
-            "Türkiye Gazetesi",
-            "TGRT Haber"
+            "TRT Haber"
           ]
         },
         {
-          "title": "Ahmet Davutoğlu siyaseti bıraktı! Gelecek Partisi feshedildi",
+          "title": "Seydikemer’deki yangın kontrol altına alındı",
           "source": "Dünya",
-          "link": "https://www.dunya.com/gundem/ahmet-davutoglu-siyaseti-birakti-gelecek-partisi-feshedildi-haberi-834177",
-          "also_in": [
-            "Yeni Akit",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Davutoğlu siyaseti bıraktı, Gelecek Partisi feshedildi",
-          "source": "DW Haber",
-          "link": "https://www.dw.com/tr/davutoğlu-siyaseti-bıraktı-gelecek-partisi-feshedildi/a-78166043?maca=tur-rss-tur-all-1495-rdf",
-          "also_in": [
-            "Döviz"
-          ]
-        },
-        {
-          "title": "Son dakika! Ahmet Davutoğlu: Gelecek Partisi feshedildi",
-          "source": "Sabah",
-          "link": "https://www.sabah.com.tr/gundem/2026/07/29/son-dakika-ahmet-davutoglu-gelecek-partisi-feshedildi",
-          "also_in": [
-            "Yeni Asır Gazetesi"
-          ]
-        },
-        {
-          "title": "Davutoğlu duyurdu... Gelecek Partisi feshedildi",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/guncel/davutoglu-duyurdu-gelecek-partisi-feshedildi/haber-1686584",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Türkiye'de Orman Yangınları",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Ülkenin farklı bölgelerinde aynı anda çıkan orman yangınları ekipleri teyakkuza geçirirken, söndürme çalışmaları havadan ve karadan yoğun şekilde sürüyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Balıkesir'de orman yangını",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/balikesirde-orman-yangini-7/?utm_source=rss&utm_medium=rss&utm_campaign=balikesirde-orman-yangini-7",
-          "also_in": [
-            "Evrensel"
-          ]
-        },
-        {
-          "title": "Çanakkale'de orman yangını",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/canakkalede-orman-yangini-78036-h1553515",
-          "also_in": [
-            "Evrensel"
-          ]
-        },
-        {
-          "title": "Yine ciğerlerimiz yanıyor! 5 ilde orman yangını",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/yine-cigerlerimiz-yaniyor-5-ilde-orman-yangini-6953610",
+          "link": "https://www.dunya.com/gundem/seydikemerdeki-yangin-kontrol-altina-alindi-haberi-834347",
           "also_in": [
             "Haberler"
           ]
         },
         {
-          "title": "Balıkesir'in Gömeç ve Edremit ilçelerinde orman yangını! Validen açıklama",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/balikesirin-gomec-ve-edremit-ilcelerinde-orman-yangini-validen-aciklama-video-galerisi-2453046.htm",
+          "title": "Isparta Eğirdir'de orman yangını",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5994222/isparta-egirdir-de-orman-yangini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "also_in": [
             "İnternet Haber"
           ]
-        },
-        {
-          "title": "Çanakkale'de orman yangını! Ekipler teyakkuza geçti",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/canakkale-de-orman-yangini-ekipler-teyakkuza-gecti-p340788",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
         }
       ]
     },
     {
-      "title": "Kırklareli'nde Fabrika Patlaması",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Kırklareli'ndeki bir içecek fabrikasında meydana gelen patlama sonucu 2 işçi hayatını kaybetti, olayla ilgili soruşturma başlatıldı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kırklareli’nde içecek fabrikasında patlama: 2 işçi hayatını kaybetti",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/kirklareli-nde-icecek-fabrikasinda-patlama-2-isci-hayatini-kaybetti-2524842",
-          "also_in": [
-            "Gazete Pencere",
-            "İşçi Haber",
-            "KRT TV",
-            "Medya Gazete",
-            "Ulusal Kanal"
-          ]
-        },
-        {
-          "title": "Kırklareli'nde fabrikada patlama: 2 işçi hayatını kaybetti",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/gundem/kirklarelinde-fabrikada-patlama-2-isci-hayatini-kaybetti-haberi-908994",
-          "also_in": [
-            "Haber Global",
-            "Sputnik",
-            "soL Haber",
-            "Döviz"
-          ]
-        },
-        {
-          "title": "Kırklareli'nde içecek fabrikasında patlama: 2 ölü",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/07/29/kirklarelinde-icecek-fabrikasinda-patlama-2-olu",
-          "also_in": [
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "İçecek fabrikasında patlama: 2 işçi hayatını kaybetti",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/video-galeri/gundem/icecek-fabrikasinda-patlama-2-isci-hayatini-kaybetti-video-834142",
-          "also_in": [
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "Kırklareli'nde fabrikada patlama! Can kayıpları var",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/kirklareli-nde-fabrikada-patlama-can-kayiplari-var-p340778",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka ve Teknoloji Kesintileri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Sosyal medya ve yapay zeka platformlarında yaşanan küresel erişim sorunları ile OpenAI'ın yapay zeka güvenliği konusundaki itirafları teknoloji gündemine oturdu.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "X (Twitter) çöktü mü? (29 Temmuz 2026) Hata bildirim raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-29-temmuz-2026-hata-bildirim-raporu_178117.html",
-          "also_in": []
-        },
-        {
-          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (29 Temmuz 2026)",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-29-temmuz-2026_176278.html",
-          "also_in": []
-        },
-        {
-          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (29 Temmuz 2026)",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-29-temmuz-2026_178116.html",
-          "also_in": []
-        },
-        {
-          "title": "OpenAI doğruladı: Kontrolden çıkan yapay zeka dört farklı hizmete daha sızdı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/kontrolden-cikan-openai-yapay-zekasi-daha-fazla-hizmete-saldirdi--208682",
-          "also_in": []
-        },
-        {
-          "title": "Devrim yaratmıştı: Google, Nobel ödüllü AlphaFold projesini sonlandırdı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-nobel-odullu-alphafold-projesini-sonlandirdi--208679",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Adana Demirspor'a FIFA'dan Ceza",
+      "title": "Beşiktaş'ın Avrupa Başarısı ve Spor Gündemi",
       "meta_category": "Spor",
-      "summary": "FIFA, Adana Demirspor'a puan silme cezası vererek kulübün içinde bulunduğu mali ve idari süreci daha da zorlaştırdı.",
-      "importance": 7,
-      "story_count": 4,
+      "summary": "Beşiktaş'ın UEFA Avrupa Ligi'nde Midtjylland'ı eleyerek tur atlaması ve Hatayspor'a verilen puan silme cezası spor gündeminin merkezinde.",
+      "importance": 9,
+      "story_count": 5,
       "stories": [
         {
-          "title": "FIFA'dan Adana Demirspor'a 6 puan silme cezası",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/tff-ikinci-lig/2026/07/29/fifadan-adana-demirspora-6-puan-silme-cezasi",
+          "title": "FIFA'dan Hatayspor'a puan silme cezası",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/futbol/2026/07/30/fifadan-hatayspora-puan-silme-cezasi",
           "also_in": [
-            "Fotomaç",
-            "Dünya"
+            "Fotospor",
+            "Cumhuriyet",
+            "GZT",
+            "Sputnik"
           ]
         },
         {
-          "title": "FIFA'dan Adana Demirspor'a puan silme cezası",
+          "title": "Beşiktaş, Danimarka'da da kazandı: Avrupa Ligi'nde tur biletini aldı",
           "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/fifadan-adana-demirspora-puan-silme-cezasi-426979",
+          "link": "https://www.ntvspor.net/foto-galeri/besiktas-danimarkada-da-kazandi-avrupa-liginde-tur-biletini-aldi-427049",
           "also_in": [
-            "NTV Spor Futbol",
-            "Cumhuriyet"
+            "NTV Spor Futbol"
           ]
         },
         {
-          "title": "FIFA'dan puan silme cezası",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/fifadan-puan-silme-cezasi-6953573",
+          "title": "Beşiktaş deplasmanda Midtjylland'ı mağlup etti!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/besiktas/2026/07/30/besiktas-deplasmanda-midtjyllandi-maglup-etti",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş Midtjylland'ı eledi! Sonraki rakip belli oldu",
+          "source": "Demokrat Haber",
+          "link": "https://www.demokrathaber.org/besiktas-midtjyllandi-eledi-sonraki-rakip-belli-oldu",
           "also_in": [
-            "İnternet Haber"
+            "CGTN Türk",
+            "Haber Global"
           ]
         },
         {
-          "title": "FIFA, Adana Demirspor'a 6 puan silme cezası verdi",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/spor/fifa-adana-demirspora-6-puan-silme-cezasi-verdi-536989",
+          "title": "UEFA Avrupa Ligi: Midtjylland: 0 - Beşiktaş: 2 (Maç sonucu)",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/spor/uefa-avrupa-ligi-midtjylland-0-besiktas-2-mac-20103919-haberi/",
           "also_in": [
-            "GZT"
+            "Medya Gazete"
           ]
         }
       ]
     },
     {
-      "title": "AHBAP Soruşturması",
+      "title": "Gülistan Doku Soruşturması",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "AHBAP derneğine yönelik yürütülen soruşturma kapsamında aralarında ünlü isimlerin de bulunduğu 5 kişi ifadeye çağrıldı.",
-      "importance": 7,
-      "story_count": 4,
+      "summary": "Gülistan Doku soruşturması kapsamında gözaltına alınan polislerin tutuklanmasıyla soruşturmada yeni bir aşamaya geçildi.",
+      "importance": 9,
+      "story_count": 5,
       "stories": [
         {
-          "title": "AHBAP soruşturmasında 5 ünlü isim daha ifadeye çağrıldı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/ahbap-sorusturmasinda-5-unlu-isim-daha-ifadeye-cagrildi",
+          "title": "Gülistan Doku soruşturmasında 4 polis tutuklandı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/gulistan-doku-sorusturmasinda-4-polis-tutuklandi-20103464-haberi/",
           "also_in": [
-            "BHA",
-            "Evrensel",
-            "Haber 3",
-            "İstiklal",
-            "Korkusuz",
-            "Milli Gazete"
+            "OdaTV",
+            "Sözcü",
+            "Sözcü Gündem",
+            "TGRT Haber"
           ]
         },
         {
-          "title": "Ahbap soruşturmasında 5 ünlü isim daha ifadeye çağrıldı! Aralarında Eda Ece ve Kerem Bürsin de var",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/ahbap-sorusturmasinda-5-unlu-isim-daha-ifadeye-cagrildi-aralarinda-eda-ece-ve-kerem-bursin-de-var-6953496",
+          "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen 8 şüpheliden 4'ü tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/gulistan-doku-sorusturmasinda-adliyeye-sevk-edilen-8-supheliden-4u-tutuklandi-275926h",
           "also_in": [
+            "Hürriyet",
             "NTV"
           ]
         },
         {
-          "title": "Ahbap soruşturmasında 5 ünlü daha ifadeye çağrıldı",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/gundem/ahbap-sorusturmasinda-5-unlu-daha-ifadeye-cagrildi-43255655",
+          "title": "Gülistan Doku soruşturmasında 4 şüpheli daha tutuklandı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/gulistan-doku-sorusturmasinda-4-supheli-daha-tutuklandi-h1553825",
           "also_in": [
-            "Döviz"
+            "Haberler",
+            "İnternet Haber"
           ]
         },
         {
-          "title": "AHBAP soruşturması: 5 ünlü isim daha ifadeye çağrıldı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/ahbap-sorusturmasi-5-unlu-isim-daha-ifadeye-cagrildi-p340767",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "İstiklal Caddesi'nde Yangın",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Beyoğlu İstiklal Caddesi'ndeki bir AVM/restoran kısmında çıkan yangın kısa süreli panik yarattı ancak ekiplerin müdahalesiyle büyümeden söndürüldü.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "İstiklal Caddesi’nde AVM’de yangın",
-          "source": "İstiklal",
-          "link": "https://www.istiklal.com.tr/genel/istiklal-caddesinde-avmde-yangin-1100551h",
-          "also_in": [
-            "OdaTV",
-            "Sözcü",
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "İstiklal Caddesi'nde alışveriş merkezinde yangın",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/istiklal-caddesi-nde-alisveris-merkezinde-yangin-2524840",
-          "also_in": [
-            "Haber 7",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Beyoğlu İstiklal Caddesi'nde iş yerinde korkutan yangın",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/gundem/beyoglu-istiklal-caddesinde-is-yerinde-korkutan-yangin-537002",
+          "title": "Gülistan Doku soruşturmasında tutuklu sayısı 20'ye yükseldi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/gulistan-doku-sorusturmasinda-tutuklu-sayisi-20ye-yukseldi-haberi-909244",
           "also_in": [
             "Haberler",
             "Medya Gazete"
           ]
         },
         {
-          "title": "Beyoğlu İstiklal Caddesi’nde restoranda çıkan yangın söndürüldü",
+          "title": "Gülistan Doku soruşturmasında tutuklanan 4 polis cezaevine sevk gönderildi",
           "source": "Haberler",
-          "link": "https://www.haberler.com/3-sayfa/beyoglu-istiklal-caddesi-nde-restoranda-cikan-20099718-haberi/",
+          "link": "https://www.haberler.com/3-sayfa/gulistan-doku-sorusturmasinda-tutuklanan-4-polis-20103686-haberi/",
           "also_in": [
             "Medya Gazete"
           ]
+        }
+      ]
+    },
+    {
+      "title": "Öğrenci Affı Yasalaştı",
+      "meta_category": "Eğitim",
+      "summary": "TBMM'de kabul edilen öğrenci affı ile üniversiteye dönüş yolu açıldı, binlerce öğrenci için yeni bir süreç başladı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Öğrenci affı TBMM'de kabul edildi",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/egitim/ogrenci-affi-tbmmde-kabul-edildi/haber-1686879",
+          "also_in": [
+            "Elips Haber",
+            "Haber 7",
+            "GZT",
+            "İstiklal",
+            "Sabah",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Sputnik"
+          ]
         },
         {
-          "title": "İstiklal Caddesi'nde yangın paniği... Restoran alevlere teslim oldu",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/guncel/istiklal-caddesinde-yangin-panigi-restoran-alevlere-teslim-oldu/haber-1686573",
+          "title": "Öğrenci affını içeren kanun teklifi Meclis'ten geçti",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/ogrenci-affini-iceren-kanun-teklifi-meclis-ten-gecti/55643/",
+          "also_in": [
+            "En Son Haber",
+            "F5 Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun teklifi TBMM Genel Kurulunda kabul edildi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/ogrenci-affina-ve-yuksekogretime-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi-/4014387",
+          "also_in": [
+            "Bengütürk",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "TBMM'de öğrenci affı düzenlemesi kabul edildi",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/tbmmde-ogrenci-affi-duzenlemesi-kabul-edildi-585162",
+          "also_in": [
+            "Dünya"
+          ]
+        },
+        {
+          "title": "'Öğrenci Affı' TBMM'de Kabul Edildi: Üniversiteye Dönüş Yolu Açıldı",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/ogrenci-affi-tbmmde-kabul-edildi-universiteye-donus-yolu-acildi-575946",
+          "also_in": [
+            "Yeniçağ Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Açlık Sınırı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "TÜRK-İŞ verilerine göre açlık sınırının 37 bin liraya dayanması, ekonomik zorlukların derinleştiğine işaret ediyor.",
+      "importance": 8,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "TÜRK-İŞ açıkladı: Açlık sınırı 37 bin liraya dayandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/turk-is-acikladi-aclik-siniri-37-bin-liraya-dayandi-869339",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "TÜRK-İŞ: Açlık sınırı 36 bin 940, yoksulluk sınırı 120 bin 325 liraya yükseldi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/turk-is-aclik-siniri-36-bin-940-yoksulluk-siniri-20102485-haberi/",
+          "also_in": [
+            "Kısa Dalga"
+          ]
+        },
+        {
+          "title": "Açlık sınırı 37 bin liraya dayandı",
+          "source": "Sözcü Ekonomi",
+          "link": "https://www.sozcu.com.tr/aclik-siniri-37-bin-liraya-dayandi-p340982",
+          "also_in": [
+            "Yurtsever"
+          ]
+        },
+        {
+          "title": "Yoksulluk sınırı 120 bin lirayı aştı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/yoksulluk-siniri-120-bin-lirayi-asti-h34086",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Türkiye-Suriye Ekonomik Anlaşması",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "TCMB ve Suriye Merkez Bankası arasında Türk Lirası kullanımı üzerine imzalanan anlaşma, iki ülke arasındaki ticari ilişkilerde yeni bir dönemi işaret ediyor.",
-      "importance": 6,
+      "title": "MasterChef Eren Kaşıkçı'nın Vefatı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "MasterChef yarışmacısı Eren Kaşıkçı'nın zamansız ölümü, hayranlarını ve dostlarını yasa boğdu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Şef Eren Kaşıkçı son yolculuğuna uğurlandı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5994294/sef-eren-kasikci-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "MasterChef birincisi Eren Kaşıkçı'ya acı veda",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/magazin/masterchef-birincisi-eren-kasikciya-aci-veda-107952",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Eren Kaşıkçı’nın cenazesi memleketi Tokat’a uğurlandı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/yerel/eren-kasikci-nin-cenazesi-memleketi-tokat-a-20103530-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Eren Kaşıkçı son yolculuğuna uğurlandı! Cenazede yürek yakan anlar",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/eren-kasikci-son-yolculuguna-ugurlandi-cenazede-yurek-yakan-anlar-video-galerisi-2453268.htm",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Okuyanların boğazı düğümlendi! Eren Kaşıkçı'nın ardından yapılan o yorum gündem oldu",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/okuyanlarin-bogazi-dugumlendi-eren-kasikci-nin-ardindan-yapilan-o-yorum-gundem-oldu-p341097",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cem Küçük Gözaltısı",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Gazeteci Cem Küçük'ün gözaltına alınması kamuoyunda geniş yankı uyandırdı.",
+      "importance": 7,
       "story_count": 3,
       "stories": [
         {
-          "title": "TCMB ile Suriye Merkez Bankası arasında \"Türk Lirası Mevduat Hesabı Anlaşması\" imzalandı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-ile-suriye-merkez-bankasi-arasinda-turk-lirasi-mevduat-hesabi-anlasmasi-imzalandi/4012880",
+          "title": "Gazeteci Cem Küçük gözaltına alındı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/gazeteci-cem-kucuk-gozaltina-alindi-585137",
           "also_in": [
-            "Halk TV"
+            "Doğru Haber",
+            "En Son Haber",
+            "F5 Haber",
+            "Haberler",
+            "Haber Global",
+            "İnternet Haber",
+            "İstiklal",
+            "İşçi Haber",
+            "Kamudan Haber",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Son Mühür",
+            "Sputnik",
+            "Ulusal Kanal",
+            "Yeniçağ Gazetesi"
           ]
         },
         {
-          "title": "Türkiye ile Suriye arasında 'bankalar' anlaşması!",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/turkiye-ile-suriye-arasinda-merkez-bankalari-anlasmasi-mevduat-hesabi-acilacak-1806018",
+          "title": "Cem Küçük gözaltına alındı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/guncel/cem-kucuk-gozaltina-alindi-348921h",
           "also_in": [
-            "Türkiye Gazetesi"
+            "Aykırı",
+            "Diken",
+            "Evrensel",
+            "Elips Haber",
+            "Bir Gazete",
+            "GZT",
+            "Haberler",
+            "Hürriyet",
+            "KRT TV",
+            "OdaTV",
+            "Tele2",
+            "TRT Haber",
+            "Serbestiyet",
+            "Yeni Akit",
+            "Gazete Pencere"
           ]
         },
         {
-          "title": "Merkez Bankası'ndan sınır ötesi hamle! Suriye ile 'Türk Lirası' anlaşması imzalandı",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/ekonomi/merkez-bankasindan-sinir-otesi-hamle-suriye-ile-turk-lirasi-anlasmasi-imzalandi/haber-1686575",
+          "title": "Son dakika: Gazeteci Cem Küçük gözaltına alındı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/son-dakika-gazeteci-cem-kucuk-gozaltina-alindi-haberi-834341",
+          "also_in": [
+            "Haberet",
+            "Yeni Asır Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji ve Yapay Zeka Hamleleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Avrupa'nın yapay zeka üsleri kurma kararı ve teknoloji dünyasındaki yeni dijital dönüşüm projeleri öne çıkıyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Avrupa'dan Dijital Egemenlik Hamlesi: 10 Milyar Euro ile Yedi Yapay Zeka Üssü Kuruluyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/avrupadan-dijital-egemenlik-hamlesi-10-milyar-euro-ile-yedi-yapay-zeka-ussu-kuruluyor/102638",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zeka kontrolden çıkınca: OpenAI kendi yarattığı tehdidi günlerce durduramadı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-kontrolden-cikinca-openai-kendi-yarattigi-tehdidi-gunlerce-durduramadi/102636",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Google, yapay zekâ ile müzik üretiminde çıtayı yükseltti: Lyria 3.5 tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-yapay-zeka-ile-muzik-uretiminde-citayi-yukseltti-lyria-35-tanitildi_182291.html",
+          "also_in": []
+        },
+        {
+          "title": "Reklam performansını tek merkezden takip eden yapay zeka platformu tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-meta-ve-shopify-verileri-artik-tek-ekranda-bulusuyor_182300.html",
+          "also_in": []
+        },
+        {
+          "title": "Microsoft uçtu, Meta çakıldı! Yapay zeka bilançolar piyasayı sarstı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/microsoft-uctu-meta-cakildi-yapay-zeka-bilancolar-piyasayi-sarsti-h34116",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Absinthe Drinker",
-    "artist": "Edgar Degas",
-    "year": "1875-1876",
+    "title": "The Fall of the Rebel Angels",
+    "artist": "Pieter Bruegel the Elder",
+    "year": "1562",
     "form": "resim",
-    "medium": "Oil on canvas",
-    "location": "Musée d'Orsay, Paris",
-    "description": "Günün melankolik havasını, izolasyon hissini ve sosyal kopuşu mükemmel şekilde yansıtan, bir kafede tek başına dalıp gitmiş figürü betimleyen ikonik bir eser. Modern yaşamın getirdiği yalnızlık ve belirsizlikle boğuşan toplumun ruh halini görselleştiriyor.",
+    "medium": "Oil on oak panel",
+    "location": "Royal Museums of Fine Arts of Belgium",
+    "description": "Kaosun ve yıkımın en karmaşık tasvirlerinden biri olan bu eser, hem orman yangınlarının yarattığı dehşet verici manzarayı hem de toplumsal huzursuzluğun getirdiği karmaşayı yansıtan grotesk figürlerle doludur.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Absinthe_Drinker_(Manet)",
-    "wikipedia_extract": "The Absinthe Drinker is an early painting by Édouard Manet, executed c. 1859, considered to be his first major painting and first original work. It is now in the collection of the Ny Carlsberg Glyptotek, in Copenhagen.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Edouard_Manet_-_The_Absinthe_Drinker_-_Google_Art_Project.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edgar_Degas"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels",
+    "wikipedia_extract": "The Fall of the Rebel Angels is an oil-on-panel painting of 1562 by the Netherlandish Renaissance artist Pieter Bruegel the Elder. The painting is 117cm x 162cm and is now in the Oldmasters Museum in Brussels, Belgium. The Fall of Rebel Angels depicts Lucifer along with the other fallen angels that have been banished from heaven. Angels are falling from the sun in a stacked manner along with ungodly creatures that Bruegel created.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_RMFAB_584_%28derivative_work%29.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder"
   },
   "music": {
-    "title": "Gymnopédie No. 1",
-    "artists": "Erik Satie, Philippe Entremont",
-    "album": "Erik Satie & Friends",
-    "duration": "3:25",
-    "spotify_url": "https://open.spotify.com/track/5NGtFXVpXSvwunEIGeviY3",
-    "spotify_id": "5NGtFXVpXSvwunEIGeviY3",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2730d3d783124fd96e37b6feee4",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/5NGtFXVpXSvwunEIGeviY3\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Hurt",
+    "artists": "Johnny Cash",
+    "album": "American IV: The Man Comes Around",
+    "duration": "3:36",
+    "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+    "spotify_id": "28cnXtME493VX9NOw9cIUh",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/28cnXtME493VX9NOw9cIUh\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugün, 29 Temmuz 2026, ruhumuzda derin bir melankoli izi bıraktı; sevilen bir ismin vedasıyla gelen hüzün, siyasi çalkantılar ve küresel piyasaların belirsizliğiyle, yanan ormanların dumanı gibi içimize çöktü. Edgar Degas'nın The Absinthe Drinker eseri, bu anın sessiz çığlığını, yaşamın gürültüsü içinde yalnızlaşan ruhların donuk bakışlarını ve geleceğe dair belirsizliği çarpıcı bir biçimde yansıtır. Sanatçının fırçasından süzülen o hüzünlü atmosfer, tam da bugün hissettiğimiz, dış dünyanın koşuşturmacası içinde kaybolan iç sesimizle buluşuyor. Bu melankolik tabloya eşlik eden Erik Satie'nin Gymnopédie No. 1'i ise, minimalist notalarıyla ruhumuzu okşayan, dingin ve düşsel bir sığınak sunar. Satie'nin piyanosundan yükselen her bir tını, günün ağırlığına inat, içsel bir huzur arayışını fısıldar; tıpkı bir absint kadehinin ardındaki derin düşünceler gibi, hem kayboluşu hem de belki de bir tür kabullenişi barındırır."
+  "curator_statement": "Bugün ruhumuz, Türkiye'nin dört bir yanından yükselen yangın dumanları ve toplumsal gerilimin yakıcı rüzgarlarıyla savrulurken, derin bir endişe ve hüzünle dolu. Pieter Bruegel'in Asi Meleklerin Düşüşü, gökyüzünden yeryüzüne savrulan, kendi kaoslarında boğulan figürleriyle bu çalkantılı zamanların görsel bir metaforu olarak karşımıza çıkıyor. Resmin karanlık ve grotesk detayları, çevresel yıkımın, siyasal çekişmelerin ve yaşam mücadelesinin getirdiği o 'düşüş' anını, bir nevi ilahi bir muhasebenin ya da içsel bir sorgulamanın resmi gibi sunuyor. Bu görsel karmaşanın ve varoluşsal ağırlığın üzerine, Johnny Cash'in Hurt'ünden yükselen o kırılgan, derin ses, geçmişin pişmanlıkları ve şimdinin çaresizliğiyle yankılanarak ruhumuzun en ücra köşelerine işliyor. Her iki eser de, bir şeylerin geri dönülmez biçimde yitirildiği, acının ve yalnızlığın kaçınılmaz olduğu, derin bir özdeşleşme ve tefekkür anına çağırıyor bizleri."
 }

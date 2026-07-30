@@ -1,21 +1,22 @@
 {
   "date": "2026-06-30",
   "date_human": "30 June 2026",
-  "generated_at": "2026-06-30T05:11:50.482763+00:00",
+  "generated_at": "2026-07-30T21:13:34.995844+00:00",
   "stats": {
-    "feeds_collected": 267,
-    "news_total": 5132,
-    "news_analyzed": 618,
-    "clusters": 10
+    "feeds_collected": 265,
+    "news_total": 4994,
+    "news_analyzed": 608,
+    "clusters": 8
   },
   "mood": {
-    "description": "Sıcak bir yaz gününde, hem teknolojik gelişmelerin ve spor heyecanının getirdiği dinamizm hem de derinleşen ekonomik kaygılarla harmanlanmış, yoğun ve hareketli bir atmosfer hakim.",
-    "dominant_emotion": "Tedirginlik",
+    "description": "Türkiye'nin dört bir yanından gelen orman yangını haberlerinin yarattığı endişe ve hüzün, spor ve siyasetteki yoğun hareketlilikle birleşerek toplumsal bir gerginlik atmosferi yaratıyor.",
+    "dominant_emotion": "Endişe",
     "key_themes": [
-      "Ekonomik belirsizlik ve enflasyon beklentileri",
-      "Dünya Kupası'ndaki sürpriz sonuçlar ve futbol transferleri",
-      "Yapay zeka ve dijital dönüşümün toplumsal etkileri",
-      "Siyasi diplomaside NATO ve bölgesel gerilimler"
+      "Orman Yangınları ve Çevre Krizi",
+      "Spor Dünyasında Avrupa Kupaları ve Transfer Hareketliliği",
+      "Ekonomik Göstergeler ve Yaşam Maliyeti",
+      "Siyasal Gelişmeler ve Yasal Düzenlemeler",
+      "Teknolojik İnovasyon ve Yapay Zeka"
     ]
   },
   "weather": {
@@ -24,529 +25,483 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-06-30",
-        "code": 2,
-        "temp_max": 37.2,
-        "temp_min": 24.2
+        "date": "2026-07-31",
+        "code": 0,
+        "temp_max": 36.5,
+        "temp_min": 24.4
       },
       {
-        "date": "2026-07-01",
-        "code": 2,
-        "temp_max": 34.8,
+        "date": "2026-08-01",
+        "code": 0,
+        "temp_max": 37.5,
         "temp_min": 24.6
       },
       {
-        "date": "2026-07-02",
+        "date": "2026-08-02",
         "code": 1,
-        "temp_max": 34.7,
-        "temp_min": 23.2
+        "temp_max": 35.9,
+        "temp_min": 24.0
       },
       {
-        "date": "2026-07-03",
-        "code": 0,
-        "temp_max": 35.4,
-        "temp_min": 23.0
-      },
-      {
-        "date": "2026-07-04",
-        "code": 2,
-        "temp_max": 33.7,
-        "temp_min": 23.0
-      },
-      {
-        "date": "2026-07-05",
+        "date": "2026-08-03",
         "code": 1,
-        "temp_max": 30.8,
-        "temp_min": 22.1
+        "temp_max": 35.1,
+        "temp_min": 22.6
       },
       {
-        "date": "2026-07-06",
-        "code": 2,
-        "temp_max": 31.3,
+        "date": "2026-08-04",
+        "code": 1,
+        "temp_max": 34.2,
         "temp_min": 21.8
+      },
+      {
+        "date": "2026-08-05",
+        "code": 1,
+        "temp_max": 34.4,
+        "temp_min": 23.8
+      },
+      {
+        "date": "2026-08-06",
+        "code": 2,
+        "temp_max": 37.8,
+        "temp_min": 24.2
       }
     ]
   },
   "clusters": [
     {
-      "title": "Ekonomik Göstergeler ve Piyasalar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Altın fiyatlarındaki sert düşüş, enflasyon beklentileri ve Dolar/TL kurundaki hareketlilik yatırımcıları tedirgin ediyor.",
+      "title": "Türkiye'de Orman Yangınları Alarmı",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Türkiye genelinde çıkan çok sayıda orman yangını ile mücadele sürerken, yetkililer yangın bölgelerinden uzak durulması çağrısında bulunuyor.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Altın sert düştü: 2008’den bu yana en sert aylık kayıp kapıda",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/altin-sert-dustu-2008den-bu-yana-en-sert-aylik-kayip-kapida-716134/",
+          "title": "Balıkesir’deki yangın Bergama sınırına ulaştı: Gazeteciler alevler arasından zor kurtuldu",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-deki-yangin-bergama-sinirina-ulasti-gazeteciler-alevler-arasindan-zor-kurtuldu-2525132",
           "also_in": [
-            "Ekonomim"
+            "Haberler",
+            "Medya Gazete"
           ]
         },
         {
-          "title": "Enflasyon korkusu altının peşini bırakmıyor",
+          "title": "4 noktada alevlerle mücadele sürüyor",
+          "source": "Diyanet Haber",
+          "link": "https://www.diyanethaber.com.tr/4-noktada-alevlerle-mucadele-suruyor",
+          "also_in": [
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Çanakkale'de tarım arazisinde çıkan yangın ormanlık alana sıçradı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/yerel-haberler/canakkalede-tarim-arazisinde-cikan-yangin-ormanlik-alana-sicradi-1-275939h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Seydikemer’deki yangın kontrol altına alındı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/seydikemerdeki-yangin-kontrol-altina-alindi-haberi-834347",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Isparta Eğirdir'de orman yangını",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5994222/isparta-egirdir-de-orman-yangini?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş'ın Avrupa Başarısı ve Spor Gündemi",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş'ın UEFA Avrupa Ligi'nde Midtjylland'ı eleyerek tur atlaması ve Hatayspor'a verilen puan silme cezası spor gündeminin merkezinde.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "FIFA'dan Hatayspor'a puan silme cezası",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/futbol/2026/07/30/fifadan-hatayspora-puan-silme-cezasi",
+          "also_in": [
+            "Fotospor",
+            "Cumhuriyet",
+            "GZT",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Beşiktaş, Danimarka'da da kazandı: Avrupa Ligi'nde tur biletini aldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/besiktas-danimarkada-da-kazandi-avrupa-liginde-tur-biletini-aldi-427049",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Beşiktaş deplasmanda Midtjylland'ı mağlup etti!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/besiktas/2026/07/30/besiktas-deplasmanda-midtjyllandi-maglup-etti",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş Midtjylland'ı eledi! Sonraki rakip belli oldu",
+          "source": "Demokrat Haber",
+          "link": "https://www.demokrathaber.org/besiktas-midtjyllandi-eledi-sonraki-rakip-belli-oldu",
+          "also_in": [
+            "CGTN Türk",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "UEFA Avrupa Ligi: Midtjylland: 0 - Beşiktaş: 2 (Maç sonucu)",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/spor/uefa-avrupa-ligi-midtjylland-0-besiktas-2-mac-20103919-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gülistan Doku Soruşturması",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Gülistan Doku soruşturması kapsamında gözaltına alınan polislerin tutuklanmasıyla soruşturmada yeni bir aşamaya geçildi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Gülistan Doku soruşturmasında 4 polis tutuklandı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/gulistan-doku-sorusturmasinda-4-polis-tutuklandi-20103464-haberi/",
+          "also_in": [
+            "OdaTV",
+            "Sözcü",
+            "Sözcü Gündem",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen 8 şüpheliden 4'ü tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/gulistan-doku-sorusturmasinda-adliyeye-sevk-edilen-8-supheliden-4u-tutuklandi-275926h",
+          "also_in": [
+            "Hürriyet",
+            "NTV"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında 4 şüpheli daha tutuklandı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/gulistan-doku-sorusturmasinda-4-supheli-daha-tutuklandi-h1553825",
+          "also_in": [
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında tutuklu sayısı 20'ye yükseldi",
           "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/ekonomi/enflasyon-korkusu-altinin-pesini-birakmiyor-haberi-902987",
+          "link": "https://www.ekonomim.com/gundem/gulistan-doku-sorusturmasinda-tutuklu-sayisi-20ye-yukseldi-haberi-909244",
+          "also_in": [
+            "Haberler",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında tutuklanan 4 polis cezaevine sevk gönderildi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/3-sayfa/gulistan-doku-sorusturmasinda-tutuklanan-4-polis-20103686-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Öğrenci Affı Yasalaştı",
+      "meta_category": "Eğitim",
+      "summary": "TBMM'de kabul edilen öğrenci affı ile üniversiteye dönüş yolu açıldı, binlerce öğrenci için yeni bir süreç başladı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Öğrenci affı TBMM'de kabul edildi",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/egitim/ogrenci-affi-tbmmde-kabul-edildi/haber-1686879",
+          "also_in": [
+            "Elips Haber",
+            "Haber 7",
+            "GZT",
+            "İstiklal",
+            "Sabah",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Öğrenci affını içeren kanun teklifi Meclis'ten geçti",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/ogrenci-affini-iceren-kanun-teklifi-meclis-ten-gecti/55643/",
+          "also_in": [
+            "En Son Haber",
+            "F5 Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Öğrenci affına ve yükseköğretime ilişkin düzenlemeleri içeren kanun teklifi TBMM Genel Kurulunda kabul edildi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/ogrenci-affina-ve-yuksekogretime-iliskin-duzenlemeleri-iceren-kanun-teklifi-tbmm-genel-kurulunda-kabul-edildi-/4014387",
+          "also_in": [
+            "Bengütürk",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "TBMM'de öğrenci affı düzenlemesi kabul edildi",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/tbmmde-ogrenci-affi-duzenlemesi-kabul-edildi-585162",
+          "also_in": [
+            "Dünya"
+          ]
+        },
+        {
+          "title": "'Öğrenci Affı' TBMM'de Kabul Edildi: Üniversiteye Dönüş Yolu Açıldı",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/ogrenci-affi-tbmmde-kabul-edildi-universiteye-donus-yolu-acildi-575946",
+          "also_in": [
+            "Yeniçağ Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Açlık Sınırı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "TÜRK-İŞ verilerine göre açlık sınırının 37 bin liraya dayanması, ekonomik zorlukların derinleştiğine işaret ediyor.",
+      "importance": 8,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "TÜRK-İŞ açıkladı: Açlık sınırı 37 bin liraya dayandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/turk-is-acikladi-aclik-siniri-37-bin-liraya-dayandi-869339",
           "also_in": [
             "Ekonomi Gazetesi"
           ]
         },
         {
-          "title": "Altın, faiz artırımı beklentileriyle sert düştü: Aylık kayıp 2008’den bu yana en yüksek seviyede",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/altin-faiz-artirimi-beklentileriyle-sert-dustu-aylik-kayip-2008den-bu-yana-en-yuksek-seviyede-3781484",
-          "also_in": []
-        },
-        {
-          "title": "Dolar/TL’de Kontrollü Yükseliş Sürüyor: Enflasyon Raporu Kur İçin Ne Söylüyor?",
-          "source": "Investing Döviz",
-          "link": "https://tr.investing.com/analysis/dolartlde-kontrollu-yukselis-suruyor-enflasyon-raporu-kur-icin-ne-soyluyor-200504447",
-          "also_in": []
-        },
-        {
-          "title": "Dolar/TL’de 45 Eşiği Aşıldı: TL Üzerinde Enerji ve Fed Baskısı Artıyor",
-          "source": "Investing Döviz",
-          "link": "https://tr.investing.com/analysis/dolartlde-45-esigi-asld-tl-uzerinde-enerji-ve-fed-basks-artyor-200504241",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "2026 FIFA Dünya Kupası Heyecanı",
-      "meta_category": "Spor",
-      "summary": "Dünya Kupası'nda Almanya'nın elenmesi ve Fas'ın tur atlaması gibi sürpriz sonuçlar yaşanırken, turnuvaya dair transfer ve yayın bilgileri gündemi meşgul ediyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Paraguay, Almanya karşısında tarih yazdı",
-          "source": "Duhuliye",
-          "link": "https://www.duhuliye.com/futbol/paraguay-almanya-karsisinda-tarih-yazdi-32143",
+          "title": "TÜRK-İŞ: Açlık sınırı 36 bin 940, yoksulluk sınırı 120 bin 325 liraya yükseldi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/turk-is-aclik-siniri-36-bin-940-yoksulluk-siniri-20102485-haberi/",
           "also_in": [
-            "Haberler"
+            "Kısa Dalga"
           ]
         },
         {
-          "title": "Almanya'dan Dünya Kupası'na erken veda",
-          "source": "Futboo",
-          "link": "https://www.futboo.com/almanya-dan-dunya-kupasi-na-erken-veda/91083/",
+          "title": "Açlık sınırı 37 bin liraya dayandı",
+          "source": "Sözcü Ekonomi",
+          "link": "https://www.sozcu.com.tr/aclik-siniri-37-bin-liraya-dayandi-p340982",
           "also_in": [
-            "Futboo"
+            "Yurtsever"
           ]
         },
         {
-          "title": "Fas, Hollanda'yı penaltılarla eleyip Dünya Kupası'nda son 16 turuna yükseldi",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/fas-hollandayi-penaltilarla-eleyip-dunya-kupasinda-son-16-turuna-yukseldi-425293",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Fas penaltılarla tarih yazdı! Hollanda Dünya Kupası'na veda etti",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/dunya-kupasi/haberler/2026/06/30/fas-penaltilarla-tarih-yazdi-hollanda-dunya-kupasina-veda-etti",
-          "also_in": []
-        },
-        {
-          "title": "Almanya'ya penaltı şoku! Paraguay son 16 turunda",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/dunya-kupasi/haberler/2026/06/29/almanyaya-penalti-soku-paraguay-son-16-turunda",
+          "title": "Yoksulluk sınırı 120 bin lirayı aştı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/yoksulluk-siniri-120-bin-lirayi-asti-h34086",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Siyasi Diplomasi ve NATO Zirvesi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Ankara'da gerçekleşecek NATO Zirvesi öncesi güvenlik önlemleri ve uluslararası liderlerin görüşme trafiği artış gösterdi.",
-      "importance": 9,
+      "title": "MasterChef Eren Kaşıkçı'nın Vefatı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "MasterChef yarışmacısı Eren Kaşıkçı'nın zamansız ölümü, hayranlarını ve dostlarını yasa boğdu.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "ABB'de 'asfalt' açıklaması: 'NATO Zirvesi nedeniyle başlatılmadı'",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/siyaset/abb-de-asfalt-aciklamasi-nato-zirvesi-nedeniyle-baslatilmadi-2516606",
-          "also_in": [
-            "Ekonomim"
-          ]
-        },
-        {
-          "title": "Hopa’da 'NATO Zirvesi' protestosu: 'Bu memleket bizim, NATO defol'",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/hopa-da-nato-zirvesi-protestosu-bu-memleket-bizim-nato-defol-2516601",
-          "also_in": [
-            "Evrensel"
-          ]
-        },
-        {
-          "title": "Ankara NATO Liderler Zirvesi için güvenlik hattı",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/ankara-nato-liderler-zirvesi-icin-guvenlik-hatti-106816",
-          "also_in": [
-            "Yeni Asır Gazetesi"
-          ]
-        },
-        {
-          "title": "Avrupalılar söylüyor: Ankara, NATO’nun en kritik toplantısı",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/gundem/avrupada-rota-turkiye-bruksel-nato-zirvesi-oncesinde-once-ankaraya-geliyor-1800236",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        },
-        {
-          "title": "NATO zirvesinde kartlar Ankara’da karılacak! İşte ülkelerin gizli gündemleri ve Türkiye’nin istekleri",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/dunya/ankaradaki-nato-zirvesinde-dunya-liderlerinin-masaya-getirecegi-teklifler-belli-oldu-1800137",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka ve Dijital Dönüşüm",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zekanın eğitimdeki performansı ve teknoloji devlerinin yeni stratejileri, dijital geleceğe dair tartışmaları alevlendiriyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Yapay zeka sınıfta kaldı: Neredeyse kimse artık güvenmiyor",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/yapay-zeka-sinifta-kaldi-neredeyse-kimse-artik-guvenmiyor_181426.html",
-          "also_in": []
-        },
-        {
-          "title": "Yapay zeka 2 bin yıllık sessizliği bozdu: Yanmış papirüs ilk kez okundu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/yapay-zeka-2-bin-yillik-sessizligi-bozdu-yanmis-papirus-ilk-kez-okundu_181449.html",
-          "also_in": []
-        },
-        {
-          "title": "AI Günlükleri: Yapay zekâ dünyasında bu hafta (29 Haziran 2026)",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-29-haziran-2026--207452",
-          "also_in": []
-        },
-        {
-          "title": "Yapay zekanın YKS karnesi… Biri derece yaptı diğeri 1 milyona bile giremedi",
-          "source": "10Haber",
-          "link": "https://10haber.net/bilim-teknoloji/yapay-zekanin-yks-karnesi-biri-derece-yapti-digeri-1-milyona-bile-giremedi-716136/",
-          "also_in": [
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "Yerli ve milli yapay zeka BİLGE göreve başlıyor",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/ekonomi/yerli-ve-milli-yapay-zeka-bilge-goreve-basliyor/haber-1678845",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Türkiye'de Yasa Dışı Bahis Operasyonları",
-      "meta_category": "Diğer",
-      "summary": "Ankara merkezli yürütülen operasyonlarda yasa dışı bahis şebekelerine yönelik büyük çaplı tutuklamalar ve şirket el koymaları gerçekleşti.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Ankara merkezli 8 ilde yasadışı bahis operasyonu: 31 kişi tutuklandı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/ankara-merkezli-8-ilde-yasadisi-bahis-operasyonu-31-kisi-tutuklandi-2516560",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "9 ilde yasa dışı bahis operasyonu: 32 şirkete el konuldu, 37 şüpheli yakalandı",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/gundem/9-ilde-yasa-disi-bahis-operasyonu-32-sirkete-el-konuldu-37-supheli-yakalandi-haberi-903038",
+          "title": "Şef Eren Kaşıkçı son yolculuğuna uğurlandı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5994294/sef-eren-kasikci-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "also_in": [
             "Elips Haber"
           ]
         },
         {
-          "title": "30 milyar TL’lik dev vurgun: 32 şirkete el konuldu",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/30-milyar-liralik-yasa-disi-bahis-agina-dev-operasyon-32-sirkete-el-konuldu-p332334",
+          "title": "MasterChef birincisi Eren Kaşıkçı'ya acı veda",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/magazin/masterchef-birincisi-eren-kasikciya-aci-veda-107952",
           "also_in": [
-            "Sözcü Gündem"
+            "Sputnik"
           ]
         },
         {
-          "title": "Ankara merkezli 8 ilde operasyon: 31 kişi tutuklandı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/ankara-merkezli-8-ilde-operasyon-31-kisi-tutuklandi-p332275",
+          "title": "Eren Kaşıkçı’nın cenazesi memleketi Tokat’a uğurlandı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/yerel/eren-kasikci-nin-cenazesi-memleketi-tokat-a-20103530-haberi/",
           "also_in": [
-            "Sözcü Gündem"
+            "Medya Gazete"
           ]
         },
         {
-          "title": "\"Çapkanlar\"a şafak baskını! 24 şüpheli kıskıvrak yakalandı",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/guncel/capkanlara-safak-baskini-24-supheli-kiskivrak-yakalandi/haber-1678849",
-          "also_in": []
+          "title": "Eren Kaşıkçı son yolculuğuna uğurlandı! Cenazede yürek yakan anlar",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/eren-kasikci-son-yolculuguna-ugurlandi-cenazede-yurek-yakan-anlar-video-galerisi-2453268.htm",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Okuyanların boğazı düğümlendi! Eren Kaşıkçı'nın ardından yapılan o yorum gündem oldu",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/okuyanlarin-bogazi-dugumlendi-eren-kasikci-nin-ardindan-yapilan-o-yorum-gundem-oldu-p341097",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
         }
       ]
     },
     {
-      "title": "Çevre, Yangınlar ve İklim Değişikliği",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Ülke genelinde artan sıcaklıklarla birlikte orman ve tarım arazilerinde çıkan yangınlar endişe yaratıyor.",
-      "importance": 8,
-      "story_count": 5,
+      "title": "Cem Küçük Gözaltısı",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Gazeteci Cem Küçük'ün gözaltına alınması kamuoyunda geniş yankı uyandırdı.",
+      "importance": 7,
+      "story_count": 3,
       "stories": [
         {
-          "title": "İzmir Dikili'deki yangın kontrol altına alındı",
+          "title": "Gazeteci Cem Küçük gözaltına alındı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/gazeteci-cem-kucuk-gozaltina-alindi-585137",
+          "also_in": [
+            "Doğru Haber",
+            "En Son Haber",
+            "F5 Haber",
+            "Haberler",
+            "Haber Global",
+            "İnternet Haber",
+            "İstiklal",
+            "İşçi Haber",
+            "Kamudan Haber",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Son Mühür",
+            "Sputnik",
+            "Ulusal Kanal",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Cem Küçük gözaltına alındı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/guncel/cem-kucuk-gozaltina-alindi-348921h",
+          "also_in": [
+            "Aykırı",
+            "Diken",
+            "Evrensel",
+            "Elips Haber",
+            "Bir Gazete",
+            "GZT",
+            "Haberler",
+            "Hürriyet",
+            "KRT TV",
+            "OdaTV",
+            "Tele2",
+            "TRT Haber",
+            "Serbestiyet",
+            "Yeni Akit",
+            "Gazete Pencere"
+          ]
+        },
+        {
+          "title": "Son dakika: Gazeteci Cem Küçük gözaltına alındı",
           "source": "Dünya",
-          "link": "https://www.dunya.com/gundem/izmir-dikilideki-yangin-kontrol-altina-alindi-haberi-830373",
+          "link": "https://www.dunya.com/gundem/son-dakika-gazeteci-cem-kucuk-gozaltina-alindi-haberi-834341",
           "also_in": [
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Gaziantep’te orman yangını",
-          "source": "Halk TV",
-          "link": "https://halktv.com.tr/turkiye/gaziantepte-orman-yangini-1039366h",
-          "also_in": [
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Adana&apos;da anız yangınında alevler ormana sıçradı",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/adana-imamoglu-nda-orman-yangini-kontrol-altina-alindi-20002096-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Bursa&apos;da orman yangını",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/bursa-daki-orman-yanginina-havadan-ve-karadan-mudahale-suruyor-20001944-haberi/",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Çanakkale&apos;de tarım arazisinde yangın",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/guncel/canakkale-de-tarim-arazisinde-yangin-kontrol-altina-alindi-20001856-haberi/",
-          "also_in": [
-            "Haberler"
+            "Haberet",
+            "Yeni Asır Gazetesi"
           ]
         }
       ]
     },
     {
-      "title": "Teknoloji Devlerinde Transfer ve Strateji",
+      "title": "Teknoloji ve Yapay Zeka Hamleleri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Apple ve OpenAI arasındaki transfer hareketliliği ile akıllı telefon pazarındaki yeni ürün lansmanları dikkat çekiyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Apple’ın Vision Pro lideri OpenAI’a transfer oluyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/apple-in-vision-pro-lideri-openai-a-transfer-oluyor--207448",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "Samsung'dan bütçe dostu 5G telefon: Galaxy M47",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/samsung-galaxy-m47-5g-tanitildi-iste-fiyati-ve-ozellikleri--207434",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "RAM maliyetlerini düşürmek isteyen Apple'dan tartışmalı hamle",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/ram-maliyetlerini-dusurmek-isteyen-appledan-tartismali-hamle_181447.html",
-          "also_in": []
-        },
-        {
-          "title": "Dokunmatik ekranlı MacBook yakında geliyor: M7 beklenmeyecek",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/dokunmatik-ekranli-macbook-yakinda-geliyor-m7-beklenmeyecek--207433",
-          "also_in": []
-        },
-        {
-          "title": "Huawei Mate 90 serisinin tanıtım tarihi sızdırıldı: Beklenenden erken geliyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/huawei-mate-90-serisinin-tanitim-tarihi-sizdirildi--207449",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Süper Lig Transfer Hareketliliği",
-      "meta_category": "Spor",
-      "summary": "Beşiktaş, Galatasaray ve Fenerbahçe'nin yeni sezon öncesi kadro yapılandırması ve transfer çalışmaları hız kazandı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Ve Jhon Duran'ın Galatasaray hayali gerçek oldu: Transferde ilk bomba patladı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/foto-galeri/ve-jhon-duranin-galatasaray-hayali-gercek-oldu-transferde-ilk-bomba-patladi-425295",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Galatasaray Can Uzun transferinde mutlu sona yakın! Fark 5 milyon euroya indi",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/06/30/galatasaray-can-uzun-transferinde-mutlu-sona-yakin-fark-5-milyon-euroya-indi",
-          "also_in": []
-        },
-        {
-          "title": "Fenerbahçe Malang Sarr için teklif yükseltti! İşte pazarlıklarda son durum",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/06/30/fenerbahce-malang-sarr-icin-teklif-yukseltti-iste-pazarliklarda-son-durum",
-          "also_in": []
-        },
-        {
-          "title": "Galatasaray'dan hücuma Bertuğ takviyesi! Transfer takasla bitecek",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/06/30/galatasaraydan-hucuma-bertug-takviyesi-transfer-takasla-bitecek",
-          "also_in": []
-        },
-        {
-          "title": "Galatasaray'a transferde Virgil van Dijk müjdesi! Yeni sözleşme...",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/06/29/galatasaraya-transferde-virgil-van-dijk-mujdesi-yeni-sozlesme",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kültür, Sanat ve Edebiyat",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "İstanbul Kitap Fuarı onur yazarı belli olurken, edebiyat dergileri ve sanat etkinlikleri sezona dair güncellemeler sunuyor.",
+      "summary": "Avrupa'nın yapay zeka üsleri kurma kararı ve teknoloji dünyasındaki yeni dijital dönüşüm projeleri öne çıkıyor.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Latife Tekin, 43. İstanbul Kitap Fuarı Onur Yazarı Oldu",
-          "source": "Edebi Bülten",
-          "link": "https://edebibulten.com/latife-tekin-43-istanbul-kitap-fuari-onur-yazari-oldu/",
-          "also_in": []
-        },
-        {
-          "title": "Aykut Köksal ve Mehmet Nemutlu’nun Boşluğa Atlayış adlı kitabı Arketonses dizisinin son yayını olarak raflardaki yerini aldı",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/aykut-koksal-ve-mehmet-nemutlunun-bosluga-atlayis-adli-kitabi-arketonses-dizisinin-son-yayini-olarak-raflardaki-yerini-aldi/",
-          "also_in": []
-        },
-        {
-          "title": "Yaşasın Edebiyat Öykü İle Makale Yarışması son başvuru tarihi 10 Temmuz",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/yasasin-edebiyat-oyku-ile-makale-yarismasi-son-basvuru-tarihi-10-temmuz-2/",
-          "also_in": []
-        },
-        {
-          "title": "Üç aylık edebiyat dergisi kitap-lık’ın Nisan-Haziran sayısı yayımlandı",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/uc-aylik-edebiyat-dergisi-kitap-likin-nisan-haziran-sayisi-yayimlandi-2/",
-          "also_in": []
-        },
-        {
-          "title": "İş Sanat Anadolu Sergileri Gül Mevsimi seçkisiyle Eğirdir’de sanatseverlerle buluştu",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/is-sanat-anadolu-sergileri-gul-mevsimi-seckisiyle-egirdir-de-sanatseverlerle-bulustu/21993/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Sosyal Medya ve Magazin Gündemi",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Deniz Göktaş hakkındaki soruşturma ve ünlülerin yaşamlarına dair gelişmeler sosyal medyada geniş yankı buldu.",
-      "importance": 5,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Komedyen Deniz Göktaş hakkında soruşturma başlatıldı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/06/29/komedyen-deniz-goktas-hakkinda-sorusturma-baslatildi",
+          "title": "Avrupa'dan Dijital Egemenlik Hamlesi: 10 Milyar Euro ile Yedi Yapay Zeka Üssü Kuruluyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/avrupadan-dijital-egemenlik-hamlesi-10-milyar-euro-ile-yedi-yapay-zeka-ussu-kuruluyor/102638",
           "also_in": [
-            "BBC Türkçe",
-            "Artı Gerçek",
-            "F5 Haber",
-            "Gerçek Gündem",
-            "Gazete Emek",
-            "Sputnik",
-            "Döviz"
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Deniz Göktaş hakkında soruşturma başlatıldı",
-          "source": "Aykırı",
-          "link": "https://www.aykiri.com.tr/deniz-goktas-hakkinda-sorusturma-baslatildi/55584/",
+          "title": "Yapay zeka kontrolden çıkınca: OpenAI kendi yarattığı tehdidi günlerce durduramadı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-kontrolden-cikinca-openai-kendi-yarattigi-tehdidi-gunlerce-durduramadi/102636",
           "also_in": [
-            "DW Haber",
-            "Independent Türkçe",
-            "Haberler"
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Selahattin Demirtaş'tan Deniz Göktaş’a mektup: ‘Koltuğuma göz dikmeni takdirle karşıladım...'",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/siyaset/selahattin-demirtas-tan-deniz-goktas-a-mektup-koltuguma-goz-dikmeni-takdirle-karsiladim-2516566",
-          "also_in": [
-            "Yurt Gazetesi"
-          ]
+          "title": "Google, yapay zekâ ile müzik üretiminde çıtayı yükseltti: Lyria 3.5 tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-yapay-zeka-ile-muzik-uretiminde-citayi-yukseltti-lyria-35-tanitildi_182291.html",
+          "also_in": []
         },
         {
-          "title": "Cüneyt Özdemir'den Deniz Göktaş 'a 'davalı' gönderme",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/cuneyt-ozdemir-den-deniz-goktas-in-uyusturucu-esprilerine-davali-yanit-p332326",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
+          "title": "Reklam performansını tek merkezden takip eden yapay zeka platformu tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-meta-ve-shopify-verileri-artik-tek-ekranda-bulusuyor_182300.html",
+          "also_in": []
         },
         {
-          "title": "Selahattin Demirtaş'tan komedyen Deniz Göktaş için paylaşım",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/selahattin-demirtas-tan-komedyen-deniz-goktas-icin-paylasim-p332284",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
+          "title": "Microsoft uçtu, Meta çakıldı! Yapay zeka bilançolar piyasayı sarstı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/microsoft-uctu-meta-cakildi-yapay-zeka-bilancolar-piyasayi-sarsti-h34116",
+          "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Persistence of Memory",
-    "artist": "Salvador Dalí",
-    "year": "1931",
+    "title": "The Fall of the Rebel Angels",
+    "artist": "Pieter Bruegel the Elder",
+    "year": "1562",
     "form": "resim",
-    "medium": "Oil on canvas",
-    "location": "Museum of Modern Art, New York City",
-    "description": "Eriyen saatler, ekonomik belirsizliğin yarattığı zaman algısındaki bozulmayı ve geleceğe dair tedirgin edici, rüya benzeri bir gerçekliği simgeliyor. Sıcak yaz gününün durağanlığını ve eriyen değerleri yansıtan ikonik bir sürrealist şaheserdir.",
+    "medium": "Oil on oak panel",
+    "location": "Royal Museums of Fine Arts of Belgium",
+    "description": "Kaosun ve yıkımın en karmaşık tasvirlerinden biri olan bu eser, hem orman yangınlarının yarattığı dehşet verici manzarayı hem de toplumsal huzursuzluğun getirdiği karmaşayı yansıtan grotesk figürlerle doludur.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
-    "wikipedia_extract": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First exhibited at the Julien Levy Gallery in 1932 and sold for $250, The Persistence of Memory was donated to the Museum of Modern Art (MoMA) in New York City two years later in 1934 by an anonymous donor, where it has remained ever since. It is widely recognized and frequently referred to in popular culture, and sometimes referred to by more descriptive titles, such as \"The Melting Clocks\", \"The Soft Watches\" or \"The Melting Watches\".",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD_House_Museum"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels",
+    "wikipedia_extract": "The Fall of the Rebel Angels is an oil-on-panel painting of 1562 by the Netherlandish Renaissance artist Pieter Bruegel the Elder. The painting is 117cm x 162cm and is now in the Oldmasters Museum in Brussels, Belgium. The Fall of Rebel Angels depicts Lucifer along with the other fallen angels that have been banished from heaven. Angels are falling from the sun in a stacked manner along with ungodly creatures that Bruegel created.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_RMFAB_584_%28derivative_work%29.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder"
   },
   "music": {
-    "title": "Everything In Its Right Place",
-    "artists": "Radiohead",
-    "album": "Kid A",
-    "duration": "4:11",
-    "spotify_url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-    "spotify_id": "2kRFrWaLWiKq48YYVdGcm8",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2kRFrWaLWiKq48YYVdGcm8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Hurt",
+    "artists": "Johnny Cash",
+    "album": "American IV: The Man Comes Around",
+    "duration": "3:36",
+    "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+    "spotify_id": "28cnXtME493VX9NOw9cIUh",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/28cnXtME493VX9NOw9cIUh\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Sıcak bir yaz gününün dinamizmi, teknolojik gelişmelerin ve sporun yoğun heyecanıyla harmanlansa da, derinleşen ekonomik kaygılar ve belirsizlikler toplumsal bir tedirginlik perdesi örüyor. Salvador Dalí'nin The Persistence of Memory tablosundaki eriyen saatler, zamanın ve değerlerin akışkanlığını, küresel ekonominin ve siyasetin sürreal dönüşümlerini çarpıcı bir metaforla gözler önüne seriyor. Bu distopik düş manzarası, yapay zekanın getirdiği dönüşümlerin ve Dünya Kupası'ndaki şaşırtıcı anların yarattığı belirsizliği, tanıdık olanın nasıl yabancılaştığını hissettiriyor. Radiohead'in Everything In Its Right Place parçası ise, teknolojik ve klostrofobik atmosferiyle bu tedirginliği dijital bir yankıyla derinleştiriyor, her şeyin aslında olması gereken yerde olmadığına dair tekinsiz bir his uyandırıyor. Böylece, bu ikili, modern insanın zamanın büküldüğü, gerçekliğin sorgulandığı bu yoğun ve hareketli dönemdeki kırılganlığını ve arayışını yansıtıyor."
+  "curator_statement": "Bugün ruhumuz, Türkiye'nin dört bir yanından yükselen yangın dumanları ve toplumsal gerilimin yakıcı rüzgarlarıyla savrulurken, derin bir endişe ve hüzünle dolu. Pieter Bruegel'in Asi Meleklerin Düşüşü, gökyüzünden yeryüzüne savrulan, kendi kaoslarında boğulan figürleriyle bu çalkantılı zamanların görsel bir metaforu olarak karşımıza çıkıyor. Resmin karanlık ve grotesk detayları, çevresel yıkımın, siyasal çekişmelerin ve yaşam mücadelesinin getirdiği o 'düşüş' anını, bir nevi ilahi bir muhasebenin ya da içsel bir sorgulamanın resmi gibi sunuyor. Bu görsel karmaşanın ve varoluşsal ağırlığın üzerine, Johnny Cash'in Hurt'ünden yükselen o kırılgan, derin ses, geçmişin pişmanlıkları ve şimdinin çaresizliğiyle yankılanarak ruhumuzun en ücra köşelerine işliyor. Her iki eser de, bir şeylerin geri dönülmez biçimde yitirildiği, acının ve yalnızlığın kaçınılmaz olduğu, derin bir özdeşleşme ve tefekkür anına çağırıyor bizleri."
 }

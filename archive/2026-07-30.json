@@ -1,0 +1,582 @@
+{
+  "date": "2026-07-30",
+  "date_human": "30 July 2026",
+  "generated_at": "2026-07-30T20:51:10.795541+00:00",
+  "stats": {
+    "feeds_collected": 265,
+    "news_total": 4931,
+    "news_analyzed": 608,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye genelinde orman yangınlarının yarattığı endişe ve kayıp haberlerinin gölgesinde, siyasi istifalar ve ekonomik zorlukların hissedildiği yoğun bir atmosfer hakim.",
+    "dominant_emotion": "Endişe",
+    "key_themes": [
+      "Orman yangınları ve çevre felaketleri",
+      "Siyasi istifalar ve TBMM gündemi",
+      "Ekonomik zorluklar ve artan yaşam maliyeti",
+      "Savunma sanayii ve teknolojik yerlilik",
+      "Yargı ve güvenlik operasyonları"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-07-30",
+        "code": 0,
+        "temp_max": 36.2,
+        "temp_min": 24.0
+      },
+      {
+        "date": "2026-07-31",
+        "code": 0,
+        "temp_max": 36.5,
+        "temp_min": 24.4
+      },
+      {
+        "date": "2026-08-01",
+        "code": 0,
+        "temp_max": 37.5,
+        "temp_min": 24.6
+      },
+      {
+        "date": "2026-08-02",
+        "code": 1,
+        "temp_max": 35.9,
+        "temp_min": 24.0
+      },
+      {
+        "date": "2026-08-03",
+        "code": 1,
+        "temp_max": 35.1,
+        "temp_min": 22.6
+      },
+      {
+        "date": "2026-08-04",
+        "code": 1,
+        "temp_max": 34.2,
+        "temp_min": 21.8
+      },
+      {
+        "date": "2026-08-05",
+        "code": 1,
+        "temp_max": 34.4,
+        "temp_min": 23.8
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Türkiye Genelinde Orman Yangınları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Ülkenin farklı noktalarında çıkan orman yangınları büyük bir çevre felaketine dönüşürken, söndürme çalışmaları ve tahliyeler devam ediyor.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Balıkesir’deki yangın Bergama sınırına ulaştı: Gazeteciler alevler arasından zor kurtuldu",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-deki-yangin-bergama-sinirina-ulasti-gazeteciler-alevler-arasindan-zor-kurtuldu-2525132",
+          "also_in": [
+            "Haberler",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Fransa'daki yangınlarda 4 itfaiyeci öldü, 230'dan fazlası yaralı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/fransadaki-yanginlarda-4-itfaiyeci-oldu-30dan-fazla-yarali",
+          "also_in": [
+            "Demokrat Haber"
+          ]
+        },
+        {
+          "title": "5 bölgede orman yangınları sürüyor! Ayvalık Bergama yolu trafiğe kapatıldı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/5-bolgede-orman-yanginlari-suruyor-ayvalik-bergama-yolu-trafige-kapatildi-6953835",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Bakan Yumaklı: 169 yangından 163'ü kontrol altına alındı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/bakan-yumakli-169-yangindan-163u-kontrol-altina-alindi-haberi-909258",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Türkiye'nin dört bir yanı alev alev: Rüzgar şiddetlendi, alevler yeniden güç kazandı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/turkiye-de-orman-yanginlari-30-temmuz-2026-p341104",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Siyasi İstifalar ve TBMM Gündemi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "CHP'de üst düzey istifalar yaşanırken, TBMM'de öğrenci affı gibi kritik düzenlemeler kabul edildi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Öğrenci affı TBMM'de kabul edildi",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/egitim/ogrenci-affi-tbmmde-kabul-edildi/haber-1686879",
+          "also_in": [
+            "Elips Haber",
+            "Haber 7",
+            "İstiklal",
+            "Sabah",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Önder Sav CHP’den istifa etti",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/onder-sav-chpden-istifa-etti-348913h",
+          "also_in": [
+            "Haber",
+            "Habertürk",
+            "Haberler",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Edirne Milletvekili Ün, yeniden CHP'ye dönüyor",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/siyaset/haber/3647473-edirne-milletvekili-un-yeniden-chpye-donuyor",
+          "also_in": [
+            "Haberler",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Gelecek Partisi feshedildi, 4 vekilin izleyeceği yol belli oldu",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/siyaset/gelecek-partisi-feshedildi-4-vekilin-izleyecegi-yol-belli-oldu-6953704",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Antalya Döşemealtı Belediye Başkanı Menderes Dal da CHP’den istifa etti",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/antalya-dosemealti-belediye-baskani-menderes-dal-da-chp-den-istifa-etti-p341101",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Göstergeler ve Enflasyon",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "TÜRK-İŞ tarafından açıklanan açlık sınırı verileri ve enflasyonist baskılar, ekonomik gündemin en önemli maddeleri oldu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "TÜRK-İŞ açıkladı: Açlık sınırı 37 bin liraya dayandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/turk-is-acikladi-aclik-siniri-37-bin-liraya-dayandi-869339",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "TÜRK-İŞ: Açlık sınırı 36 bin 940, yoksulluk sınırı 120 bin 325 liraya yükseldi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/turk-is-aclik-siniri-36-bin-940-yoksulluk-siniri-20102485-haberi/",
+          "also_in": [
+            "Kısa Dalga"
+          ]
+        },
+        {
+          "title": "Açlık sınırı 37 bin liraya dayandı",
+          "source": "Sözcü Ekonomi",
+          "link": "https://www.sozcu.com.tr/aclik-siniri-37-bin-liraya-dayandi-p340982",
+          "also_in": [
+            "Yurtsever"
+          ]
+        },
+        {
+          "title": "Bakan Şimşek: İşsizlik oranı tarihi düşük seviyeye geriledi",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/bakan-simsek-issizlik-orani-tarihi-dusuk-seviyeye-geriledi/906752",
+          "also_in": []
+        },
+        {
+          "title": "TCMB: Enflasyonun ana eğiliminde temmuzda geçici yükseliş bekleniyor",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/tcmb-enflasyonun-ana-egiliminde-temmuzda-gecici-yukselis-bekleniyor/906683",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayiinde Yerli Başarılar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "KIZILELMA'nın mühimmat testleri ve Türkiye'nin savunma sanayii projelerinde ulaşılan yeni aşamalar öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye’nin Eurofighter savaş uçaklarının üretimine başlandı",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/turkiyenin-eurofighter-savas-ucaklarinin-uretimine-baslandi",
+          "also_in": []
+        },
+        {
+          "title": "KIZILELMA’dan bir ilk",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/kizilelmadan-bir-ilk",
+          "also_in": []
+        },
+        {
+          "title": "KIZILELMA’dan İç Silah İstasyonundan Tarihi Atış",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/kizilelmadan-ic-silah-istasyonundan-tarihi-atis/",
+          "also_in": []
+        },
+        {
+          "title": "KIZILELMA DÂHİLİ MÜHİMMAT YUVASINDAN İLK ATIŞ TESTLERİNİ BAŞARIYLA TAMAMLADI!",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/kizilelma-dahili-muhimmat-yuvasindan-ilk-atis-testlerini-basariyla-tamamladi/",
+          "also_in": []
+        },
+        {
+          "title": "SSB Başkanı Görgün, Türkiye-Moldova İlk Savunma Sanayii İş Birliği Toplantısı’na Ev Sahipliği Yaptı",
+          "source": "Mavi Savunma",
+          "link": "https://www.mavisavunma.com/ssb-baskani-gorgun-turkiye-moldova-ilk-savunma-sanayii-is-birligi-toplantisina-ev-sahipligi-yapti/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Gülistan Doku Soruşturmasında Tutuklamalar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Gülistan Doku soruşturmasında gelinen noktada polis memurlarının da dahil olduğu birçok şüpheli tutuklandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Gülistan Doku soruşturmasında 4 polis tutuklandı",
+          "source": "OdaTV",
+          "link": "https://www.odatv.com/guncel/gulistan-doku-sorusturmasinda-4-polis-tutuklandi-120156949",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında 4 kişi daha tutuklandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/gulistan-doku-sorusturmasinda-4-kisi-daha-tutuklandi-585114",
+          "also_in": [
+            "Haberler",
+            "Gazete Pencere"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında adliyeye sevk edilen 8 şüpheliden 4'ü tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/gulistan-doku-sorusturmasinda-adliyeye-sevk-edilen-8-supheliden-4u-tutuklandi-275926h",
+          "also_in": [
+            "Hürriyet",
+            "NTV"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında tutuklu sayısı 20'ye yükseldi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/gulistan-doku-sorusturmasinda-tutuklu-sayisi-20ye-yukseldi-haberi-909244",
+          "also_in": [
+            "Haberler",
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Gülistan Doku soruşturmasında tutuklanan 4 polis cezaevine sevk gönderildi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/3-sayfa/gulistan-doku-sorusturmasinda-tutuklanan-4-polis-20103686-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Gazeteci Cem Küçük Gözaltısı",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Gazeteci Cem Küçük'ün gözaltına alınması medya ve siyaset çevrelerinde geniş yankı uyandırdı.",
+      "importance": 7,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Gazeteci Cem Küçük gözaltına alındı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/gazeteci-cem-kucuk-gozaltina-alindi-585137",
+          "also_in": [
+            "Doğru Haber",
+            "En Son Haber",
+            "Haberler",
+            "Haber Global",
+            "İnternet Haber",
+            "İstiklal",
+            "İşçi Haber",
+            "Kamudan Haber",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Son Mühür",
+            "Ulusal Kanal",
+            "Sputnik",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Cem Küçük gözaltına alındı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/guncel/cem-kucuk-gozaltina-alindi-348921h",
+          "also_in": [
+            "Diken",
+            "Bir Gazete",
+            "Evrensel",
+            "Elips Haber",
+            "Hürriyet",
+            "GZT",
+            "Gazete Pencere",
+            "KRT TV",
+            "OdaTV",
+            "Tele2",
+            "Serbestiyet",
+            "TRT Haber",
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Son dakika: Gazeteci Cem Küçük gözaltına alındı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/son-dakika-gazeteci-cem-kucuk-gozaltina-alindi-haberi-834341",
+          "also_in": [
+            "Haberet",
+            "Yeni Asır Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş'ın Avrupa Başarısı",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş, Midtjylland karşısında aldığı galibiyetle Avrupa Ligi'nde bir üst tura yükseldi.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Beşiktaş, Danimarka'da da kazandı: Avrupa Ligi'nde tur biletini aldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/foto-galeri/besiktas-danimarkada-da-kazandi-avrupa-liginde-tur-biletini-aldi-427049",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Beşiktaş deplasmanda Midtjylland'ı mağlup etti!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/besiktas/2026/07/30/besiktas-deplasmanda-midtjyllandi-maglup-etti",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş Midtjylland'ı eledi! Sonraki rakip belli oldu",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/besiktas-midtjyllandi-eledi-sonraki-rakip-belli-oldu",
+          "also_in": [
+            "Demokrat Haber",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Beşiktaş Midtjylland'ı devirdi: Bir üst tura çıktı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/spor/besiktas-midtjyllandi-devirdi-bir-ust-tura-cikti-haberi-909264",
+          "also_in": [
+            "Halk TV"
+          ]
+        },
+        {
+          "title": "Beşiktaş, Midtjylland’ı eleyerek UEFA Avrupa Ligi’nde 3. eleme turuna yükseldi",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/besiktas-midtjyllandi-eleyerek-uefa-avrupa-liginde-3-eleme-turuna-yukseldi/295784/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "MasterChef Türkiye'den Acı Veda",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "MasterChef Türkiye yarışmacılarından Eren Kaşıkçı'nın vefatı hem izleyicileri hem de sanat dünyasını yasa boğdu.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Şef Eren Kaşıkçı son yolculuğuna uğurlandı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/5994294/sef-eren-kasikci-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "MasterChef birincisi Eren Kaşıkçı'ya acı veda",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/magazin/masterchef-birincisi-eren-kasikciya-aci-veda-107952",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Eren Kaşıkçı’nın cenazesi memleketi Tokat’a uğurlandı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/yerel/eren-kasikci-nin-cenazesi-memleketi-tokat-a-20103530-haberi/",
+          "also_in": [
+            "Medya Gazete"
+          ]
+        },
+        {
+          "title": "Eren Kaşıkçı son yolculuğuna uğurlandı! Cenazede yürek yakan anlar",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/eren-kasikci-son-yolculuguna-ugurlandi-cenazede-yurek-yakan-anlar-video-galerisi-2453268.htm",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "MasterChef Eren Kaşıkçı'ya dostlarından veda",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/masterchef-eren-kasikciya-dostlarindan-veda",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Devrimleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Dünya genelinde yapay zeka tabanlı yeni ürünler ve teknolojik gelişmeler hız kesmeden devam ediyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Artık dijital dünya parmak uçlarınızda değil, dilinizin ucunda: Teknoloji dünyasında çığır açan MouthPad satışta.",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/artik-dijital-dunya-parmak-uclarinizda-degil-dilinizin-ucunda-teknoloji-dunyasinda-cigir-acan-mouthpad-satista/102644",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Avrupa'dan Dijital Egemenlik Hamlesi: 10 Milyar Euro ile Yedi Yapay Zeka Üssü Kuruluyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/avrupadan-dijital-egemenlik-hamlesi-10-milyar-euro-ile-yedi-yapay-zeka-ussu-kuruluyor/102638",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zeka kontrolden çıkınca: OpenAI kendi yarattığı tehdidi günlerce durduramadı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-kontrolden-cikinca-openai-kendi-yarattigi-tehdidi-gunlerce-durduramadi/102636",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Google, yapay zekâ ile müzik üretiminde çıtayı yükseltti: Lyria 3.5 tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-yapay-zeka-ile-muzik-uretiminde-citayi-yukseltti-lyria-35-tanitildi_182291.html",
+          "also_in": []
+        },
+        {
+          "title": "Reklam performansını tek merkezden takip eden yapay zeka platformu tanıtıldı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-meta-ve-shopify-verileri-artik-tek-ekranda-bulusuyor_182300.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Hatayspor'a Puan Silme Cezası",
+      "meta_category": "Spor",
+      "summary": "FIFA, Hatayspor'a yönelik puan silme cezası kararını kesinleştirdi.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "FIFA'dan Hatayspor'a puan silme cezası",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/futbol/2026/07/30/fifadan-hatayspora-puan-silme-cezasi",
+          "also_in": [
+            "Akşam",
+            "Fotospor",
+            "Cumhuriyet",
+            "GZT",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "FIFA'dan Hatayspor'a \"6 puan\" silme cezası",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/tff-ikinci-lig/2026/07/30/fifadan-hatayspora-6-puan-silme-cezasi",
+          "also_in": [
+            "En Son Haber",
+            "Ekonomim",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "FIFA&apos;dan Hatayspor&apos;a \"6 puan\" silme cezası",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/spor/fifadan-hatayspora-6-puan-silme-cezasi-20103844-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Third of May 1808",
+    "artist": "Francisco Goya",
+    "year": "1814",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Museo del Prado, Madrid",
+    "description": "İnsanlığın çaresizliğini ve otorite karşısındaki savunmasızlığını en dramatik şekilde yansıtan bu eser, toplumsal kargaşa ve güvensizlik dönemlerinde yaşanan endişenin evrensel bir sembolüdür.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Third_of_May_1808",
+    "wikipedia_extract": "The Third of May 1808 in Madrid and also known, in Spanish, as El tres de mayo de 1808 en Madrid or Los fusilamientos de la montaña del Príncipe Pío, or Los fusilamientos del tres de mayo, is a painting completed in 1814 by the Spanish painter Francisco Goya. In the work, Goya sought to commemorate Spanish resistance to Napoleon's armies during the occupation of Madrid in 1808 at the start of the Peninsular War. Along with its companion piece of the same size, The Second of May 1808, it was commissioned by the provisional government of Spain at Goya's own suggestion shortly after the ousting of the French occupation and the restoration of King Ferdinand VII.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg/3840px-El_Tres_de_Mayo%2C_by_Francisco_de_Goya%2C_from_Prado_thin_black_margin.jpg",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya"
+  },
+  "music": {
+    "title": "Untitled #3 - Samskeyti",
+    "artists": "Sigur Rós",
+    "album": "( )",
+    "duration": "6:33",
+    "spotify_url": "https://open.spotify.com/track/1QUiA9aecDOOnf32A9ZrtW",
+    "spotify_id": "1QUiA9aecDOOnf32A9ZrtW",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27311d8349d9bcc5e5d1bc43005",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1QUiA9aecDOOnf32A9ZrtW\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Ülkemizin dört bir yanında yükselen alevlerin endişesiyle sarmalanmış, siyasi çalkantıların ve ekonomik sıkıntıların derinleştiği bu günlerde, ortak bir kayıp ve belirsizlik duygusuyla yüzleşiyoruz. Francisco Goya'nın Üç Mayıs 1808 tablosu, insanlığın zorbalık karşısındaki çaresizliğini ve onurlu direnişini, her çağın yüreğinde yankılanan bir çığlıkla gözler önüne seriyor; tıpkı bugün tanık olduğumuz acımasız kayıplar gibi. Bu ağır atmosferde, Sigur Rós'un Samskeyti'si, ruhun derinliklerinden yükselen melankolik notalarıyla, hem bir ağıt hem de bastırılmış bir umutsuzluğun iniltisi gibi içimize işliyor. Goya'nın fırçasından dökülen son anın dramı ile Sigur Rós'un katmanlı seslerinin huzursuz büyüsü, çağdaş endişelerimizin"
+}
