@@ -523,14 +523,14 @@
     "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Frida_Kahlo_Museum"
   },
   "music": {
-    "title": "Everything In Its Right Place",
-    "artists": "Roy Markson",
-    "album": "Everything In Its Right Place",
-    "duration": "3:13",
-    "spotify_url": "https://open.spotify.com/track/32oZ26vwvcnqrvKL8vl1ss",
-    "spotify_id": "32oZ26vwvcnqrvKL8vl1ss",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273d4a6e89bfe374f4346574574",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/32oZ26vwvcnqrvKL8vl1ss\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "The Great Gig in the Sky",
+    "artists": "Pink Floyd",
+    "album": "The Dark Side of the Moon",
+    "duration": "4:44",
+    "spotify_url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d",
+    "spotify_id": "2TjdnqlpwOjhijHCwHCP2d",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2TjdnqlpwOjhijHCwHCP2d\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
   "curator_statement": "Türkiye'nin teknolojik zaferleri ve gururu, ekonomik çalkantılar ve dijital dünyanın belirsizliğiyle örülü, gergin bir denge arayışını yansıtıyor bugünün ruhu. Frida Kahlo'nun The Broken Column eseri, dışarıdan güçlü görünen bir yapının içsel kırılganlığını, görünmez acılarla ay"
