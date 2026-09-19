@@ -1,22 +1,21 @@
 {
   "date": "2026-09-19",
   "date_human": "19 September 2026",
-  "generated_at": "2026-09-19T08:06:35.364665+00:00",
+  "generated_at": "2026-09-19T08:11:30.210833+00:00",
   "stats": {
-    "feeds_collected": 269,
-    "news_total": 5345,
-    "news_analyzed": 610,
+    "feeds_collected": 267,
+    "news_total": 5295,
+    "news_analyzed": 609,
     "clusters": 10
   },
   "mood": {
-    "description": "Türkiye, yerel sanayi ve savunma başarılarının yarattığı gurur ile ekonomik belirsizliklerin ve bölgedeki jeopolitik gerilimlerin getirdiği kaygının iç içe geçtiği, oldukça hareketli ve yoğun bir gün geçiriyor.",
-    "dominant_emotion": "Gerginlik",
+    "description": "Türkiye ve dünya gündeminde savunma sanayii, teknolojik ilerlemeler ve bölgesel jeopolitik gerilimlerin gölgesinde yoğun bir hareketlilik hakim. Bir yanda TEKNOFEST rüzgarlarıyla yükselen gelecek umudu, diğer yanda ekonomik kaygılar ve bölgesel çatışmaların getirdiği temkinli bir atmosfer var.",
+    "dominant_emotion": "Tedirginlik",
     "key_themes": [
-      "Savunma sanayii ve yerli teknoloji atılımları",
-      "Ekonomik dalgalanmalar ve döviz/petrol krizi",
-      "Yargı ve güvenlik operasyonları",
-      "Kültür-Sanat etkinlikleri ve yeni sezon başlangıçları",
-      "Uluslararası jeopolitik gerilimler"
+      "Savunma sanayiinde yerlilik ve yeni teknolojiler",
+      "Ekonomi, faiz ve piyasalardaki dalgalanmalar",
+      "Bölgesel çatışmaların yansımaları",
+      "Gençlik, eğitim ve teknoloji buluşmaları"
     ]
   },
   "weather": {
@@ -70,10 +69,53 @@
   },
   "clusters": [
     {
-      "title": "Ekonomik Çalkantılar: Dolar, Petrol ve Fonlar",
+      "title": "Futbol Liglerinde Derbi ve Transfer Gündemi",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de Trabzonspor-Galatasaray derbisi öncesi hazırlıklar ve milli takım aday kadrolarının açıklanması spor dünyasının ana odağı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SÜPER LİG | Trabzonspor - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? (Muhtemel 11'ler)",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-super-lig-trabzonspor-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-429866",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "Trabzonspor-Galatasaray maçı CANLI! Dev derbi ne zaman, saat kaçta, hangi kanalda?",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/trabzonspor/2026/09/19/trabzonspor-galatasaray-maci-canli-dev-derbi-ne-zaman-saat-kacta-hangi-kanalda",
+          "also_in": []
+        },
+        {
+          "title": "İşte Trabzonspor - Galatasaray maçının muhtemel 11'leri! Karadeniz'de dev randevu",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/trabzonspor/2026/09/19/iste-trabzonspor-galatasaray-macinin-muhtemel-11leri-karadenizde-dev-randevu",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray'ın Trabzonspor derbisi kafilesi açıklandı!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/09/18/galatasarayin-trabzonspor-derbisi-kafilesi-aciklandi",
+          "also_in": []
+        },
+        {
+          "title": "Lider Galatasaray, Trabzonspor deplasmanında! İşte muhtemel 11'ler",
+          "source": "Haber",
+          "link": "https://www.haber.com/spor/lider-galatasaray-trabzonspor-deplasmaninda-iste-muhtemel-11-ler-25870",
+          "also_in": [
+            "Hürriyet"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi ve Enflasyon Baskısı",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Dolar/TL kuru, enerji fiyatları ve fon piyasalarındaki belirsizlikler ile TCMB'nin döviz müdahalesi iddiaları piyasalarda baskı yaratıyor.",
-      "importance": 10,
+      "summary": "Dolar/TL kuru, borsa hareketleri ve enerji piyasalarındaki gelişmeler yatırımcıyı tedirgin ederken, fahiş fiyat denetimleri sıkılaşıyor.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
@@ -85,16 +127,20 @@
           ]
         },
         {
-          "title": "Fon Depremi | 130 Fon Tasfiye | Altın Fed’e Rağmen | Banka Hisseleri Uçtu!",
-          "source": "Investing Genel",
-          "link": "https://tr.investing.com/analysis/fon-depremi--130-fon-tasfiye--altn-fede-ragmen--banka-hisseleri-uctu-200506222",
-          "also_in": []
+          "title": "Borsa günü düşüşle tamamladı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/borsa-gunu-dususle-tamamladi-1020840.html",
+          "also_in": [
+            "Habertürk"
+          ]
         },
         {
-          "title": "Neler oluyor? Fon satışı sürüyor | Konut fiyatları! | Borsada kara çarşamba",
-          "source": "Investing Genel",
-          "link": "https://tr.investing.com/analysis/neler-oluyor-fon-sats-suruyor--konut-fiyatlar--borsada-kara-carsamba-200506200",
-          "also_in": []
+          "title": "Altın haftayı kazançla kapattı: Petrol düşüşü baskıyı kırdı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/altin-haftayi-kazancla-kapatti-petrol-dususu-baskiyi-kirdi-p359595",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
         },
         {
           "title": "Mazot 100 TL! FED Faiz Kararı! Fon Korkusu Borsayı Çökertti!",
@@ -103,67 +149,17 @@
           "also_in": []
         },
         {
-          "title": "Dolar/TL’de 45 Eşiği Aşıldı: TL Üzerinde Enerji ve Fed Baskısı Artıyor",
+          "title": "Dolar/TL 45 Bandında: Gözler Enerji ve Enflasyon Baskısında",
           "source": "Investing Döviz",
-          "link": "https://tr.investing.com/analysis/dolartlde-45-esigi-asld-tl-uzerinde-enerji-ve-fed-basks-artyor-200504241",
+          "link": "https://tr.investing.com/analysis/dolartl-45-bandnda-gozler-enerji-ve-enflasyon-basksnda-200504339",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Trump ve ABD'nin Küresel Hamleleri",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Donald Trump'ın medya yasakları, Grönland'a yönelik askeri stratejileri ve İran ile olan gerilimli ilişkiler.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Trump'tan CNN, MS NOW ve Politico'ya Beyaz Saray yasağı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-cnn-ms-now-ve-politico-ya-beyaz-saray-yasagi-2538926",
-          "also_in": [
-            "dikGAZETE",
-            "CGTN Türk",
-            "Evrensel",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Trump’tan üç medya kuruluşuna Beyaz Saray yasağı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-uc-medya-kurulusuna-beyaz-saray-yasagi-2538966",
-          "also_in": [
-            "Haber"
-          ]
-        },
-        {
-          "title": "Trump duyurdu! Grönland için ABD’ye geniş askeri yetki",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/dunya/trump-duyurdu-gronland-icin-abdye-genis-askeri-yetki-6978113",
-          "also_in": [
-            "Haber"
-          ]
-        },
-        {
-          "title": "Trump'tan bomba karar: CNN ve 2 kanalın Beyaz Saray'a girişini yasakladı!",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/dunya/haber/3660793-trumptan-bomba-karar-cnn-ve-2-kanalin-beyaz-saraya-girisini-yasakladi",
-          "also_in": [
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Trump Dünyaya Duyurdu! Grönland İçin “Bizim Oldu” Mesajı!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/trump-dunyaya-duyurdu-gronland-icin-bizim-oldu-mesaji-872170",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayiinde Yerlilik ve Yeni Üsler",
+      "title": "Savunma Sanayiinde Yerlilik ve Yeni Atılımlar",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin savunma sanayiindeki yerlilik oranının yüzde 83'ü aşması ve Denizli gibi yeni üretim merkezlerinin kurulmasıyla ilgili gelişmeler.",
+      "summary": "Türkiye'nin savunma sanayisindeki yerlilik oranı yüzde 83'ü aşarken, yeni üsler ve teknolojik projelerle bölgesel güç gösterisi devam ediyor.",
       "importance": 9,
       "story_count": 4,
       "stories": [
@@ -196,9 +192,57 @@
       ]
     },
     {
-      "title": "Kozinoğlu Soruşturması ve Yargı Operasyonları",
+      "title": "İran Bankası'na Yönelik BDDK Kararı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "BDDK, İran merkezli Bank Mellat'ın Türkiye'deki faaliyet iznini kaldırdı; konu ekonomi gündeminin ilk sıralarında yer alıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bank Mellat’ın Türkiye’deki faaliyet izni kaldırıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-590765",
+          "also_in": [
+            "En Son Haber",
+            "Kamudan Haber"
+          ]
+        },
+        {
+          "title": "BDDK, İran bankası Bank Mellat'ın Türkiye'deki faaliyet iznini kaldırdı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/ekonomi/bddk-iran-bankasi-bank-mellat-in-turkiye-deki-faaliyet-iznini-kaldirdi-2538969",
+          "also_in": [
+            "Gazete Pencere"
+          ]
+        },
+        {
+          "title": "BDDK, Bank Mellat'ın Türkiye'deki faaliyet iznini kaldırdı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6001131/bddk-bank-mellatin-turkiyedeki-faaliyet-iznini-kaldirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "BDDK, İran bankasının faaliyet iznini iptal etti",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/ekonomi/bddk-bank-mellat-in-istanbul-subesinin-faaliyet-iznini-kaldirdi-3913567",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "BDDK, İran merkezli bankanın İstanbul şubesinin faaliyet iznini kaldırdı",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6aae171795016b5817e5d18e/PICNEWS/tr/bddk-iran-merkezli-bankanin-istanbul-subesinin-faaliyet-iznini-kaldirdi-19-09-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kozinoğlu Soruşturmasında Tutuklamalar",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturmada kritik isimlerin tutuklanması ve savcılar hakkında başlatılan gözaltı işlemleri.",
+      "summary": "Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturmada yeni gözaltılar ve tutuklamalar gerçekleşti, hukuki süreç derinleşiyor.",
       "importance": 8,
       "story_count": 5,
       "stories": [
@@ -207,7 +251,6 @@
           "source": "Anadolu Ajansı",
           "link": "https://www.aa.com.tr/tr/gundem/kozinoglunun-olumune-iliskin-sorusturmada-2-supheli-tutuklandi/4061739",
           "also_in": [
-            "Doğru Haber",
             "Radikal",
             "Ulusal Kanal"
           ]
@@ -230,11 +273,11 @@
           ]
         },
         {
-          "title": "Kozinoğlu'nun ölümünde 14 dakikalık sır: Koğuşun görüntüleri ortaya çıktı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/kozinoglu-nun-olumunde-14-dakikalik-sir-kogusun-goruntuleri-ortaya-cikti-p359597",
+          "title": "Kaşif Kozinoğlu soruşturmasında Hasan Atilla Uğur ve Hasan Ataman Yıldırım’a ev hapsi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/kasif-kozinoglu-sorusturmasinda-hasan-atilla-ugur-20251662-haberi/",
           "also_in": [
-            "Sözcü Gündem"
+            "İşçi Haber"
           ]
         },
         {
@@ -248,45 +291,51 @@
       ]
     },
     {
-      "title": "Süper Lig'de Derbi Heyecanı",
-      "meta_category": "Spor",
-      "summary": "Trabzonspor - Galatasaray derbisi öncesi hazırlıklar, taktik planlar ve muhtemel 11'ler.",
+      "title": "Küresel Jeopolitik Gerilimler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "ABD'nin dış politikadaki adımları, Trump'ın medya kısıtlamaları ve İsrail-Lübnan hattındaki askeri çatışmalar dünya gündemini meşgul ediyor.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Galatasaray kafilesi Trabzon'da",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-kafilesi-trabzonda-429863",
+          "title": "Trump'tan CNN, MS NOW ve Politico'ya Beyaz Saray yasağı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/trumptan-cnn-ms-now-ve-politicoya-beyaz-saray-yasagi",
           "also_in": [
-            "NTV Spor Futbol",
-            "Fotospor"
+            "dikGAZETE",
+            "Cumhuriyet",
+            "Evrensel",
+            "TRT Haber"
           ]
         },
         {
-          "title": "SÜPER LİG | Trabzonspor - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda? (Muhtemel 11'ler)",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-super-lig-trabzonspor-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-429866",
+          "title": "İsrail ordusu Lübnan’da devlet hastanesini ateşe verdi",
+          "source": "10Haber",
+          "link": "https://10haber.net/saglik/israil-ordusu-lubnanda-devlet-hastanesini-atese-verdi-738774/",
           "also_in": [
-            "NTV Spor Futbol"
+            "Gerçek Gündem"
           ]
         },
         {
-          "title": "Trabzonspor-Galatasaray maçı CANLI! Dev derbi ne zaman, saat kaçta, hangi kanalda?",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/trabzonspor/2026/09/19/trabzonspor-galatasaray-maci-canli-dev-derbi-ne-zaman-saat-kacta-hangi-kanalda",
-          "also_in": []
+          "title": "Trump’tan üç medya kuruluşuna Beyaz Saray yasağı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-uc-medya-kurulusuna-beyaz-saray-yasagi-2538966",
+          "also_in": [
+            "Haber"
+          ]
         },
         {
-          "title": "İşte Trabzonspor - Galatasaray maçının muhtemel 11'leri! Karadeniz'de dev randevu",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/trabzonspor/2026/09/19/iste-trabzonspor-galatasaray-macinin-muhtemel-11leri-karadenizde-dev-randevu",
-          "also_in": []
+          "title": "İran'da İsrail adına casuslukla suçlanan bir kişi idam edildi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/iranda-israil-adina-casuslukla-suclanan-bir-kisi-idam-edildi-haberi-919268",
+          "also_in": [
+            "İnternet Haber"
+          ]
         },
         {
-          "title": "Lider Galatasaray, Trabzonspor deplasmanında! İşte muhtemel 11'ler",
+          "title": "Suudi Arabistan'da yeniden alarm! 8 nokta için acil durum uyarısı",
           "source": "Haber",
-          "link": "https://www.haber.com/spor/lider-galatasaray-trabzonspor-deplasmaninda-iste-muhtemel-11-ler-25870",
+          "link": "https://www.haber.com/dunya/suudi-arabistan-da-yeniden-alarm-8-nokta-icin-acil-durum-uyarisi-25880",
           "also_in": [
             "Hürriyet"
           ]
@@ -294,20 +343,12 @@
       ]
     },
     {
-      "title": "Doğal Afetler ve Hava Durumu Uyarıları",
+      "title": "Hava Durumu ve Doğal Afet Uyarıları",
       "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Karadeniz bölgesindeki şiddetli sağanak yağışlar, su baskınları ve meteorolojinin yaptığı sarı kodlu uyarılar.",
+      "summary": "Karadeniz bölgesi başta olmak üzere Türkiye genelinde sağanak yağışlar ve sel baskınları hayatı olumsuz etkiliyor; meteorolojik uyarılar devam ediyor.",
       "importance": 7,
       "story_count": 5,
       "stories": [
-        {
-          "title": "4 il için 'sarı' kodlu uyarı: Sağanak bekleniyor",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/yasam/4-il-icin-sari-kodlu-uyari-saganak-bekleniyor-282203h",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
         {
           "title": "Meteoroloji uyardı: Karadeniz’de kuvvetli yağış bekleniyor",
           "source": "BHA",
@@ -322,6 +363,14 @@
           "link": "https://www.f5haber.com/gundem/metrekareye-50-kilogram-yagis-dustu-trabzonda-yollar-gole-dondu-ev-ve-is-yerlerini-su-basti-6978112",
           "also_in": [
             "NTV"
+          ]
+        },
+        {
+          "title": "4 il için 'sarı' kodlu uyarı: Sağanak bekleniyor",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/yasam/4-il-icin-sari-kodlu-uyari-saganak-bekleniyor-282203h",
+          "also_in": [
+            "TRT Haber"
           ]
         },
         {
@@ -341,98 +390,9 @@
       ]
     },
     {
-      "title": "Banka ve Finans Sektöründe İptal ve Operasyonlar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "İran merkezli Bank Mellat'ın Türkiye'deki faaliyet izninin kaldırılması ve ilgili bankacılık düzenlemeleri.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Bank Mellat’ın Türkiye’deki faaliyet izni kaldırıldı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/bank-mellatin-turkiyedeki-faaliyet-izni-kaldirildi-590765",
-          "also_in": [
-            "En Son Haber",
-            "Kamudan Haber"
-          ]
-        },
-        {
-          "title": "BDDK, Bank Mellat'ın Türkiye'deki faaliyet iznini kaldırdı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6001131/bddk-bank-mellatin-turkiyedeki-faaliyet-iznini-kaldirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Dokuz8 Haber"
-          ]
-        },
-        {
-          "title": "BDDK, İran bankasının faaliyet iznini iptal etti",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/ekonomi/bddk-bank-mellat-in-istanbul-subesinin-faaliyet-iznini-kaldirdi-3913567",
-          "also_in": [
-            "Haber 7"
-          ]
-        },
-        {
-          "title": "İran merkezli Bank Mellat'ın Türkiye'deki faaliyet izni kaldırıldı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/iran-merkezli-bank-mellat-in-turkiye-deki-faaliyet-izni-kaldirildi/929605",
-          "also_in": [
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "Bank Mellat'ın İstanbul şubesinin faaliyet izni kaldırıldı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/bank-mellatin-istanbul-subesinin-faaliyet-izni-kaldirildi-h37587",
-          "also_in": [
-            "Ekonomi Gazetesi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Bölgesel Güvenlik ve Terörle Mücadele",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Üniversitelerin yeni dönemine 'Terörsüz Türkiye' vurgusuyla başlaması ve terörle mücadele konusundaki resmi açıklamalar.",
-      "importance": 7,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "Üniversitelerde ilk ders \"Terörsüz Türkiye\" olacak",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/universitelerde-ilk-ders-terorsuz-turkiye-olacak-1020813.html",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Bakan Gürlek: Terör örgütünün silah bırakması bizim temel şartımızdır",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/bakan-gurlek-teror-orgutunun-silah-birakmasi-bizim-temel-sartimizdir-282205h",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Üniversitelerde yeni dönemin ilk dersi “Terörsüz Türkiye” olacak",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/egitim/universitelerde-yeni-donemin-ilk-dersi-terorsuz-turkiye-olacak/465567",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        },
-        {
-          "title": "Tüm üniversitelere resmi yazı gitti: İlk dersin gündemi \"Terörsüz Türkiye\"",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/09/18/tum-universitelere-resmi-yazi-gitti-ilk-dersin-gundemi-terorsuz-turkiye",
-          "also_in": []
-        }
-      ]
-    },
-    {
       "title": "TEKNOFEST ve Genç Mucitler",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Diyarbakır'da düzenlenen teknoloji etkinlikleri ve genç mucitlerin projeleriyle geleceğe yönelik vizyonu.",
+      "summary": "Diyarbakır'da düzenlenen TEKNOFEST etkinlikleri, genç mucitlerin ve teknoloji meraklılarının yoğun ilgisiyle geleceğin mühendislerini buluşturdu.",
       "importance": 7,
       "story_count": 4,
       "stories": [
@@ -471,12 +431,55 @@
       ]
     },
     {
-      "title": "Kültür Yolu ve Sanat Sezonu Başlangıçları",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Ankara Kültür Yolu Festivali'nin başlaması ve İstanbul'daki yeni sergi sezonu açılışları.",
+      "title": "Üniversitelerde Yeni Dönem ve Eğitim",
+      "meta_category": "Eğitim",
+      "summary": "Üniversitelerde yeni eğitim döneminin ilk dersi için 'Terörsüz Türkiye' teması belirlenirken, eğitim politikaları gündemdeki yerini koruyor.",
       "importance": 6,
       "story_count": 3,
       "stories": [
+        {
+          "title": "Üniversitelerde ilk ders \"Terörsüz Türkiye\" olacak",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/universitelerde-ilk-ders-terorsuz-turkiye-olacak-1020813.html",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Üniversitelerde yeni dönemin ilk dersi “Terörsüz Türkiye” olacak",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/egitim/universitelerde-yeni-donemin-ilk-dersi-terorsuz-turkiye-olacak/465567",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "Tüm üniversitelere resmi yazı gitti: İlk dersin gündemi \"Terörsüz Türkiye\"",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/09/18/tum-universitelere-resmi-yazi-gitti-ilk-dersin-gundemi-terorsuz-turkiye",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Magazin ve Kültür Sanat Etkinlikleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Ankara Kültür Yolu Festivali'nin başlaması ve dizi sezonlarının açılışıyla kültür sanat dünyasında hareketlilik gözleniyor.",
+      "importance": 5,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "\"Kızılcık Şerbeti\" Bu Akşam 5. Sezonuyla Dönüyor: 139. Bölümde Neler Yaşanacak, Kadroda Kimler Var?",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000223455/",
+          "also_in": []
+        },
+        {
+          "title": "18-24 Eylül etkinlik rehberi",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/18-24-eylul-etkinlik-rehberi/",
+          "also_in": []
+        },
         {
           "title": "Bakan Ersoy başkentte startı verdi! Ankara Kültür Yolu Festivali başladı",
           "source": "Ekonomim",
@@ -492,44 +495,38 @@
           ]
         },
         {
-          "title": "Borusan Contemporary sezonu iki sergiyle açıyor",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/borusan-contemporary-2026-yeni-sergiler/",
-          "also_in": []
-        },
-        {
-          "title": "18-24 Eylül etkinlik rehberi",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/18-24-eylul-etkinlik-rehberi/",
+          "title": "'Kızılcık Şerbeti'nin 5'inci sezonu bu akşam başlıyor",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/kizilcik-serbetinin-5inci-sezonu-bu-aksam-basliyor",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Builders",
-    "artist": "Jacob Lawrence",
-    "year": "1947",
+    "title": "Guernica (Picasso)",
+    "artist": "Pablo Picasso",
+    "year": "1937",
     "form": "resim",
-    "medium": "Tempera on composition board",
-    "location": "Hirshhorn Museum and Sculpture Garden, Washington, D.C.",
-    "description": "Eserdeki işçilerin yoğun ve disiplinli hareketleri, Türkiye'nin savunma ve yerel sanayi alanındaki hummalı üretimini yansıtırken, figürlerin birbirine geçen geometrik formları ekonomik belirsizliğin yarattığı karmaşayı ve sıkışmışlık hissini simgeler.",
-    "verified": false,
-    "wikipedia_url": null,
-    "wikipedia_extract": null,
-    "image_url": null,
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Jacob_Lawrence"
+    "medium": "Oil on canvas",
+    "location": "Museo Reina Sofía, Madrid",
+    "description": "Savaşın yıkıcılığını, acısını ve kaosunu siyah, beyaz ve gri tonların çarpıcı kullanımıyla gözler önüne seren devasa bir başyapıttır. Günümüzün bölgesel çatışmaları ve yarattığı insani tedirginlikle doğrudan bir paralellik kurar.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
+    "wikipedia_extract": "Guernica is a large 1937 oil painting by Spanish artist Pablo Picasso. It is one of his best-known works, regarded by many art critics as the most moving and powerful anti-war painting in history. It is exhibited in the Museo Reina Sofía in Madrid.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
   },
   "music": {
-    "title": "Symphony No. 3, Op. 36, \"Symphony of Sorrowful Songs\": II. Lento e largo - Tranquillissimo",
-    "artists": "Henryk Górecki, Zofia Kilanowicz, Polish National Radio Symphony Orchestra, Antoni Wit",
-    "album": "Górecki: Symphony No. 3 - 3 Olden Style Pieces",
-    "duration": "10:18",
-    "spotify_url": "https://open.spotify.com/track/540vNtsFvTIfyuScuuet3W",
-    "spotify_id": "540vNtsFvTIfyuScuuet3W",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273a6312e9ed367ac7f91d3b9e5",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/540vNtsFvTIfyuScuuet3W\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "The Ghost of You",
+    "artists": "My Chemical Romance",
+    "album": "Three Cheers for Sweet Revenge",
+    "duration": "3:14",
+    "spotify_url": "https://open.spotify.com/track/1yKAqZoi8xWGLCf5vajroL",
+    "spotify_id": "1yKAqZoi8xWGLCf5vajroL",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273cab7ae4868e9f9ce6bdfdf43",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1yKAqZoi8xWGLCf5vajroL\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugün Türkiye, gökyüzüne yükselen savunma sanayii başarılarının gururu ile belirsizliğin yarattığı o boğucu ağırlık arasında, bıçak sırtı bir dengede nefes alıyor. Jacob Lawrence’ın The Builders tablosundaki birbirine kenetlenmiş geometrik formlar, tam da bu anın ruhunu; hummalı bir üretimin disipliniyle sıkışmışlığın yarattığı o bitmek bilmeyen huzursuzluğu gözler önüne seriyor. Górecki’nin Üçüncü Senfonisi’ndeki ağır ve melankolik tınılar, bu yapısal karmaşanın üzerine bir örtü gibi serilerek, toplumsal hafızamızdaki sessiz kaygıları ve jeopolitik gerilimin sızısını notalara döküyor. Sanayi hamlelerinin yarattığı o mekanik ritim, müzikteki lirik derinlikle birleştiğinde, ilerleme arzumuzun aslında ne denli kırılgan bir zeminde şekillendiğini bize hatırlatıyor. İçinde bulunduğumuz bu gergin geçiş döneminde, eser ve melodi, modernleşme çabamızın hem görkemini hem de omuzlarımızdaki görünmez yükü aynı anda hissettiren bir ayna işlevi görüyor."
+  "curator_statement": "Modern dünyanın teknolojik ihtişamı ile bölgesel çatışmaların soğuk nefesi arasında sıkışıp kalan bizler, bugün tıpkı Picasso’nun Guernica’sındaki o parçalanmış figürler gibi belirsiz bir arafta yürüyoruz. Savunma sanayii ve ekonomik dalgalanmaların yarattığı tedirginlik, yerli bir gururun heyecanıyla harmanlanırken, gökyüzüne yükselen teknolojilerin aslında hangi karanlıkları aydınlattığını sorguluyoruz. My Chemical Romance’in sarsıcı tınısı The Ghost of You, bu kaotik atmosferde yankılanan bir ağıt gibi, geçmişin acı hatıralarını bugünün teknolojik gerilimiyle birleştiriyor. Sanat, yıkımın ve ilerlemenin tam ortasında durarak bize insanın hem yaratıcı dehasını hem de kendi elleriyle inşa ettiği yıkımı hatırlatan en çıplak ayna oluyor. Bugünün ruhu, bir yanda yarınlara dair umut dolu bir tekinsizlik, diğer yanda ise tarihsel travmaların hiç dinmeyen uğultusundan ibarettir."
 }
