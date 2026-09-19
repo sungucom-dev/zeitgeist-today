@@ -1,27 +1,9 @@
-# Sırlar
-.env
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
 venv/
-.venv/
-env/
-ENV/
-
-# Ara JSON dosyaları (sadece today.json ve archive/ yüklenecek)
+__pycache__/
+.env
 collected_news.json
 day_analysis.json
 curation.json
 spotify_result.json
-artwork_verified.json
-
-# Mac
+cron.log
 .DS_Store
-
-# IDE
-.vscode/
-.idea/
