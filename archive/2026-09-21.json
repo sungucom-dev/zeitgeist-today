@@ -1,22 +1,22 @@
 {
   "date": "2026-09-21",
   "date_human": "21 September 2026",
-  "generated_at": "2026-09-21T01:30:59.803033+00:00",
+  "generated_at": "2026-09-21T06:19:50.053106+00:00",
   "stats": {
     "feeds_collected": 267,
-    "news_total": 4574,
-    "news_analyzed": 570,
+    "news_total": 4755,
+    "news_analyzed": 575,
     "clusters": 8
   },
   "mood": {
-    "description": "Türkiye ve dünya gündeminin yoğunlaştığı, teknolojik gelişmelerin ve finansal çalkantıların iç içe geçtiği, toplumsal ve siyasi hareketliliğin yüksek olduğu bir gün. New York'taki BM Genel Kurulu diplomasisi ve içerideki fon soruşturmaları genel atmosferi belirliyor.",
-    "dominant_emotion": "Belirsizlik",
+    "description": "Türkiye ve dünya gündeminin yoğunlaştığı, deprem haberiyle sarsılan ancak teknolojik ilerlemeler ve spor rekabetiyle nefes almaya çalışan hareketli ve tedirgin bir atmosfer hakim.",
+    "dominant_emotion": "Tedirginlik",
     "key_themes": [
-      "Fon piyasalarındaki geniş çaplı soruşturma ve tasfiye süreci",
-      "BM Genel Kurulu kapsamında New York diplomasisi",
-      "Yapay zeka teknolojilerinin toplumsal ve hukuki riskleri",
-      "Süper Lig'de yaşanan teknik ayrılıklar ve maç sonuçları",
-      "Jeopolitik gerilimler ve bölgesel çatışma riskleri"
+      "Sermaye piyasası ve fon operasyonları",
+      "Adana merkezli bölgesel deprem",
+      "BM Genel Kurulu ve uluslararası diplomasi",
+      "Yapay zeka ve teknolojik dönüşümün toplumsal etkileri",
+      "Trendyol Süper Lig'de rekabet ve sürpriz sonuçlar"
     ]
   },
   "weather": {
@@ -26,54 +26,115 @@
     "days": [
       {
         "date": "2026-09-21",
-        "code": 1,
-        "temp_max": 32.3,
-        "temp_min": 19.2
+        "code": 2,
+        "temp_max": 32.1,
+        "temp_min": 19.6
       },
       {
         "date": "2026-09-22",
-        "code": 80,
-        "temp_max": 28.2,
-        "temp_min": 17.2
+        "code": 3,
+        "temp_max": 27.6,
+        "temp_min": 17.1
       },
       {
         "date": "2026-09-23",
         "code": 80,
-        "temp_max": 23.8,
-        "temp_min": 17.4
+        "temp_max": 25.5,
+        "temp_min": 17.6
       },
       {
         "date": "2026-09-24",
-        "code": 1,
-        "temp_max": 26.6,
-        "temp_min": 13.4
+        "code": 0,
+        "temp_max": 26.7,
+        "temp_min": 13.3
       },
       {
         "date": "2026-09-25",
-        "code": 1,
-        "temp_max": 26.7,
-        "temp_min": 13.5
+        "code": 3,
+        "temp_max": 27.1,
+        "temp_min": 13.6
       },
       {
         "date": "2026-09-26",
         "code": 3,
-        "temp_max": 26.5,
-        "temp_min": 17.3
+        "temp_max": 25.6,
+        "temp_min": 15.6
       },
       {
         "date": "2026-09-27",
         "code": 0,
-        "temp_max": 29.3,
-        "temp_min": 17.9
+        "temp_max": 28.6,
+        "temp_min": 18.0
       }
     ]
   },
   "clusters": [
     {
-      "title": "Fon Soruşturması ve Piyasa Operasyonları",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Sermaye piyasalarındaki fon soruşturması derinleşiyor; Nihat Kırmızı ve Tera Yatırım yöneticileri gözaltına alınırken, SPK fonların tasfiye süresini 6 aya çıkardı.",
+      "title": "Adana'da 5.0 Büyüklüğünde Deprem",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Adana merkezli 5.0 büyüklüğündeki deprem çevre illerde de hissedildi, bölgede panik yaşandı.",
       "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Adana'da 5 büyüklüğünde deprem",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/adanada-5-buyuklugunde-deprem/4062852",
+          "also_in": [
+            "Dünya",
+            "En Son Haber",
+            "Habertürk",
+            "Dokuz8 Haber",
+            "Hürriyet",
+            "Independent Türkçe",
+            "Karar",
+            "Bengütürk",
+            "TRT Haber",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Adana'da 5.0 büyüklüğünde deprem",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/adanada-50-buyuklugunde-deprem-6978776",
+          "also_in": [
+            "Gazete Zebra",
+            "Kısa Dalga",
+            "İlke TV",
+            "NTV"
+          ]
+        },
+        {
+          "title": "SON DAKİKA... Adana'da 5 büyüklüğünde deprem",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/son-dakika-adanada-5-buyuklugunde-deprem-3469174",
+          "also_in": [
+            "Halk TV"
+          ]
+        },
+        {
+          "title": "Adana’da 5 büyüklüğünde deprem! Çok sayıda il sallandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/adanada-5-buyuklugunde-deprem-cok-sayida-il-sallandi",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Adana'da 5.0 büyüklüğünde deprem: Çevre illerde de hissedildi",
+          "source": "Haber 3",
+          "link": "https://www.haber3.com/guncel/adanada-50-buyuklugunde-deprem-cevre-illerde-de-hissedildi-haberi-6264903",
+          "also_in": [
+            "OdaTV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sermaye Piyasası ve Fon Operasyonları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "SPK'nın fon tasfiye süresini uzatması ve piyasalardaki manipülasyon şüphesiyle 15 kişinin gözaltına alınması finans gündemini belirledi.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
@@ -82,67 +143,70 @@
           "link": "https://www.aa.com.tr/tr/ekonomi/spk-fonlarin-tasfiyesinde-sureyi-6-aya-cikardi/4062821",
           "also_in": [
             "Aydınlık",
-            "Diriliş Postası",
             "İşçi Haber",
-            "TRT Haber"
+            "TRT Haber",
+            "Diriliş Postası"
           ]
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme! Bülent Uygun ve Abdulkadir Özkan gözaltına alındı",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/fon-sorusturmasinda-yeni-gelisme-bulent-uygun-ve-abdulkadir-ozkan-gozaltina-282399h",
+          "title": "Borsa İstanbul'da Manipülasyon Operasyonu: 15 Şüpheli Gözaltında",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/gundem/borsa-istanbulda-manipulasyon-operasyonu-15-supheli-gozaltinda-579032",
           "also_in": [
-            "Türkgün",
-            "Yeni Şafak"
+            "İnternet Haber",
+            "TRT Haber",
+            "Türkgün"
           ]
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme: İş insanı Nihat Kırmızı gözaltına alındı",
+          "title": "Fon soruşturması: SPK, fonların tasfiye sürecini 6 aya çıkardı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/fon-sorusturmasi-spk-fonlarin-tasfiye-surecini-6-aya-cikardi-6978780",
+          "also_in": [
+            "İlke TV",
+            "NTV"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında yeni operasyon: 15 kişi daha gözaltına alındı",
           "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/gundem/fon-sorusturmasinda-yeni-gelisme-is-insani-nihat-kirmizi-gozaltina-alindi-haberi-919500",
+          "link": "https://www.ekonomim.com/gundem/fon-sorusturmasinda-yeni-operasyon-15-kisi-daha-gozaltina-alindi-haberi-919556",
           "also_in": [
-            "Bengütürk"
+            "Elips Haber"
           ]
         },
         {
-          "title": "Fon soruşturmasında yeni gelişme: Milyonlarca dolar ve euro İsviçre'ye gönderilmiş",
-          "source": "GZT",
-          "link": "https://www.gzt.com/gundem/fon-sorusturmasinda-yeni-gelisme-pusula-holding-yoneticileri-milyonlarca-dolar-ve-euro-isvicreye-gonderilmis-4262753",
+          "title": "SPK'dan tasfiye sürecindeki fonlar için süre değişikliği",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3661258-spkdan-tasfiye-surecindeki-fonlar-icin-sure-degisikligi",
           "also_in": [
-            "İşçi Haber"
+            "Haber Global"
           ]
-        },
-        {
-          "title": "Fon soruşturması genişliyor: Nihat Kırmızı ve 2 Tera yöneticisi gözaltında",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/fon-sorusturmasi-genisliyor-nihat-kirmizi-ve-2-tera-yoneticisi-gozaltinda-h37647",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Erdoğan'ın BM Genel Kurulu Temasları",
+      "title": "Cumhurbaşkanı Erdoğan'ın ABD Temasları",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan, BM 81. Genel Kurulu'na katılmak üzere New York'a ulaştı ve Türkevi'nde diplomatik temaslarına başladı.",
+      "summary": "Cumhurbaşkanı Erdoğan, BM Genel Kurulu'na katılmak üzere New York'a gitti ve Türkevi'nde karşılandı.",
       "importance": 9,
       "story_count": 5,
       "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, ABD'deki Türkevi'ne girişinde sevgi gösterileriyle karşılandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abddeki-turkevine-girisinde-sevgi-gosterileriyle-karsilandi/4062833",
+          "also_in": [
+            "dikGAZETE",
+            "Diriliş Postası"
+          ]
+        },
         {
           "title": "Cumhurbaşkanı Erdoğan, ABD'de",
           "source": "Aydınlık",
           "link": "https://www.aydinlik.com.tr/haber/cumhurbaskani-erdogan-abdde-590956",
           "also_in": [
-            "Doğru Haber",
             "Medya Gazete",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Emine Erdoğan'ın New York diplomasisi",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3661250-emine-erdoganin-new-york-diplomasisi",
-          "also_in": [
-            "Haberet",
             "TRT Haber"
           ]
         },
@@ -171,121 +235,24 @@
       ]
     },
     {
-      "title": "Uluslararası Gerilimler ve Bölgesel Çatışmalar",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İran-ABD gerilimi, Rusya-Ukrayna rafineri saldırıları ve İsrail'in bölgedeki askeri hareketliliği küresel endişeleri artırıyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "İran: ABD’nin yeniden saldıracağına dair bilgi aldık",
-          "source": "10Haber",
-          "link": "https://10haber.net/dunya/iran-abdnin-yeniden-saldiracagina-dair-bilgi-aldik-739130/",
-          "also_in": [
-            "Diken",
-            "Haber"
-          ]
-        },
-        {
-          "title": "ABD'den Orta Doğu'daki vatandaşlarına güvenlik uyarısı!",
-          "source": "Doğru Haber",
-          "link": "https://dogruhaber.com.tr/abdden-orta-dogudaki-vatandaslarina-guvenlik-uyarisi",
-          "also_in": [
-            "En Son Haber"
-          ]
-        },
-        {
-          "title": "İran ve ABD arasında gerilim tırmanıyor: Tahran'dan yeni saldırı uyarısı",
-          "source": "Haber",
-          "link": "https://www.haber.com/dunya/iran-ve-abd-arasinda-gerilim-tirmaniyor-tahran-dan-yeni-saldiri-uyarisi-26025",
-          "also_in": [
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "Moskova’ya büyük İHA saldırısı! 1600’den fazla İHA düşürüldü, 1 kişi öldü!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/moskovaya-buyuk-iha-saldirisi-1600den-fazla-iha-dusuruldu-1-kisi-oldu-872196",
-          "also_in": []
-        },
-        {
-          "title": "Ukrayna Rusya’nın canını yaktı: Moskova’da rafineriye büyük saldırı",
-          "source": "10Haber",
-          "link": "https://10haber.net/dunya/ukrayna-rusyanin-canini-yakti-moskovada-rafineriye-buyuk-saldiri-739188/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Süper Lig'de Teknik Direktör Ayrılıkları",
+      "title": "Trendyol Süper Lig'de Haftanın Sonuçları",
       "meta_category": "Spor",
-      "summary": "Trendyol Süper Lig'de Eyüpspor'da Özhan Pulat ile yollar ayrıldı; teknik direktör istifaları ve maç sonuçları gündemin ana maddesi oldu.",
+      "summary": "Fenerbahçe'nin Eyüpspor galibiyeti ve Beşiktaş'ın Amedspor mağlubiyeti ligde dengeleri değiştirdi.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Eyüpspor'da teknik direktör Özhan Pulat ile yollar ayrıldı",
+          "title": "Fenerbahçe evinde Eyüpspor'u farklı yendi!",
           "source": "A Spor",
-          "link": "https://www.aspor.com.tr/eyupspor/2026/09/20/eyupsporda-teknik-direktor-ozhan-pulat-ile-yollar-ayrildi",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/09/20/fenerbahce-evinde-eyupsporu-farkli-yendi",
           "also_in": [
-            "Anadolu Ajansı",
             "dikGAZETE"
           ]
         },
         {
-          "title": "Süper Lig'de maç sonu ayrılık! Yönetim istifayı kabul etti",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-super-ligde-mac-sonu-ayrilik-yonetim-istifayi-kabul-etti-429984",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Eyüpspor'da Özhan Pulat dönemi sona erdi",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/spor/eyupsporda-ozhan-pulat-donemi-sona-erdi-282364h",
-          "also_in": [
-            "En Son Haber",
-            "Gerçek Gündem",
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Eyüpspor Teknik Direktörü Özhan Pulat istifa etti",
-          "source": "GZT",
-          "link": "https://www.gzt.com/spor/son-dakika-eyupspor-teknik-direktoru-ilhan-palut-istifa-etti-4262760",
-          "also_in": [
-            "Dokuz8 Haber",
-            "Son Mühür"
-          ]
-        },
-        {
-          "title": "8-0'lık Fenerbahçe maçı sonrası istifa etti",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/8-0lik-fenerbahce-maci-sonrasi-istifa-etti-6978718",
-          "also_in": [
-            "İşçi Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Beşiktaş'ın Amedspor Mağlubiyeti",
-      "meta_category": "Spor",
-      "summary": "Trendyol Süper Lig'in 6. haftasında Amedspor, evinde Beşiktaş'ı 3-2 mağlup ederek büyük bir sürprize imza attı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
           "title": "Beşiktaş zirve şansını tepti! Liderlik koltuğu Amedspor'un",
           "source": "A Spor",
           "link": "https://www.aspor.com.tr/besiktas/2026/09/20/besiktas-zirve-sansini-tepti-liderlik-koltugu-amedsporun",
-          "also_in": []
-        },
-        {
-          "title": "Amed SF-Beşiktaş CANLI MAÇ | Trendyol Süper Lig 6. hafta",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/besiktas/2026/09/20/amed-sf-besiktas-canli-mac-trendyol-super-lig-6-hafta",
           "also_in": []
         },
         {
@@ -297,23 +264,73 @@
           ]
         },
         {
-          "title": "Zirveyi Amed pençeledi",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/spor/zirveyi-amed-penceledi/haber-1700001",
-          "also_in": []
-        },
-        {
           "title": "Amedspor, evinde Beşiktaş’ı mağlup etti",
           "source": "Anadolu Ajansı",
           "link": "https://www.aa.com.tr/tr/spor/amedspor-evinde-besiktas-i-maglup-etti/4062769",
+          "also_in": []
+        },
+        {
+          "title": "Amedspor gümbür gümbür: Beşiktaş’ı da yendi, lider oldu",
+          "source": "10Haber",
+          "link": "https://10haber.net/spor/amedspor-gumbur-gumbur-besiktasi-da-yendi-lider-oldu-739257/",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Yapay Zeka Riskleri ve Etik Tartışmaları",
+      "title": "Küresel Jeopolitik Gerilimler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran, ABD ve İsrail arasındaki gerilimler, Orta Doğu'daki askeri hareketlilik ve bölgesel çatışmalar gündemde.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4062868",
+          "also_in": [
+            "Ekonomim",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran: ABD’nin yeniden saldıracağına dair bilgi aldık",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/iran-abdnin-yeniden-saldiracagina-dair-bilgi-aldik-739130/",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "ABD’den İran’a müzakere mesajı: Kapı açık",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/dunya/abdden-irana-muzakere-mesaji-kapi-acik-haberi-840763",
+          "also_in": [
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Gazze’de hastanede yakıt krizi: Hizmetler durdu",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/dunya/gazzede-hastanede-yakit-krizi-hizmetler-durdu/465665",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        },
+        {
+          "title": "İran ve ABD arasında gerilim tırmanıyor: Tahran'dan yeni saldırı uyarısı",
+          "source": "Haber",
+          "link": "https://www.haber.com/dunya/iran-ve-abd-arasinda-gerilim-tirmaniyor-tahran-dan-yeni-saldiri-uyarisi-26025",
+          "also_in": [
+            "CNBC-e"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Gelecek Riskleri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zekanın insanlık için oluşturduğu riskler, halüsinasyonlar ve şirketlere açılan rekabet davaları teknoloji gündemini domine ediyor.",
+      "summary": "Yapay zekanın potansiyel riskleri, savaş senaryoları ve teknoloji dünyasındaki hızlı gelişmeler tartışılıyor.",
       "importance": 7,
       "story_count": 5,
       "stories": [
@@ -334,77 +351,92 @@
           ]
         },
         {
+          "title": "Çin de yapay zekâ konusunda endişeli: Ekonomik ve toplumsal düzeni bozabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/cin-yapay-zekanin-karanlik-yuzune-dikkat-cekti--210700",
+          "also_in": []
+        },
+        {
           "title": "Bir yapay zeka halüsinasyonu neredeyse ABD - Çin savaşını başlatıyordu",
           "source": "Donanım Haber",
           "link": "https://www.donanimhaber.com/bir-yapay-zeka-halusinasyonu-abd-cin-savasini-baslatiyordu--210688",
           "also_in": []
         },
         {
-          "title": "GPT-5.6 Sol’un Eğitim Sürecinde Ortaya Çıkan Gizli Talimatlar Yeni Bir Güvenlik Sorununu Gündeme Getirdi",
-          "source": "ÇözümPark",
-          "link": "https://www.cozumpark.com/gpt-5-6-solun-egitim-surecinde-ortaya-cikan-gizli-talimatlar-yeni-bir-guvenlik-sorununu-gundeme-getirdi/",
-          "also_in": []
-        },
-        {
-          "title": "ABD'de yapay zeka şirketlerine rekabet ihlali suçlaması: Anthropic, OpenAI, SpaceXAI ve Google'a dava açıldı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/yapay-zeka/abdde-yapay-zeka-sirketlerine-rekabet-ihlali-suclamasi-anthropic-openai-spacexai-ve-googlea-dava-acildi-h37615",
+          "title": "Yapay Zeka Az Kalsın Savaş Çıkarıyordu: ABD ve Çin’i Savaşın Eşiğine Getirdi",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/yapay-zeka-askeri-istihbarat-hatasi",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Yerli Teknoloji ve Sanayi Hamleleri",
+      "title": "Teknoloji Sektöründeki Yeni Ürünler",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Milli hızlı tren projesinde seri üretime geçildi ve Türkiye'nin savunma sanayiindeki yeni İHA projeleri tanıtıldı.",
+      "summary": "Xiaomi, iPhone ve Samsung gibi dev markaların yeni cihazları ve teknolojik yenilikleri piyasaya sürülüyor.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Milli hızlı tren için seri üretim başladı",
-          "source": "10Haber",
-          "link": "https://10haber.net/bilim-teknoloji/milli-hizli-tren-icin-seri-uretim-basladi-739138/",
+          "title": "Xiaomi 18 Pro serisi için 23 Eylül lansman tarihi doğrulandı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/xiaomi-18-pro-serisi-icin-23-eylul-lansman-tarihi-dogrulandi--210687",
           "also_in": [
-            "dikGAZETE"
+            "Teknolojioku",
+            "Haber"
           ]
         },
         {
-          "title": "TOYCA kamikaze İHA ailesine yeni üye",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/toyca-kamikaze-iha-ailesine-yeni-uye",
+          "title": "iPhone 18 Pro kamera testinde zirveyi kaçırdı: DXOMARK puanı belli oldu",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/iphone-18-pro-kamera-testinde-zirveyi-kacirdi-iste-dxomark-puani--210686",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Galaxy Buds 5 FE ses kalitesini fiyat artışı olmadan artırabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/galaxy-buds-5-fe-ses-kalitesini-fiyat-artisi-olmadan-artirabilir--210691",
           "also_in": []
         },
         {
-          "title": "Yabancı askerî ataşelerden MPT-55 ile atış",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/yabanci-askeri-ataselerden-mpt-55-ile-atis",
+          "title": "Galaxy Tab S12 serisinin tüm özellikleri sızdırıldı: İşte fiyatı ve çıkış tarihi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/samsung-galaxy-tab-s12-serisinin-tum-ozellikleri-sizdirildi--210682",
           "also_in": []
         },
         {
-          "title": "Eurofighter’da Yeni Adım: Türk Heyet İngiltere’de",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/eurofighterda-yeni-adim-turk-heyet-ingilterede/",
-          "also_in": []
-        },
-        {
-          "title": "Bakan duyurdu: Yerli ve milli hızlı trende seri üretim resmen başladı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/bakan-duyurdu-yerli-ve-milli-hizli-trende-seri-uretim-resmen-basladi-h37631",
+          "title": "Xiaomi 18 Pro Serisi 23 Eylül’de Geliyor: Özellikleri Belli Oldu",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/xiaomi-18-pro-lansman-tarihi",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Kültür, Sanat ve Edebiyat Etkinlikleri",
+      "title": "Sosyal ve Kültürel Etkinlikler",
       "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Yeni sergiler, edebiyat festivalleri ve kitap fuarı hazırlıkları ile sanat dünyası sonbahar sezonunu hareketli karşılıyor.",
+      "summary": "Türkiye genelinde düzenlenen festivaller, konserler ve sergiler sanat gündemini oluşturuyor.",
       "importance": 5,
       "story_count": 5,
       "stories": [
         {
+          "title": "Ayvalık’ın Eylül Serinliğinde Sinema Dolu Bir Hafta Sonu: 5. Ayvalık Uluslararası Film Festivali İzlenimleri",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000223613/",
+          "also_in": []
+        },
+        {
           "title": "Borusan Contemporary sezonu iki sergiyle açıyor",
           "source": "Bant Mag",
           "link": "https://bantmag.com/borusan-contemporary-2026-yeni-sergiler/",
+          "also_in": []
+        },
+        {
+          "title": "18-24 Eylül etkinlik rehberi",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/18-24-eylul-etkinlik-rehberi/",
           "also_in": []
         },
         {
@@ -414,50 +446,38 @@
           "also_in": []
         },
         {
-          "title": "Frankfurt Kitap Fuarı 7-11 Ekim’de düzenlenecek",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/frankfurt-kitap-fuari-7-11-ekimde-duzenlenecek/",
-          "also_in": []
-        },
-        {
-          "title": "10. İzmir Uluslararası Edebiyat Festivali 24 Eylül’de başlıyor",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/10-izmir-uluslararasi-edebiyat-festivali-24-eylulde-basliyor/",
-          "also_in": []
-        },
-        {
-          "title": "Sanat, Sinop’la birlikte üretiliyor: 25 Eylül’de kapılarını açacak",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/sanat-sinopla-birlikte-uretiliyor-25-eylulde-kapilarini-acacak/",
+          "title": "İDOB yeni sezonu Beethoven’ın 9. Senfonisi ile açtı",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/idob-yeni-sezonu-beethovenin-9-senfonisi-ile-acti/23469",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Raft of the Medusa",
-    "artist": "Théodore Géricault",
-    "year": "1818-1819",
+    "title": "Metropolis (Grosz)",
+    "artist": "George Grosz",
+    "year": "1916",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Louvre Museum, Paris",
-    "description": "İnsanlık durumunun çaresizliğini ve otoritenin ihmalkarlığı sonucu ortaya çıkan felaketi betimleyen anıtsal bir eserdir. Belirsizlik içindeki insanların kurtuluş arayışını ve hayatta kalma mücadelesini dramatik bir kompozisyonla yansıtır.",
-    "verified": false,
-    "wikipedia_url": null,
-    "wikipedia_extract": null,
-    "image_url": null,
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault"
+    "location": "Museo Thyssen-Bornemisza",
+    "description": "Büyükşehirlerin kaotik yapısını, teknolojik yabancılaşmayı ve toplumsal huzursuzluğu keskin çizgilerle betimleyen eser, günümüz teknoloji ve finans dünyasının tedirginliğini özetliyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Metropolis_(Grosz)",
+    "wikipedia_extract": "Metropolis is an oil on canvas painting by the German artist George Grosz, executed in 1916–1917. It belongs to the collection of the Thyssen-Bornemisza Museum in Madrid.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8d/George_Grosz_-_Metropolis_%281916-17%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/George_Grosz"
   },
   "music": {
-    "title": "Pyramid Song",
-    "artists": "Radiohead",
-    "album": "Amnesiac",
-    "duration": "4:48",
-    "spotify_url": "https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4",
-    "spotify_id": "55q3Ro66yXWi9rsEddeEN4",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/55q3Ro66yXWi9rsEddeEN4\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Small Memory",
+    "artists": "Jon Hopkins",
+    "album": "Insides",
+    "duration": "1:40",
+    "spotify_url": "https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg",
+    "spotify_id": "78kPi2sLwSmILgJXz7wQxg",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273e021ba9b3cb2f941c7934c87",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/78kPi2sLwSmILgJXz7wQxg\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugünün dünyası, otoritenin ihmalkarlığıyla sürüklenen bir salın üzerinde, belirsizliğin sisli sularında yolunu arayan kitlelerin dramını yeniden sahneliyor. Géricault’nun Medusa’nın Salı tablosundaki o çaresiz hayatta kalma arzusu, bugün finansal çalkantılar, diplomatik gerilimler ve yapay zekanın tekinsiz vaatleri arasında sıkışan modern insanın ruh haliyle ürpertici bir biçimde örtüşüyor. Radiohead’in Pyramid Song parçası, bu klostrofobik tabloya eşlik ederken, zamanın ve gerçekliğin su altında kaldığı o melankolik boşluğu derinleştiriyor. Hem tuvaldeki figürlerin uzak ufka diktiği umutsuz bakışlar hem de müziğin ritmi, bireyin büyük yapıların altında ezildiği bir geçiş döneminin ağırlığını fısıldıyor. İçinde bulunduğumuz bu karmaşa, kurtuluş ile felaket arasındaki o ince çizgide, kendi sonumuzu ve geleceğimizi yeniden tanımlamamızı talep eden sessiz bir çığlığa dönüşüyor."
+  "curator_statement": "Dünyanın ekseni üzerindeki bu huzursuz salınımda, Adana’nın sarsılan topraklarından yükselen sessiz çığlıklar ile yapay zekanın soğuk pırıltıları arasında sıkışıp kalmış bir tedirginlik içindeyiz. George Grosz’un 1916 tarihli Metropolis eseri, tam da bu kaosun içine doğmuş bir ayna gibi, sermayenin dişlileri arasında öğütülen insan ruhunun o bitmek bilmeyen telaşını ve parçalanmışlığını gözler önüne seriyor. Jon Hopkins’in Small Memory parçası, bu karmaşanın ortasında bir nefes boşluğu açarak, hafızanın en narin kıvrımlarına sızan hüzünlü ve minimalist bir tefekkür alanı inşa ediyor. Uluslararası diplomasinin koridorlarından futbol sahalarının yeşil öfkesine kadar yayılan bu hareketli atmosfer, aslında varlığımızın kırılganlığını hatırlatan birer ikaz levhası niteliğinde. Sanat ve sesin bu kesişim noktasında, modernitenin gürültülü yükü altında ezilmemek için içimizdeki o küçük, titrek hatıraya sığınarak hayatta kalmaya çalışıyoruz."
 }
