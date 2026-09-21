@@ -512,18 +512,18 @@
     }
   ],
   "artwork": {
-    "title": "The Persistence of Time",
-    "artist": "Nam June Paik",
-    "year": "1997",
-    "form": "enstalasyon",
-    "medium": "Video installation with television monitors and clocks",
-    "location": "Smithsonian American Art Museum",
-    "description": "Teknolojinin zaman algısı üzerindeki yıkıcı etkisini televizyon ekranları ve analog saatlerle somutlaştıran, dijital dönüşümün yarattığı karmaşayı yansıtan bir eser. İzleyiciyi modern dünyanın hızına ve bu hızın yarattığı belirsizliğe karşı bir yüzleşmeye davet ediyor.",
-    "verified": false,
-    "wikipedia_url": null,
-    "wikipedia_extract": null,
-    "image_url": null,
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Nam_June_Paik"
+    "title": "American Gothic",
+    "artist": "Grant Wood",
+    "year": "1930",
+    "form": "resim",
+    "medium": "Oil on beaverboard",
+    "location": "Art Institute of Chicago",
+    "description": "Geleneksel değerler ile değişen dünya arasındaki gerilimi temsil eden bu eser, bugün gündemde olan diplomasi ve siyasi hamlelerin getirdiği sert ve ciddi atmosferi yansıtıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Gothic",
+    "wikipedia_extract": "American Gothic is a 1930 oil painting on beaverboard by the American Regionalist artist Grant Wood, depicting a Midwestern farmer and his daughter standing in front of their Carpenter Gothic style home. It is one of the most famous American paintings of the 20th century and is frequently referenced in popular culture.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Grant_Wood_-_American_Gothic_%281930%29.jpg/3840px-Grant_Wood_-_American_Gothic_%281930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Grant_Wood"
   },
   "music": {
     "title": "Windowlicker",
@@ -536,5 +536,5 @@
     "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/409z4jUHpq7eIkg3N3FzZh\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Dijital dünyanın akışkan verileri ile finansal piyasaların sarsıcı belirsizliği, bugün zamanın kendi ekseninden kaydığı tekinsiz bir ana işaret ediyor. Nam June Paik, The Persistence of Time eserinde televizyon ekranlarını ve analog saatleri iç içe geçirerek, teknolojinin bizi içine hapsettiği bu kronolojik karmaşayı ve kaçınılmaz hız tutkusunu çıplak bir yüzleşmeye dönüştürüyor. Aphex Twin imzalı Windowlicker ise bu görsel karmaşayı işitsel bir kaosa taşıyarak, yapay zekanın soğuk ışıkları altında savunma sanayii ve küresel oynaklığın gölgesinde kalan insan ruhunun gergin ritmini yakalıyor. Dijital dönüşümün vaat ettiği parlak gelecek ile belirsizliğin yarattığı tedirginlik, bu birliktelikte modern çağın çelişkili bir portresini çiziyor. İzleyici, mekanik saatlerin tıkırtısı ile elektronik seslerin hipnotik döngüsü arasında, kontrolü kaybettiğimiz bir dünyanın hızına karşı kendi varoluşsal sığınağını arıyor."
+  "curator_statement": "Bugünün ruhu, dijitalin soğuk kesinliği ile finansal piyasaların yarattığı tekinsiz boşluk arasında gidip gelen, tedirgin bir salınım halidir. Grant Wood’un American Gothic tablosundaki o keskin, muhafazakâr ve sabit bakışlar, teknolojik dönüşümün getirdiği belirsizlik karşısında tutunmaya çalışan insanlığın sarsılan özgüvenini yansıtır. Aphex Twin’in Windowlicker parçası ise bu durağan tabloyu parçalayarak, dijital dünyanın çarpık ritimleri ve mekanik gürültüsüyle bugünün kaotik atmosferini kusursuz bir tezatlıkta birleştirir. Gelenekselin o aşina ve mesafeli duruşu, yerini modern çağın hızlı, öngörülemez ve parçalı yapısına bırakırken, güvenlik arayışımız ile teknolojik devrimimiz arasındaki o kırılgan dengeyi sorguluyoruz. Bu kürasyon, geçmişin katı gerçekliği ile geleceğin dijital sarsıntısı arasında sıkışmış olan ruhumuzun, bugünün karmaşasında kendine bir yer arama çabasıdır."
 }
