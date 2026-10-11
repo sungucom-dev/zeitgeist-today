@@ -1,22 +1,21 @@
 {
-  "date": "2026-10-10",
-  "date_human": "10 October 2026",
-  "generated_at": "2026-10-10T01:30:45.813229+00:00",
+  "date": "2026-10-11",
+  "date_human": "11 October 2026",
+  "generated_at": "2026-10-11T01:31:01.241448+00:00",
   "stats": {
-    "feeds_collected": 270,
-    "news_total": 5455,
-    "news_analyzed": 614,
-    "clusters": 10
+    "feeds_collected": 268,
+    "news_total": 4874,
+    "news_analyzed": 601,
+    "clusters": 9
   },
   "mood": {
-    "description": "Türkiye, Panama'daki büyük depremin şokunu yaşarken, içeride fon soruşturmaları, siyasi görüşmeler ve spor dünyasındaki köklü değişimlerle yoğun ve gergin bir atmosfere sahne oldu.",
+    "description": "Siyasi gerilimler, belediye operasyonları ve teknolojik yeniliklerin iç içe geçtiği, toplumsal huzursuzluğun ve ekonomik belirsizliğin hissedildiği hareketli bir gün.",
     "dominant_emotion": "Tedirginlik",
     "key_themes": [
-      "Fon ve yolsuzluk soruşturmaları",
-      "Spor yönetimlerinde ve teknik kadrolarda değişim",
-      "Uluslararası jeopolitik gerilimler ve diplomasi",
-      "Dijital düzenlemeler ve teknolojik güvenlik",
-      "Doğal afetler ve çevresel riskler"
+      "Belediyelere yönelik operasyonlar ve siyasi değişimler",
+      "Dijital düzenlemeler ve sosyal medya kısıtlamaları",
+      "Jeopolitik riskler ve çatışma haberleri",
+      "Ekonomik regülasyonlar ve piyasa hareketliliği"
     ]
   },
   "weather": {
@@ -25,491 +24,483 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-10",
-        "code": 0,
-        "temp_max": 29.0,
-        "temp_min": 10.2
-      },
-      {
         "date": "2026-10-11",
         "code": 3,
-        "temp_max": 29.4,
-        "temp_min": 10.8
+        "temp_max": 30.0,
+        "temp_min": 10.6
       },
       {
         "date": "2026-10-12",
-        "code": 80,
-        "temp_max": 25.4,
+        "code": 3,
+        "temp_max": 25.5,
         "temp_min": 12.8
       },
       {
         "date": "2026-10-13",
         "code": 95,
-        "temp_max": 22.4,
-        "temp_min": 16.2
+        "temp_max": 23.1,
+        "temp_min": 15.9
       },
       {
         "date": "2026-10-14",
         "code": 95,
-        "temp_max": 17.4,
-        "temp_min": 12.6
+        "temp_max": 18.5,
+        "temp_min": 15.3
       },
       {
         "date": "2026-10-15",
-        "code": 95,
-        "temp_max": 15.9,
-        "temp_min": 14.4
+        "code": 63,
+        "temp_max": 17.7,
+        "temp_min": 13.5
       },
       {
         "date": "2026-10-16",
         "code": 3,
-        "temp_max": 19.2,
-        "temp_min": 15.2
+        "temp_max": 20.0,
+        "temp_min": 12.8
+      },
+      {
+        "date": "2026-10-17",
+        "code": 3,
+        "temp_max": 20.6,
+        "temp_min": 12.6
       }
     ]
   },
   "clusters": [
     {
-      "title": "Fon Soruşturmaları ve Tutuklamalar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Türkiye'de fon soruşturmaları kapsamında aralarında gazetecilerin de bulunduğu çok sayıda kişi tutuklanırken, fonların tasfiyesi için kanun teklifi Meclis'e sunuldu.",
-      "importance": 10,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Gazeteciler Şaban Sevinç ve Mustafa Balcı Fon Soruşturmasında Tutuklandı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/gazeteciler-saban-sevinc-ve-mustafa-balci-fon-sorusturmasinda-tutuklandi-1387345",
-          "also_in": [
-            "TürkInform"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında gazeteciler Şaban Sevinç ve Mustafa Balcı tutuklandı!",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/fon-sorusturmasinda-gazeteciler-saban-sevinc-ve-mustafa-balci-tutuklandi",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "AK Parti'den fon düzenlemesi! Grup Başkanı Abdullah Güler: \"Bu virüsü bünyeden söküp atacağız\"",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/09/ak-partiden-fon-duzenlemesi-grup-baskani-abdullah-guler-bu-virusu-bunyeden-sokup-atacagiz",
-          "also_in": []
-        },
-        {
-          "title": "Adalet Bakanı Akın Gürlek duyurdu: Fon soruşturmasında başsavcılık TMSF'ye 214 kişilik listeyi iletti!",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/09/fon-sorusturmasinda-bassavcilik-tmsfye-214-kisilik-listeyi-iletti",
-          "also_in": []
-        },
-        {
-          "title": "Fonlarla ilgili kritik yasa teklifi Meclis'te: İşte düzenlemenin ayrıntıları",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/fonlarla-ilgili-kritik-yasa-teklifi-mecliste-iste-duzenlemenin-ayrintilari-h39100",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "A Milli Takım'da Montella Dönemi Bitti",
-      "meta_category": "Spor",
-      "summary": "A Milli Futbol Takımı'nda Vincenzo Montella ile yolların ayrıldığı resmen açıklandı, yerine yeni teknik direktör arayışları başladı.",
+      "title": "Belediyelerde Operasyon ve Yönetim Değişiklikleri",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Yahşihan ve Esenyurt belediyelerine yönelik görevden uzaklaştırma ve tutuklama operasyonları ile Ataşehir ve Eyüpsultan'daki yönetim değişimleri gündeme oturdu.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Montella dönemi sona erdi!",
-          "source": "Duhuliye",
-          "link": "https://www.duhuliye.com/futbol/montella-donemi-sona-erdi-98030",
+          "title": "Yahşihan Belediye Başkan Vekili Aydın Demirdirek görevden uzaklaştırıldı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/yahsihan-belediye-baskan-vekili-aydin-demirdirek-gorevden-uzaklastirildi-haberi-843370",
           "also_in": [
-            "Futboo",
-            "Türkiye Gazetesi"
-          ]
-        },
-        {
-          "title": "A Milli Takım'da Montella dönemi resmen sona erdi, yerine en büyük aday belli oldu",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-a-milli-takimda-montella-donemi-resmen-sona-erdi-yerine-en-buyuk-aday-belli-oldu-430968",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Milli takımda Vincenzo Montella dönemi sona erdi!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/futbol/2026/10/09/milli-takimda-vincenzo-montella-donemi-sona-erdi",
-          "also_in": []
-        },
-        {
-          "title": "TFF resmen açıkladı: Göreve devam ediyoruz! Montella ile yollar ayrıldı",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/tff-resmen-acikladi-goreve-devam-ediyoruz-montella-ile-yollar-ayrildi-6987159",
-          "also_in": [
+            "Gerçek Gündem",
             "Haber",
-            "Hürriyet"
+            "BHA",
+            "TGRT Haber",
+            "Yeni Şafak"
           ]
         },
         {
-          "title": "A Milli Takım'da Montella ile yollar ayrıldı!",
-          "source": "Gazete Pencere",
-          "link": "https://www.gazetepencere.com/spor/a-milli-takimda-montella-ile-yollar-ayrildi-718627h",
+          "title": "Ataşehir Belediyesi AKP'ye geçti",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/atasehir-belediyesi-akpye-gecti-351416h",
           "also_in": [
-            "Veryansın TV"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Panama'da 7.7 Büyüklüğünde Deprem",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Panama'da meydana gelen 7.7 büyüklüğündeki deprem sonrası tsunami uyarısı verildi, bölgeden korkutan görüntüler yansıdı.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Panama'da 7,7 büyüklüğünde deprem",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/panamada-7-7-buyuklugunde-deprem/4083985",
-          "also_in": [
-            "CGTN Türk",
             "Diken",
-            "Habertürk",
-            "İlke TV",
-            "OdaTV",
+            "DW Haber",
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Esenyurt Belediyesi'nde rüşvet soruşturması: 9 kişi tutuklandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/10/esenyurt-belediyesinde-rusvet-sorusturmasi-9-kisi-tutuklandi",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Esenyurt Belediyesi'ne yolsuzluk soruşturmasında 9 kişi tutuklandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/esenyurt-belediyesine-yolsuzluk-sorusturmasinda-9-kisi-tutuklandi",
+          "also_in": [
             "TRT Haber"
           ]
         },
         {
-          "title": "Panama'da 7,7 büyüklüğünde deprem! Tsunami uyarısı yapıldı",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/dunya/panamada-77-buyuklugunde-deprem-tsunami-uyarisi-yapildi-284828h",
+          "title": "ATAŞEHİR AK PARTİ'YE GEÇTİ",
+          "source": "TGRT Haber",
+          "link": "https://www.tgrthaber.com/gundem/istanbulda-2-belediyede-baskan-vekili-secimi-3364393",
           "also_in": [
-            "dikGAZETE",
-            "Evrensel",
-            "GZT",
-            "Türkgün",
-            "CNBC-e"
+            "Yeni Şafak"
           ]
-        },
-        {
-          "title": "Panama'da 7.7 büyüklüğünde deprem: Tsunami uyarısı verildi",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/dunya/panamada-77-buyuklugunde-deprem-tsunami-uyarisi-verildi-haberi-923709",
-          "also_in": [
-            "Mynet"
-          ]
-        },
-        {
-          "title": "7.7'lik Depremle Sarsılan Panama'dan Korkutan Görüntüler!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/7-7lik-depremle-sarsilan-panamadan-korkutan-goruntuler-873511",
-          "also_in": []
-        },
-        {
-          "title": "Panama'da 7.7 büyüklüğünde deprem meydana geldi! Çok sayıda ülkede tsunami uyarısı yapıldı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/panamada-7-7-buyuklugunde-deprem-meydana-geldi-cok-sayida-ulkede-tsunami-uyarisi-ya-873493",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Siyaset: İmralı Heyeti ve MHP Görüşmesi",
+      "title": "Riyad Havalimanına Saldırı ve Bölgesel Gerilim",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "DEM Parti İmralı heyeti, MHP Genel Başkanı Devlet Bahçeli ile kritik bir görüşme gerçekleştirdi.",
-      "importance": 8,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "DEM Parti İmralı Heyeti, Bahçeli ile görüştü",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/siyaset/dem-parti-imrali-heyeti-bahceli-ile-gorustu-6987126",
-          "also_in": [
-            "OdaTV",
-            "Serbestiyet"
-          ]
-        },
-        {
-          "title": "DEM Parti İmralı Heyeti, MHP Genel Başkanı Devlet Bahçeli ile görüştü",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6004208/dem-parti-imrali-heyeti-mhp-genel-baskani-devlet-bahceli-ile-gorustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Dokuz8 Haber",
-            "Haberler"
-          ]
-        },
-        {
-          "title": "MHP Lideri Devlet Bahçeli, DEM Parti İmralı heyeti ile görüştü",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/09/mhp-lideri-devlet-bahceli-dem-parti-heyeti-ile-gorustu",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Sosyal Medyada Yaş Sınırı Düzenlemesi",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Resmi Gazete'de yayımlanan yönetmelik ile sosyal medya platformlarında 15 yaş altına yaş doğrulama ve ebeveyn kontrolü zorunluluğu getirildi.",
-      "importance": 7,
+      "summary": "Suudi Arabistan'daki Riyad Havalimanı'na düzenlenen saldırı sonrası bölgede güvenlik alarmı verildi ve seyahat uyarıları yayımlandı.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Dijital dünyada yeni dönem: Sosyal medyaya yaş sınırı geliyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/dijital-dunyada-yeni-donem-sosyal-medyaya-yas-siniri-geliyor/103734",
+          "title": "Kuveyt Hava Yolları Riyad uçuşlarını iptal etti",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/kuveyt-hava-yollari-riyad-ucuslarini-iptal-etti",
           "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "15 yaş altına sosyal medya yasaklandı: İşte tüm detaylar",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/15-yas-altina-sosyal-medya-yasaklandi-iste-tum-detaylar--211451",
-          "also_in": []
-        },
-        {
-          "title": "Sosyal medyada yeni dönem! 15 yaş altına yaş doğrulama zorunluluğu",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/10/sosyal-medyada-yeni-donem-15-yas-altina-yas-dogrulama-zorunlulugu",
-          "also_in": []
-        },
-        {
-          "title": "15 yaş altına sosyal medya yasağı geliyor! Yeni yönetmelik Resmî Gazete’de",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/15-yas-altina-sosyal-medya-yasagi-geliyor-yeni-yonetmelik-resmi-gazetede-873516",
-          "also_in": []
-        },
-        {
-          "title": "Sosyal Medya Platformlarına Yeni Zorunluluk! 15 Yaş Altına Hizmet Verilemeyecek!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/sosyal-medya-platformlarina-yeni-zorunluluk-15-yas-altina-hizmet-verilemeyecek-873517",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Galatasaray'ın Kasımpaşa Galibiyeti ve Protestolar",
-      "meta_category": "Spor",
-      "summary": "Galatasaray, Kasımpaşa'yı son dakikalarda devirirken maç içinde yaşanan kırmızı kart ve taraftar protestoları gündem oldu.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "10 kişi Galatasaray, Kasımpaşa'yı son dakikalarda devirdi",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-10-kisi-galatasaray-kasimpasayi-son-dakikalarda-devirdi-430965",
-          "also_in": [
-            "NTV Spor Futbol",
             "İşçi Haber"
           ]
         },
         {
-          "title": "Galatasaray'da Lucas Torreira kırmızı kart gördü!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/10/09/galatasarayda-lucas-torreira-kirmizi-kart-gordu",
+          "title": "Suudi Arabistan'da havalimanına saldırı: Uçuşlar durduruldu",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/suudi-arabistanda-havalimanina-saldiri-ucuslar-durduruldu/?utm_source=rss&utm_medium=rss&utm_campaign=suudi-arabistanda-havalimanina-saldiri-ucuslar-durduruldu",
           "also_in": [
-            "En Son Haber"
+            "Dünya"
           ]
         },
         {
-          "title": "Galatasaraylı yıldıza RAMS Park'ta şok protesto",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-galatasarayli-yildiza-rams-parkta-sok-protesto-430975",
+          "title": "ABD, İngiltere ve Kanada'dan Riyad'daki Kral Halid Havalimanı için seyahat uyarısı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/dunya/abd-ingiltere-ve-kanadadan-riyaddaki-kral-halid-havalimani-icin-seyahat-uyarisi-haberi-923878",
           "also_in": [
-            "NTV Spor Futbol"
+            "TRT Haber"
           ]
         },
         {
-          "title": "Galatasaray, Kasımpaşa karşısında 90. dakikada güldü!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/10/09/galatasaray-kasimpasa-karsisinda-90-dakikada-guldu",
+          "title": "Riyad'da havalimanına saldırı... Çok sayıda ölü ve yaralı var",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/riyadda-havalimanina-saldiri-cok-sayida-olu-ve-yarali-var/haber-1705184",
           "also_in": []
         },
         {
-          "title": "Galatasaray, Kasımpaşa'yı son anlarda gelen gollerle yendi",
+          "title": "Suudi Arabistan: Riyad'daki Kral Halid Uluslararası Havalimanı'na dün düzenlenen saldırıda 12 kişi hayatını kaybetti",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/galatasaray-kasimpasayi-son-anlarda-gelen-gollerle-yendi/4083938",
+          "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-riyaddaki-kral-halid-uluslararasi-havalimanina-dun-duzenlenen-saldirida-12-kisi-hayatini-kaybetti/6810",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Maltepe'de Bina Çökmesi Soruşturması",
+      "title": "Sosyal Medya ve Sigara Satışında Yeni Yasaklar",
       "meta_category": "Toplum ve Yaşam",
-      "summary": "Maltepe'de kısmen çöken binaya ilişkin soruşturmada bilirkişi raporu çıktı ve sorumlular hakkında tutuklama kararları verildi.",
+      "summary": "15 yaş altına sosyal medya yasağı ve sigara satışında T.C. kimlik numarası şartı gibi yeni düzenlemeler resmiyet kazandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye'de sosyal medya kuralları değişiyor: 15 yaş altına yasak, diğer kullanıcılara yeni şartlar",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/turkiyede-sosyal-medya-kurallari-degisiyor-15-yas-altina-yasak-diger-kullanicilara-yeni-sartlar_184499.html",
+          "also_in": []
+        },
+        {
+          "title": "15 Yaş Altına Sosyal Medya Yasağı Resmi Gazete&apos;de! Tarih Belli Oldu",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/15-yas-altina-sosyal-medya-yasagi-resmi-gazete-de-tarih-belli-oldu-1387359",
+          "also_in": []
+        },
+        {
+          "title": "Sigara satışı kimlikle olacak",
+          "source": "Diyanet Haber",
+          "link": "https://www.diyanethaber.com.tr/sigara-satisi-kimlikle-olacak",
+          "also_in": [
+            "Habertürk",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Sosyal medyada 15 yaş sınırı: Yeni yönetmelik yayımlandı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/sosyal-medyada-15-yas-siniri-yeni-yonetmelik-yayimlandi/367672/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "15 yaş altına sosyal medya yasağı Resmi Gazete'de",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/15-yas-altina-sosyal-medya-yasagi-resmi-gazete-de/939058",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe'nin Rize Galibiyeti ve Spor Dünyası",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'nin Çaykur Rizespor karşısında aldığı 3-0'lık galibiyet ve Galatasaray'ın Barcelona hazırlıkları spor gündemini domine etti.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Maltepe'de çöken bina soruşturmasında yeni gelişme: 2 kişi tutuklandı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/maltepede-coken-bina-sorusturmasinda-yeni-gelisme-2-kisi-tutuklandi",
+          "title": "Fenerbahçe 3 puanı 3 golle aldı",
+          "source": "Sözcü Spor",
+          "link": "https://www.sozcu.com.tr/canli-veya-caykur-rizespor-fenerbahce-maci-canli-yayin-super-lig-7-hafta-p367916",
           "also_in": [
-            "Haber Global"
+            "Futboo",
+            "Gazete Pencere",
+            "Son Mühür"
           ]
         },
         {
-          "title": "Maltepe'de çöken binanın mimarı ve şantiye şefi tutuklandı",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/maltepede-coken-binanin-mimari-ve-santiye-sefi-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=maltepede-coken-binanin-mimari-ve-santiye-sefi-tutuklandi",
+          "title": "Fenerbahçe, Rize'de 3 puanı 3 golle aldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahce-rizede-3-puani-3-golle-aldi-431028",
           "also_in": [
-            "Ulusal Kanal"
+            "Habertürk"
           ]
         },
         {
-          "title": "Maltepe’deki bina neden çöktü? Bilirkişi ön raporu çıktı",
-          "source": "Açık Gazete",
-          "link": "https://acikgazete.com/turkiye/maltepedeki-bina-neden-coktu-bilirkisi-on-raporu-cikti/",
+          "title": "Fenerbahçe Teknik Direktörü İsmail Kartal: Üç gol attık ama...",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/10/fenerbahce-teknik-direktoru-ismail-kartal-uc-gol-attik-ama",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe Rize deplasmanında şov yaptı! Son dakikalarda farkı açtı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/fenerbahce-rize-deplasmaninda-sov-yapti-son-dakikalarda-farki-acti-873636",
+          "also_in": []
+        },
+        {
+          "title": "Trabzonspor'dan Samsun'da gol yağmuru! 10 kişi kaldı, yine kazandı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/trabzonspordan-samsunda-gol-yagmuru-10-kisi-kaldi-yine-kazandi-873633",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Gelişmeler ve Akaryakıt Düzenlemeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Akaryakıtta fiyat güncellemeleri, Rusya'nın dizel ihracat yasağını gevşetmesi ve çeşitli şirketlerin finansal durumları piyasalarda takip edildi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Rusya dizel ihracat yasağını kısmen kaldırdı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracat-yasagini-kismen-kaldirdi/4084737",
+          "also_in": [
+            "CGTN Türk",
+            "Diken",
+            "Bengütürk",
+            "Habertürk",
+            "Haberler",
+            "TRT Haber",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Rusya'dan Açıklama Geldi! Dizel İhracat Yasağı Kısmen Kaldırıldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/rusyadan-aciklama-geldi-dizel-ihracat-yasagi-kismen-kaldirildi-873652",
+          "also_in": []
+        },
+        {
+          "title": "Motorinde zam, benzinde indirim",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025",
+          "also_in": []
+        },
+        {
+          "title": "Akaryakıtta tabelalar değişti: Motorine zam, benzine indirim geldi! İşte güncel fiyatlar",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/enerji/akaryakitta-tabelalar-degisti-motorine-zam-benzine-indirim-geldi-iste-guncel-fiyatlar-h39152",
+          "also_in": []
+        },
+        {
+          "title": "Akaryakıt fiyatlarına karşı ABD-Rusya anlaşması! Uzman isimden fiyat yorumu",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/enerji/akaryakit-fiyatlarina-karsi-abd-rusya-anlasmasi-uzman-isimden-fiyat-yorumu-g39149",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Marmara Bölgesi'nde Deprem Hareketliliği",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Marmara Denizi ve Yalova açıklarında meydana gelen 3.5 büyüklüğündeki depremler bölge halkında kısa süreli panik yarattı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Marmara Denizi'nde 3.5 büyüklüğünde deprem",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/marmara-denizinde-35-buyuklugunde-deprem-593923",
+          "also_in": [
+            "Diken",
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "Yalova açıklarında 3.5 büyüklüğünde deprem",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/yalova-aciklarinda-35-buyuklugunde-deprem-h1572464",
+          "also_in": [
+            "İnternet Haber",
+            "Karar"
+          ]
+        },
+        {
+          "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Ekim 2026",
+          "source": "Haber",
+          "link": "https://www.haber.com/gundem/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-ekim-2026-28138",
           "also_in": [
             "NTV"
           ]
         },
         {
-          "title": "Maltepe'de çöken binanın bilirkişi ön raporu çıktı! 2 şüpheli tutuklandı: Dikkat çeken ifadeler ahaber.com.tr'de",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/09/maltepede-coken-binanin-bilirkisi-on-raporu-ortaya-cikti",
-          "also_in": []
-        },
-        {
-          "title": "Maltepe'de kısmen çöken binanın enkazında çalışmalar tamamlandı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/maltepede-kismen-coken-binanin-enkazinda-calismalar-tamamlandi/4084145",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayiinde Yerlilik ve Yeni Başarılar",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin savunma sanayiindeki yerlilik oranı %83'e ulaşırken, AKINCI İHA'nın MORFOZ kitiyle başarılı atışları öne çıktı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Gökyüzünün hakimi AKINCI'dan yeni başarı: MORFOZ kitiyle hedefi tam on ikiden vurdu",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/gokyuzunun-hakimi-akincidan-yeni-basari-morfoz-kitiyle-hedefi-tam-on-ikiden-vurdu/103726",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Akıncı’dan MGK mühimmatı ile ilk atışta tam isabet",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/savunma/akincidan-mgk-muhimmati-ile-ilk-atista-tam-isabet-110010",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        },
-        {
-          "title": "SSB Başkanı Görgün: Yerlilik Oranı Yüzde 83",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/ssb-baskani-gorgun-yerlilik-orani-yuzde-83/",
-          "also_in": []
-        },
-        {
-          "title": "AKINCI’dan MORFOZ ile İlk Atışta Tam İsabet",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/akincidan-morfoz-ile-ilk-atista-tam-isabet/",
-          "also_in": []
-        },
-        {
-          "title": "ASELSAN MORFOZ Güdüm Kiti AKINCI’yla Hedefi Vurdu",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/aselsan-morfoz-gudum-kiti-akinciyla-hedefi-vurdu/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Nobel Ödülleri Sahiplerini Buldu",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "2026 Nobel Barış Ödülü Navi Pillay'e, Edebiyat Ödülü ise Anne Carson'a verildi.",
-      "importance": 6,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "2026 Nobel Barış Ödülü, uluslararası hukukun savunucusu Navi Pillay’e verildi",
-          "source": "Herkese Bilim Teknoloji",
-          "link": "https://www.herkesebilimteknoloji.com/haberler/toplum/2026-nobel-baris-odulu-uluslararasi-hukukun-savunucusu-navi-pillaye-verildi",
-          "also_in": []
-        },
-        {
-          "title": "2026 Nobel Edebiyat Ödülü, Anne Carson’a verildi",
-          "source": "Herkese Bilim Teknoloji",
-          "link": "https://www.herkesebilimteknoloji.com/haberler/toplum/2026-nobel-edebiyat-odulu-anne-carsona-verildi",
-          "also_in": []
-        },
-        {
-          "title": "Nobel Edebiyat Ödülü’nü alan Anne Carson’un dünyasında kaybolmak için 7 neden",
-          "source": "Fikir Turu",
-          "link": "https://fikirturu.com/kultur-sanat/nobel-edebiyat-odulu-alan-anne-carsonun-dunyasinda-kaybolmak-icin-7-neden/",
-          "also_in": []
-        },
-        {
-          "title": "Anand: Anne Carson’ın Nobel Edebiyat Ödülü iki ülkemiz için gurur kaynağı",
-          "source": "Savunma Sanayi Gazetesi",
-          "link": "https://savunmasanayigazetesi.com.tr/anand-anne-carsonin-nobel-edebiyat-odulu-iki-ulkemiz-icin-gurur-kaynagi/328081/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Usta Oyuncu Necla Uygur Vefat Etti",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Türk tiyatrosunun emektar isimlerinden Necla Uygur hayatını kaybetti; sanat dünyası yasta.",
-      "importance": 6,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Türk tiyatrosunun usta ismi Necla Uygur son yolculuğuna uğurlandı",
+          "title": "Son dakika... AFAD açıkladı: Marmara'da deprem",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/turk-tiyatrosunun-usta-ismi-necla-uygur-son-yolculuguna-ugurlandi-p367740",
+          "link": "https://www.sozcu.com.tr/son-dakika-afad-acikladi-marmara-da-deprem-p367941",
           "also_in": [
             "Sözcü Gündem"
           ]
         },
         {
-          "title": "Nejat Uygur’un eşi Necla Uygur kimdir, kaç yaşında ve neden vefat etti? Necla Uygur'un hastalığı neydi?",
-          "source": "Elele",
-          "link": "https://www.elele.com.tr/plus/nejat-uygurun-esi-necla-uygur-kimdir-kac-yasinda-ve-neden-vefat-etti-necla-uygurun-hastaligi-neydi",
+          "title": "Marmara Denizi’nde deprem! AFAD Yalova açıklarındaki sarsıntıyı duyurdu",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/marmara-denizinde-deprem-afad-yalova-aciklarindaki-sarsintiyi-duyurdu-873641",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Devlerinde Yapay Zeka ve Güvenlik",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka modellerindeki güvenlik açıkları, sahte içerik üretimi ve teknoloji şirketlerinin yeni ürün tanıtımları öne çıktı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Samsung kulaklıklarda yeni güvenlik önlemi: Isındığında kapanacak!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/samsung-galaxy-buds-a-yeni-ozellik-isindiginda-kapanacak--211443",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "Google'dan yapay zeka hamlesi: Ücretsiz Gemini dönemi kısıtlanıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/googledan-yapay-zeka-hamlesi-ucretsiz-gemini-donemi-kisitlaniyor/103743",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zeka kontrolden çıktı: Polise sahte cinayet ihbarı gönderdi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-kontrolden-cikti-polise-sahte-cinayet-ihbari-gonderdi/103735",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Anthropic, Yapay Zekâ Ajanlarının İnternet Erişimini İç Testlerde Durduruyor",
+          "source": "ÇözümPark",
+          "link": "https://www.cozumpark.com/anthropic-yapay-zeka-ajanlarinin-internet-erisimini-ic-testlerde-durduruyor/",
           "also_in": []
         },
         {
-          "title": "Türk tiyatrosunun usta ismi Necla Uygur hayatını kaybetti",
-          "source": "Elele",
-          "link": "https://www.elele.com.tr/magazin/turk-tiyatrosunun-usta-ismi-necla-uygur-hayatini-kaybetti",
+          "title": "Hackerlar, Google Reklamları ve Bing Yönlendirmeleri Üzerinden Sahte Claude Yükleyicileri Dağıtıyor",
+          "source": "ÇözümPark",
+          "link": "https://www.cozumpark.com/hackerlar-google-reklamlari-ve-bing-yonlendirmeleri-uzerinden-sahte-claude-yukleyicileri-dagitiyor/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayisinde Yerli Teknoloji Başarısı",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ASELSAN'ın dron avcısı GÖKALP'in başarılı testleri ve savunma sanayindeki diğer yerli projeler ilgi gördü.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ASELSAN’ın dron avcısı test edildi: GÖKALP hedefi çarparak imha etti",
+          "source": "10Haber",
+          "link": "https://10haber.net/bilim-teknoloji/aselsanin-dron-avcisi-test-edildi-gokalp-hedefi-carparak-imha-etti-744635/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN’dan dron avlayan dron",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/aselsandan-dron-avlayan-dron",
+          "also_in": []
+        },
+        {
+          "title": "Dron Avcısı GÖKALP’ten Başarılı Test",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/dron-avcisi-gokalpten-basarili-test/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN’ın Dron Avcısı Dronu GÖKALP",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/aselsanin-dron-avcisi-dronu-gokalp/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN GÖKALP Önleyici Dron, Hedefi Çarparak Vurdu",
+          "source": "Mavi Savunma",
+          "link": "https://www.mavisavunma.com/aselsan-gokalp-onleyici-dron-hedefi-carparak-vurdu/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür, Sanat ve Edebiyat Etkinlikleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Yılın kültür-sanat sezonu kapsamında düzenlenen festivaller, sergiler ve edebiyat dergilerinin yeni sayıları sanatseverlerle buluştu.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Altın Portakal’da 12 film yarışacak: Jüri başkanı Derviş Zaim",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/altin-portakalda-12-film-yarisacak-juri-baskani-dervis-zaim/",
+          "also_in": []
+        },
+        {
+          "title": "Arter’in yeni sergisi ‘Sonra yok. Sonrası şimdi’ ziyarete açıldı",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/arterin-yeni-sergisi-sonra-yok-sonrasi-simdi-ziyarete-acildi/",
+          "also_in": []
+        },
+        {
+          "title": "Muhit, “Siyonizm İnsanlık Suçudur” Dosyasıyla Raflarda",
+          "source": "Kitap Haber",
+          "link": "https://www.kitaphaber.com.tr/muhit-siyonizm-insanlik-sucudur-dosyasiyla-raflarda-k8409.html",
+          "also_in": []
+        },
+        {
+          "title": "Buzdokuz Şiir Teori Eleştiri Dergisi 32. Sayı Çıktı",
+          "source": "Kitap Haber",
+          "link": "https://www.kitaphaber.com.tr/buzdokuz-siir-teori-elestiri-dergisi-32-sayi-cikti-k8413.html",
+          "also_in": []
+        },
+        {
+          "title": "10. Çanakkale Bienali 9 ülkeden 60’tan fazla sanatçıyı buluşturuyor",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/10-canakkale-bienali-9-ulkeden-60tan-fazla-sanatciyi-bulusturuyor/23644",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Physical Impossibility of Death in the Mind of Someone Living",
-    "artist": "Damien Hirst",
-    "year": "1991",
-    "form": "enstalasyon",
-    "medium": "Tiger shark, glass, steel, formaldehyde",
-    "location": "Private collection",
-    "description": "Doğal afetlerin ani yıkıcılığı ve teknolojik güvenliğin sorgulandığı bir dünyada, ölümün somut ve ürkütücü varlığını temsil ediyor.",
+    "title": "Massacre of the Innocents (Rubens)",
+    "artist": "Peter Paul Rubens",
+    "year": "1611-1612",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Art Gallery of Ontario",
+    "description": "Belediye operasyonları ve ani yönetim değişikliklerinin yarattığı kaotik atmosferi, otorite ile halk arasındaki gerilimi görsel bir şiddet ve trajedi diliyle betimliyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Physical_Impossibility_of_Death_in_the_Mind_of_Someone_Living",
-    "wikipedia_extract": "The Physical Impossibility of Death in the Mind of Someone Living is an artwork created in 1991 by Damien Hirst, an English artist and a leading member of the \"Young British Artists\". It consists of a preserved tiger shark submerged in formalin in a glass-panel display case.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/38/Hirst-Shark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Damien_Hirst"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Rubens)",
+    "wikipedia_extract": "The Massacre of the Innocents is the subject of two paintings by Peter Paul Rubens depicting the episode of the biblical Massacre of the Innocents of Bethlehem, as related in the Gospel of Matthew (2:13–18). The first, measuring 142 x 182 cm, was painted after his return to his native Antwerp in 1608, following eight years spent in Italy.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg/3840px-Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
   },
   "music": {
-    "title": "The Rip",
-    "artists": "Portishead",
-    "album": "Third",
-    "duration": "4:30",
-    "spotify_url": "https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC",
-    "spotify_id": "5KX2DSPC6aCA0pdDidTmBC",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2732529c50c11cb07f6f9e3ab29",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/5KX2DSPC6aCA0pdDidTmBC\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "We Are All Prostitutes",
+    "artists": "The Pop Group",
+    "album": "For How Much Longer Do We Tolerate Mass Murder?",
+    "duration": "3:14",
+    "spotify_url": "https://open.spotify.com/track/7c9zUZP24BFhoM1xhL0ayx",
+    "spotify_id": "7c9zUZP24BFhoM1xhL0ayx",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273795ca819bc7d55a41ce1a23f",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7c9zUZP24BFhoM1xhL0ayx\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Panama’dan yankılanan sarsıntıların tedirginliği, ülkemizin kendi içindeki siyasi ve kurumsal çalkantıların ağırlığıyla birleşerek hepimizi tekinsiz bir bekleyişin eşiğine sürüklüyor. Damien Hirst’ün formaldehit içindeki o devasa köpekbalığı, tıpkı bugün tanık olduğumuz toplumsal değişimler ve jeopolitik belirsizlikler gibi, canlılığın tam orta yerinde dondurulmuş bir ölüm ihtimalini sessizce haykırıyor. Portishead’in The Rip parçası bu soğuk vitrinin etrafında dönen o tekinsiz boşluğu doldururken, müzik ve sanat, kontrolümüz dışındaki bir dünyanın kırılganlığını zihnimize mühürlüyor. Günün ruhu, şeffaf camların ardında korumaya çalıştığımız düzenin ne kadar kolay parçalanabileceğini hatırlatan bir tekinsizlikten besleniyor. Bu atmosferde her değişim ve her soruşturma, aslında akışına bırakamadığımız hayatın, o büyük ve karanlık sessizliğe verdiği ürkek bir yanıt gibi yankılanıyor."
+  "curator_statement": "Bugün, gökyüzünün gri bir ağırlıkla üzerimize çöktüğü ve siyasi belirsizliklerin dijital bir sis gibi zihinlerimizi sardığı, tedirginliğin asli duygu haline geldiği bir zaman dilimindeyiz. Peter Paul Rubens’in Massacre of the Innocents eseri, iktidarın mutlak gücü karşısında savunmasız bırakılanların çığlığını dört yüzyıl öncesinden bugünün kentsel operasyonlarına ve toplumsal huzursuzluğuna taşımaktadır. The Pop Group’un We Are All Prostitutes parçası, bu tarihsel vahşeti modern çağın ekonomik regülasyonları ve jeopolitik çatışmalarıyla birleştirerek, estetik bir kaosu kışkırtıcı bir ritimle bütünleştirmektedir. Bugünün haber bültenleri ile sanatın bu karanlık köşeleri arasındaki paralellik, bizi bir kez daha sistemin dişlileri arasında ezilen insanlık onurunun kırılganlığını sorgulamaya zorlamaktadır. Yaşadığımız bu hareketli ve tekinsiz günlerde, sanat ve müzik ancak bu denli sert bir yüzleşmeyle, bastırılanın hakikatini gün yüzüne çıkarmaya cüret edebiliyor."
 }
