@@ -1,21 +1,22 @@
 {
-  "date": "2026-10-11",
-  "date_human": "11 October 2026",
-  "generated_at": "2026-10-11T01:31:01.241448+00:00",
+  "date": "2026-10-12",
+  "date_human": "12 October 2026",
+  "generated_at": "2026-10-12T01:32:01.048679+00:00",
   "stats": {
     "feeds_collected": 268,
-    "news_total": 4874,
-    "news_analyzed": 601,
-    "clusters": 9
+    "news_total": 4654,
+    "news_analyzed": 561,
+    "clusters": 8
   },
   "mood": {
-    "description": "Siyasi gerilimler, belediye operasyonları ve teknolojik yeniliklerin iç içe geçtiği, toplumsal huzursuzluğun ve ekonomik belirsizliğin hissedildiği hareketli bir gün.",
-    "dominant_emotion": "Tedirginlik",
+    "description": "Dünya genelinde jeopolitik gerilimlerin ve Orta Doğu'daki çatışmaların gölgesinde, ekonomik belirsizliklerin ve teknolojik gelişmelerin yarattığı tekinsiz bir atmosfer hakim. Türkiye'de ise baro seçimleri, trajik trafik kazaları ve spor müsabakalarındaki hakem tartışmaları gündemi şekillendiriyor.",
+    "dominant_emotion": "Gergin",
     "key_themes": [
-      "Belediyelere yönelik operasyonlar ve siyasi değişimler",
-      "Dijital düzenlemeler ve sosyal medya kısıtlamaları",
-      "Jeopolitik riskler ve çatışma haberleri",
-      "Ekonomik regülasyonlar ve piyasa hareketliliği"
+      "Orta Doğu'da tırmanan çatışmalar ve enerji güvenliği",
+      "Türkiye genelinde baro başkanlığı seçimleri",
+      "Trafik kazaları ve kamu güvenliği",
+      "Süper Lig'de hakem kararları üzerine yoğun tartışmalar",
+      "Yapay zeka ve dijitalleşmenin toplumsal etkileri"
     ]
   },
   "weather": {
@@ -24,483 +25,452 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-11",
-        "code": 3,
-        "temp_max": 30.0,
-        "temp_min": 10.6
-      },
-      {
         "date": "2026-10-12",
         "code": 3,
-        "temp_max": 25.5,
-        "temp_min": 12.8
+        "temp_max": 25.3,
+        "temp_min": 12.5
       },
       {
         "date": "2026-10-13",
-        "code": 95,
-        "temp_max": 23.1,
-        "temp_min": 15.9
+        "code": 80,
+        "temp_max": 24.4,
+        "temp_min": 14.6
       },
       {
         "date": "2026-10-14",
-        "code": 95,
-        "temp_max": 18.5,
-        "temp_min": 15.3
+        "code": 80,
+        "temp_max": 21.6,
+        "temp_min": 17.7
       },
       {
         "date": "2026-10-15",
-        "code": 63,
-        "temp_max": 17.7,
-        "temp_min": 13.5
+        "code": 3,
+        "temp_max": 18.5,
+        "temp_min": 15.4
       },
       {
         "date": "2026-10-16",
         "code": 3,
-        "temp_max": 20.0,
-        "temp_min": 12.8
+        "temp_max": 21.0,
+        "temp_min": 14.5
       },
       {
         "date": "2026-10-17",
         "code": 3,
-        "temp_max": 20.6,
-        "temp_min": 12.6
+        "temp_max": 17.9,
+        "temp_min": 12.8
+      },
+      {
+        "date": "2026-10-18",
+        "code": 3,
+        "temp_max": 19.7,
+        "temp_min": 13.5
       }
     ]
   },
   "clusters": [
     {
-      "title": "Belediyelerde Operasyon ve Yönetim Değişiklikleri",
+      "title": "Orta Doğu'da Tırmanan Çatışmalar ve Husi Saldırıları",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Yahşihan ve Esenyurt belediyelerine yönelik görevden uzaklaştırma ve tutuklama operasyonları ile Ataşehir ve Eyüpsultan'daki yönetim değişimleri gündeme oturdu.",
-      "importance": 9,
+      "summary": "Suudi Arabistan'daki havalimanlarına düzenlenen ve çok sayıda can kaybına yol açan Husi saldırıları ile Hürmüz Boğazı'ndaki gerilim uluslararası diplomasiyi hareketlendirdi.",
+      "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Yahşihan Belediye Başkan Vekili Aydın Demirdirek görevden uzaklaştırıldı",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/gundem/yahsihan-belediye-baskan-vekili-aydin-demirdirek-gorevden-uzaklastirildi-haberi-843370",
+          "title": "Türkiye, Mısır, Pakistan ve Suudi Arabistan Riyad'daki saldırılara tepki gösterdi",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/turkiye-misir-pakistan-ve-suudi-arabistan-riyaddaki-saldirilara-tepki-gosterdi-594066",
           "also_in": [
-            "Gerçek Gündem",
-            "Haber",
-            "BHA",
-            "TGRT Haber",
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "Ataşehir Belediyesi AKP'ye geçti",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/politika/atasehir-belediyesi-akpye-gecti-351416h",
-          "also_in": [
-            "Diken",
-            "DW Haber",
-            "Tele2"
-          ]
-        },
-        {
-          "title": "Esenyurt Belediyesi'nde rüşvet soruşturması: 9 kişi tutuklandı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/10/esenyurt-belediyesinde-rusvet-sorusturmasi-9-kisi-tutuklandi",
-          "also_in": [
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Esenyurt Belediyesi'ne yolsuzluk soruşturmasında 9 kişi tutuklandı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/esenyurt-belediyesine-yolsuzluk-sorusturmasinda-9-kisi-tutuklandi",
-          "also_in": [
+            "İşçi Haber",
             "TRT Haber"
           ]
         },
         {
-          "title": "ATAŞEHİR AK PARTİ'YE GEÇTİ",
-          "source": "TGRT Haber",
-          "link": "https://www.tgrthaber.com/gundem/istanbulda-2-belediyede-baskan-vekili-secimi-3364393",
+          "title": "Husiler Riyad'da havalimanını vurdu: 12 ölü, 309 yaralı",
+          "source": "Demokrat Haber",
+          "link": "https://www.demokrathaber.org/husiler-riyadda-havalimanini-vurdu-12-olu-309-yarali",
           "also_in": [
-            "Yeni Şafak"
+            "DW Haber"
+          ]
+        },
+        {
+          "title": "Suudi Arabistan'da havalimanı yeniden hedefte: Bir günde ikinci saldırı",
+          "source": "Haber",
+          "link": "https://www.haber.com/dunya/suudi-arabistan-da-havalimani-yeniden-hedefte-bir-gunde-ikinci-saldiri-28222",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Riyad'da havalimanına Husi saldırısı: 12 kişi hayatını kaybetti",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/riyad-da-havalimanina-husi-saldirisi-12-kisi-hayatini-kaybetti-28178",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Suudi Arabistan Duyurdu! Kral Fahd Uluslararası Havalimanı'na Yeni Saldırı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/suudi-arabistan-duyurdu-kral-fahd-uluslararasi-havalimanina-yeni-saldiri-873737",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Manisa'daki Feci Kaza ve Trafik Güvenliği",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Manisa'da yolcu otobüsü ile çekicinin çarpışması sonucu 11 kişinin hayatını kaybettiği kaza Türkiye'nin ana gündem maddelerinden biri oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Manisa’da katliam gibi kaza: 11 ölü, 27 yaralı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/yasam/manisada-katliam-gibi-kaza-11-olu-27-yarali-351463h",
+          "also_in": [
+            "Gazete Duvar",
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "Manisa'da yolcu otobüsü ile çekici çarpıştı: 11 ölü, 27 yaralı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/manisada-yolcu-otobusu-ile-cekici-carpisti-11-olu-27-yarali-110048",
+          "also_in": [
+            "TRT Haber",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Manisa'da 11 kişinin öldüğü kazanın görüntüleri ortaya çıktı",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/manisada-11-kisinin-oldugu-kazanin-goruntuleri-ortaya-cikti",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Manisa'daki katliam gibi kazayla ilgili korkunç iddia! 'Sapağı kaçırınca...'",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/manisadaki-katliam-gibi-kazayla-ilgili-korkunc-iddia-sapagi-kacirinca-6987666",
+          "also_in": [
+            "Mynet"
+          ]
+        },
+        {
+          "title": "Manisa'daki feci kaza kamerada! 11 kişi ölmüştü...",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/manisadaki-feci-kaza-kamerada-11-kisi-olmustu-2463584h.htm",
+          "also_in": [
+            "İnternet Haber"
           ]
         }
       ]
     },
     {
-      "title": "Riyad Havalimanına Saldırı ve Bölgesel Gerilim",
+      "title": "Türkiye'de Baro Seçimleri ve Hukuk Gündemi",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Suudi Arabistan'daki Riyad Havalimanı'na düzenlenen saldırı sonrası bölgede güvenlik alarmı verildi ve seyahat uyarıları yayımlandı.",
-      "importance": 9,
+      "summary": "Ankara, Diyarbakır ve İstanbul'daki baro seçimleri tamamlandı; yeni başkanlar seçilirken bazı seçimlerde sonuçlara yönelik itirazlar yaşandı.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Kuveyt Hava Yolları Riyad uçuşlarını iptal etti",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/kuveyt-hava-yollari-riyad-ucuslarini-iptal-etti",
+          "title": "Ankara Barosu Başkanlığına Elçin Özge Şimşek Çağlayan seçildi",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/ankara-barosu-baskanligina-elcin-ozge-simsek-caglayan-secildi",
+          "also_in": [
+            "Haberler",
+            "Sözcü",
+            "Sözcü Gündem",
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Muğla Barosu Başkanı Levent Akgün yeniden seçildi",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/mugla-barosu-baskani-levent-akgun-yeniden-secildi-2545757",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "İstanbul 2 Nolu Baro'da seçim tamamlandı: Kazanan tekbirle kutladı, kaybeden 'itiraz edeceğiz' dedi",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/siyaset/istanbul-2-nolu-baro-da-secim-tamamlandi-kazanan-tekbirle-kutladi-kaybeden-itiraz-edecegiz-dedi-2545715",
           "also_in": [
             "İşçi Haber"
           ]
         },
         {
-          "title": "Suudi Arabistan'da havalimanına saldırı: Uçuşlar durduruldu",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/suudi-arabistanda-havalimanina-saldiri-ucuslar-durduruldu/?utm_source=rss&utm_medium=rss&utm_campaign=suudi-arabistanda-havalimanina-saldiri-ucuslar-durduruldu",
+          "title": "Ankara Barosunun yeni başkanı Elçin Özge Şimşek Çağlayan oldu: Baroyu tüm renkleriyle yöneteceğim",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6004471/ankara-barosunun-yeni-baskani-elcin-ozge-simsek-caglayan-oldu-baroyu-tum-renkleriyle-yonetecegim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Diyarbakır Barosu seçimleri sonuçlandı: Sertaç Buluttekin yeni başkan seçildi",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6004470/diyarbakir-barosu-secimleri-sonuclandi-sertac-buluttekin-yeni-baskan-secildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İlke TV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ABD ve Rusya Arasında Enerji Ateşkesi İddiaları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Donald Trump'ın Rusya ve Ukrayna arasında bir 'enerji ateşkesi' sağlandığına dair açıklamaları küresel piyasalarda ve diplomatik arenada yankı buldu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trump duyurdu: Rusya ve Ukrayna arasında 'enerji' ateşkesi",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/dunya/trump-duyurdu-rusya-ve-ukrayna-arasinda-enerji-ateskesi-2545671",
+          "also_in": [
+            "Haber 3",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Trump: Rusya ve Ukrayna arasında enerji ateşkesi ilan edildi",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/trump-rusya-ve-ukrayna-arasinda-enerji-ateskesi-ilan-edildi-594031",
           "also_in": [
             "Dünya"
           ]
         },
         {
-          "title": "ABD, İngiltere ve Kanada'dan Riyad'daki Kral Halid Havalimanı için seyahat uyarısı",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/dunya/abd-ingiltere-ve-kanadadan-riyaddaki-kral-halid-havalimani-icin-seyahat-uyarisi-haberi-923878",
+          "title": "Trump: Rusya ve Ukrayna arasındaki savaşta enerji ateşkesi ilan edildi",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/trump-rusya-ve-ukrayna-arasindaki-savasta-enerji-ateskesi-ilan-edildi-285026h",
+          "also_in": [
+            "Independent Türkçe"
+          ]
+        },
+        {
+          "title": "Rusya ile Ukrayna arasında enerji ateşkesi: Trump'tan 'anlaşmayı' bozmayın uyarısı",
+          "source": "Gazete Pencere",
+          "link": "https://www.gazetepencere.com/dis-haber/rusya-ile-ukrayna-arasinda-enerji-ateskesi-trumptan-anlasmayi-bozmayin-uyarisi-718833h",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Trump: Rusya ve Ukrayna arasındaki savaşta enerji ateşkesi ilan edilmiştir",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/trump-rusya-ve-ukrayna-arasindaki-savasta-enerji-ateskesi-ilan-edilmistir",
           "also_in": [
             "TRT Haber"
           ]
-        },
-        {
-          "title": "Riyad'da havalimanına saldırı... Çok sayıda ölü ve yaralı var",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/dunya/riyadda-havalimanina-saldiri-cok-sayida-olu-ve-yarali-var/haber-1705184",
-          "also_in": []
-        },
-        {
-          "title": "Suudi Arabistan: Riyad'daki Kral Halid Uluslararası Havalimanı'na dün düzenlenen saldırıda 12 kişi hayatını kaybetti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-riyaddaki-kral-halid-uluslararasi-havalimanina-dun-duzenlenen-saldirida-12-kisi-hayatini-kaybetti/6810",
-          "also_in": []
         }
       ]
     },
     {
-      "title": "Sosyal Medya ve Sigara Satışında Yeni Yasaklar",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "15 yaş altına sosyal medya yasağı ve sigara satışında T.C. kimlik numarası şartı gibi yeni düzenlemeler resmiyet kazandı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Türkiye'de sosyal medya kuralları değişiyor: 15 yaş altına yasak, diğer kullanıcılara yeni şartlar",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/turkiyede-sosyal-medya-kurallari-degisiyor-15-yas-altina-yasak-diger-kullanicilara-yeni-sartlar_184499.html",
-          "also_in": []
-        },
-        {
-          "title": "15 Yaş Altına Sosyal Medya Yasağı Resmi Gazete&apos;de! Tarih Belli Oldu",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/15-yas-altina-sosyal-medya-yasagi-resmi-gazete-de-tarih-belli-oldu-1387359",
-          "also_in": []
-        },
-        {
-          "title": "Sigara satışı kimlikle olacak",
-          "source": "Diyanet Haber",
-          "link": "https://www.diyanethaber.com.tr/sigara-satisi-kimlikle-olacak",
-          "also_in": [
-            "Habertürk",
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "Sosyal medyada 15 yaş sınırı: Yeni yönetmelik yayımlandı",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/sosyal-medyada-15-yas-siniri-yeni-yonetmelik-yayimlandi/367672/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "15 yaş altına sosyal medya yasağı Resmi Gazete'de",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/15-yas-altina-sosyal-medya-yasagi-resmi-gazete-de/939058",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Fenerbahçe'nin Rize Galibiyeti ve Spor Dünyası",
+      "title": "Süper Lig'de Beşiktaş-Kocaelispor Maçı ve Hakem Tartışmaları",
       "meta_category": "Spor",
-      "summary": "Fenerbahçe'nin Çaykur Rizespor karşısında aldığı 3-0'lık galibiyet ve Galatasaray'ın Barcelona hazırlıkları spor gündemini domine etti.",
+      "summary": "Beşiktaş'ın Kocaelispor'u mağlup ettiği maç sonrası hakem kararları, penaltı tartışmaları ve kulüp yöneticilerinin sert açıklamaları gündeme oturdu.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Fenerbahçe 3 puanı 3 golle aldı",
-          "source": "Sözcü Spor",
-          "link": "https://www.sozcu.com.tr/canli-veya-caykur-rizespor-fenerbahce-maci-canli-yayin-super-lig-7-hafta-p367916",
+          "title": "Lige 3 puanla dönüş: Beşiktaş evinde kazanmaya devam ediyor",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-lige-3-puanla-donus-besiktas-evinde-kazanmaya-devam-ediyor-431104",
           "also_in": [
-            "Futboo",
-            "Gazete Pencere",
-            "Son Mühür"
+            "NTV Spor Futbol"
           ]
         },
         {
-          "title": "Fenerbahçe, Rize'de 3 puanı 3 golle aldı",
+          "title": "Beşiktaş - Kocaelispor maçına FLAŞ hakem yorumu: Penaltılar, kırmızı kart",
           "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahce-rizede-3-puani-3-golle-aldi-431028",
+          "link": "https://www.ntvspor.net/futbol/galeri-besiktas-kocaelispor-macina-flas-hakem-yorumu-penaltilar-kirmizi-kart-431116",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Kocaelispor Başkanı Recep Durul’dan Beşiktaş maçı sonrası olay sözler!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/kocaelispor-baskani-recep-duruldan-besiktas-maci-sonrasi-olay-sozler",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş, Dolmabahçe'de hata yapmadı! Kocaelispor, İstanbul'dan eli boş döndü",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/11/besiktas-dolmabahcede-hata-yapmadi-kocaelispor-istanbuldan-eli-bos-dondu",
+          "also_in": []
+        },
+        {
+          "title": "Serdal Adalı'dan penaltı isyanı: 'Maçlarda yediğimiz tokadın...'",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/spor/serdal-adali-dan-penalti-isyani-maclarda-yedigimiz-tokadin-2545735",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tokat'ta Salgın Şüphesi",
+      "meta_category": "Sağlık",
+      "summary": "Tokat'ta binlerce kişinin hastanelere başvurması üzerine eğitime ara verildi ve salgın şüphesi üzerine incelemeler başlatıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Tokat'ta eğitime 1 gün ara!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/tokatta-egitime-1-gun-ara",
           "also_in": [
             "Habertürk"
           ]
         },
         {
-          "title": "Fenerbahçe Teknik Direktörü İsmail Kartal: Üç gol attık ama...",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/10/fenerbahce-teknik-direktoru-ismail-kartal-uc-gol-attik-ama",
-          "also_in": []
-        },
-        {
-          "title": "Fenerbahçe Rize deplasmanında şov yaptı! Son dakikalarda farkı açtı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/fenerbahce-rize-deplasmaninda-sov-yapti-son-dakikalarda-farki-acti-873636",
-          "also_in": []
-        },
-        {
-          "title": "Trabzonspor'dan Samsun'da gol yağmuru! 10 kişi kaldı, yine kazandı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/trabzonspordan-samsunda-gol-yagmuru-10-kisi-kaldi-yine-kazandi-873633",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Gelişmeler ve Akaryakıt Düzenlemeleri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Akaryakıtta fiyat güncellemeleri, Rusya'nın dizel ihracat yasağını gevşetmesi ve çeşitli şirketlerin finansal durumları piyasalarda takip edildi.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Rusya dizel ihracat yasağını kısmen kaldırdı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracat-yasagini-kismen-kaldirdi/4084737",
+          "title": "Valilik duyurdu: Tokat'ta eğitime bir gün ara verildi",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/tokat-okullar-tatil-mi-valilikten-aciklama-geldi-12-ekim-pazartesi-okul-var-mi-4268770",
           "also_in": [
-            "CGTN Türk",
-            "Diken",
-            "Bengütürk",
-            "Habertürk",
-            "Haberler",
-            "TRT Haber",
-            "Türkgün"
+            "Sputnik"
           ]
         },
         {
-          "title": "Rusya'dan Açıklama Geldi! Dizel İhracat Yasağı Kısmen Kaldırıldı!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/rusyadan-aciklama-geldi-dizel-ihracat-yasagi-kismen-kaldirildi-873652",
-          "also_in": []
-        },
-        {
-          "title": "Motorinde zam, benzinde indirim",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/motorinde-zam-benzinde-indirim-3791025",
-          "also_in": []
-        },
-        {
-          "title": "Akaryakıtta tabelalar değişti: Motorine zam, benzine indirim geldi! İşte güncel fiyatlar",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/enerji/akaryakitta-tabelalar-degisti-motorine-zam-benzine-indirim-geldi-iste-guncel-fiyatlar-h39152",
-          "also_in": []
-        },
-        {
-          "title": "Akaryakıt fiyatlarına karşı ABD-Rusya anlaşması! Uzman isimden fiyat yorumu",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/enerji/akaryakit-fiyatlarina-karsi-abd-rusya-anlasmasi-uzman-isimden-fiyat-yorumu-g39149",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Marmara Bölgesi'nde Deprem Hareketliliği",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Marmara Denizi ve Yalova açıklarında meydana gelen 3.5 büyüklüğündeki depremler bölge halkında kısa süreli panik yarattı.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Marmara Denizi'nde 3.5 büyüklüğünde deprem",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/marmara-denizinde-35-buyuklugunde-deprem-593923",
-          "also_in": [
-            "Diken",
-            "Diriliş Postası"
-          ]
-        },
-        {
-          "title": "Yalova açıklarında 3.5 büyüklüğünde deprem",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/yalova-aciklarinda-35-buyuklugunde-deprem-h1572464",
-          "also_in": [
-            "İnternet Haber",
-            "Karar"
-          ]
-        },
-        {
-          "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 11 Ekim 2026",
-          "source": "Haber",
-          "link": "https://www.haber.com/gundem/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-11-ekim-2026-28138",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Son dakika... AFAD açıkladı: Marmara'da deprem",
+          "title": "2 bini aşkın vatandaş hastanelik olmuştu: Tokat'ta eğitime 1 gün ara",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/son-dakika-afad-acikladi-marmara-da-deprem-p367941",
+          "link": "https://www.sozcu.com.tr/2-bini-askin-vatandas-hastanelik-olmustu-tokat-ta-egitime-1-gun-ara-p368209",
           "also_in": [
             "Sözcü Gündem"
           ]
         },
         {
-          "title": "Marmara Denizi’nde deprem! AFAD Yalova açıklarındaki sarsıntıyı duyurdu",
+          "title": "Tokat’ta binlerce kişi acillere koştu: Okullar 1 gün tatil edildi",
           "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/marmara-denizinde-deprem-afad-yalova-aciklarindaki-sarsintiyi-duyurdu-873641",
+          "link": "https://abcgazetesi.com.tr/turkiye/tokatta-binlerce-kisi-acillere-kostu-okullar-1-gun-tatil-edildi-873761",
+          "also_in": []
+        },
+        {
+          "title": "Tokat’ta Salgın Şüphesi! Hasta Sayısı 2 Bin 914’e Ulaştı, Belediye Başkanı Açıklama Yaptı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/tokatta-salgin-suphesi-hasta-sayisi-2-bin-914e-ulasti-belediye-baskani-aciklama-ya-873739",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Teknoloji Devlerinde Yapay Zeka ve Güvenlik",
+      "title": "Ekonomik Gündem ve Fon Krizi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Türkiye'de fon soruşturmaları, vergi düzenlemeleri ve Borsa İstanbul'daki hareketlilik ekonomi dünyasının ana konuları oldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Borsa İstanbul'da 5 hisse için yeni dönem: Tedbirler sona eriyor",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/borsa-istanbul-da-5-hisse-icin-yeni-donem-tedbirler-sona-eriyor-28221",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Hangi hisseler temettü verecek? 36 şirketin ödeme takvimi açıklandı",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/hangi-hisseler-temettu-verecek-36-sirketin-odeme-takvimi-aciklandi-28203",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Kabine Başkan Erdoğan liderliğinde toplanıyor! Ana gündem fon krizi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/11/kabine-baskan-erdogan-liderliginde-toplaniyor-ana-gundem-fon-krizi",
+          "also_in": []
+        },
+        {
+          "title": "Fon soruşturmasında 187 milyar 653 milyon liralık kazanç! 141 kişi ve 73 şirket için hesap incelemesi ve çıkış yasağı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/11/187-milyarlik-fon-sorusturmasinda-hesaplara-bloke",
+          "also_in": []
+        },
+        {
+          "title": "IMF ve Dünya Bankası'ndan kritik hafta: Küresel ekonominin kaderi masada",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/yapay-zeka/imf-ve-dunya-bankasindan-kritik-hafta-kuresel-ekonominin-kaderi-masada-h39203",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknolojik Gelişmeler",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka modellerindeki güvenlik açıkları, sahte içerik üretimi ve teknoloji şirketlerinin yeni ürün tanıtımları öne çıktı.",
+      "summary": "Yapay zekanın kontrolsüz işlemleri, güvenlik açıklarına dair uyarılar ve yeni donanım güncellemeleri teknoloji dünyasının odağında yer aldı.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Samsung kulaklıklarda yeni güvenlik önlemi: Isındığında kapanacak!",
+          "title": "Claude’un kontrolsüz işlemi, polise sahte cinayet ihbarı gönderdi",
           "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/samsung-galaxy-buds-a-yeni-ozellik-isindiginda-kapanacak--211443",
+          "link": "https://www.donanimhaber.com/claude-un-kontrolsuz-islemi-polise-sahte-ihbar-gonderdi--211479",
           "also_in": [
             "Haber"
           ]
         },
         {
-          "title": "Google'dan yapay zeka hamlesi: Ücretsiz Gemini dönemi kısıtlanıyor",
+          "title": "Yapay zekada tehlikeli açık: Güvenlik kalkanı düşünce terör desteği başladı",
           "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/googledan-yapay-zeka-hamlesi-ucretsiz-gemini-donemi-kisitlaniyor/103743",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zekada-tehlikeli-acik-guvenlik-kalkani-dusunce-teror-destegi-basladi/103753",
           "also_in": [
             "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Yapay zeka kontrolden çıktı: Polise sahte cinayet ihbarı gönderdi",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-kontrolden-cikti-polise-sahte-cinayet-ihbari-gonderdi/103735",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Anthropic, Yapay Zekâ Ajanlarının İnternet Erişimini İç Testlerde Durduruyor",
-          "source": "ÇözümPark",
-          "link": "https://www.cozumpark.com/anthropic-yapay-zeka-ajanlarinin-internet-erisimini-ic-testlerde-durduruyor/",
+          "title": "ChatGPT'nin gençlere özel sürümü güvenlik testlerinden geçemedi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/chatgptnin-genclere-ozel-surumu-guvenlik-testlerinden-gecemedi_184513.html",
           "also_in": []
         },
         {
-          "title": "Hackerlar, Google Reklamları ve Bing Yönlendirmeleri Üzerinden Sahte Claude Yükleyicileri Dağıtıyor",
-          "source": "ÇözümPark",
-          "link": "https://www.cozumpark.com/hackerlar-google-reklamlari-ve-bing-yonlendirmeleri-uzerinden-sahte-claude-yukleyicileri-dagitiyor/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayisinde Yerli Teknoloji Başarısı",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "ASELSAN'ın dron avcısı GÖKALP'in başarılı testleri ve savunma sanayindeki diğer yerli projeler ilgi gördü.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "ASELSAN’ın dron avcısı test edildi: GÖKALP hedefi çarparak imha etti",
-          "source": "10Haber",
-          "link": "https://10haber.net/bilim-teknoloji/aselsanin-dron-avcisi-test-edildi-gokalp-hedefi-carparak-imha-etti-744635/",
+          "title": "Yapay zeka daha fazla kod üretiyor ancak yazılım geliştirme sürecini hızlandırmıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yapay-zeka-kod-yaziyor-ama-yazilimcilarin-isi-azalmiyor--211462",
           "also_in": []
         },
         {
-          "title": "ASELSAN’dan dron avlayan dron",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/aselsandan-dron-avlayan-dron",
-          "also_in": []
-        },
-        {
-          "title": "Dron Avcısı GÖKALP’ten Başarılı Test",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/dron-avcisi-gokalpten-basarili-test/",
-          "also_in": []
-        },
-        {
-          "title": "ASELSAN’ın Dron Avcısı Dronu GÖKALP",
-          "source": "SavunmaTR",
-          "link": "https://www.savunmatr.com/aselsanin-dron-avcisi-dronu-gokalp/",
-          "also_in": []
-        },
-        {
-          "title": "ASELSAN GÖKALP Önleyici Dron, Hedefi Çarparak Vurdu",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/aselsan-gokalp-onleyici-dron-hedefi-carparak-vurdu/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kültür, Sanat ve Edebiyat Etkinlikleri",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Yılın kültür-sanat sezonu kapsamında düzenlenen festivaller, sergiler ve edebiyat dergilerinin yeni sayıları sanatseverlerle buluştu.",
-      "importance": 5,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Altın Portakal’da 12 film yarışacak: Jüri başkanı Derviş Zaim",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/altin-portakalda-12-film-yarisacak-juri-baskani-dervis-zaim/",
-          "also_in": []
-        },
-        {
-          "title": "Arter’in yeni sergisi ‘Sonra yok. Sonrası şimdi’ ziyarete açıldı",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/arterin-yeni-sergisi-sonra-yok-sonrasi-simdi-ziyarete-acildi/",
-          "also_in": []
-        },
-        {
-          "title": "Muhit, “Siyonizm İnsanlık Suçudur” Dosyasıyla Raflarda",
-          "source": "Kitap Haber",
-          "link": "https://www.kitaphaber.com.tr/muhit-siyonizm-insanlik-sucudur-dosyasiyla-raflarda-k8409.html",
-          "also_in": []
-        },
-        {
-          "title": "Buzdokuz Şiir Teori Eleştiri Dergisi 32. Sayı Çıktı",
-          "source": "Kitap Haber",
-          "link": "https://www.kitaphaber.com.tr/buzdokuz-siir-teori-elestiri-dergisi-32-sayi-cikti-k8413.html",
-          "also_in": []
-        },
-        {
-          "title": "10. Çanakkale Bienali 9 ülkeden 60’tan fazla sanatçıyı buluşturuyor",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/10-canakkale-bienali-9-ulkeden-60tan-fazla-sanatciyi-bulusturuyor/23644",
+          "title": "Lancet Komisyonu: Yapay Zekâ ve Nükleer Savaş İnsanlığı Yok Oluşa Sürükleyebilir",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/lancet-komisyonu-yapay-zeka-ve-nukleer-savas-insanligi-yok-olusa-surukleyebilir/",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "Massacre of the Innocents (Rubens)",
-    "artist": "Peter Paul Rubens",
-    "year": "1611-1612",
+    "title": "The Death of Socrates",
+    "artist": "Jacques-Louis David",
+    "year": "1787",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Art Gallery of Ontario",
-    "description": "Belediye operasyonları ve ani yönetim değişikliklerinin yarattığı kaotik atmosferi, otorite ile halk arasındaki gerilimi görsel bir şiddet ve trajedi diliyle betimliyor.",
+    "location": "Metropolitan Museum of Art",
+    "description": "Siyasi kararlar, otorite ve etik değerler üzerine süren tartışmaların ortasında, bireyin kendi doğruları uğruna ödediği bedelleri ve toplumsal uzlaşı arayışını yansıtan tarihi bir başyapıt.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Massacre_of_the_Innocents_(Rubens)",
-    "wikipedia_extract": "The Massacre of the Innocents is the subject of two paintings by Peter Paul Rubens depicting the episode of the biblical Massacre of the Innocents of Bethlehem, as related in the Gospel of Matthew (2:13–18). The first, measuring 142 x 182 cm, was painted after his return to his native Antwerp in 1608, following eight years spent in Italy.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg/3840px-Rubens_-_Massacre_of_the_Innocents_-_Art_Gallery_of_Ontario_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Paul_Rubens"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Death_of_Socrates",
+    "wikipedia_extract": "The Death of Socrates is an oil on canvas painted by French painter Jacques-Louis David in 1787. The painting was part of the neoclassical style, popular in the 1780s, that depicted subjects from the Classical age, in this case the story of the execution of Socrates as told by Plato in his Phaedo. In this story, Socrates has been convicted of corrupting the youth of Athens and introducing strange gods, and has been sentenced to die by drinking poison hemlock. Socrates uses his death as a final lesson for his pupils rather than fleeing when the opportunity arises, and faces it calmly. The Phaedo depicts the death of Socrates and is also Plato's fourth and last dialogue to detail the philosopher's final days, which is also detailed in Euthyphro, Apology, and Crito.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/David_-_The_Death_of_Socrates.jpg/3840px-David_-_The_Death_of_Socrates.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Jacques-Louis_David"
   },
   "music": {
-    "title": "We Are All Prostitutes",
-    "artists": "The Pop Group",
-    "album": "For How Much Longer Do We Tolerate Mass Murder?",
-    "duration": "3:14",
-    "spotify_url": "https://open.spotify.com/track/7c9zUZP24BFhoM1xhL0ayx",
-    "spotify_id": "7c9zUZP24BFhoM1xhL0ayx",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273795ca819bc7d55a41ce1a23f",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7c9zUZP24BFhoM1xhL0ayx\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "The Great Below",
+    "artists": "Nine Inch Nails",
+    "album": "The Fragile",
+    "duration": "5:17",
+    "spotify_url": "https://open.spotify.com/track/7LBWAib31Cthfz2KoI611Z",
+    "spotify_id": "7LBWAib31Cthfz2KoI611Z",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273237a21c8ba1bfc2d85a83585",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7LBWAib31Cthfz2KoI611Z\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugün, gökyüzünün gri bir ağırlıkla üzerimize çöktüğü ve siyasi belirsizliklerin dijital bir sis gibi zihinlerimizi sardığı, tedirginliğin asli duygu haline geldiği bir zaman dilimindeyiz. Peter Paul Rubens’in Massacre of the Innocents eseri, iktidarın mutlak gücü karşısında savunmasız bırakılanların çığlığını dört yüzyıl öncesinden bugünün kentsel operasyonlarına ve toplumsal huzursuzluğuna taşımaktadır. The Pop Group’un We Are All Prostitutes parçası, bu tarihsel vahşeti modern çağın ekonomik regülasyonları ve jeopolitik çatışmalarıyla birleştirerek, estetik bir kaosu kışkırtıcı bir ritimle bütünleştirmektedir. Bugünün haber bültenleri ile sanatın bu karanlık köşeleri arasındaki paralellik, bizi bir kez daha sistemin dişlileri arasında ezilen insanlık onurunun kırılganlığını sorgulamaya zorlamaktadır. Yaşadığımız bu hareketli ve tekinsiz günlerde, sanat ve müzik ancak bu denli sert bir yüzleşmeyle, bastırılanın hakikatini gün yüzüne çıkarmaya cüret edebiliyor."
+  "curator_statement": "Dünya, jeopolitik kırılmaların ve dijitalleşmenin yarattığı tekinsiz bir sisin altında, hakikat arayışının yerini gündelik çatışmaların aldığı huzursuz bir eşikte bekliyor. Jacques-Louis David’in Sokrates’i, otoritenin ve toplumsal düzenin yarattığı trajik soğukkanlılığı temsil ederken; Nine Inch Nails’in The Great Below parçası, tam da bu derin boşluğun ve içsel çöküşün yankısını kulaklarımıza fısıldıyor. Bugün baro seçimlerinden sahalardaki hakem tartışmalarına kadar uzanan toplumsal gerginliğimiz, aslında kendi doğrularımız uğruna kaçınılmaz bir sona doğru yürüdüğümüzün sessiz bir kanıtı gibi. Zehir kadehine uzanan o kararlı el, adalet ve vicdan arasındaki kadim uçurumu hatırlatırken, modern insanın teknolojik yalnızlığı bu trajediyi çok daha karanlık bir tınıyla taçlandırıyor. Belirsizliğin gölgesinde, hem tarihsel bir direnişin hem de modern bir melankolinin kesiştiği bu noktada, hepimiz kendi hakikatlerimizin infazını izleyen birer sessiz tanığa dönüşüyoruz."
 }
