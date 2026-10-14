@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-13",
-  "date_human": "13 October 2026",
-  "generated_at": "2026-10-13T01:30:53.515779+00:00",
+  "date": "2026-10-14",
+  "date_human": "14 October 2026",
+  "generated_at": "2026-10-14T01:30:43.555032+00:00",
   "stats": {
-    "feeds_collected": 269,
-    "news_total": 5615,
-    "news_analyzed": 610,
+    "feeds_collected": 268,
+    "news_total": 5795,
+    "news_analyzed": 609,
     "clusters": 10
   },
   "mood": {
-    "description": "Belirsizlikler ve teknolojik sarsıntılarla dolu, hem küresel krizlerin hem de dijital dönüşümün yarattığı yoğun bir atmosfer hakim. Toplum, bir yandan ekonomik ve sosyal streslerle mücadele ederken diğer yandan dijital dünyanın sunduğu yeni gerçekliklere uyum sağlamaya çalışıyor.",
+    "description": "Teknoloji odaklı bir gelecek heyecanı ile bölgesel jeopolitik gerilimlerin gölgesinde, dijital altyapı sorunları ve finansal hareketliliğin iç içe geçtiği yoğun bir gün yaşanıyor.",
     "dominant_emotion": "Tedirginlik",
     "key_themes": [
-      "Dijitalleşme ve Yapay Zeka Riskleri",
-      "Jeopolitik Gerilimler ve Bölgesel Çatışmalar",
-      "Ekonomik İstikrarsızlık ve Fon Krizleri",
-      "Spor Dünyasında Rekabet ve Yönetim Tartışmaları"
+      "Dijitalleşme ve Yapay Zeka Devrimi",
+      "Bölgesel Güvenlik ve Diplomatik Trafik",
+      "Ekonomik İstikrar ve Fon Soruşturmaları",
+      "Savunma Sanayinde Yerli Teknoloji Atılımı"
     ]
   },
   "weather": {
@@ -24,502 +24,527 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-13",
-        "code": 61,
-        "temp_max": 23.3,
-        "temp_min": 14.9
-      },
-      {
         "date": "2026-10-14",
-        "code": 80,
-        "temp_max": 20.6,
-        "temp_min": 17.2
+        "code": 95,
+        "temp_max": 22.1,
+        "temp_min": 16.4
       },
       {
         "date": "2026-10-15",
         "code": 3,
-        "temp_max": 20.3,
-        "temp_min": 14.4
+        "temp_max": 21.2,
+        "temp_min": 14.3
       },
       {
         "date": "2026-10-16",
         "code": 3,
-        "temp_max": 20.7,
-        "temp_min": 12.2
+        "temp_max": 21.9,
+        "temp_min": 10.2
       },
       {
         "date": "2026-10-17",
-        "code": 80,
-        "temp_max": 17.0,
-        "temp_min": 11.5
+        "code": 61,
+        "temp_max": 16.4,
+        "temp_min": 9.4
       },
       {
         "date": "2026-10-18",
         "code": 3,
-        "temp_max": 20.3,
-        "temp_min": 9.4
+        "temp_max": 20.5,
+        "temp_min": 6.2
       },
       {
         "date": "2026-10-19",
+        "code": 0,
+        "temp_max": 21.0,
+        "temp_min": 9.6
+      },
+      {
+        "date": "2026-10-20",
         "code": 3,
-        "temp_max": 20.0,
-        "temp_min": 11.3
+        "temp_max": 22.8,
+        "temp_min": 11.7
       }
     ]
   },
   "clusters": [
     {
-      "title": "Suudi Arabistan'da Patlamalar ve Bölgesel Gerilim",
+      "title": "Fon Soruşturması ve Adli Operasyonlar",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Suudi Arabistan'ın başkenti Riyad ve çevresinde duyulan patlama sesleri ve Husilerin füze saldırıları bölgede güvenlik endişelerini artırdı; uluslararası uçuşlar ertelendi.",
+      "summary": "Fon dolandırıcılığı soruşturmaları kapsamında üst düzey tutuklamalar ve 109 şüpheliye yönelik adli tedbirler devam ediyor.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Hürmüz Boğazı’nda tanker alarmı: 4 geminin daha vurulduğu bildirildi",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/hurmuz-bogazinda-tanker-alarmi-4-geminin-daha-vuruldugu-bildirildi",
+          "title": "Fon soruşturmasında eski bakan yardımcısı Mustafa Aksu tutuklandı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/fon-sorusturmasinda-eski-bakan-yardimcisi-mustafa-aksu-tutuklandi-351548h",
           "also_in": [
-            "Sputnik"
+            "Kamudan Haber"
           ]
         },
         {
-          "title": "Suudi Arabistan’ın başkenti Riyad’da patlama sesleri!",
-          "source": "Gazete Pencere",
-          "link": "https://www.gazetepencere.com/dis-haber/suudi-arabistanin-baskenti-riyadda-patlama-sesleri-718997h",
+          "title": "Bakan Göktaş'tan fon iddialarına yanıt: “Bu kirli siyasete müsamaha göstermeyeceğim”",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/bakan-goktastan-fon-iddialarina-yanit-bu-kirli-siyasete-musamaha-gostermeyecegim",
+          "also_in": [
+            "GZT"
+          ]
+        },
+        {
+          "title": "Bakan Gürlek duyurdu: 6,6 milyarlık para trafiği ortaya çıktı",
+          "source": "Korkusuz",
+          "link": "https://www.korkusuz.com.tr/bakan-gurlek-duyurdu-6-6-milyarlik-para-trafigi-ortaya-cikti-p55882",
+          "also_in": [
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Başsavcılık'tan fon soruşturmasıyla ilgili açıklama: 109 şüpheli hakkındaki tedbirler sürüyor",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/bassavciliktan-fon-sorusturmasiyla-ilgili-aciklama-109-supheli-hakkindaki-tedbirler-suruyor-p368871",
           "also_in": [
             "Sözcü"
           ]
         },
         {
-          "title": "Suudi Arabistan'da patlama sesleri duyuldu",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/dunya/suudi-arabistanda-patlama-sesleri-duyuldu-285164h",
+          "title": "Borsa İstanbul’da fon ve manipülasyon soruşturması! Ünlü patronlara ve fon yöneticilerine adli tedbir: İşte isim listesi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/14/manipulasyon-ve-fon-sorusturmasinda-109-isme-adli-tedbir",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Suudi Arabistan ve Husi Gerilimi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Riyad'da duyulan patlama sesleri ve bölgedeki Husi saldırıları, Türkiye dahil uluslararası arenada diplomatik tepkilere yol açtı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Son Dakika... Suudi Arabistan'da ARAMCO Genel Merkezi yakınlarında patlama sesleri!",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/dunya/son-dakika-suudi-arabistan-da-aramco-genel-merkezi-yakinlarinda-patlama-sesleri-2546454",
           "also_in": [
-            "TRT Haber"
+            "Halk TV"
           ]
         },
         {
-          "title": "Riyad'da peş peşe patlama sesleri",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/dunya/haber/3667346-riyadda-pes-pese-patlama-sesleri",
+          "title": "Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası 3 patlama sesi duyuldu",
+          "source": "Independent Türkçe",
+          "link": "https://www.indyturk.com/node/783787/d%C3%BCnya/suudi-arabistan%C4%B1n-ba%C5%9Fkenti-riyadda-sald%C4%B1r%C4%B1-uyar%C4%B1s%C4%B1-sonras%C4%B1-3-patlama-sesi-duyuldu",
           "also_in": [
             "İstiklal"
           ]
         },
         {
-          "title": "Suudi Arabistan'ın Hamis Muşayt vilayetinde Husiler tarafından fırlatılan 2 balistik füze engellendi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-hamis-musayt-vilayetinde-husiler-tarafindan-firlatilan-2-balistik-fuze-engellendi/4086680",
+          "title": "Suudi Arabistan: Husiler saldırılarının sonuçlarıyla yüzleşecek",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/dunya/suudi-arabistan-husiler-saldirilarinin-sonuclariyla-yuzlesecek-548554",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "İstanbul Havalimanı'nda Riyad seferleri askıya alındı: Cidde ve Medine seferleri devam ediyor",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/istanbul-havalimaninda-riyad-seferleri-askiya-alindi-cidde-ve-medine-seferleri-devam-ediyor-548552",
+          "also_in": [
+            "İşin Detayı"
+          ]
+        },
+        {
+          "title": "Başkan Erdoğan Selman ile görüştü! Husi saldırılarına kınama Suudi Arabistan'a destek",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/13/baskan-erdogan-suudi-arabistan-veliaht-prensi-selman-ile-gorustu",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Fon Soruşturması ve Finansal Piyasalardaki Hareketlilik",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Fon krizinde 401 milyar TL'lik çıkış ve devam eden soruşturmalar siyasetin ana gündem maddesi olurken, yatırımcılar belirsizlikler içinde çözüm bekliyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Fon Soruşturmasında 16 Günde 401 Milyar TL&apos;lik Çıkış: Tera ve Pusula&apos;dan Para Çeken 440 Kişi Mercek Altında",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/fon-sorusturmasinda-16-gunde-401-milyar-tl-lik-cikis-tera-ve-pusula-dan-para-ceken-440-kisi-mercek-altinda-1387766",
-          "also_in": []
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan: Fon meselesinin çözülmesi için yoğun gayret içindeyiz",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-kabine-toplantisi-sonrasi-konusuyor-23584-h1572990",
-          "also_in": [
-            "İnternet Haber",
-            "Kamudan Haber"
-          ]
-        },
-        {
-          "title": "Fon mağdurları YENİ Parti Grubunu ziyaret etti: Murat Emir’den 'örgütlenme' çağrısı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/siyaset/fon-magdurlari-yeni-parti-grubunu-ziyaret-etti-murat-emir-den-orgutlenme-cagrisi-2546026",
-          "also_in": [
-            "Dokuz8 Haber"
-          ]
-        },
-        {
-          "title": "İYİ Parti Sözcüsü Kavuncu: Fon meselesi bir yolsuzluk ve suç örgütü meselesidir",
-          "source": "Dokuz8 Haber",
-          "link": "https://dokuz8haber.net/iyi-parti-sozcusu-kavuncu-fon-meselesi-bir-yolsuzluk-ve-suc-orgutu-meselesidir",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında bomba iddia: Eski Bakan Yardımcısı Mustafa Aksu tutuklandı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-bomba-iddia-eski-bakan-yardimcisi-mustafa-aksu-tutuklandi-873895",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "PKK'nın Kampları Boşaltması ve Terörsüz Türkiye Süreci",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "PKK'nın Kuzey Irak'taki 4 kampı boşaltması ve bu gelişmenin 'Terörsüz Türkiye' süreciyle bağlantısı, siyasi çevrelerde yoğun şekilde tartışılıyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Terörsüz Türkiye Sürecinde Yeni Gelişme! PKK 4 Kampı Boşalttı",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/terorsuz-turkiye-surecinde-yeni-gelisme-pkk-4-kampi-bosaltti-1387854",
-          "also_in": [
-            "Beyaz Gazete"
-          ]
-        },
-        {
-          "title": "PKK Kuzey Irak'taki 4 kampı boşalttı",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/gundem/son-dakika-pkk-kuzey-irak-taki-4-kampi-bosaltti-3919108",
-          "also_in": [
-            "NTV",
-            "Sputnik",
-            "Ulusal Kanal"
-          ]
-        },
-        {
-          "title": "PKK, Irak’ın kuzeyindeki 4 kampı boşalttı",
-          "source": "İşin Detayı",
-          "link": "https://www.isindetayi.com/pkk-irakin-kuzeyindeki-4-kampi-bosaltti",
-          "also_in": [
-            "TRT Haber",
-            "Döviz"
-          ]
-        },
-        {
-          "title": "PKK 4 KAMPI BOŞALTTI",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/gundem/pkk-metinada-4-barina-alanini-bosaltti-1822197",
-          "also_in": [
-            "TGRT Haber"
-          ]
-        },
-        {
-          "title": "PKK inleri boşalttı",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/guncel/pkk-inleri-bosaltti/haber-1705690",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Dijital Dünya ve Sosyal Medya Kısıtlamaları",
+      "title": "Dijital Hizmet Kesintileri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "15 yaş altına sosyal medya kısıtlaması ve yapay zeka araçlarının sebep olduğu sahte ihbar krizleri, dijital dünyada yeni bir düzenleme dönemine işaret ediyor.",
+      "summary": "Son 24 saatte Instagram, ChatGPT, YouTube, WhatsApp ve X gibi büyük platformlarda eş zamanlı erişim sorunları yaşandı.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Dijital dünyada yeni dönem: 15 yaş altına sosyal medya kısıtlaması geliyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/dijital-dunyada-yeni-donem-15-yas-altina-sosyal-medya-kisitlamasi-geliyor/103773",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Dijital dünyada yeni dönem: 15 yaş altına sosyal medya kısıtlaması 1 Kasım'da başlıyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/dijital-dunyada-yeni-donem-15-yas-altina-sosyal-medya-kisitlamasi-1-kasimda-basliyor/103760",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Yapay zekâ polise sahte cinayet ihbarı yaptı: Anthropic'in testleri krize yol açtı",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-polise-sahte-cinayet-ihbari-yapti-anthropicin-testleri-krize-yol-acti/103759",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Anthropic'in yapay zekası, polisi birbirine kattı",
+          "title": "Instagram çöktü mü? (13 Ekim 2026) Instagram neden açılmıyor? Son 24 saat kesinti raporu",
           "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/anthropicin-yapay-zekasi-polisi-birbirine-katti_184504.html",
+          "link": "https://www.chip.com.tr/galeri/instagram-coktu-mu-13-ekim-2026-instagram-neden-acilmiyor-son-24-saat-kesinti-raporu_178120.html",
           "also_in": []
         },
         {
-          "title": "Yapay Zeka İşsizliği Yüzde 50’ye mi Çıkaracak? İş Dünyasından Çarpıcı Uyarılar!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ekonomi/yapay-zeka-issizligi-yuzde-50ye-mi-cikaracak-is-dunyasindan-carpici-uyarilar-873874",
+          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (13 Ekim 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-13-ekim-2026_178116.html",
+          "also_in": []
+        },
+        {
+          "title": "YouTube çöktü mü? (13 Ekim 2026) Son 24 saat hata bildirim raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/youtube-coktu-mu-13-ekim-2026-son-24-saat-hata-bildirim-raporu_178122.html",
+          "also_in": []
+        },
+        {
+          "title": "Claude çöktü mü? Kullanıcılar erişim sorunları bildiriyor (13 Ekim 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/claude-coktu-mu-kullanicilar-erisim-sorunlari-bildiriyor-13-ekim-2026_180716.html",
+          "also_in": []
+        },
+        {
+          "title": "WhatsApp çöktü mü? 13 Ekim’de erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-13-ekimde-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Süper Lig ve Galatasaray-Barcelona Hazırlıkları",
+      "title": "Galatasaray - Barcelona Maçı ve Yankıları",
       "meta_category": "Spor",
-      "summary": "Galatasaray'ın Barcelona maçı öncesi hazırlıkları, Lamine Yamal'ın İstanbul ziyareti ve Süper Lig'deki deplasman yasağı tartışmaları spor gündemini domine ediyor.",
+      "summary": "Şampiyonlar Ligi'nde Galatasaray'ın Barcelona'ya mağlup olduğu maç, hem saha içi sonuçları hem de ülke puanı açısından geniş yer buldu.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Galatasaray-Barcelona maçı öncesi karaborsa bilet operasyounu: 9 gözaltı",
+          "title": "Galatasaray-Barcelona maçı sonrası UEFA ülke puanı ve sıralaması güncellendi",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-barcelona-maci-sonrasi-uefa-ulke-puani-ve-siralamasi-guncellendi-431223",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "Galatasaray evinde Barça'ya kaybetti: Devler Ligi'nde 2'de 0",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-evinde-barcaya-kaybetti-devler-liginde-2de-0-431219",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "Galatasaray evinde Barcelona'ya kaybetti! İşte maçın özeti",
           "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/12/galatasaray-barcelona-maci-oncesi-karaborsa-bilet-operasyounu-9-gozalti",
-          "also_in": [
-            "Tele1"
-          ]
-        },
-        {
-          "title": "Galatasaray'da Yamal planı: Okan Buruk böyle açıkladı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-galatasarayda-yamal-plani-okan-buruk-boyle-acikladi-431172",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Barcelona Teknik Direktörü Hansi Flick, Galatasaray maçı öncesi konuştu! \"Buradaki atmosfere hazır olmalıyız\"",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/10/12/barcelona-teknik-direktoru-hansi-flick-konusuyor-canli",
+          "link": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/13/galatasaray-evinde-barcelonaya-kaybetti-iste-macin-ozeti",
           "also_in": []
         },
         {
-          "title": "Lamine Yamal'dan Galatasaray maçı öncesi dikkat çeken paylaşım",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/spor/lamine-yamaldan-galatasaray-maci-oncesi-dikkat-ceken-paylasim-6987981",
-          "also_in": [
-            "Gazete Duvar"
-          ]
+          "title": "Dış basında flaş manşet: Barcelona, İstanbul ateşini söndürdü!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/13/dis-basinda-flas-manset-barcelona-istanbul-atesini-sondurdu",
+          "also_in": []
         },
         {
-          "title": "Okan Buruk’tan Lamine Yamal açıklaması: “Onu durdurmak için planımız var”",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/okan-buruktan-lamine-yamal-aciklamasi-onu-durdurmak-icin-planimiz-var-873867",
+          "title": "Galatasaray öne geçti! Barcelona 2. yarıda galibiyete uzandı! İşte maçların golleri",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/13/galatasaray-barca-karsisinda-batrakovla-one-gecti",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Şiddetli Hava Olayları ve Doğal Afetler",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Türkiye genelinde etkili olan sağanak yağışlar, hortumlar ve sel baskınları birçok ilde hayatı olumsuz etkiledi, altyapı zararları oluştu.",
+      "title": "Savunma Sanayinde Yerli Gövde Gösterisi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Ateş Serbest-2026 tatbikatı ve yerli savunma projeleri, Türkiye'nin askeri teknolojideki ilerleyişini gözler önüne serdi.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Adıyaman’da sağanak; araçlar suya gömüldü, caddeleri su bastı",
+          "title": "Türk savunma sanayisinin gövde gösterisi: Ateş Serbest-2026'da yerli teknoloji rüzgarı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/turk-savunma-sanayisinin-govde-gosterisi-ates-serbest-2026da-yerli-teknoloji-ruzgari/103798",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Türkiye savunmada vites yükseltiyor: 6. nesil KAAN için geri sayım başladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/turkiye-savunmada-vites-yukseltiyor-6-nesil-kaan-icin-geri-sayim-basladi/103783",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "NATO'dan Türk savunma sanayisine tarihi övgü: \"Türkiye'de gerçek bir sanayi devrimi yaşanıyor\"",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/13/natodan-turk-savunma-sanayisine-tarihi-ovgu",
+          "also_in": []
+        },
+        {
+          "title": "Mehmetçik’ten nefes kesen gövde gösterisi! A Haber, Ateş Serbest-2026 tatbikatını Polatlı’da görüntüledi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/13/a-haber-polatlida-ates-serbest-2026-tatbikatini-goruntuledi",
+          "also_in": []
+        },
+        {
+          "title": "Ateş Serbest-2026 Faaliyeti’ne MKE imzası",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/ates-serbest-2026-faaliyetine-mke-imzasi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Dünya Bankası Desteği",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Türkiye'nin cari fazla verileri ve Dünya Bankası'ndan gelen 21 milyar dolarlık finansman paketi gündemin ana ekonomi maddeleri oldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye ağustosta 4,1 milyar dolar cari fazla verdi",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/turkiye-agustosta-41-milyar-dolar-cari-fazla-verdi/367757/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Dünya Bankası'ndan Türkiye'ye 4 yılda 21 milyar dolar",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/dunya-bankasi-ndan-turkiye-ye-4-yilda-21-milyar-dolar-28401",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Dünya Bankası açıkladı: Türkiye’de özel sektör sermayesi 21 milyar doları aştı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/dunya-bankasi-acikladi-turkiyede-ozel-sektor-sermayesi-21-milyar-dolari-asti-745504/",
+          "also_in": []
+        },
+        {
+          "title": "Dünya Bankası'ndan dört yılda Türkiye'ye 21 milyar dolar",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/dunya-bankasi-ndan-dort-yilda-turkiye-ye-21-milyar-dolar-3791222",
+          "also_in": []
+        },
+        {
+          "title": "Cari dengede yeniden aylık fazla",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/cari-dengede-yeniden-aylik-fazla-3791172",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İzmir'deki Gıda Zehirlenmesi Şüphesi",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İzmir'de bir fabrikada 80 işçinin gıda zehirlenmesi şüphesiyle hastaneye kaldırılması geniş yankı uyandırdı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İzmir’de gıda zehirlenmesi şüphesi! 80 işçi hastane kaldırıldı",
           "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/yerel-haberler/adiyaman/adiyamanda-saganak-araclar-suya-gomuldu-caddeleri-su-basti-3478426",
+          "link": "https://www.cnnturk.com/turkiye/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastane-kaldirildi-3478947",
           "also_in": [
             "CNN Türk",
-            "Haber Global",
-            "Haberler"
+            "Cumhuriyet",
+            "Elips Haber"
           ]
         },
         {
-          "title": "Bodrum açıklarında dev hortum",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/yerel-haberler/mugla/bodrum/bodrum-aciklarinda-dev-hortum-3478429",
+          "title": "İzmir'de Gıda Zehirlenmesi Şüphesi! 80 İşçi Hastaneye Kaldırıldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastaneye-kaldirildi-874012",
           "also_in": [
-            "Yeniçağ Gazetesi"
+            "En Son Haber",
+            "Sputnik"
           ]
         },
         {
-          "title": "Bodrum açıklarında dev hortum görüntülendi",
-          "source": "GZT",
-          "link": "https://www.gzt.com/gundem/bodrum-aciklarinda-dev-hortum-goruntulendi-4269067",
+          "title": "İzmir’de 80 işçi hastanelik oldu",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastane-kaldirildi-3919478",
           "also_in": [
             "Yeni Şafak"
           ]
         },
         {
-          "title": "Mersin'de şiddetli sağanak: Cadde ve sokaklar göle döndü",
-          "source": "Haber",
-          "link": "https://www.haber.com/gundem/mersin-de-siddetli-saganak-cadde-ve-sokaklar-gole-dondu-28299",
+          "title": "İzmir’de gıda zehirlenmesi şüphesi: 80 işçi hastanelik oldu",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/izmirde-gida-zehirlenmesi-suphesi-80-isci-hastanelik-oldu-548571",
           "also_in": [
-            "NTV"
+            "Son Mühür"
           ]
         },
         {
-          "title": "Sağanak Bir Anda Bastırdı! Araçlar Sular Altında Kaldı, Cadde Çöktü!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/turkiye/saganak-bir-anda-bastirdi-araclar-sular-altinda-kaldi-cadde-coktu-873892",
-          "also_in": []
+          "title": "80 işçi gıda zehirlenmesi şüphesiyle hastaneye kaldırıldı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/80-isci-gida-zehirlenmesi-suphesiyle-hastaneye-kaldirildi-p368902",
+          "also_in": [
+            "Sözcü"
+          ]
         }
       ]
     },
     {
-      "title": "İş Dünyasında İflaslar ve Ekonomik Darboğaz",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Türkiye'deki tıbbi malzeme ve vinç üreticisi gibi önemli firmaların iflas başvuruları ve konkordato talepleri, reel sektördeki ekonomik zorlukları gözler önüne seriyor.",
-      "importance": 7,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Yerli Test Kiti Üretmişti: Farlab İflas Etti, Türklab&apos;ın Konkordato Talebi Reddedildi",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/yerli-test-kiti-uretmisti-farlab-iflas-etti-turklab-in-konkordato-talebi-reddedildi-1387765",
-          "also_in": []
-        },
-        {
-          "title": "Vinç Üreticisi İflas Etti! Alacaklılara Başvuru İçin Bir Ay Verildi!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ekonomi/vinc-ureticisi-iflas-etti-alacaklilara-basvuru-icin-bir-ay-verildi-873884",
-          "also_in": []
-        },
-        {
-          "title": "Türkiye’nin Dev Tıbbi Malzeme Firması İflas Etti! Diğer İki Şirkete de Ret!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ekonomi/turkiyenin-dev-tibbi-malzeme-firmasi-iflas-etti-diger-iki-sirkete-de-ret-873883",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Breaking Bad Yıldızı RJ Mitte'nin Ölümü",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Dünyaca ünlü Breaking Bad dizisinin yıldızı RJ Mitte'nin genç yaşta hayatını kaybetmesi sanat dünyasında üzüntüyle karşılandı.",
+      "title": "Apple'ın Yeni Akıllı Ev Ekosistemi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Apple, akıllı ev stratejisini genişleterek HomeView ve yeni HomePod modellerini tanıttı.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Breaking Bad Dizisinin Yıldızı Hayatını Kaybetti",
-          "source": "Kayıp Rıhtım",
-          "link": "https://kayiprihtim.com/haber/rj-mitte-34-yasinda-hayatini-kaybetti/",
-          "also_in": []
-        },
-        {
-          "title": "Breaking Bad’in yıldızı RJ Mitte hayatını kaybetti",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/magazin/breaking-badin-yildizi-rj-mitte-hayatini-kaybetti-548385",
+          "title": "Apple'dan büyük akıllı ev hamlesi: Apple Home Collection tanıtıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-home-collection-tanitildi-iste-tum-detaylar--211585",
           "also_in": [
-            "Halk TV",
-            "TürkInform"
+            "Teknolojioku"
           ]
         },
         {
-          "title": "Breaking Bad dizisinin yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/cm8xz8jezr44o?at_medium=RSS&at_campaign=rss",
+          "title": "Apple, yeni akıllı ev cihazı HomeView’u tanıttı: Ev kontrolü ve eğlence tek ekranda",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-yeni-akilli-ev-cihazi-homeview-u-tanitti--211584",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Yapay zekalı HomePod mini 2 tanıtıldı: İşte fiyatı ve özellikleri",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yeni-homepod-mini-2-tanitildi-iste-fiyati-ve-ozellikleri--211583",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Apple, yeni akıllı ev ürünlerini tanıttı",
+          "source": "Upcorn",
+          "link": "https://upcorn.co/apple-yeni-akilli-ev-urunlerini-tanitti",
           "also_in": [
             "Cumhuriyet"
           ]
         },
         {
-          "title": "Breaking Bad’in yıldızı RJ Mitte 34 yaşında hayatını kaybetti",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/breaking-badin-yildizi-rj-mitte-34-yasinda-hayatini-kaybetti",
-          "also_in": [
-            "En Son Haber"
-          ]
-        },
-        {
-          "title": "Breaking Bad’in Yıldızı Kendi Canına Kıydı!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/magazin/breaking-badin-yildizi-kendi-canina-kiydi-873889",
+          "title": "Apple'ın yeni akıllı ev cihazı HomeView tanıtıldı: İşte özellikleri ve fiyatı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/applein-yeni-akilli-ev-cihazi-homeview-tanitildi-iste-ozellikleri-ve-fiyati_184584.html",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Eğitimde Yenilikler ve İŞKUR Destekleri",
-      "meta_category": "Eğitim",
-      "summary": "İŞKUR'un gençlik programı kontenjanlarını artırması ve üniversite öğrencilerine yönelik finansal destek paketleri, eğitim gündeminde öne çıkıyor.",
+      "title": "Papa 14. Leo'nun Sağlık Durumu",
+      "meta_category": "Diğer",
+      "summary": "Ameliyat sonrası Papa 14. Leo'ya akciğer kanseri teşhisi konulması dünya basınında geniş yer aldı.",
       "importance": 6,
-      "story_count": 3,
+      "story_count": 4,
       "stories": [
         {
-          "title": "İŞKUR Gençlik Programı’nda yeni dönem: 150 bin üniversite öğrencisine kontenjan",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/iskur-genclik-programinda-yeni-donem-150-bin-universite-ogrencisine-kontenjan-h1572994",
+          "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu/4087891",
           "also_in": [
-            "Bengütürk"
+            "Akşam",
+            "CGTN Türk",
+            "Diriliş Postası",
+            "Haber Global",
+            "TRT Haber"
           ]
         },
         {
-          "title": "İŞKUR'dan üniversitelilere 19 bin 250 TL destek! Başvurular başlıyor",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/ekonomi/iskurdan-universitelilere-19-bin-250-tl-destek-basvurular-basliyor-6987996",
+          "title": "Papa 14. Leo'ya akciğer kanseri tanısı kondu!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/papa-14-leoya-akciger-kanseri-tanisi-kondu",
           "also_in": [
-            "İnternet Haber"
+            "Dünya",
+            "Habertürk",
+            "Yeniçağ Gazetesi"
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan: İŞKUR Gençlik Programı 2026-2027 dönemi kontenjanını 150 bine yükseltiyoruz",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/haberler/cumhurbaskani-erdogan-iskur-genclik-programi-2026-20322673-haberi/",
+          "title": "Ameliyat olmuştu: Papa 14. Leo'nun hastalığı belli oldu",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/dunya/ameliyat-olmustu-papa-14-leonun-hastaligi-belli-oldu-haberi-924511",
           "also_in": [
-            "Haberler"
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Papa 14. Leo’nun ameliyatından ilk detaylar geldi",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/dunya/tarihe-gecen-aciklamanin-ardindan-papa-14-leonun-ameliyatindan-ilk-detaylar-geldi-1822523",
+          "also_in": [
+            "Türkiye Gazetesi"
           ]
         }
       ]
     },
     {
-      "title": "Kültür Sanat Etkinlikleri ve Festival Notları",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Adana Altın Koza ve Antalya Altın Portakal Film Festivalleri ile AKM'deki tiyatro gösterimleri, sanatseverlerin odağında yer alıyor.",
+      "title": "İstanbul Boğazı'nda Gemi Kazası",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul Boğazı'nda arıza yaparak sürüklenen bir geminin ters dönmesi sonucu kurtarma operasyonu düzenlendi.",
       "importance": 5,
-      "story_count": 5,
+      "story_count": 4,
       "stories": [
         {
-          "title": "33. Uluslararası Adana Altın Koza Film Festivali'nde İzleyici Ödülü'nü Kazanan \"Canavar\"ın Yönetmeni Tunç Şahin ve Ekibiyle ile Özel Röportaj",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000227029/",
-          "also_in": []
+          "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/istanbul-bogazinda-suruklenen-gemi-kurtarildi-594366",
+          "also_in": [
+            "CNN Türk",
+            "GZT",
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
         },
         {
-          "title": "63. Antalya Altın Portakal Film Festivali’nde Uluslararası Jüri Belli Oldu!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000226947/",
-          "also_in": []
+          "title": "İstanbul Boğazı'nda arıza yaşayan gemi sürüklenerek ters döndü",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/istanbul-bogazinda-ariza-yasayan-gemi-suruklenerek-ters-dondu-haberi-843776",
+          "also_in": [
+            "Haber Global"
+          ]
         },
         {
-          "title": "“Afife” 28 Yıl Sonra Yeniden AKM Sahnesinde",
-          "source": "Artkolik",
-          "link": "https://www.artkolik.net/tiyatro/afife-28-yil-sonra-yeniden-akm-sahnesinde-25530",
-          "also_in": []
+          "title": "İstanbul Boğazı’nda 147 metrelik gemi sürüklendi: Ekipler kurtardı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/istanbul-bogazinda-147-metrelik-gemi-suruklendi-ekipler-kurtardi-haberi-924513",
+          "also_in": [
+            "Yeni Şafak"
+          ]
         },
         {
-          "title": "Adana Altın Koza notları: Stella ile 8 Mart",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/adana-altin-koza-2026-6/",
-          "also_in": []
-        },
-        {
-          "title": "Adana Altın Koza notları: Ulusal Kısa Film Yarışması",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/adana-altin-koza-2026-5-ulusal-kisa-film/",
-          "also_in": []
+          "title": "İstanbul Boğazı'nda gemi arızası. Sürüklenerek ters döndü",
+          "source": "Haber",
+          "link": "https://www.haber.com/gundem/istanbul-bogazi-nda-gemi-arizasi-suruklenerek-ters-dondu-28436",
+          "also_in": [
+            "NTV"
+          ]
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Scream",
-    "artist": "Edvard Munch",
-    "year": "1893",
+    "title": "Conservation-restoration of The Gross Clinic",
+    "artist": "Thomas Eakins",
+    "year": "1875",
     "form": "resim",
-    "medium": "Oil, tempera, pastel and crayon on cardboard",
-    "location": "National Gallery, Oslo",
-    "description": "Ekonomik belirsizlikler ve toplumsal stresin yarattığı kolektif kaygı halini, bireyin modern dünyadaki çaresizliğini en yalın ve çarpıcı şekilde dışa vuruyor.",
+    "medium": "Oil on canvas",
+    "location": "Philadelphia Museum of Art",
+    "description": "Gıda zehirlenmesi ve sağlık krizlerinin gölgesinde, tıp biliminin soğukkanlılığı ile insan bedeninin kırılganlığı arasındaki o gerilimli dengeyi temsil ediyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Scream",
-    "wikipedia_extract": "The Scream is an image first created by the Norwegian artist Edvard Munch in 1893, and later repeated by him in different versions. The agonized face in the painting has become one of the most iconic images in art, seen as representing a profound experience of existential dread related to the human condition. Munch's work, including The Scream, had a formative influence on the Expressionist movement.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edvard_Munch"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_The_Gross_Clinic",
+    "wikipedia_extract": "The Gross Clinic, an 1875 oil-on-canvas painting by the American painter Thomas Eakins, has received conservation-restoration treatments throughout the 20th and 21st centuries. These treatments are a testament to the changing methodologies undertaken in the field of paintings conservation.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/EakinsTheGrossClinic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Eakins"
   },
   "music": {
-    "title": "Glory Box",
-    "artists": "Portishead",
-    "album": "Dummy",
-    "duration": "5:08",
-    "spotify_url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC",
-    "spotify_id": "3Ty7OTBNSigGEpeW2PqcsC",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/3Ty7OTBNSigGEpeW2PqcsC\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Data",
+    "artists": "Arcade Driver",
+    "album": "Same As It Ever Was",
+    "duration": "1:39",
+    "spotify_url": "https://open.spotify.com/track/1zlZuCHLX9UpeFZlfkrTz8",
+    "spotify_id": "1zlZuCHLX9UpeFZlfkrTz8",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273fd6df492fb0e4e2d610ca1a8",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1zlZuCHLX9UpeFZlfkrTz8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Modern dünyanın dijitalleşen labirentlerinde yankılanan o derin sessizlik, bugün Edvard Munch’un o meşhur çığlığında somutlaşan varoluşsal bir tedirginliğe dönüşüyor. Küresel krizlerin ağırlığı altında ezilen insan zihni, yapay zekanın tekinsiz gölgesinde kendi gerçekliğini yitirirken, Portishead’in Glory Box parçası bu sarsıntılı atmosferi karanlık, sinematik ve melankolik bir tınıyla taçlandırıyor. Munch’un tuvalindeki o ebedi çığlık, ekonomik istikrarsızlık ve jeopolitik gerilimlerle örülü çağımızın sessiz haykırışı olarak yeniden hayat buluyor. Müziğin ritmi, modern insanın dijital bir boşlukta asılı kalan ruh halini derinleştirirken, sanatın ve sesin birleştiği bu noktada hepimiz kendi belirsizliklerimize bir ayna tutuyoruz. Bu kompozisyon, teknolojinin soğuk yüzüyle insanın sıcak ve savunmasız korkusunun çarpıştığı o bıçak sırtı noktayı, kaçınılmaz bir estetikle gözler önüne seriyor."
+  "curator_statement": "Dijitalleşmenin ve yapay zekanın baş döndürücü hızına karşı jeopolitik kaygıların gölgesinde süzülen bugünün ruhu, aslında insanlığın kendi yarattığı karmaşık sistemler içindeki savunmasızlığını dışa vuruyor. Arcade Driver imzalı Data parçası, endüstriyel ve huzursuz tınısıyla bu dijital belirsizliği bir cerrahi müdahale titizliğine dönüştürürken, Thomas Eakinsin The Gross Clinic eseri de benzer bir keskinlikle bilginin ve teknolojinin soğuk ışığı altında insanın kendi kırılganlığını izlemeye zorluyor. Eakinsin tuvalinde bir neşterin altındaki beden neyse, bugünün dünyasında dijital altyapı ve finansal ağların merkezindeki toplum da odur; sürekli bir müdahale, onarım ve yeniden biçimlendirme sürecinin içindeyiz. Savunma sanayindeki yerli atılımlar ve diplomatik gerilimler, tıpkı eserdeki restorasyon süreçleri gibi, medeniyetin kendi yapısını ayakta tutma çabasının hem bir kanıtı hem de yaralı bir bilincin yansımasıdır. Teknoloji ile insan eti arasındaki bu gerilimli sınırda, geleceğe duyulan heyecan ile tedirginlik arasındaki o ince çizgide yürümeye devam ediyoruz."
 }
