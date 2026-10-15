@@ -1,0 +1,528 @@
+{
+  "date": "2026-10-15",
+  "date_human": "15 October 2026",
+  "generated_at": "2026-10-15T01:31:17.259285+00:00",
+  "stats": {
+    "feeds_collected": 268,
+    "news_total": 5687,
+    "news_analyzed": 616,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "İstanbul'u etkisi altına alan şiddetli sağanak yağışın yarattığı kaotik atmosfer, spor dünyasındaki ağır yenilgiler ve medya üzerindeki hukuki baskılarla birleşerek tedirgin bir gün oluşturuyor.",
+    "dominant_emotion": "Endişe",
+    "key_themes": [
+      "İstanbul'da aşırı yağış ve sel felaketi",
+      "Fenerbahçe'nin ağır Aston Villa mağlubiyeti",
+      "Medya kuruluşlarına yönelik erişim engelleri ve kayyum tartışmaları",
+      "Yatırım fonları ve ekonomi düzenlemeleri",
+      "Savunma sanayisi ve yerli teknoloji hamleleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-15",
+        "code": 3,
+        "temp_max": 20.4,
+        "temp_min": 14.6
+      },
+      {
+        "date": "2026-10-16",
+        "code": 3,
+        "temp_max": 21.4,
+        "temp_min": 10.7
+      },
+      {
+        "date": "2026-10-17",
+        "code": 61,
+        "temp_max": 16.3,
+        "temp_min": 7.4
+      },
+      {
+        "date": "2026-10-18",
+        "code": 45,
+        "temp_max": 19.8,
+        "temp_min": 5.2
+      },
+      {
+        "date": "2026-10-19",
+        "code": 0,
+        "temp_max": 22.6,
+        "temp_min": 7.0
+      },
+      {
+        "date": "2026-10-20",
+        "code": 0,
+        "temp_max": 22.2,
+        "temp_min": 11.7
+      },
+      {
+        "date": "2026-10-21",
+        "code": 3,
+        "temp_max": 22.4,
+        "temp_min": 11.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "İstanbul'da Sel Felaketi ve Hayatı Felç Eden Yağışlar",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "İstanbul'da etkili olan aşırı sağanak yağışlar sele yol açtı, ulaşımı durdurdu, eğitime ara verilmesine neden oldu ve maalesef can kayıplarına yol açtı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İstanbul'da hava trafiğine sağanak engeli: 43 uçak İstanbul Havalimanı'na inemedi",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-hava-trafigine-saganak-engeli-43-ucak-istanbul-havalimani-na-inemedi-2546860",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İstanbul'da metrekareye 242 kilogram yağış düştü",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/istanbul-da-metrekareye-242-kilogram-yagis-dustu-3919821",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Valilik Duyurdu: İstanbul'da Okullar Tatil Edildi",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/valilik-duyurdu-istanbulda-okullar-tatil-edildi-580500",
+          "also_in": [
+            "Gazete Pencere"
+          ]
+        },
+        {
+          "title": "İstanbul'dan acı haber geldi: 2 kişi hayatını kaybetti",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/saganak-yagmur-degil-ihmal-can-aldi-14-yasindaki-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti-p369224",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İBB Açıkladı: İstanbul’da Yağış 1985’ten Bu Yana En Yüksek Seviyelere Ulaştı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/ibb-acikladi-istanbulda-yagis-1985ten-bu-yana-en-yuksek-seviyelere-ulasti-874135",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe'nin Aston Villa Karşısında Ağır Yenilgisi",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Aston Villa'ya 6-0 mağlup olarak büyük bir hayal kırıklığı yaşadı ve eleştiri oklarının hedefi oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Unai Emery: \"Fenerbahçe 6-0 kaybetmeyi hak etmedi\"",
+          "source": "AjansSpor",
+          "link": "https://ajansspor.com/haber/unai-emery-fenerbahce-6-0-kaybetmeyi-hak-etmedi-736660",
+          "also_in": [
+            "Sabah Spor",
+            "Akşam",
+            "En Son Haber",
+            "Star",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Şampiyonlar Ligi'nde kabus gecesi: Fenerbahçe, Aston Villa deplasmanında dağıldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-sampiyonlar-liginde-kabus-gecesi-fenerbahce-aston-villa-deplasmaninda-dagildi-431280",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe İngiltere'de Aston Villa'ya farklı mağlup!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/14/fenerbahce-ingilterede-aston-villaya-farkli-maglup",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Aston Villa'ya 6-0 mağlup oldu",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/fenerbahce-aston-villaya-6-0-maglup-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=fenerbahce-aston-villaya-6-0-maglup-oldu",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'ye Villa hezimeti",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/spor/fenerbahceye-villa-hezimeti/haber-1706289",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Halk TV'ye Erişim Engeli ve Kayyum Operasyonu",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Halk TV'nin sosyal medya hesaplarına erişim engeli getirilmesi ve kanala kayyum atanması basın özgürlüğü tartışmalarını alevlendirdi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Halk TV'nin sosyal medya hesaplarına erişim engeli",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/halk-tvnin-sosyal-medya-hesaplarina-erisim-engeli/?utm_source=rss&utm_medium=rss&utm_campaign=halk-tvnin-sosyal-medya-hesaplarina-erisim-engeli",
+          "also_in": [
+            "Gazete Zebra",
+            "Haber 3",
+            "Habertürk",
+            "Haber",
+            "İfade Özgürlüğü Derneği",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Halk TV’nin Tüm Sosyal Medya Hesaplarına Erişim Engeli Getirildi",
+          "source": "Kamudan Haber",
+          "link": "https://www.kamudanhaber.net/halk-tvnin-tum-sosyal-medya-hesaplarina-erisim-engeli-getirildi",
+          "also_in": [
+            "Sözcü Gündem",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Halk TV'ye kayyum atandı, haber yayını durduruldu",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/cmy0eyerev48o?at_medium=RSS&at_campaign=rss",
+          "also_in": [
+            "Açık Gazete"
+          ]
+        },
+        {
+          "title": "Halk TV kapatıldı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/halk-tv-kapatildi-p369260",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Özgür Özel kayyum atanan Halk TV'yi ziyaret etti: \"Mesele Halk TV'yi susturmak\"",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/ozgur-ozel-kayyum-atanan-halk-tvyi-ziyaret-etti-mesele-halk-tvyi-susturmak-874112",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Şampiyonlar Ligi'nde Avrupa Gecesi",
+      "meta_category": "Spor",
+      "summary": "Şampiyonlar Ligi'nde oynanan maçlarda alınan sonuçlar, Real Madrid'in geri dönüşü ve PSG'nin performansı dikkat çekti.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Liverpool deplasmanda farklı kazandı! UEFA Şampiyonlar Ligi 2. Hafta",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/sampiyonlarligi/2026/10/14/liverpool-deplasmanda-farkli-kazandi-uefa-sampiyonlar-ligi-2-hafta",
+          "also_in": [
+            "A Spor"
+          ]
+        },
+        {
+          "title": "Real Madrid'den tarihi geri dönüş",
+          "source": "Futboo",
+          "link": "https://www.futboo.com/real-madrid-den-tarihi-geri-donus/92502/",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "PSG, Manchester City'ye sahayı dar etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-psg-manchester-cityye-sahayi-dar-etti-431295",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "UEFA Şampiyonlar Ligi'nin ikinci haftası, oynanan 9 maçla tamamlandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ikinci-haftasi-oynanan-9-macla-tamamlandi/4089108",
+          "also_in": []
+        },
+        {
+          "title": "Şampiyonlar Ligi'nde PSG Fırtınası! Manchester City İlk Yarıda Dağıldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/sampiyonlar-liginde-psg-firtinasi-manchester-city-ilk-yarida-dagildi-874133",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "ABD Enflasyon Verileri ve Küresel Piyasa Etkileri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "ABD'de açıklanan enflasyon verilerinin beklentilerin üzerinde gelmesi, Fed politikaları ve küresel piyasalar üzerinde tedirginliğe yol açtı.",
+      "importance": 8,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Piyasalar bu veriye kilitlendi: ABD enflasyonu eylülde beklentiyi aştı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/ekonomi/piyasalar-bu-veriye-kilitlendi-abd-enflasyonu-eylulde-beklentiyi-asti-110126",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "ABD’de yıllık enflasyon beklentilerin üstünde: Yüzde 3,7",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/abdde-yillik-enflasyon-beklentilerin-ustunde-yuzde-37-745806/",
+          "also_in": []
+        },
+        {
+          "title": "ABD’de eylül enflasyonu açıklandı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/abd-de-eylul-enflasyonu-aciklandi/940969",
+          "also_in": []
+        },
+        {
+          "title": "ABD'de Eylül enflasyonu 5 ayın zirvesinde",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/abd-de-eylul-enflasyonu-5-ayin-zirvesinde-3791347",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yatırım Fonları İçin Yeni Yasal Düzenlemeler",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Tasfiye sürecindeki yatırım fonlarına ilişkin yeni kanun teklifi TBMM komisyonundan geçerek yasal düzenleme sürecine girdi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon yasa teklifi komisyondan geçti",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/fon-yasa-teklifi-komisyondan-gecti-p369219",
+          "also_in": [
+            "Sözcü Gündem",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Fon düzenlemelerini içeren kanun teklifi komisyondan geçti",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/fon-duzenlemelerini-iceren-kanun-teklifi-komisyondan-gecti-594530",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "'Fon yasa teklifi' TBMM Plan ve Bütçe Komisyonu'ndan geçti",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/fon-yasa-teklifi-tbmm-plan-ve-butce-komisyonundan-gecti",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "TBMM komisyonunda fon mağdurlarına yapılacak ödemelerin hesaplama yöntemi değiştirildi",
+          "source": "Hukuki Haber",
+          "link": "https://www.hukukihaber.net/tbmm-komisyonunda-fon-magdurlarina-yapilacak-odemelerin-hesaplama-yontemi-degistirildi",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Yatırım fonları için yeni düzenleme komisyondan geçti: 1 milyon TL'lik ara ödeme gündemde",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/yatirim-fonlari-icin-yeni-duzenleme-komisyondan-gecti-1-milyon-tllik-ara-odeme-gu-874107",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ateş Serbest-2026 Tatbikatı ve Savunma Teknolojileri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye'nin yerli savunma sanayisi ürünlerinin sergilendiği Ateş Serbest-2026 tatbikatı, kamikaze dronlar ve sürü İHA teknolojileriyle dikkat çekti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "STM’nin sürü İHA'ları Ateş Serbest-2026'ya damga vurdu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stm-nin-suru-ihalari-ates-serbest-2026ya-damga-vurdu/4088975",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "HAVELSAN, Ateş Serbest-2026 Tatbikatı'nda yeteneklerini sergiledi",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/havelsan-ates-serbest-2026-tatbikatinda-yeteneklerini-sergiledi/",
+          "also_in": []
+        },
+        {
+          "title": "Ateş Serbest-2026 Tatbikatı başarıyla tamamlandı",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/ates-serbest-2026-tatbikati-basariyla-tamamlandi",
+          "also_in": []
+        },
+        {
+          "title": "HAVELSAN Sistemleri Ateş Serbest-2026 Tatbikatında Sergilendi",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/havelsan-sistemleri-ates-serbest-2026-tatbikatinda-sergilendi/",
+          "also_in": []
+        },
+        {
+          "title": "20 KARGU Sürüsü Ateş Serbest-2026’da Hedefleri Vurdu",
+          "source": "Mavi Savunma",
+          "link": "https://www.mavisavunma.com/20-kargu-surusu-ates-serbest-2026da-hedefleri-vurdu/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eski SPK Başkanı Hakkında Soruşturma",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, eski SPK Başkanı Gönül hakkında soruşturma izni verdi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Eski SPK Başkanı Gönül hakkında soruşturma izni",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/ekonomi/son-dakika-eski-spk-baskani-gonul-hakkinda-sorusturma-izni-3919717",
+          "also_in": [
+            "İstiklal",
+            "NTV",
+            "TRT Haber",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Bakan Şimşek, eski SPK Başkanı Gönül hakkında soruşturma izni verdi",
+          "source": "Gazete Pencere",
+          "link": "https://www.gazetepencere.com/gundem/bakan-simsek-eski-spk-baskani-gonul-hakkinda-sorusturma-izni-verdi-719259h",
+          "also_in": [
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Mehmet Şimşek'ten eski SPK Başkanı hakkında soruşturma izni!",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3667995-mehmet-simsekten-eski-spk-baskani-hakkinda-sorusturma-izni",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Bakan Şimşek'ten eski SPK Başkanı Gönül hakkında soruşturma izni",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/bakan-simsekten-eski-spk-baskani-gonul-hakkinda-sorusturma-izni-548719",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Eski SPK Başkanı İbrahim Ömer Gönül hakkında soruşturma izni verildi",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/eski-spk-baskani-ibrahim-omer-gonul-hakkinda-sorusturma-izni-verildi-p369176",
+          "also_in": [
+            "Ulusal Kanal"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "OpenAI'da Casusluk ve Güvenlik Şoku",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "OpenAI bünyesinde bir yöneticinin odasında gizli kayıt cihazı bulunması şirkette büyük bir casusluk krizine yol açtı.",
+      "importance": 7,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "OpenAI'da casusluk şoku: Yönetici odasına gizli kayıt cihazı yerleştirildi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/openaida-casusluk-soku-yonetici-odasina-gizli-kayit-cihazi-yerlestirildi/103816",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "OpenAI'da casusluk şoku: Mühendis toplantı odasına dinleme cihazı yerleştirdi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/openaida-casusluk-soku-muhendis-toplanti-odasina-dinleme-cihazi-yerlestirdi/103810",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "OpenAI’da casusluk alarmı: Ofiste sofistike kayıt cihazı bulundu",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/openai-da-casusluk-alarmi-ofiste-sofistike-kayit-cihazi-bulundu--211601",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sanatçı Alpay'ın Vefatı",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Türk pop müziğinin usta ismi Alpay'ın hayatını kaybetmesi sanat camiasında üzüntüyle karşılandı.",
+      "importance": 6,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "Türk Pop Müziğinin Usta İsmi Alpay Hayatını Kaybetti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/turk-pop-muziginin-usta-ismi-alpay-hayatini-kaybetti-1388352",
+          "also_in": [
+            "Rotka"
+          ]
+        },
+        {
+          "title": "Şarkıcı Alpay hayatını kaybetti",
+          "source": "TRT Haber",
+          "link": "https://www.trthaber.com/haber/gundem/sarkici-alpay-hayatini-kaybetti-960092.html",
+          "also_in": [
+            "Veryansın TV",
+            "Elele"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Wounded Angel",
+    "artist": "Hugo Simberg",
+    "year": "1903",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Ateneum Art Museum",
+    "description": "Fenerbahçe'nin ağır mağlubiyeti ve genel tedirgin atmosferi, taşınan yaralı bir figürün melankolisiyle yansıtıyoruz. Yenilginin ağırlığı ve beklentilerin yıkılması, tabloya sinmiş o ağır hüzünle örtüşüyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Wounded_Angel",
+    "wikipedia_extract": "The Wounded Angel is a painting by Finnish symbolist painter Hugo Simberg. It is one of the most recognizable of Simberg's works, and was voted Finland's \"national painting\" in a vote held by the Ateneum art museum in 2006. In a similar 2013 vote held by medal and coin vendor Suomen Moneta, it was voted second most important.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/The_Wounded_Angel_-_Hugo_Simberg.jpg/3840px-The_Wounded_Angel_-_Hugo_Simberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Hugo_Simberg"
+  },
+  "music": {
+    "title": "Everything In Its Right Place",
+    "artists": "Radiohead",
+    "album": "Kid A",
+    "duration": "4:11",
+    "spotify_url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+    "spotify_id": "2kRFrWaLWiKq48YYVdGcm8",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2kRFrWaLWiKq48YYVdGcm8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "İstanbul bugün, gökyüzünün gri hiddetiyle yeryüzündeki sosyal ve ekonomik sarsıntıların birbirine karıştığı tekinsiz bir boşlukta asılı duruyor. Hugo Simberg’in Yaralı Melek tablosundaki o tekinsiz sessizlik, taşan sokakların ve alınan ağır yenilgilerin yarattığı kolektif kaygıya eşlik ederken, ruhumuzun savunmasızlığını gözler önüne seriyor. Radiohead’in Everything In Its Right Place adlı parçasındaki mekanik tekrarlar, kontrolü kaybetme korkusuyla birleşerek bu bulanık günün ritmini oluşturuyor. Yerli teknolojilerin ve ekonomik düzenlemelerin gölgesinde, erişim engelleriyle kararan bir medya ikliminde, hepimiz o melekleri taşıyan iki figür gibi belirsiz bir yolda yürüyoruz. Dış dünyadaki kaosu içimizdeki endişeyle harmanlayan bu gün, her şeyin yerli yerinde olma ihtimalinin uzağında, sadece hayatta kalma çabasına dönüşüyor."
+}
