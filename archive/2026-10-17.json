@@ -1,0 +1,510 @@
+{
+  "date": "2026-10-17",
+  "date_human": "17 October 2026",
+  "generated_at": "2026-10-17T01:31:07.390676+00:00",
+  "stats": {
+    "feeds_collected": 266,
+    "news_total": 5593,
+    "news_analyzed": 616,
+    "clusters": 9
+  },
+  "mood": {
+    "description": "İstanbul'daki sel felaketinin yarattığı endişe ve tedbir atmosferi, ekonomi ve siyaset dünyasındaki yoğun hareketlilikle birleşerek gergin ve dikkatli bir gün tablosu çiziyor.",
+    "dominant_emotion": "Endişe",
+    "key_themes": [
+      "İstanbul'da sel felaketi ve afet yönetimi",
+      "Ekonomik düzenlemeler ve bütçe planlamaları",
+      "Siyaset dünyasındaki istifalar ve operasyonlar",
+      "Teknoloji ve yapay zeka entegrasyonu",
+      "Spor dünyasındaki transfer ve Avrupa maçları"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-17",
+        "code": 61,
+        "temp_max": 15.2,
+        "temp_min": 7.7
+      },
+      {
+        "date": "2026-10-18",
+        "code": 45,
+        "temp_max": 19.2,
+        "temp_min": 5.9
+      },
+      {
+        "date": "2026-10-19",
+        "code": 2,
+        "temp_max": 21.3,
+        "temp_min": 7.4
+      },
+      {
+        "date": "2026-10-20",
+        "code": 1,
+        "temp_max": 23.0,
+        "temp_min": 9.2
+      },
+      {
+        "date": "2026-10-21",
+        "code": 3,
+        "temp_max": 24.2,
+        "temp_min": 10.5
+      },
+      {
+        "date": "2026-10-22",
+        "code": 3,
+        "temp_max": 25.5,
+        "temp_min": 14.1
+      },
+      {
+        "date": "2026-10-23",
+        "code": 3,
+        "temp_max": 19.8,
+        "temp_min": 17.0
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "İstanbul'da Sel Felaketi ve Afet Alarmı",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "İstanbul'u vuran şiddetli sağanak yağışlar sonrası hayat durma noktasına geldi, seferler iptal edildi ve afet koordinasyon çalışmaları başlatıldı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ayazağa'da sel felaketinin boyutu drone ile görüntülendi",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/gundem/ayazagada-sel-felaketinin-boyutu-drone-ile-goruntulendi/272152",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "İçişleri Bakanlığı'ndan uyarı! İstanbul ve birçok ilde kuvvetli yağış bekleniyor",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/icisleri-bakanligindan-uyari-istanbul-ve-bircok-ilde-kuvvetli-yagis-bekleniyor",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "İstanbul’da sağanak alarmı: 4 kişi için arama çalışmaları sürüyor",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/yerel-haberler/istanbulda-saganak-alarmi-4-kisi-icin-arama-calismalari-suruyor/367826/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "İçişleri'nden sağanak ve fırtına uyarısı: İstanbul'da şiddetli yağış bekleniyor",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/icislerinden-saganak-ve-firtina-uyarisi-istanbulda-siddetli-yagis-bekleniyor-p369942",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Şiddetli yağışlar sonrası seferberlik: AFAD koordinasyonunda binlerce personel müdahale ediyor",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/siddetli-yagislar-sonrasi-seferberlik-afad-koordinasyonunda-binlerce-personel-mudahale-ediyor/haber-1706841",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siyasette İstifalar ve Operasyonlar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Muğla Büyükşehir Belediye Başkanı'nın CHP'den istifası ve Halk TV'deki yönetici istifaları gündemi sarsarken, siyasi figürler arasındaki sert tartışmalar devam ediyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa etti",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/16/mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti",
+          "also_in": [
+            "Diken",
+            "Cumhuriyet",
+            "DW Haber",
+            "F5 Haber",
+            "En Son Haber",
+            "Evrensel",
+            "GZT",
+            "Haber",
+            "Haber Global",
+            "Karar",
+            "İstiklal",
+            "NTV",
+            "İnternet Haber",
+            "Mynet",
+            "Son Mühür",
+            "Türkgün",
+            "Ulusal Kanal",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Halk TV Genel Yayın Yönetmeni Suat Toktaş istifa etti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/halk-tv-genel-yayin-yonetmeni-suat-toktas-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=halk-tv-genel-yayin-yonetmeni-suat-toktas-istifa-etti",
+          "also_in": [
+            "Ekonomim",
+            "Evrensel",
+            "Dokuz8 Haber",
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "İmamoğlu'ndan Kılıçdaroğlu'na: Senin alnını karışlarım",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/imamoglundan-kilicdarogluna-senin-alnini-karislarim-351694h",
+          "also_in": [
+            "Yeni Akit",
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Son dakika Muğla Büyükşehir Belediye Başkanı Ahmet Aras CHP'den istifa etti",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/son-dakika-mugla-buyuksehir-belediye-baskani-ahmet-aras-chpden-istifa-etti-haberi-925217",
+          "also_in": [
+            "Yeni Asır Gazetesi"
+          ]
+        },
+        {
+          "title": "Son dakika...Halk TV Genel Yayın Yönetmeni Suat Toktaş istifa etti",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/son-dakika-halk-tv-genel-yayin-yonetmeni-suat-toktas-istifa-etti-p369905",
+          "also_in": [
+            "Sözcü"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Bütçe ve Fon Düzenlemeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "2027 yılı bütçe kanun teklifi TBMM'ye sunuldu; hükümet yetkilileri fon vurgunları ve ekonomik istikrar üzerine kritik açıklamalarda bulundu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "2027 yılı Merkezi Bütçe Kanun Teklifi, TBMM’ye sunuldu",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/2027-yili-merkezi-butce-kanun-teklifi-tbmmye-sunuldu",
+          "also_in": [
+            "En Son Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz, 2027 bütçesini açıkladı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/cumhurbaskani-yardimcisi-yilmaz-2027-butcesini-acikladi/367824/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Erdoğan’dan fon soruşturması açıklaması: Sorunu kontrol altına aldık",
+          "source": "10Haber",
+          "link": "https://10haber.net/siyaset/erdogandan-fon-sorusturmasi-aciklamasi-sorunu-kontrol-altina-aldik-746390/",
+          "also_in": []
+        },
+        {
+          "title": "Bakan Şimşek’ten fon mesajı: Yasal düzenlemeler 2027’ye kadar tamamlanacak",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/16/bakan-simsekten-fon-mesaji-yasal-duzenlemeler-2027ye-kadar-tamamlanacak",
+          "also_in": []
+        },
+        {
+          "title": "Erdoğan fon sürecinde 3 önceliği açıkladı: 3 lirasını 30'a katlayana bedelini ödeteceğiz",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/erdogan-fon-surecinde-3-onceligi-acikladi-3-lirasini-30a-katlayana-bedelini-odetecegiz-h39627",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Transfer ve Avrupa Heyecanı",
+      "meta_category": "Spor",
+      "summary": "Türk takımlarının Avrupa'daki tur ihtimalleri ve Süper Lig ekiplerinin transfer yasakları ile teknik direktör değişiklikleri spor gündeminin ana maddesi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "FIFA'dan Süper Lig ekibine transfer yasağı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-fifadan-super-lig-ekibine-transfer-yasagi-431409",
+          "also_in": [
+            "NTV Spor Futbol",
+            "Sözcü Spor",
+            "Akşam",
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "FIFA'dan Eyüpspor'a transfer yasağı!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/eyupspor/2026/10/16/fifadan-eyupspora-transfer-yasagi",
+          "also_in": [
+            "Sabah Spor",
+            "Star"
+          ]
+        },
+        {
+          "title": "Beşiktaş evinde Bayern Münih'i devirdi! İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/10/16/besiktas-evinde-bayern-munihi-devirdi-iste-macin-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor'un Avrupa'da tur ihtimalleri açıklandı!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/16/besiktas-fenerbahce-galatasaray-ve-trabzonsporun-avrupada-tur-ihtimalleri-aciklandi",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray MCT Technic'te Gianmarco Pozzecco dönemi sona erdi!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/16/galatasaray-mct-technicte-gianmarco-pozzecco-donemi-sona-erdi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayisinde Yerli Atılımlar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türk savunma sanayii, KAAN ve HÜRJET projeleriyle 2035 hedeflerini açıklarken, yerli savaş gemisi üretimi de hız kesmeden devam ediyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "TUSAŞ’ın 2035 Hedefi: 150+ KAAN, 200+ HÜRJET, 10.000+ İHA",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/tusas-2035-hedefleri-kaan-hurjet-10-bin-taktik-iha/",
+          "also_in": []
+        },
+        {
+          "title": "TUSAŞ: 80 ANKA-3 Siparişi Var",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/tusas-anka-3un-yeni-uretim-hatti-tamamlandi/",
+          "also_in": []
+        },
+        {
+          "title": "Türk Ordusu’ndan 80 adet ANKA III siparişi!",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/turk-ordusundan-80-adet-anka-iii-siparisi",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye’nin yeni savaş gemisinde ilk kaynak yapıldı",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/turkiyenin-yeni-savas-gemisinde-ilk-kaynakyapildi",
+          "also_in": []
+        },
+        {
+          "title": "ÇAKIR TSK envanterine girmeye hazırlanıyor",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/cakir-tsk-envanterine-girmeye-hazirlaniyor",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Girişimleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye'de yapay zeka girişimi sayısındaki artış ve teknoloji devlerinin yeni ürün lansmanları, dijital dönüşümün hız kazandığını gösteriyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye’de Yapay Zeka Girişimi Sayısı 504’e Yükseldi",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/turkiyede-yapay-zeka-girisimi-say-439483",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Google, yapay zeka yanıtlarında site bağlantılarını yukarı taşıyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-yapay-zeka-yanitlarinda-site-baglantilarini-yukari-tasiyor_184686.html",
+          "also_in": []
+        },
+        {
+          "title": "Üç sekme aç, karşılaştırmayı ChatGPT’ye bırak: Chrome uzantısı güncellendi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/uc-sekme-ac-karsilastirmayi-chatgptye-birak-chrome-uzantisi-guncellendi_184678.html",
+          "also_in": []
+        },
+        {
+          "title": "İK’da Yapay Zeka Pazarı 2030’da 15,2 Milyar Dolara Ulaşacak",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/genel/ikda-yapay-zeka-pazari-2030da-152-milyar-dolara-ulasacak/",
+          "also_in": []
+        },
+        {
+          "title": "Güney Kore ilk adımı attı: İnsansı robotlar, insanlarla yan yana çalışabilecek",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/guney-kore-de-insansi-robotlar-insanlarla-yan-yana-calisacak--211715",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlık ve Sosyal Güvenlik Güncellemeleri",
+      "meta_category": "Sağlık",
+      "summary": "SGK'nın 131 ilacı geri ödeme listesine alması ve 31 binden fazla sağlık personeli istihdam edileceği kararı Resmi Gazete'de yayımlandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "31 bin 54 sağlık personelinin istihdamına ilişkin karar Resmi Gazete'de",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/31-bin-54-saglik-personelinin-istihdamina-iliskin-karar-resmi-gazetede",
+          "also_in": [
+            "Haber Global",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "31 bin 54 sözleşmeli sağlık personeli alınacak! Karar Resmi Gazete'de",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/31-bin-54-sozlesmeli-saglik-personeli-alinacak-karar-resmi-gazetede-p369948",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "SGK’nin geri ödeme listesine 131 yeni ilaç eklendi",
+          "source": "10Haber",
+          "link": "https://10haber.net/saglik/sgknin-geri-odeme-listesine-131-yeni-ilac-eklendi-746357/",
+          "also_in": []
+        },
+        {
+          "title": "SGK'dan 131 ilaç için geri ödeme kararı! Bakan Işıkhan duyurdu",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/16/sgkdan-131-ilac-icin-geri-odeme-karari-bakan-isikhan-duyurdu",
+          "also_in": []
+        },
+        {
+          "title": "Resmi Gazete'de yayımlandı: Sağlık Bakanlığına sözleşmeli sağlık personeli alımı için yeni karar",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/resmi-gazetede-yayimlandi-saglik-bakanligina-sozlesmeli-saglik-personeli-alimi-icin-yeni-karar-h39654",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür, Sanat ve Edebiyat Haberleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Ödüllü yazarlar, kitap lansmanları ve uluslararası film festivalleri ile sanat camiasında yoğun bir etkinlik trafiği yaşanıyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Frieze Week 2026’da Londra Müzayedeleri: Kandinsky 31,5 Milyon Sterlinle Zirvede",
+          "source": "Artkolik",
+          "link": "https://www.artkolik.net/haber/frieze-week-2026da-londra-muzayedeleri-kandinsky-315-milyon-sterlinle-zirvede-25547",
+          "also_in": []
+        },
+        {
+          "title": "Trabzon’da 59 Yazar ve Şair Okurlarıyla Buluşacak",
+          "source": "Edebiyat Burada",
+          "link": "https://edebiyatburada.com/trabzonda-59-yazar-ve-sair-okurlariyla-bulusacak/",
+          "also_in": []
+        },
+        {
+          "title": "Ahmet Altan, Dünya Edebiyatı Festivali’nde üç etkinliğe katılacak",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/ahmet-altan-dunya-edebiyati-festivalinde-uc-etkinlige-katilacak/",
+          "also_in": []
+        },
+        {
+          "title": "Tayfun Belet’in yeni belgeseli Beyaz Kıtaya Yolculuk Altın Portakal’da prömiyer yapacak",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/tayfun-beletin-yeni-belgeseli-beyaz-kitaya-yolculuk-altin-portakalda-promiyer-yapacak/23686",
+          "also_in": []
+        },
+        {
+          "title": "Majid Majidi 14. Boğaziçi Film Festivali’nin jüri başkanı",
+          "source": "10Haber",
+          "link": "https://10haber.net/kultur-sanat/majid-majidi-14-bogazici-film-festivalinin-juri-baskani-746369/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Magazin ve Yaşam Trendleri",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Ünlü isimlerin özel hayatları, yeni sezon dizileri ve sosyal medya trendleri yaşam kategorisinde öne çıkıyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Semiramis Pekkan'a eski eşi ve sevgilisinden sürpriz kutlama",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/semiramis-pekkana-eski-esi-ve-sevgilisinden-surpriz-kutlama",
+          "also_in": []
+        },
+        {
+          "title": "Yeni günlük dizi : 'Menekşe' konusu nedir, oyuncuları kim?",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/yeni-gunluk-dizi-menekse-konusu-nedir-oyunculari-kim",
+          "also_in": []
+        },
+        {
+          "title": "Fazıl Say'dan evlilik yıl dönümü paylaşımı",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/magazin/fazil-saydan-evlilik-yil-donumu-paylasimi",
+          "also_in": []
+        },
+        {
+          "title": "Sardinemaxxing: Sardalya tüketimine teşvik eden yeni trend",
+          "source": "Uplifers",
+          "link": "https://www.uplifers.com/sardinemaxxing-nedir/",
+          "also_in": []
+        },
+        {
+          "title": "‘Cuffing Season’ akımına kapılmadan, kış aylarında yalnızlığın ve kendi alanınızın tadını çıkarma rehberi",
+          "source": "Uplifers",
+          "link": "https://www.uplifers.com/cuffing-season-akimina-kapilmadan-kis-aylarinda-yalnizligin-ve-kendi-alaninizin-tadini-cikarma-rehberi/",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Anatomy Lesson of Dr. Deijman",
+    "artist": "Rembrandt",
+    "year": "1656",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Amsterdam Museum",
+    "description": "Savunma sanayii ve teknolojik gelişmelerle hız kazanan modern dünyanın, insan bedeni ve yaşam üzerindeki müdahaleci denetimini tıbbi ve soğukkanlı bir bakışla sorgular.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Deijman",
+    "wikipedia_extract": "The Anatomy Lesson of Dr. Deijman is a 1656 fragmentary painting by Rembrandt, now in Amsterdam Museum. It is a group portrait showing a brain dissection by Dr. Jan Deijman (1619–1666). Much of the canvas was destroyed in a fire in 1723 and the painting was subsequently recut to its present dimensions, though a preparatory sketch shows the full group.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Rembrandt_-_Anatomische_les_van_Dr._Jan_Deijman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Rembrandt"
+  },
+  "music": {
+    "title": "A Forest",
+    "artists": "The Cure",
+    "album": "Seventeen Seconds",
+    "duration": "5:54",
+    "spotify_url": "https://open.spotify.com/track/4iVTSRiJAA18d3QglhyJ6Q",
+    "spotify_id": "4iVTSRiJAA18d3QglhyJ6Q",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/4iVTSRiJAA18d3QglhyJ6Q\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "İstanbul sokaklarını esir alan suların getirdiği belirsizlik, siyasi koridorların sarsılan dengeleri ve ekonomik bütçelerin soğuk rakamlarıyla birleşerek zihnimizde keskin bir endişe düğümü oluşturuyor. Rembrandt’ın yarım kalmış anatomi dersi, tıpkı bugün tanık olduğumuz toplumsal çözülmeler gibi, insan doğasının en kırılgan katmanlarını gözler önüne seriyor; sanki hayatın geçiciliğini ve kontrolümüz dışındaki afetlerin yarattığı o derin boşluğu teşrih masasına yatırıyoruz. The Cure’un A Forest parçasındaki o karanlık ve tekinsiz tınılar, ormanın derinliklerinde kaybolmuş bir ruhun çaresizliğini yansıtırken, aslında hepimizin ortak hafızasında yankılanan o temkinli bekleyişin ritmini tutuyor. Kesilmiş bir tuvalin eksik parçaları ile yapay zekanın soğuk hesapları arasında sıkışan günümüz, hakikat arayışımızın aslında ne kadar kırılgan bir zemine oturduğunu hatırlatıyor. Bugünün ruhu, bir cerrahın soğukkanlılığı ile bir felaketin getirdiği o derin telaşın arasında, geleceğe dair soruları cevapsız bir boşlukta asılı bırakıyor."
+}
