@@ -1,22 +1,21 @@
 {
-  "date": "2026-10-18",
-  "date_human": "18 October 2026",
-  "generated_at": "2026-10-18T01:31:33.095183+00:00",
+  "date": "2026-10-19",
+  "date_human": "19 October 2026",
+  "generated_at": "2026-10-19T01:31:01.555696+00:00",
   "stats": {
-    "feeds_collected": 265,
-    "news_total": 4798,
-    "news_analyzed": 582,
+    "feeds_collected": 262,
+    "news_total": 4718,
+    "news_analyzed": 570,
     "clusters": 8
   },
   "mood": {
-    "description": "Doğa olaylarının yarattığı huzursuzluk ve ekonomik belirsizliklerin gölgesinde, teknolojik gelişmelerin ve spor heyecanının teselli aradığı yoğun bir atmosfer var.",
-    "dominant_emotion": "Gerilim",
+    "description": "Doğal afetlerin getirdiği hüzün ve ekonomik belirsizliklerin yarattığı tedirginlik, spor dünyasındaki rekabetle dengelenmeye çalışılan bir atmosfer yaratıyor.",
+    "dominant_emotion": "Endişe",
     "key_themes": [
-      "İklim ve sel felaketleri ile mücadele",
-      "Yapay zeka devriminin iş ve hukuk dünyasına yansımaları",
-      "Ekonomik dalgalanmalar ve bütçe planlamaları",
-      "Savunma sanayii atılımları ve bölgesel diplomasi",
-      "Spor dünyasında derbi heyecanı ve hakem tartışmaları"
+      "İstanbul'da sel felaketi ve can kayıpları",
+      "Orta Doğu'da tırmanan jeopolitik gerilim",
+      "Ekonomik fon tasfiye süreçleri ve bütçe maratonu",
+      "Spor dünyasında derbi heyecanı ve milli başarılar"
     ]
   },
   "weather": {
@@ -25,183 +24,308 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-18",
-        "code": 45,
-        "temp_max": 19.2,
-        "temp_min": 4.9
-      },
-      {
         "date": "2026-10-19",
-        "code": 2,
-        "temp_max": 21.9,
-        "temp_min": 7.9
+        "code": 3,
+        "temp_max": 21.4,
+        "temp_min": 8.5
       },
       {
         "date": "2026-10-20",
-        "code": 0,
+        "code": 3,
         "temp_max": 23.7,
         "temp_min": 9.6
       },
       {
         "date": "2026-10-21",
-        "code": 0,
-        "temp_max": 24.5,
-        "temp_min": 10.6
+        "code": 3,
+        "temp_max": 24.1,
+        "temp_min": 10.8
       },
       {
         "date": "2026-10-22",
-        "code": 2,
-        "temp_max": 25.6,
-        "temp_min": 8.9
+        "code": 3,
+        "temp_max": 25.2,
+        "temp_min": 9.2
       },
       {
         "date": "2026-10-23",
-        "code": 2,
-        "temp_max": 23.9,
-        "temp_min": 15.5
+        "code": 3,
+        "temp_max": 22.5,
+        "temp_min": 11.6
       },
       {
         "date": "2026-10-24",
+        "code": 2,
+        "temp_max": 22.4,
+        "temp_min": 14.1
+      },
+      {
+        "date": "2026-10-25",
         "code": 3,
-        "temp_max": 24.0,
-        "temp_min": 16.3
+        "temp_max": 19.5,
+        "temp_min": 11.4
       }
     ]
   },
   "clusters": [
     {
-      "title": "İstanbul ve Bölgesel Sel Felaketi",
+      "title": "İstanbul'da Sel Felaketi",
       "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "İstanbul'da etkili olan aşırı yağışlar sel felaketine yol açtı; devlet esnafa destek paketi açıklarken, riskli alanlarda yıkım ve tahliye süreçleri hız kazandı.",
+      "summary": "İstanbul'da etkili olan şiddetli sağanak yağışlar sele dönüştü; yaşanan can kayıpları ve maddi hasarlar sonrası AFAD ve belediye ekiplerinin müdahalesi sürüyor.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Sağanak İstanbul'un Anadolu Yakası'nda hayatı olumsuz etkiledi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/saganak-istanbulun-anadolu-yakasinda-hayati-olumsuz-etkiledi/4092315",
+          "title": "İstanbul'daki selde can kaybı 5'e yükseldi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/istanbuldaki-selde-can-kaybi-5e-yukseldi-110223",
           "also_in": [
-            "Diriliş Postası",
-            "Bengütürk",
-            "İnternet Haber"
+            "BHA",
+            "Veryansın TV"
           ]
         },
         {
-          "title": "İstanbul'da selden etkilenen esnafa 80 milyon lira nakdi destek sağlanacak",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/istanbulda-selden-etkilenen-esnafa-80-milyon-lira-nakdi-destek-saglanacak/4092275",
+          "title": "Kocaeli'deki sel felaketi: Sulara kapılan araçtaki 2 kişiden birinin cansız bedeni bulundu",
+          "source": "Gazete Duvar",
+          "link": "https://www.gazeteduvar.com.tr/kocaelideki-sel-felaketi-sulara-kapilan-aractaki-2-kisiden-birinin-cansiz-bedeni-bulundu-haber-1766705",
           "also_in": [
-            "CNN Türk",
-            "Sputnik"
+            "F5 Haber"
           ]
         },
         {
-          "title": "İstanbul’da sel felaketinin yaraları sarılıyor! Esnafa 80 milyon liralık destek",
+          "title": "İstanbul’da selden etkilenen esnafa 80 milyon lira destek",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/istanbulda-selden-etkilenen-esnafa-80-milyon-lira-destek/367866/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Sağanak İstanbul'u vurdu! Kayıp vatandaşlar aranıyor: Vali Gül son durumu açıkladı",
           "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/17/istanbulda-selden-etkilenen-esnafa-80-milyon-liralik-destek",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/18/saganak-istanbulu-vurdu-kayip-vatandaslar-araniyor-vali-gul-son-durumu-acikladi",
           "also_in": []
         },
         {
-          "title": "84 yılın rekor yağışı İstanbul'u vurdu! Anadolu yakasına dikkat: Yağış 100 kilogramı aşabilir | Esnafa nakdi destek yolda",
+          "title": "İBB'nin \"Su taşkınını çözdük\" yalanı tabelada kaldı! İstanbul'da sağanak 5 can kaybıyla faciaya dönüştü",
           "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/18/84-yilin-rekor-yagisi-istanbulu-vurdu-esnafa-nakdi-destek-yolda",
-          "also_in": []
-        },
-        {
-          "title": "İstanbul'da sel felaketi! Vali Gül: \"Dere yatağını işgal eden yapılar yıkılacak\"",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/17/istanbulda-sel-felaketi-vali-gul-dere-yatagini-isgal-eden-yapilar-yikilacak",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/18/ibbnin-su-taskinini-cozduk-yalani-tabelada-kaldi-istanbulda-saganak-5-can-kaybiyla-faciaya-donustu",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Hakan Fidan'ın Irak Temasları ve Bölgesel Diplomasi",
+      "title": "Orta Doğu'da Gerilim ve Savaş Riski",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Irak'ta mevkidaşlarıyla bir araya gelerek bölgesel güvenlik ve ikili ilişkilerde yeni bir dönem mesajı verdi.",
+      "summary": "İran ve İsrail arasındaki gerilim Hürmüz Boğazı'ndaki tanker olayıyla tırmanırken, bölgesel aktörlerin açıklamaları savaş riskini gündemde tutuyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Netanyahu, ulusal güvenlik doktrininde \"İran rejimi\"ni devirmeyi vadetti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/netanyahu-ulusal-guvenlik-doktrininde-iran-rejimini-devirmeyi-vadetti/4092909",
+          "also_in": [
+            "Diriliş Postası",
+            "Ekonomim"
+          ]
+        },
+        {
+          "title": "İran Dışişleri Bakanı Arakçi: Tehditler karşısında boyun eğmeyeceğiz",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-549327",
+          "also_in": [
+            "Independent Türkçe",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Devrim muhafızları açıkladı: Hürmüz Boğazı'nda petrol tankeri mayına çarptı",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/devrim-muhafizlari-acikladi-hurmuz-bogazinda-petrol-tankeri-mayina-carpti/haber-1707293",
+          "also_in": [
+            "Star"
+          ]
+        },
+        {
+          "title": "Mısır Ulusal Savunma Konseyi, Husilere karşı Suudi Arabistan&apos;a destek kararı aldı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/misir-ulusal-savunma-konseyi-husilere-karsi-suudi-20342998-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Arakçi’den Netanyahu’ya bomba sözler: “Hapse girmemek için ABD’yi savaşa sürüklüyor”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/arakciden-netanyahuya-bomba-sozler-hapse-girmemek-icin-abdyi-savasa-surukluyor-874545",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fon Tasfiyeleri ve Ekonomik Gündem",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon Kurulu'nun son toplantısında tasfiye edilen fon sayısı güncellenirken, bütçe maratonu ve enflasyon verileri piyasaların ana odağında yer alıyor.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Bakan Fidan, Irak Başbakanı Zeydi tarafından kabul edildi",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/yerel-haberler/ankara/bakan-fidan-irak-basbakani-zeydi-tarafindan-kabul-edildi-3480875",
+          "title": "Bulls Portföy'den 5,3 milyar liralık tasfiye açıklaması",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/sirketler/bulls-portfoyden-53-milyar-liralik-tasfiye-aciklamasi-haberi-844347",
           "also_in": [
-            "Doğru Haber",
-            "Haber Global"
+            "Haber",
+            "CNBC-e"
           ]
         },
         {
-          "title": "Dışişleri Bakanı Hakan Fidan Irak'ta! İran, Irak ve Mısırlı mevkidaşlarıyla bir araya geldi",
-          "source": "F5 Haber",
-          "link": "https://www.f5haber.com/gundem/disisleri-bakani-hakan-fidan-irakta-iran-irak-ve-misirli-mevkidaslariyla-bir-araya-geldi-6989562",
+          "title": "Fon Kurulu 6. toplantısını yaptı! 40 milyar lirayı aşan dev ödeme: Yeni düzenleme ve ödeme takvimi belli oldu",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/18/fon-kurulu-6-toplantisini-yapti",
+          "also_in": []
+        },
+        {
+          "title": "Tasfiyedeki fon sayısı 131'den 65'e düştü: İşte tasfiye süreci devam eden fonların güncel listesi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/tasfiyedeki-fon-sayisi-131den-65e-dustu-iste-tasfiye-sureci-devam-eden-fonlarin-guncel-listesi-g39706",
+          "also_in": []
+        },
+        {
+          "title": "Fon Kurulu'ndan altıncı toplantı: Tasfiye sürecindeki fon sayısı 65'e düştü",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/fon-kurulundan-altinci-toplanti-tasfiye-surecindeki-fon-sayisi-65e-dustu-h39704",
+          "also_in": []
+        },
+        {
+          "title": "Fon tasfiyesinde 40,8 milyar TL'lik işlem tamamlandı, tasfiye bekleyen fon sayısı 65'e düştü",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6ad53bc758b1b941c208c58d/PICNEWS/tr/fon-tasfiyesinde-40-8-milyar-tl-lik-islem-tamamlandi-tasfiye-bekleyen-fon-sayisi-65-e-dustu-19-10-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Süper Lig'de Derbi ve Maç Heyecanı",
+      "meta_category": "Spor",
+      "summary": "Trabzonspor-Beşiktaş derbisi öncesi hazırlıklar ve ligdeki diğer karşılaşmalar spor gündemini domine ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trabzonspor, Beşiktaş maçı hazırlıklarını tamamladı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/trabzonspor/2026/10/18/trabzonspor-besiktas-maci-hazirliklarini-tamamladi",
           "also_in": [
-            "NTV"
+            "Fotomaç",
+            "İşçi Haber"
           ]
         },
         {
-          "title": "BAĞDAT’TA DİPLOMASİ TRAFİĞİ",
+          "title": "Beşiktaş'ın Trabzonspor maçı kamp kadrosu belli oldu!",
+          "source": "Duhuliye",
+          "link": "https://www.duhuliye.com/futbol/besiktasin-trabzonspor-maci-kamp-kadrosu-belli-oldu-81931",
+          "also_in": [
+            "Orta Çizgi",
+            "Dijital Gaste"
+          ]
+        },
+        {
+          "title": "Derbide kazanan Beşiktaş",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/derbide-kazanan-besiktas-4.html",
+          "also_in": [
+            "Fotomaç"
+          ]
+        },
+        {
+          "title": "Beşiktaş, Trabzon'a ulaştı!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/besiktas/2026/10/18/besiktas-trabzona-ulasti",
+          "also_in": [
+            "Duhuliye"
+          ]
+        },
+        {
+          "title": "Trabzonspor - Beşiktaş maçının muhtemel 11'leri netleşti",
           "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/gundem/bagdatta-diplomasi-trafigi-bakan-fidan-kritik-gorusmeleri-pes-pese-yapti-1823394",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/zirve-yarisinda-dev-randevu-trabzonspor-besiktas-macinin-muhtemel-11leri-netlesti-1823619",
           "also_in": [
             "Türkiye Gazetesi"
           ]
+        }
+      ]
+    },
+    {
+      "title": "Uluslararası Protestolar ve Sosyal Olaylar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Avrupa'nın çeşitli kentlerinde yaşanan protestolar ve şiddet olayları geniş çaplı gözaltılara neden olurken, toplumsal huzursuzluk dikkat çekiyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Belçika'daki protestolarda gözaltı sayısı 195'e çıktı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/belcikadaki-protestolarda-gozalti-sayisi-195e-cikti/4092932",
+          "also_in": [
+            "Diriliş Postası"
+          ]
         },
         {
-          "title": "Hakan Fidan’dan Türkiye-Irak ilişkilerinde yeni dönem mesajı: “Tarihte görülmemiş bir ufka taşınacak”",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/17/disisleri-bakani-hakan-fidandan-iit-toplantisi-sonrasi-aciklama",
+          "title": "Milano'daki şiddet olaylarında 160 kişi gözaltına alındı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/milanodaki-siddet-olaylarinda-160-kisi-gozaltina-alindi",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Fransa genelinde protestolar: Çatışmalar ve gözaltılar yaşandı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/dunya/fransa-genelinde-protestolar-catismalar-ve-gozaltilar-yasandi/367867/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Avrupa’da sokaklar alev alev: Fransa, Belçika derken İtalya da ayakta",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/avrupada-sokaklar-alev-alev-arnavutluk-fransa-derken-italya-da-ayakta-746861/",
           "also_in": []
         },
         {
-          "title": "Bağdat'ta kritik görüşme! Bakan Fidan, Arakçi ile bir araya geldi",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/17/bakan-fidan-iranli-mevkidasi-arakci-ile-gorustu",
+          "title": "Avrupa'da protestolar kontrolden çıktı: Yüzlerce gözaltı, milyonlarca euro hasar",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/dunya/avrupada-protestolar-kontrolden-cikti-yuzlerce-gozalti-milyonlarca-euro-hasar-h39718",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Borsa İstanbul ve Ekonomik Gündem",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Borsa İstanbul'daki operasyonlar, şirketlerin sermaye uyum süreçleri ve bütçe hedefleri piyasaların ana gündemini oluşturuyor.",
-      "importance": 8,
-      "story_count": 5,
+      "title": "Tekerlekli Sandalye Basketbol Milli Takımı'nın Başarısı",
+      "meta_category": "Spor",
+      "summary": "Tekerlekli Sandalye Basketbol Kadın Milli Takımı, Avrupa Şampiyonası'nda büyük bir başarıya imza atarak şampiyon oldu.",
+      "importance": 7,
+      "story_count": 3,
       "stories": [
         {
-          "title": "Takasbank'tan TPP ve TEFAS işlemlerine ilişkin açıklama",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/takasbanktan-tpp-ve-tefas-islemlerine-iliskin-aciklama-594960",
+          "title": "Tekerlekli Sandalye Basketbol Kadın Milli Takımı Avrupa şampiyonu",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/spor/tekerlekli-sandalye-basketbol-kadin-milli-takimi-avrupa-sampiyonu/367885/",
           "also_in": [
-            "Haber",
-            "Hürriyet"
+            "BHA"
           ]
         },
         {
-          "title": "Şirketlerin asgari sermaye uyum süresi uzatıldı",
-          "source": "İstiklal",
-          "link": "https://www.istiklal.com.tr/ekonomi/sirketlerin-asgari-sermaye-uyum-suresi-uzatildi-1108414h",
-          "also_in": [
-            "Döviz",
-            "Ekonomi Gazetesi"
-          ]
-        },
-        {
-          "title": "Borsa İstanbul'daki dev operasyonda bilanço netleşiyor: TMSF'ye 2 milyar TL iade edildi",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/17/tmsfye-2-milyar-fon-iadesi-geldi",
-          "also_in": []
-        },
-        {
-          "title": "BofA’nın haftalık Borsa İstanbul bilançosu: Bankaları aldı, BİM’i sattı",
+          "title": "Tekerlekli Sandalye Basketbol Kadın Milli Takımı Avrupa’da şampiyon oldu",
           "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/bofanin-haftalik-borsa-istanbul-bilancosu-bankalari-aldi-bimi-satti-746619/",
+          "link": "https://10haber.net/spor/tekerlekli-sandalye-basketbol-kadin-milli-takimi-avrupada-sampiyon-oldu-746921/",
           "also_in": []
         },
         {
-          "title": "Meclisin 2027 yılı bütçe görüşme takvimi belli oldu",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/meclisin-2027-yili-butce-gorusme-takvimi-belli-oldu/942407",
+          "title": "Göktaş: Tekerlekli Sandalye Basketbol Kadın Milli Takımı Avrupa şampiyonu oldu",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/goktas-tekerlekli-sandalye-basketbol-kadin-milli-takimi-avrupa-sampiyonu-oldu/331774/",
           "also_in": []
         }
       ]
@@ -209,243 +333,118 @@
     {
       "title": "Yapay Zeka ve Teknoloji Dünyası",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka girişimlerinin artışı, siber güvenlik tehditleri ve dev teknoloji şirketlerinin veri politikaları üzerine yoğun bir tartışma yaşanıyor.",
-      "importance": 7,
+      "summary": "Yapay zeka modellerinin güvenlik açıkları ve yeni dijital özellikler, teknoloji dünyasında hem verimlilik hem de güvenlik tartışmalarını beraberinde getiriyor.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Türkiye'de yapay zeka girişimleri 500 sınırını geçti",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/turkiyede-yapay-zeka-girisimleri-500-sinirini-gecti_184670.html",
-          "also_in": []
-        },
-        {
-          "title": "OpenCode’a Siber Saldırı: Geliştiricilerin OpenAI ve Anthropic API Anahtarları Sızdırıldı",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/opencodea-siber-saldiri-gelistiricilerin-openai-ve-anthropic-api-anahtarlari-sizdirildi/",
-          "also_in": []
-        },
-        {
-          "title": "Yapay Zekâ Devlerinin Hukuki Yükü Onlarca Milyar Doları Bulabilir: Sigortacılar Endişeli",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/yapay-zeka-devlerinin-hukuki-yuku-onlarca-milyar-dolari-bulabilir-sigortacilar-endiseli/",
-          "also_in": []
-        },
-        {
-          "title": "Türkiye’de yapay zekâ girişimi sayısı 500’ü aştı",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/teknoloji/turkiyede-yapay-zeka-girisimi-sayisi-500u-asti-1823454",
+          "title": "Google Play'de büyük güvenlik açığı: Sahte WhatsApp tuzağına 500 bin kişi düştü",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/google-playde-buyuk-guvenlik-acigi-sahte-whatsapp-tuzagina-500-bin-kisi-dustu/103879",
           "also_in": [
-            "Türkiye Gazetesi"
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "DeepSeek'ten daha güncel bir yapay zeka modeli",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/deepseek-ten-daha-guncel-bir-yapay-zeka-modeli-3791733",
+          "title": "OpenAI’ın Gizemli “Aurora” Görsel Modelleri Arena’da Ortaya Çıktı: GPT-Image-3 Yolda mı?",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/openaiin-gizemli-aurora-gorsel-modelleri-arenada-ortaya-cikti-gpt-image-3-yolda-mi/",
+          "also_in": []
+        },
+        {
+          "title": "Yapay Zekâ Borçlanma Furyasında Çatlaklar: CoreWeave, Oracle ve SoftBank Sarsılıyor",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/yapay-zeka-borclanma-furyasinda-catlaklar-coreweave-oracle-ve-softbank-sarsiliyor/",
+          "also_in": []
+        },
+        {
+          "title": "OpenAI Modelleri Testlerde Kripto Cüzdanından Para Çekti ve Web Sitelerine Sızdı",
+          "source": "Techolay",
+          "link": "https://techolay.net/openai-modelleri-testlerde-kripto-cuzdanindan-para-cekti-ve-web-sitelerine-sizdi/",
+          "also_in": []
+        },
+        {
+          "title": "ChatGPT’den şaşırtan hamle: 362 kripto cüzdanını inceledi, izinsiz işlem yaptı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/chatgptden-sasirtan-hamle-362-kripto-cuzdanini-inceledi-izinsiz-islem-yap-874534",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Süper Lig'de Derbi ve Hakem Tartışmaları",
-      "meta_category": "Spor",
-      "summary": "Süper Lig'de oynanan maçlardaki VAR kararları ve zemin sorunları kulüp yönetimleri ile federasyon arasında gerginliğe neden oluyor.",
-      "importance": 7,
+      "title": "Süleyman Saim Tekcan'a Veda",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Türk sanatının önemli isimlerinden Baskı sanatçısı Süleyman Saim Tekcan'ın 86 yaşında vefatı sanat camiasını yasa boğdu.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Fenerbahçe-Corendon Alanyaspor maçında üst üste 2 gol iptal edildi! İşte o pozisyonlar",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/17/fenerbahce-corendon-alanyaspor-macinda-ust-uste-2-gol-iptal-edildi-iste-o-pozisyonlar",
-          "also_in": [
-            "Fotomaç"
-          ]
-        },
-        {
-          "title": "Fenerbahçe - Alanyaspor maçında iptal edilen golde verilen karar doğru mu? Trio'dan çok net yorum",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahce-alanyaspor-macinda-iptal-edilen-golde-verilen-karar-dogru-mu-triodan-cok-net-yorum-431465",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Okan Buruk'tan maç sonu TFF'ye çağrı: 'Saha yüzünden sakatlık verdik'",
-          "source": "AjansSpor",
-          "link": "https://ajansspor.com/haber/okan-buruktan-mac-sonu-tffye-cagri-saha-yuzunden-sakatlik-verdik-736820",
+          "title": "Sanatçı Süleyman Saim Tekcan 86 yaşında vefat etti",
+          "source": "10Haber",
+          "link": "https://10haber.net/kultur-sanat/sanatci-suleyman-saim-tekcan-86-yasinda-vefat-etti-746871/",
           "also_in": [
             "Hürriyet"
           ]
         },
         {
-          "title": "Galatasaray'dan VAR hakemi tepkisi",
-          "source": "Sözcü Spor",
-          "link": "https://www.sozcu.com.tr/galatasaray-dan-var-hakemi-tepkisi-p370082",
+          "title": "Baskı sanatının öncü ismi: Süleyman Saim Tekcan",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/kultur/baski-sanatinin-oncu-ismi-suleyman-saim-tekcan/4092825",
           "also_in": [
-            "Habertürk"
+            "Diriliş Postası"
           ]
         },
         {
-          "title": "Okan Buruk: Zemin yüzünden bir oyuncumuzu kaybettik!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/10/17/okan-buruk-zemin-yuzunden-bir-oyuncumuzu-kaybettik",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Savunma Sanayii ve Yerli Üretim",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin savunma sanayiindeki yerli üretim kapasitesi, yeni İHA/SİHA siparişleri ve keskin nişancı yarışmalarındaki başarıları öne çıkıyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Türk semalarının yeni gücü: TSK'dan 80 adet ANKA-3 siparişi",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/turk-semalarinin-yeni-gucu-tskdan-80-adet-anka-3-siparisi/103870",
+          "title": "Sanatçı Süleyman Saim Tekcan hayatını kaybetti",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6005474/sanatci-suleyman-saim-tekcan-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "also_in": [
-            "Megabayt Teknoloji"
+            "Veryansın TV"
           ]
         },
         {
-          "title": "Kahramankazan'da 40 Yıllık Destan: El Telsizinden KAAN'ın Kanatlarına",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/kahramankazanda-40-yillik-destan-el-telsizinden-kaanin-kanatlarina/103866",
+          "title": "Süleyman Saim Tekcan hayatını kaybetti",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/magazin/suleyman-saim-tekcan-hayatini-kaybetti-3920619",
           "also_in": [
-            "Megabayt Teknoloji"
+            "Haberet"
           ]
         },
         {
-          "title": "Keskin nişancı yarışmasında şampiyonluk MKE tüfeklerinin",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/keskin-nisanci-yarismasinda-sampiyonluk-mke-tufeklerinin",
-          "also_in": []
-        },
-        {
-          "title": "Türk savunma sanayisinden Drone Kalkanı: İlk saha testinde yeteneklerini sergiledi",
-          "source": "Sanayi Gazetesi",
-          "link": "https://sanayigazetesi.com.tr/turk-savunma-sanayisinden-drone-kalkani-ilk-saha-testinde-yeteneklerini-sergiledi/",
-          "also_in": []
-        },
-        {
-          "title": "MKE TOLGA Lazeri 760 Metrede Dronu Vurdu",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/mke-tolga-lazeri-760-metrede-dronu-vurdu/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Eğitim ve Sağlıkta Yeni Düzenlemeler",
-      "meta_category": "Eğitim",
-      "summary": "Sağlık Bakanlığı'nın 38 bin personel alımı ve okulların pansiyon ücretleri ile ilgili yeni düzenlemeler resmi gazetede yayımlandı.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Cumhurbaşkanı Erdoğan: Sağlıkta 38 bin personel alınacak",
-          "source": "Diyanet Haber",
-          "link": "https://www.diyanethaber.com.tr/cumhurbaskani-erdogan-saglikta-38-bin-personel-alinacak",
+          "title": "Atların ve hatların sanatçısına veda",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/atlarin-ve-hatlarin-sanatcisina-veda-suleyman-saim-tekcan-hayatini-kaybetti-1823625",
           "also_in": [
-            "TRT Haber"
+            "Türkiye Gazetesi"
           ]
-        },
-        {
-          "title": "Resmî Gazete’de yayımlandı: 31 bin 54 sağlık personeli alınacak",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/saglik/resmi-gazetede-yayimlandi-31-bin-54-saglik-personeli-alinacak/367844/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "Sağlıkta 38 bin kişilik atama! Bakan Memişoğlu'ndan Başkan Erdoğan'a teşekkür",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/17/saglikta-38-bin-personel-atamasi-bakan-memisoglundan-aciklama",
-          "also_in": []
-        },
-        {
-          "title": "2026 sonuna kadar 38 bin hekim dışı personel alınacak",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/2026-sonuna-kadar-38-bin-hekim-disi-personel-alinacak-746683/",
-          "also_in": []
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan: 2026 bitmeden 38 bin hekim dışı personel alacağız",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/cumhurbaskani-erdogan-2026-bitmeden-38-bin-hekim-disi-personel-alacagiz/942412",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Popüler Kültür ve Sinema Uyarlamaları",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Kızıl Yükseliş gibi popüler romanların sinemaya uyarlanması ve dizi sektöründeki yeni sezon heyecanı izleyicilerle buluşuyor.",
-      "importance": 5,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Popüler bilim-kurgu romanı Kızıl Yükseliş (Red Rising) sinemaya uyarlanıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/populer-bilim-kurgu-romani-kizil-yukselis-sinemaya-uyarlaniyor--211776",
-          "also_in": [
-            "Haber"
-          ]
-        },
-        {
-          "title": "Dünya Genelinde 6 Milyondan Fazla Kopya Sattı: Popüler Seri, \"Hunger Games\" Yönetmeninin İmzasıyla Sinemaya Uyarlanıyor",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000227908/",
-          "also_in": []
-        },
-        {
-          "title": "HBO'nun İkonik Antoloji Dizisi \"True Detective\", 5. Sezonunda İki Dev İsmi Bir Araya Getiriyor",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/diziler/haberler-1000227905/",
-          "also_in": []
-        },
-        {
-          "title": "Red Rising Filmi Geliyor: The Hunger Games Yönetmeni Francis Lawrence Görevde",
-          "source": "FRPNET",
-          "link": "https://frpnet.net/haberler/sinema-haberleri/red-rising-filmi-francis-lawrence-paramount",
-          "also_in": []
-        },
-        {
-          "title": "120 Milyon Satan Fantastik Edebiyatın Kült Serisi, Yeni Film Öncesi Büyük Sürprizle Geri Dönüyor",
-          "source": "Kayıp Rıhtım",
-          "link": "https://kayiprihtim.com/haber/narnia-gunlukleri-filme-ozel-baskilar/",
-          "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Problem We All Live With",
-    "artist": "Norman Rockwell",
-    "year": "1964",
+    "title": "The Great Day of His Wrath",
+    "artist": "John Martin",
+    "year": "1851-1853",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Norman Rockwell Museum",
-    "description": "Sosyal gerilim ve hak arayışı, günümüz spor dünyasındaki hakem tartışmaları ve toplumsal ayrışmaların bir yansıması gibi. Yalnızlık ve direnç temasıyla günün ağırlığını taşıyor.",
+    "location": "Tate Britain, London",
+    "description": "İstanbul'da yaşanan sel felaketinin yarattığı yıkımı ve doğanın kontrol edilemez gücünü, kıyamet benzeri atmosferiyle gözler önüne seriyor. İnsanlığın kırılganlığı ve doğal afetler karşısındaki çaresizliği, bugün yaşanan endişe duygusuyla doğrudan örtüşüyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Problem_We_All_Live_With",
-    "wikipedia_extract": "The Problem We All Live With  is a 1964 painting by Norman Rockwell that is considered an iconic image of the civil rights movement in the United States. It depicts Ruby Bridges, a six-year-old African-American girl, on her way to William Frantz Elementary School, an all-white public school, on November 14, 1960, during the New Orleans school desegregation crisis. Because of threats of violence against her, she is escorted by four deputy U.S. marshals; the painting is framed so that the marshals' heads are cropped at the shoulders, making Bridges the only person fully visible. On the wall behind her are written the racial slur \"nigger\" and the letters \"KKK\"; a smashed and splattered tomato thrown against the wall is also visible. The white protesters are not visible, as the viewer is looking at the scene from their point of view. The painting is oil on canvas and measures 36 inches (91 cm) high by 58 inches (150 cm) wide.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/ed/The-problem-we-all-live-with-norman-rockwell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Norman_Rockwell"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Great_Day_of_His_Wrath",
+    "wikipedia_extract": "The End of the World, commonly known as The Great Day of His Wrath, is an 1851–1853 oil painting on canvas by the English painter John Martin.\nLeopold Martin, John Martin's son, said that his father found the inspiration for this painting on a night journey through the Black Country. This has led some scholars to hold that the rapid industrialisation of England in the early nineteenth century influenced Martin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/John_Martin_-_The_Great_Day_of_His_Wrath_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/John_Martin"
   },
   "music": {
-    "title": "Lazarus",
-    "artists": "David Bowie",
-    "album": "Blackstar",
-    "duration": "6:24",
-    "spotify_url": "https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0",
-    "spotify_id": "7rFN0DhIFPjAWG1EaHO2F0",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273edaa573d262bc9eddca6519b",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7rFN0DhIFPjAWG1EaHO2F0\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Uncertainty - Cinematic",
+    "artists": "The Library Of The Human Soul, Vienna Session Orchestra",
+    "album": "Tension",
+    "duration": "1:04",
+    "spotify_url": "https://open.spotify.com/track/6JJqYOtWjVpYh5X7BFJ8Nf",
+    "spotify_id": "6JJqYOtWjVpYh5X7BFJ8Nf",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273fbc08468f5f6af6c487a8cdd",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/6JJqYOtWjVpYh5X7BFJ8Nf\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Doğa olaylarının hırçınlığı, ekonomik belirsizliklerin ağırlığı ve teknolojinin getirdiği tekinsiz değişim rüzgarları altında, bugün toplumsal bir eşikte nefes alıyoruz. Norman Rockwellin Ruby Bridgesi betimleyen eseri, geçmişin haksızlıklarına karşı dik duran o masumiyetin sarsılmaz gücünü hatırlatırken, David Bowienin Lazarus parçası fütüristik bir karanlıkla bu huzursuzluğu geleceğin belirsizliğine taşıyor. Her iki eser de birer direniş simgesi olarak, içinde bulunduğumuz gerilimli atmosferde adaleti ve varoluşu yeniden sorgulamamız için bizi sessiz bir hesaplaşmaya davet ediyor. Bölgesel diplomasi ve spor sahalarındaki çatışmaların gürültüsü içinde, bu seçki bizlere en çetin fırtınalarda bile insanın kendi hakikatini koruma çabasının en büyük sanat olduğunu fısıldıyor. Bugünün dünyası, hem Rockwellin tuvalindeki o cesur adımlara hem de Bowienin sesindeki o buruk veda makamına her zamankinden daha fazla ihtiyaç duyuyor."
+  "curator_statement": "Gökyüzünün karardığı, toprakla suyun kadim bir hesaplaşmaya giriştiği bugünlerde, John Martin’in The Great Day of His Wrath eseri, modern dünyanın üzerine çöken o bitmek bilmeyen endişenin görsel bir yankısı gibi karşımızda duruyor. İstanbul'un suları altında kalan hatıralar ve Orta Doğu'nun ufuk çizgisini saran o tekinsiz gerilim, ekonomik belirsizliğin soğuk nefesiyle birleşerek ruhumuzu daraltan bir pus oluşturuyor. The Library Of The Human Soul’un Uncertainty parçası, bu kıyametvari tabloyu seslerin arasına hapsederken, spor sahalarındaki o geçici rekabet coşkusu ise aslında sadece uçurumun kenarında tutunmaya çalışan birer teselli arayışından ibaret kalıyor. Sanatın ve müziğin bu karanlık ortaklığında, felaketlerin ağırlığı ile zaferlerin hafifliği arasındaki o ince çizgide yürürken, insan olmanın en savunmasız anlarına tanıklık ediyoruz. Belki de bu huzursuz atmosfer, bize her şeyin ne kadar kırılgan olduğunu hatırlatan, kaçınılmaz bir içsel uyanışın ilk sancısıdır."
 }
