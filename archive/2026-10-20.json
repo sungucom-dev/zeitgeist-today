@@ -1,0 +1,558 @@
+{
+  "date": "2026-10-20",
+  "date_human": "20 October 2026",
+  "generated_at": "2026-10-20T01:30:59.408216+00:00",
+  "stats": {
+    "feeds_collected": 264,
+    "news_total": 5569,
+    "news_analyzed": 611,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye ve dünya genelinde siyasi çalkantıların, operasyonel hareketliliğin ve ekonomik belirsizliklerin gölgelediği, teknolojik gelişmelerin ise bir nebze olsun nefes aldırdığı gergin bir gün.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Siyasi Operasyonlar ve Görevden Almalar",
+      "Ekonomik Belirsizlik ve Fon Krizleri",
+      "Savunma Sanayii ve Bölgesel Gerginlikler",
+      "Dijital Dönüşüm ve Yapay Zeka Etkileri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-20",
+        "code": 0,
+        "temp_max": 23.9,
+        "temp_min": 9.4
+      },
+      {
+        "date": "2026-10-21",
+        "code": 3,
+        "temp_max": 24.8,
+        "temp_min": 10.8
+      },
+      {
+        "date": "2026-10-22",
+        "code": 45,
+        "temp_max": 26.0,
+        "temp_min": 10.1
+      },
+      {
+        "date": "2026-10-23",
+        "code": 80,
+        "temp_max": 25.6,
+        "temp_min": 13.0
+      },
+      {
+        "date": "2026-10-24",
+        "code": 45,
+        "temp_max": 21.9,
+        "temp_min": 13.8
+      },
+      {
+        "date": "2026-10-25",
+        "code": 45,
+        "temp_max": 21.6,
+        "temp_min": 14.2
+      },
+      {
+        "date": "2026-10-26",
+        "code": 61,
+        "temp_max": 22.8,
+        "temp_min": 14.1
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Ekonomik ve İdari Operasyonlar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Tera Yatırım Holding'e kayyum atanması, SPK başkanının istifası ve belediyelerdeki görevden almalar ile fon krizinin ekonomi yönetiminde yarattığı hareketlilik.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/tmsf-tera-yatirim-teknoloji-holdinge-kayyum-olarak-atandi",
+          "also_in": [
+            "Aydınlık",
+            "dikGAZETE",
+            "İstiklal",
+            "Sözcü",
+            "Son Mühür",
+            "TRT Haber",
+            "Bloomberg HT",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "SPK Başkanı Mahmut Sütcü istifa etti",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/cmpqg5j2yw18o?at_medium=RSS&at_campaign=rss",
+          "also_in": [
+            "Diken",
+            "Veryansın TV",
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "Esenyurt Belediyesi kayyımı Can Aksoy görevden alındı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/esenyurt-belediyesi-kayyimi-can-aksoy-gorevden-alindi-351811h",
+          "also_in": [
+            "İşçi Haber",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında kritik karar: Tera Holdinge kayyum atandı!",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3669497-fon-sorusturmasinda-kritik-karar-tera-holdinge-kayyum-atandi",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Fon krizinin ardından Hazine ve Maliye Bakan Yardımcısı ve SPK Başkanı gitti",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/mahmut-sutcu-istifa-mi-etti-p370705",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fransa'da Sokağa Çıkma Yasağı",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Fransa genelinde artan şiddet olayları nedeniyle birçok şehirde sokağa çıkma yasağı ilan edilmesi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fransa'da sokağa çıkma yasağı ilan edildi!",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/fransada-sokaga-cikma-yasagi-karari-alindi",
+          "also_in": [
+            "Dünya",
+            "Haber 7",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Paris, Lyon, Lille ve Nice dahil Fransa'nın birçok kentinde kısmi sokağa çıkma yasağı ilan edildi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/paris-lyon-lille-ve-nice-dahil-fransanin-bircok-kentinde-kismi-sokaga-cikma-yasagi-ilan-edildi/4093887",
+          "also_in": [
+            "Independent Türkçe"
+          ]
+        },
+        {
+          "title": "Fransa'da sokağa çıkma yasağı",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/dunya/son-dakika-fransa-da-sokaga-cikma-yasagi-3920915",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Fransa'da Şiddet Olayları Sonrası Sokağa Çıkma Yasağı Kararı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/fransada-siddet-olaylari-sonrasi-sokaga-cikma-yasagi-karari-874635",
+          "also_in": []
+        },
+        {
+          "title": "Fransa'dan sokağa çıkma yasağı hamlesi",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/fransa-dan-sokaga-cikma-yasagi-hamlesi-3791803",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Trabzonspor-Beşiktaş Derbisi ve Yankıları",
+      "meta_category": "Spor",
+      "summary": "Trabzonspor'un sahasında Beşiktaş'ı 2-0 mağlup ettiği maç sonrası yaşanan saha içi ve saha dışı tartışmalar.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trabzonspor, Beşiktaş'ı 2 golle geçti: Salah yine attı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-trabzonspor-besiktasi-2-golle-gecti-salah-yine-atti-431551",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Trabzonspor 2-0 Beşiktaş: Fırtına derbide Kartal’ı devirdi!",
+          "source": "AjansSpor",
+          "link": "https://ajansspor.com/haber/trabzonspor-2-0-besiktas-firtina-derbide-kartali-devirdi-736957",
+          "also_in": []
+        },
+        {
+          "title": "Trabzonspor, sahasında Beşiktaş'ı 2-0 mağlup etti",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/spor/trabzonspor-sahasinda-besiktasi-2-0-maglup-etti-haberi-844487",
+          "also_in": [
+            "Independent Türkçe",
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "Trabzonspor, Beşiktaş'ı 2-0 mağlup etti",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/spor/trabzonspor-besiktasi-2-0-maglup-etti-286023h",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Trabzonspor'dan Beşiktaş Karşısında Net Galibiyet! Derbiyi 2-0 Kazandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/trabzonspordan-besiktas-karsisinda-net-galibiyet-derbiyi-2-0-kazandi-874634",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Gazeteci Murat Ağırel'in Tutuklanması",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Gazeteci Murat Ağırel ve bazı isimlerin tutuklanmasıyla sonuçlanan soruşturma süreci ve siyasi tepkiler.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Murat Ağırel, Aylin Kotil ve Ömer Sarıgül dahil 15 kişi tutuklandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/omer-sarigul-dahil-7-kisi-tutuklandi",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Gazeteci Murat Ağırel tutuklandı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/gazeteci-murat-agirel-tutuklandi-h1575083",
+          "also_in": [
+            "Haberler",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Murat Ağırel tutuklandı!",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/genel/murat-agirel-tutuklandi/400064",
+          "also_in": [
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Murat Ağırel de gözaltına alınmıştı: Sarıgül soruşturmasında 15 tutuklama 2 adli kontrol istemi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/murat-agirel-de-gozaltina-alinmisti-sarigul-sorusturmasinda-15-tutuklama-2-adli-kontrol-istemi-p370723",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Son dakika... Gazeteci Murat Ağırel'in savcılık ifadesi tamamlandı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/son-dakika-gazeteci-murat-agirel-in-savcilik-ifadesi-tamamlandi-p370696",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Savunma ve Güvenlik Operasyonları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Yurt içi ve yurt dışı operasyonlar, siber suç baskınları ve bölgesel çatışmaların savunma sanayi gündemine yansıması.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Çukurova Belediyesi’ne Operasyon! Çok Sayıda Gözaltı Kararı",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/10/19/cukurova-belediyesi-ne-operasyon-cok-sayida-gozalti-karari-7176579.html",
+          "also_in": [
+            "Korkusuz",
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Siber suç operasyonlarında 643 şüpheli yakalandı: 303 kişi tutuklandı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/siber-suc-operasyonlarinda-643-supheli-yakalandi-303-kisi-tutuklandi/367897/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Çukurova Belediyesi’ne operasyon: 44 gözaltı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/cukurova-belediyesine-operasyon-44-gozalti/367895/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Ankara'da kaçakçılık operasyonu: 11 şüpheli hakkında işlem başlatıldı",
+          "source": "Sputnik",
+          "link": "https://anlatilaninotesi.com.tr/20261020/ankarada-kacakcilik-operasyonu-11-supheli-hakkinda-islem-baslatildi-1109683515.html",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Husilerden Yemen'deki Eğitim Kampına Füze Saldırısı! 53 Ölü, 200'den Fazla Yaralı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/husilerden-yemendeki-egitim-kampina-fuze-saldirisi-53-olu-200den-fazla-yarali-874637",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayii ve Uluslararası Anlaşmalar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Türkiye'nin savunma sanayii sözleşmeleri, uluslararası askeri tatbikatlar ve küresel silah ticaretindeki güncel gelişmeler.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türk Savunma Sanayii 2026’da 15 Milyar Dolarlık Yeni Sözleşme İmzaladı",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/turk-savunma-sanayii-2026da-15-milyar-dolarlik-yeni-sozlesme-imzaladi",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "TCG Anadolu, Arnavutluk'ta Neptune Strike 2026 tatbikatına katıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/tcg-anadolu-arnavutlukta-neptune-strike-2026-tatbikatina-katildi/4093853",
+          "also_in": [
+            "Diriliş Postası",
+            "Dünya",
+            "NTV"
+          ]
+        },
+        {
+          "title": "IRIS-T SLM Girit’te Sertifikasyon Atışını Başarıyla Tamamladı",
+          "source": "C4 Defence",
+          "link": "https://www.c4defence.com/tr/iris-t-slm-girit-sertifikasyon-atisi/",
+          "also_in": []
+        },
+        {
+          "title": "İsrail’den Azerbaycan’a 235 milyon dolarlık PULS ve EXTRA-MR satışı iddiası",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/israilden-azerbaycana-235-milyon-dolarlik-puls-ve-extra-mr-satisi-iddiasi/",
+          "also_in": []
+        },
+        {
+          "title": "Romanya’ya İkinci HİSAR Sınıfı Korvet Mi? Silahlandırma Planı Açıklandı",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/romanyaya-ikinci-hisar-sinifi-korvet-mi-silahlandirma-plani-aciklandi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Dünyası",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka sistemlerinin hukuki ve etik sorunları, OpenAI davaları ve teknoloji devlerinin yeni ürün hamleleri.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "OpenAI'ın yapay zekası sınırları aştı: Başkasına ait kripto cüzdanı boşalttı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/openaiin-yapay-zekasi-sinirlari-asti-baskasina-ait-kripto-cuzdani-bosaltti/103893",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zeka tavsiyesi hastanelik etti: OpenAI'a şok dava",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-tavsiyesi-hastanelik-etti-openaia-sok-dava/103892",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Trendyol’un algoritma hamlesine Rekabet Kurulu’ndan ret",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/trendyolun-algoritma-hamlesine-rekabet-kurulundan-ret/",
+          "also_in": []
+        },
+        {
+          "title": "YouTube’da video arayanların karşısına yapay zeka çıkacak",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/youtubeda-video-arayanlarin-karsisina-yapay-zeka-cikacak_184745.html",
+          "also_in": []
+        },
+        {
+          "title": "Apple, yeni lansman etkinliğini doğruladı: Dokunmatik MacBook geliyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-yeni-lansman-etkinligini-dogruladi-neler-tanitilacak--211836",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Oyun ve Eğlence Sektörü",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Yeni duyurulan oyunlar, film gişe rekorları ve popüler kültürdeki güncel eğlence trendleri.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Resident Evil (2026) Dünya Gişesinde 361 Milyon Doları Aştı",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/resident-evil-2026-gise-361-milyon-dolar",
+          "also_in": []
+        },
+        {
+          "title": "Street Fighter Filmi İlk Hafta Sonunda 51 Milyon Dolarla Gişenin Zirvesine Yerleşti",
+          "source": "Atarita",
+          "link": "https://www.atarita.com/street-fighter-filmi-gise/",
+          "also_in": []
+        },
+        {
+          "title": "Valorant’ın Yeni Ajanı Hush Duyuruldu: Telekinetik Düellocu 27 Ekim’de Geliyor",
+          "source": "Atarita",
+          "link": "https://www.atarita.com/valorant-yeni-ajan-hush/",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Çıkış Fragmanı 3 Günde GTA 5'in 13 Yıllık Rekorunu Geçti",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-cikis-fragmani-3-gunde-gta-5-in-13-yillik-rekorunu-gecti-haber-263685",
+          "also_in": []
+        },
+        {
+          "title": "The FINALS Artık Oyunculara Gerçek İsimleriyle Seslenebiliyor",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/the-finals-artik-oyunculara-gercek-isimleriyle-seslenebiliyor-haber-263680",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sağlık ve Bilimsel Araştırmalar",
+      "meta_category": "Sağlık",
+      "summary": "Kanser tedavisindeki yeni gelişmeler, dirençli bakteriler ve tıbbi alandaki teknolojik yenilikler.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Dirençli Bakterilerin Zayıf Noktaları Nasıl Keşfedildi?",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/direncli-bakterilerin-zayif-noktalari-nasil-kesfedildi-23902",
+          "also_in": []
+        },
+        {
+          "title": "Endişelendiren keşif: Ölümcül mantar ilaçlara karşı yeniden direnç geliştirdi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/endiselendiren-kesif-olumcul-mantar-ilaclara-karsi-yeniden-direnc-gelistirdi_184699.html",
+          "also_in": []
+        },
+        {
+          "title": "Cilt kanseri tedavisinde mikroiğneli yama devrimi",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/saglik/yerli-ve-milli-teknoloji-cilt-kanseri-tedavisinde-mikroigneli-yama-devrimi-1823858",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Kordon kanı ile 80’den fazla hastalığa umut ışığı",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/saglik/yenidogan-ilac-oluyor-kordon-kani-ile-80den-fazla-hastaliga-umut-isigi-1823850",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Harvard’dan büyük keşif: Yaşlanmayı durduruyor, ömrü yüzde 14 uzatıyor",
+          "source": "10Haber",
+          "link": "https://10haber.net/bilim-teknoloji/harvarddan-buyuk-kesif-yaslanmayi-durduruyor-omru-yuzde-14-uzatiyor-747178/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür ve Sanat Dünyasından Gelişmeler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Kitap fuarları, film festivalleri ve yazar buluşmaları gibi Türkiye genelindeki kültürel etkinlikler.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "37. Ankara Film Festivali’nde Heyecan Başlıyor: Ulusal Kısa Film Yarışması Finalistleri Açıklandı!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000228036/",
+          "also_in": []
+        },
+        {
+          "title": "14. İPEKYOLU FİLM FESTİVALİ’nde finalistler belli oldu",
+          "source": "Marjinal Sinema",
+          "link": "https://marjinalsinema.com/2026/10/19/14-ipekyolu-film-festivalinde-finalistler-belli-oldu/",
+          "also_in": []
+        },
+        {
+          "title": "Ara Güler’in Macaristan’ı Macar Kültür Merkezi’nde",
+          "source": "Artkolik",
+          "link": "https://www.artkolik.net/sergiler/ara-gulerin-macaristani-macar-kultur-merkezinde-25578",
+          "also_in": []
+        },
+        {
+          "title": "Trabzon’da 59 Yazar ve Şair Okurlarıyla Buluşacak",
+          "source": "Edebiyat Burada",
+          "link": "https://edebiyatburada.com/trabzonda-59-yazar-ve-sair-okurlariyla-bulusacak/",
+          "also_in": []
+        },
+        {
+          "title": "YKY Kitap Kulübü, İbtisam Azem’in “Kayboluş Kitabı”nı tartışacak",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/yky-kitap-kulubu-ibtisam-azemin-kaybolus-kitabini-tartisacak/",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Age of Bronze",
+    "artist": "Auguste Rodin",
+    "year": "1877",
+    "form": "heykel",
+    "medium": "Bronze",
+    "location": "Musée d'Orsay",
+    "description": "İnsanlığın uyanışı ve savunmasızlığı arasındaki ince çizgiyi temsil eden bu heykel, mevcut savunma sanayii ve bölgesel gerginliklerin yarattığı tetikte olma halini yansıtıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Age_of_Bronze",
+    "wikipedia_extract": "The Age of Bronze is a bronze statue by the French sculptor Auguste Rodin (1840–1917). The figure is of a life-size nude male, 72 in. (182.9cm) high. Rodin continued to produce casts of the statue for several decades after it was modeled in 1876.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Rodin_The_bronze_age-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+  },
+  "music": {
+    "title": "Dayvan Cowboy",
+    "artists": "Boards of Canada",
+    "album": "The Campfire Headphase",
+    "duration": "5:00",
+    "spotify_url": "https://open.spotify.com/track/2J4lJMCuFCA0zlwFOjePD5",
+    "spotify_id": "2J4lJMCuFCA0zlwFOjePD5",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273ea193fbd430e24dbe9cb6e3f",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2J4lJMCuFCA0zlwFOjePD5\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Dünyanın ekseninde dönen siyasi çalkantıların ve ekonomik belirsizliklerin yarattığı tekinsiz sessizlik, sanki hepimizi görünmez bir eşikte beklemeye zorluyor. Auguste Rodin’in Tunç Çağı heykeli, bu gergin atmosferde uyanış ile çöküş arasındaki o sancılı anı temsil ederek, insanlığın tüm çıplaklığıyla kadere karşı duruşunu simgeliyor. Boards of Canada’nın Dayvan Cowboy parçası ise bu figürün etrafına dijital bir sis bulutu örerek, teknolojik dönüşümün getirdiği soğuk melankoliyi ve içsel huzursuzluğumuzu derinleştiriyor. Savunma sanayiinin metalik yankıları ile ekonomik kaygıların birleştiği bu gün, tıpkı heykeldeki figür gibi, bir sonraki hamlemizin ne olacağını bilmeden ama kaçınılmaz değişimin farkında olarak ayakta kalma çabamızı yansıtıyor. Sanat ve ses, bu belirsizlik çağında ruhun sığınağı haline gelirken, her birimizin kendi içsel operasyonel krizlerimizi nasıl yönettiğimizi sorgulayan sessiz birer tanığa dönüşüyor."
+}
