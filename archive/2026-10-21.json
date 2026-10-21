@@ -1,0 +1,551 @@
+{
+  "date": "2026-10-21",
+  "date_human": "21 October 2026",
+  "generated_at": "2026-10-21T01:31:59.601509+00:00",
+  "stats": {
+    "feeds_collected": 264,
+    "news_total": 5742,
+    "news_analyzed": 617,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye ve dünyada siyasi gerilimlerin, savunma sanayii atılımlarının ve spor dünyasındaki çalkantıların eşlik ettiği, oldukça hareketli ve yoğun bir gün yaşanıyor. Toplum genelinde bir belirsizlik ve hızlı değişimlerin yarattığı temkinli bir merak hakim.",
+    "dominant_emotion": "Gerginlik",
+    "key_themes": [
+      "Savunma Sanayii ve Bölgesel İş Birlikleri",
+      "Siyasi İstifa ve Yargı Süreçleri",
+      "Avrupa'da Sosyal Huzursuzluk ve Protestolar",
+      "Şampiyonlar Ligi ve Spor Tartışmaları"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-21",
+        "code": 3,
+        "temp_max": 24.7,
+        "temp_min": 9.9
+      },
+      {
+        "date": "2026-10-22",
+        "code": 45,
+        "temp_max": 26.0,
+        "temp_min": 10.1
+      },
+      {
+        "date": "2026-10-23",
+        "code": 2,
+        "temp_max": 25.8,
+        "temp_min": 11.7
+      },
+      {
+        "date": "2026-10-24",
+        "code": 45,
+        "temp_max": 24.0,
+        "temp_min": 12.7
+      },
+      {
+        "date": "2026-10-25",
+        "code": 45,
+        "temp_max": 23.0,
+        "temp_min": 11.7
+      },
+      {
+        "date": "2026-10-26",
+        "code": 80,
+        "temp_max": 22.2,
+        "temp_min": 15.9
+      },
+      {
+        "date": "2026-10-27",
+        "code": 61,
+        "temp_max": 18.4,
+        "temp_min": 15.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Türkiye-Libya Deniz Yetki Anlaşması",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Türkiye ile Libya arasında imzalanan deniz yetki alanları muhtırası Meclis'e sunuldu ve onaylandı; bu durum bölgede Yunanistan ve AB ile diplomatik gerginliği artırdı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye, Suudi Arabistan ve Pakistan arasında tarihi savunma mutabakatı: Meclis süreci başladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/turkiye-suudi-arabistan-ve-pakistan-arasinda-tarihi-savunma-mutabakati-meclis-sureci-basladi/103917",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Mekke İttifakı Anlaşması Meclis'te! Ortak üretim ve teknoloji transferi: Detaylar belli oldu",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/mekke-ittifaki-anlasmasi-mecliste-ortak-uretim-ve-teknoloji-transferi-detaylar-belli-oldu-6990472",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Libya parlamentosu Türkiye’yle deniz yetki anlaşmasını yedi yıl sonra onayladı",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/libya-parlamentosu-deniz-yetki-anlasmasini-yedi-yil-sonra-onayladi-747507/",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye-Libya Deniz Yetki Anlaşması Onaylandı",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/turkiye-libya-deniz-yetki-anlasmasi-onaylandi/",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye-Libya anlaşması Yunanistan'ı kızdırdı!",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/libya-turkiye-mutabakati-diger-ulkelerde-nasil-yanki-uyandirdi-p371126",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe'de Teknik Direktör ve Transfer Gündemi",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'de İsmail Kartal'a yönelik istifa tepkileri sürerken, Şampiyonlar Ligi beraberliği ve sakatlık haberleri camiada hayal kırıklığı yarattı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe evinde Slavia Prag ile berabere kaldı! Kadıköy'de 3 puanı son dakikada kaptırdık | İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahce-evinde-slavia-prag-ile-berabere-kaldi-iste-macin-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe'de Nathan Ake şoku! Slavia Prag maçına devam edemedi",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/20/fenerbahcede-nathan-ake-soku-slavia-prag-macina-devam-edemedi",
+          "also_in": []
+        },
+        {
+          "title": "İsmail Kartal’dan istifa çağrılarına cevap",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/spor/futbol/ismail-kartaldan-istifa-cagrilarina-cevap-3482225",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "İstifası istenen İsmail Kartal'dan açıklama: Galatasaray'a konsantre olacağız",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/istifasi-istenen-ismail-kartaldan-aciklama-galatasaraya-konsantre-olacagiz-6990522",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'ye son dakika şoku!",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/genel/fenerbahceye-son-dakika-soku/400065",
+          "also_in": [
+            "Habertürk"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fransa'da Toplumsal Olaylar ve Sokağa Çıkma Yasağı",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Fransa'da süregelen protestolar şiddetini artırdı; sokağa çıkma yasağı uzatılırken ordu devreye giriyor ve çok sayıda tutuklama gerçekleşti.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fransa&apos;da Son Durum: Bakan Nuñez \"Polis Kontrolü Kaybetti\" Dedi, Fransa&apos;da Sokağa Çıkma Yasağı İlan Edildi",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/paris-te-sokaga-cikma-yasagi-bakan-nunez-polis-kontrolu-kaybetti-dedi-2-binden-fazla-isletme-hasar-gordu-1389705",
+          "also_in": []
+        },
+        {
+          "title": "Fransa'daki eylemlerde 149 kişi tutuklandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/fransadaki-eylemlerde-149-kisi-tutuklandi",
+          "also_in": [
+            "Doğru Haber",
+            "En Son Haber",
+            "Habertürk",
+            "Independent Türkçe",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Fransa’da Sokağa Çıkma Yasağı Uzatıldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/fransada-sokaga-cikma-yasagi-uzatildi-874792",
+          "also_in": [
+            "Elips Haber",
+            "Yeni Yaşam Gazetesi"
+          ]
+        },
+        {
+          "title": "Fransa'da protestolara karşı ordu devreye giriyor",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/fransada-protestolara-karsi-ordu-devreye-giriyor-h1575394",
+          "also_in": [
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "İtalya’da protestolar marketleri vurdu: Raflar boş kaldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/italyada-protestolar-marketleri-vurdu-raflar-bos-kaldi-874785",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "SPK'dan Aracı Kurumlara Müdahale",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "SPK, usulsüzlük iddiaları nedeniyle 3 aracı kurumun faaliyetlerini geçici olarak durdurma kararı aldı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SPK 3 yatırım kuruluşunun faaliyetlerini geçici olarak durdurdu",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/ekonomi/spk-3-yatirim-kurulusunun-faaliyetlerini-gecici-olarak-durdurdu-286184h",
+          "also_in": [
+            "En Son Haber",
+            "Ekonomim",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "SPK'dan 3 aracı kurum için faaliyet durdurma kararı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/spkdan-3-araci-kurum-icin-faaliyet-durdurma-karari",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "SPK, Alnus, Bulls ve Pusula Yatırım'ın faaliyetlerini durdurdu",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6005872/spk-alnus-bulls-ve-pusula-yatirim-in-faaliyetlerini-durdurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "SPK'dan 3 aracı kuruma faaliyet durdurma kararı! HSBC Yatırım'a da ceza kesildi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/spkdan-3-araci-kuruma-faaliyet-durdurma-karari-hsbc-yatirima-da-ceza-kesildi-874773",
+          "also_in": []
+        },
+        {
+          "title": "SPK’dan 3 yatırım şirketi için kritik karar! Faaliyetleri durduruldu!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/spkdan-3-yatirim-sirketi-icin-kritik-karar-faaliyetleri-durduruldu-874774",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sergen Yalçın'ın Milli Takım Kariyeri",
+      "meta_category": "Spor",
+      "summary": "TFF, A Milli Futbol Takımı teknik direktörlüğü görevine Sergen Yalçın'ın getirildiğini resmen açıkladı.",
+      "importance": 8,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "TFF, Sergen Yalçın'ı resmen açıkladı",
+          "source": "Fotospor",
+          "link": "https://www.fotospor.com.tr/milli-takim/tff-sergen-yalcini-resmen-acikladi-715235",
+          "also_in": [
+            "Habertürk",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Sergen Yalçın'ın ekibi belli oldu",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/sergen-yalcinin-ekibi-belli-oldu-6990464",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Resmen Açıklandı: A Milli Takım Sergen Yalçın'a Emanet",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/spor/resmen-aciklandi-a-milli-takim-sergen-yalcina-emanet-580837",
+          "also_in": [
+            "Haber 3"
+          ]
+        },
+        {
+          "title": "Milli Takım dört yıllığına Sergen Yalçın’a emanet",
+          "source": "10Haber",
+          "link": "https://10haber.net/spor/milli-takim-dort-yilligina-sergen-yalcina-emanet-747581/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Tanju Özcan'a Hapis Cezası",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Bolu Belediye Başkanı Tanju Özcan, yargılandığı davada 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Tanju Özcan’a 7 yıl 3 ay 15 gün hapis cezası",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/tanju-ozcana-7-yil-3-ay-15-gun-hapis-cezasi-351856h",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem",
+            "Sputnik",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Tanju Özcan'a 7 yıl 3 ay 15 gün hapis cezası verildi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/tanju-ozcana-7-yil-3-ay-15-gun-hapis-cezasi-verildi",
+          "also_in": [
+            "Kamudan Haber"
+          ]
+        },
+        {
+          "title": "Tanju Özcan'ın cezası belli oldu!",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/genel/tanju-ozcanin-cezasi-belli-oldu/400066",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Tanju Özcan, 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/tanju-ozcan-7-yil-3-ay-15-gun-hapis-cezasina-carptirildi-549660",
+          "also_in": [
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Tanju Özcan hakkında 7 yıl hapis cezası",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/tanju-ozcan-hakkinda-7-yil-hapis-cezasi",
+          "also_in": [
+            "NTV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milli Uzay ve Teknoloji Hamleleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye'nin altıncı milli uydusu FRG-100D4 başarıyla yörüngeye yerleştirildi ve savunma sanayiinde yerli üretim kapasitesi artırıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fergani Uzay'dan dev adım: Altıncı milli uydu FRG-100D4 yörüngede",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/fergani-uzaydan-dev-adim-altinci-milli-uydu-frg-100d4-yorungede/103919",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Fergani’nin altıncı uydusu uzayda!",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/ferganinin-altinci-uydusu-uzayda-4271269",
+          "also_in": [
+            "Hürriyet",
+            "DefenceTurk"
+          ]
+        },
+        {
+          "title": "Fergani’nin 6’ncı milli uydusu uzaya çıktı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/istanbul/ferganinin-6nci-milli-uydusu-uzaya-cikti-3482261",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Fergani’nin altıncı uydusu FRG-100D4 başarıyla yörüngesine yerleşti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/fergani-nin-altinci-uydusu-frg-100d4-basariyla-yorungesine-yerlesti/4095104",
+          "also_in": []
+        },
+        {
+          "title": "FERGANİ’NİN ALTINCI UYDUSU UZAYDA!",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/ferganinin-altinci-uydusu-uzayda/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ankara'da EGO Otobüs Kazası",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Ankara'da bir EGO otobüsünün üst geçide çarpması sonucu 24 kişi yaralandı; olayla ilgili incelemeler sürüyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ankara'da EGO otobüsü üst geçidin ayağına çarptı: 24 yaralı",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/ankarada-ego-otobusu-ust-gecidin-ayagina-carpti-24-yarali-2465009h.htm",
+          "also_in": [
+            "OdaTV",
+            "Sputnik",
+            "TRT Haber",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Ankara'da EGO otobüsü üst geçide çarptı: 24 yaralı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/ankara/ankarada-ego-otobusu-ust-gecide-carpti-24-yarali-3482266",
+          "also_in": [
+            "En Son Haber",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Ankara'da belediye otobüsü üst geçide çarptı: 24 yaralı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6005856/ankarada-belediye-otobusu-ust-gecide-carpti-24-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Ankara'da EGO otobüsü üst geçide çarptı! 24 kişi yaralandı",
+          "source": "Karar",
+          "link": "https://www.karar.com/guncel-haberler/ankarada-ego-otobusu-ust-gecide-carpti-24-kisi-yaralandi-2079698",
+          "also_in": [
+            "Son Mühür"
+          ]
+        },
+        {
+          "title": "Ankara'da EGO otobüsü üst geçit asansörüne çarptı: 24 yaralı",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/ankara/ankarada-ego-otobusu-ust-gecit-asansorune-carpti-24-yarali/273418",
+          "also_in": [
+            "Türkgün"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ABD Ekonomisi ve Trump'ın Politikaları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Donald Trump'ın gümrük tarifeleri ve İran konusundaki açıklamaları, küresel piyasalarda dalgalanmalara neden oluyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trump'ın Kanada menşeli ürünlere uyguladığı yüzde 50'lik tarifelere karşı dava açıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/trumpin-kanada-menseli-urunlere-uyguladigi-yuzde-50lik-tarifelere-karsi-dava-acildi/4095163",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Donald Trump: Böyle giderse Avrupa diye bir yer kalmayacak",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/donald-trump-boyle-giderse-avrupa-diye-bir-yer-kalmayacak-h1575408",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Trump: İran ile savaş 'çok yakında' sona erecek",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/trump-iran-ile-savas-cok-yakinda-sona-erecek",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Trump'tan İran mesajı: \"Savaş bitecek, petrol fiyatları düşecek\"",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/dunya/trumptan-iran-mesaji-savas-bitecek-petrol-fiyatlari-dusecek-h39917",
+          "also_in": []
+        },
+        {
+          "title": "Trump'ın yüzde 50'lik tarifelerine dava: Kanada ürünleri için mahkemeye başvurdu",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/dunya/trumpin-yuzde-50lik-tarifelerine-dava-kanada-urunleri-icin-mahkemeye-basvurdu-h39911",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Süper Lig Kulüplerine PFDK Sevkleri",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de yer alan 10 kulüp çeşitli disiplin ihlalleri nedeniyle PFDK'ya sevk edildi.",
+      "importance": 6,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "Süper Lig'den 10 kulüp PFDK'ya sevk edildi!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/20/super-ligden-10-kulup-pfdkya-sevk-edildi",
+          "also_in": [
+            "NTV Spor Anasayfa",
+            "NTV Spor Futbol",
+            "En Son Haber"
+          ]
+        },
+        {
+          "title": "Süper Lig'den 10 kulüp PFDK'ye sevk edildi!",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/futbol/2026/10/20/super-ligden-10-kulup-pfdkye-sevk-edildi",
+          "also_in": [
+            "Anadolu Ajansı",
+            "Akşam",
+            "Doğru Haber"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Bal du moulin de la Galette",
+    "artist": "Pierre-Auguste Renoir",
+    "year": "1876",
+    "form": "resim",
+    "medium": "",
+    "location": "",
+    "description": "Pierre-Auguste Renoir imzalı Bal du moulin de la Galette, izlenimci fırça darbeleriyle Paris'in neşeli ve kaygısız bir anını ölümsüzleştirerek yaşamın gündelik akışındaki huzuru ön plana çıkarır. Günün yoğun siyasi gündemi ve belirsizliklerle dolu hareketli atmosferi düşünüldüğünde, tablodaki bu canlı ve sosyal uyum tablosu, karmaşadan uzaklaşıp insani bağlara sığınma arzusu uyandıran dingin bir kaçış noktası sunuyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bal_du_moulin_de_la_Galette",
+    "wikipedia_extract": "Bal du moulin de la Galette is an 1876 painting by French artist Pierre-Auguste Renoir.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg/3840px-Renoir%2C_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette%2C_1876.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir"
+  },
+  "music": {
+    "title": "Total Eclipse of the Heart",
+    "artists": "Bonnie Tyler",
+    "album": "The Very Best of Bonnie Tyler",
+    "duration": "4:27",
+    "spotify_url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj",
+    "spotify_id": "7wuJGgpTNzbUyn26IOY6rj",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2738cefe8e2f2cfd63ce073fa96",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7wuJGgpTNzbUyn26IOY6rj\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Bugün, dünyanın dört bir yanından yükselen siyasi gerilimlerin ve toplumsal çalkantıların ağırlığıyla, zamanın akışında tekinsiz bir kırılma yaşıyoruz. Renoir’ın Bal du moulin de la Galette tablosundaki o ışıklı, neşeli kalabalık ile Bonnie Tyler’ın Total Eclipse of the Heart parçasındaki o dramatik ve yaralı tınılar arasında, huzur ile kargaşa arasındaki ince çizgide asılı kaldık. Tarihin bu telaşlı anında, savunma sanayii ve bölgesel huzursuzlukların gölgesi, tıpkı şarkıdaki o mutlak tutulma gibi gündelik hayatımızın üzerine bir perde çekiyor. Geçmişin iyimser fırça darbeleriyle günümüzün endişeli notaları birleştiğinde, belirsizliğin ortasında temkinli bir merakla yarını bekleyen bir toplumun yorgun ritmi ortaya çıkıyor. Bu karmaşık gün, tıpkı müziğin yükselen tansiyonu gibi, hem bir şeylerin yıkılışına hem de yeni bir düzenin sancılı doğumuna tanıklık etmemizi sağlıyor."
+}
