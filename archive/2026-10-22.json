@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-22",
+  "date_human": "22 October 2026",
+  "generated_at": "2026-10-22T01:32:10.271280+00:00",
+  "stats": {
+    "feeds_collected": 261,
+    "news_total": 5750,
+    "news_analyzed": 614,
+    "clusters": 7
+  },
+  "mood": {
+    "description": "Türkiye, siber güvenlik krizleri, siyasi istifalar ve yoğunlaşan bölgesel savunma iş birlikleri arasında gerilimli ve hareketli bir gün geçiriyor.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Siber güvenlik ve PHP açığı krizi",
+      "Türkiye-Libya-Katar savunma mutabakatı",
+      "Sarıgül ailesi ve fon soruşturması operasyonları",
+      "Şampiyonlar Ligi'ndeki Türk takımlarının performansı"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-22",
+        "code": 3,
+        "temp_max": 26.2,
+        "temp_min": 10.0
+      },
+      {
+        "date": "2026-10-23",
+        "code": 3,
+        "temp_max": 26.5,
+        "temp_min": 11.9
+      },
+      {
+        "date": "2026-10-24",
+        "code": 45,
+        "temp_max": 24.9,
+        "temp_min": 13.2
+      },
+      {
+        "date": "2026-10-25",
+        "code": 3,
+        "temp_max": 23.6,
+        "temp_min": 12.0
+      },
+      {
+        "date": "2026-10-26",
+        "code": 45,
+        "temp_max": 23.8,
+        "temp_min": 13.0
+      },
+      {
+        "date": "2026-10-27",
+        "code": 61,
+        "temp_max": 21.5,
+        "temp_min": 17.2
+      },
+      {
+        "date": "2026-10-28",
+        "code": 61,
+        "temp_max": 18.2,
+        "temp_min": 12.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Küresel Siber Güvenlik Alarmı",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "PHP tabanlı sistemlerdeki kritik açık nedeniyle Avrupa ve Türkiye'de kamu siteleri çevrimdışı kalırken, Siber Güvenlik Başkanlığı ulusal uyarı yayınladı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İnternet dünyasında PHP alarmı: Türkiye'den kritik siber güvenlik uyarısı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/internet-dunyasinda-php-alarmi-turkiyeden-kritik-siber-guvenlik-uyarisi/103946",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Dijital dünyada PHP alarmı: Avrupa'da siteler kapandı, Türkiye'den acil uyarı geldi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/dijital-dunyada-php-alarmi-avrupada-siteler-kapandi-turkiyeden-acil-uyari-geldi/103945",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Avrupa'da dijital kriz: PHP açığı nedeniyle kamu siteleri fişi çekti",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/avrupada-dijital-kriz-php-acigi-nedeniyle-kamu-siteleri-fisi-cekti/103944",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Avrupa'da dijital alarm: PHP açığı nedeniyle devlet siteleri fişi çekti",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/avrupada-dijital-alarm-php-acigi-nedeniyle-devlet-siteleri-fisi-cekti/103943",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Avrupa'da dijital alarm: PHP açığı kamu kurumlarını çevrimdışı bıraktı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/avrupada-dijital-alarm-php-acigi-kamu-kurumlarini-cevrimdisi-birakti/103942",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Emir Sarıgül ve Fon Soruşturması",
+      "meta_category": "Gündem",
+      "summary": "Kara para aklama ve fon soruşturması kapsamında Emir Sarıgül tutuklanırken, soruşturma genişleyerek yeni gözaltılarla devam ediyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kara Para Aklama Soruşturması: Emir Sarıgül Tutuklandı",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/kara-para-aklama-sorusturmasi-emir-sarigul-tutuklandi-1390294",
+          "also_in": [
+            "GZT",
+            "Sputnik",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Gazeteci İsmail Arı tutuklandı",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&at_campaign=rss",
+          "also_in": [
+            "Diken",
+            "DW Haber",
+            "Gerçek Gündem",
+            "Haber 7",
+            "Habertürk",
+            "Dokuz8 Haber",
+            "Kısa Dalga",
+            "NTV",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Emir Sarıgül tutuklandı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/emir-sarigul-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=emir-sarigul-tutuklandi",
+          "also_in": [
+            "CGTN Türk",
+            "Habertürk",
+            "Hürriyet",
+            "İstiklal",
+            "Mynet",
+            "Ulusal Kanal",
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/mustafa-sarigulun-oglu-emir-sarigul-tutuklandi-595582",
+          "also_in": [
+            "Aykırı",
+            "Elips Haber",
+            "Sözcü",
+            "Sözcü Gündem",
+            "soL Haber",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bedir Mutabakatı ve Savunma İş Birliği",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Türkiye, Katar, Pakistan ve Endonezya arasında savunma sanayii odaklı 'Bedir Mutabakat Zaptı' imzalanarak bölgesel askeri iş birliği güçlendirildi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye, Katar, Pakistan ve Endonezya arasında Bedir Mutabakat Zaptı imzalandı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/turkiye-katar-pakistan-ve-endonezya-arasinda-bedir-mutabakat-zapti-imzalandi-351876h",
+          "also_in": [
+            "Bir Gazete",
+            "BHA"
+          ]
+        },
+        {
+          "title": "Türkiye, Katar, Endonezya ve Pakistan arasında askeri iş birliği anlaşması: \"Bedir Mutabakat Zaptı\"",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6005977/turkiye-katar-endonezya-ve-pakistan-arasinda-askeri-is-birligi-anlasmasi-bedir-mutabakat-zapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "Bedir Mutabakat Zaptı imzalandı",
+          "source": "NTV",
+          "link": "https://www.ntv.com.tr/turkiye/bedir-mutabakat-zapti-imzalandi-1747336",
+          "also_in": [
+            "Serbestiyet"
+          ]
+        },
+        {
+          "title": "“Bedir” Mutabakatı İmzalandı: 4 Ülkeden Savunma Sanayii Hamlesi",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/bedir-mutabakati-imzalandi-4-ulkeden-savunma-sanayii-hamlesi/",
+          "also_in": []
+        },
+        {
+          "title": "Bedir Mutabakatı’nın detayları açıklandı: Türkiye ortak savunma projelerinde öne çıkıyor",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/bedir-mutabakatinin-detaylari-aciklandi-turkiye-ortak-savunma-projelerinde-one-cikiyor/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Galatasaray'ın Avrupa Zaferi ve Derbi Hazırlığı",
+      "meta_category": "Spor",
+      "summary": "Galatasaray'ın Lille karşısındaki galibiyeti ülke puanına katkı sağlarken, oyuncular ve teknik ekip gözünü Fenerbahçe derbisine çevirdi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray, Fransa'da 4 golle kazandı: Puan durumu güncellendi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-fransada-4-golle-kazandi-puan-durumu-guncellendi-431696",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Galatasaray'ın Lille zaferi sonrası flaş manşet!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/21/galatasarayin-lille-zaferi-sonrasi-flas-manset",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray deplasmanda Lille'i devirdi! Aslan Fransızlara patladı | İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/21/galatasaray-deplasmanda-lillei-devirdi-aslan-fransizlara-patladi-iste-macin-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Fransız gazeteciden Galatasaray itirafı: Yıldız transferlerinden etkileniyoruz!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/21/fransiz-gazeteciden-galatasaray-itirafi-yildiz-transferlerinden-etkileniyoruz",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray deplasmanda Lille karşısında! İşte Okan Buruk'un muhtemel 11'i",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/21/galatasaray-deplasmanda-lille-karsisinda-iste-okan-burukun-muhtemel-11i",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siyasi İstifa ve Kurultay Davaları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Ahmet Eşref Fakıbaba İYİ Parti'den istifa ederken, CHP'deki kurultay davası ve disiplin süreçleri gündemdeki yerini koruyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ahmet Eşref Fakıbaba İYİ Parti'den ve milletvekilliğinden istifa etti",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/ahmet-esref-fakibaba-iyi-partiden-ve-milletvekilliginden-istifa-etti-351884h",
+          "also_in": [
+            "Hürriyet",
+            "Kamudan Haber",
+            "Sputnik",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "CHP'de 3 isim için kesin ihraç talebi",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/chpde-3-isim-icin-kesin-ihrac-talebi-351890h",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "CHP'de 3 isim disipline sevk edildi",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/chpde-3-isim-disipline-sevk-edildi-h1575697",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "CHP kurultayı davası 11 Kasım’a ertelendi",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/chp-kurultayi-davasi-11-kasima-ertelendi/367945/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Fakıbaba İYİ Parti’den ve Milletvekilliğinden İstifa Etti",
+          "source": "Medya Gazete",
+          "link": "https://www.medyagazete.com/haber/fakibaba-iyi-partiden-ve-milletvekilliginden-istifa-etti-1467131",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Zonguldak'ta Bina Çökmesi",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Zonguldak'ta çöken bir binada mahsur kalan vatandaşlardan birinin hayatını kaybettiği, birinin ise kurtarıldığı açıklandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Zonguldak'ta çöken binada 1 kişi kurtarıldı, 1 kişi öldü",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/zonguldakta-3-katli-bina-coktu-enkaz-altinda-kalanlar-var",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Zonguldak'ta 2 katlı bina çöktü: 1 kişi öldü, 1 kişi yaralı kurtarıldı",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/zonguldakta-2-katli-bina-coktu-1-kisi-oldu-1-kisi-yarali-kurtarildi",
+          "also_in": [
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Zonguldak'ta 2 katlı bina çöktü: 1 ölü, 1 yaralı",
+          "source": "Independent Türkçe",
+          "link": "https://www.indyturk.com/node/784156/haber/zonguldakta-2-katl%C4%B1-bina-%C3%A7%C3%B6kt%C3%BC-1-%C3%B6l%C3%BC-1-yaral%C4%B1",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Zonguldak'ta 3 katlı bina çöktü: Enkaz altında kalan 1 kişi hayatını kaybetti",
+          "source": "Mynet",
+          "link": "https://haber.mynet.com/zonguldak-ta-3-katli-bina-coktu-enkaz-altinda-kalan-2-kisiden-1-i-kurtarildi-110107317973",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Zonguldak'ta 3 katlı bina çöktü: Enkazdan acı haber geldi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/zonguldak-bina-coktu-p371432",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Gelişmeler ve Şirket Bilançoları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Tesla ve Meta gibi devlerin kâr açıklamaları, İngiltere'nin rekor borcu ve Türkiye'deki sigorta prim üretimi verileri piyasalarda öne çıktı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Tesla'nın karı üçüncü çeyrekte azaldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/teslanin-kari-ucuncu-ceyrekte-azaldi/4096540",
+          "also_in": [
+            "Diriliş Postası",
+            "Dünya",
+            "Ekonomim",
+            "Haber 7",
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Meta'nın geliri üçüncü çeyrekte arttı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/metanin-geliri-ucuncu-ceyrekte-artti/4096555",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "Sigorta sektöründe prim üretimi 1 trilyonu aştı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/sigorta-sektorunde-prim-uretimi-1-trilyonu-asti/367934/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "IBM’in geliri 17,1 milyar dolara yükseldi: Net kârı yüzde 26 arttı",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/ibm-in-geliri-17-1-milyar-dolara-yukseldi-net-k-ri-yuzde-26-artti-29283",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Tesla'nın üçüncü çeyrek net kârı yüzde 43 azaldı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/tesla-nin-ucuncu-ceyrek-net-kri-yuzde-43-azaldi-3792151",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": "1665",
+    "form": "resim",
+    "medium": "",
+    "location": "",
+    "description": "Johannes Vermeer tarafından 1665 yılında resmedilen İnci Küpeli Kız, Hollanda Altın Çağı’nın dinginliğini ve gizemli bir derinliği temsil eden ikonik bir başyapıttır. Günümüz Türkiye’sinin siber güvenlik krizleri ve siyasi istifalarla örülü kaotik ve gerilimli atmosferi, bu tablodaki kadının dış dünyadan kopuk, sessiz ve sorgulayıcı bakışındaki tezatlıkla dikkat çekici bir şekilde buluşuyor. Eserin zamansız huzuru, içinde bulunduğumuz hareketli ve belirsiz günlerin gürültüsüne karşı sakin bir mola noktası sunuyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+    "wikipedia_extract": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it acquired its present title towards the end of the 20th century. The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary and cinematic treatments.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/3840px-1665_Girl_with_a_Pearl_Earring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Johannes_Vermeer"
+  },
+  "music": {
+    "title": "Subterranean Homesick Alien",
+    "artists": "Radiohead",
+    "album": "OK Computer",
+    "duration": "4:27",
+    "spotify_url": "https://open.spotify.com/track/2CVV8PtUYYsux8XOzWkCP0",
+    "spotify_id": "2CVV8PtUYYsux8XOzWkCP0",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2CVV8PtUYYsux8XOzWkCP0\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Günümüzün dijital siber krizleri, siyasi çalkantılar ve askeri mutabakatların yarattığı tekinsiz atmosfer, Vermeer’in İnci Küpeli Kız’ındaki o sabit, gizemli ve tedirgin bakışla tuhaf bir biçimde örtüşüyor. Radiohead’in Subterranean Homesick Alien parçası, bu tablonun sessizliğini bozarak bizi kendi gerçekliğimizden koparan, uzaylı bir yabancılaşmanın içine, modern dünyanın tüm o görünmez tehditlerine karşı savunmasız bir yalnızlığa sürüklüyor. Haber akışındaki kaos ve soruşturmaların yarattığı belirsizlik, tıpkı incinin karanlıkta parlayan soğuk ışığı gibi, içinde yaşadığımız anın tedirgin edici tecrit duygusunu derinleştiriyor. Hepimiz, tıpkı o meçhul kız gibi, sırtımızı döndüğümüz karanlığa karşı bir cevap arıyor, ancak yalnızca mesafeli ve tekinsiz bir sessizlikle karşılaşıyoruz. Bu kesişim noktası, bir yanda tarihsel bir dinginliğin diğer yanda ise hızla dijitalleşen ve çözülen bir toplumun kırılganlığının, aslında aynı varoluşsal boşlukta buluştuğunu bizlere kanıtlıyor."
+}
