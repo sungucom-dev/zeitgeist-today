@@ -1,0 +1,571 @@
+{
+  "date": "2026-10-23",
+  "date_human": "23 October 2026",
+  "generated_at": "2026-10-23T01:31:24.803328+00:00",
+  "stats": {
+    "feeds_collected": 264,
+    "news_total": 5668,
+    "news_analyzed": 606,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye'nin gündemi, TCMB'nin faiz indirimi ve fon krizine yönelik yasal düzenlemelerle ekonomik bir türbülansın içine girerken, diplomasi ve spor haberlerinin yarattığı dinamizmle dengeleniyor. Toplumsal katmanlarda ise suç örgütü operasyonları ve yerel yönetimlerdeki değişimler dikkat çekiyor.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Ekonomik Düzenlemeler ve Faiz Kararı",
+      "Güvenlik ve Suç Örgütü Operasyonları",
+      "Diplomatik Temaslar ve Stratejik Ortaklıklar",
+      "Dijital Tehditler ve Siber Güvenlik",
+      "Spor Dünyasında Rekabet ve Avrupa Başarıları"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-23",
+        "code": 3,
+        "temp_max": 26.2,
+        "temp_min": 11.2
+      },
+      {
+        "date": "2026-10-24",
+        "code": 45,
+        "temp_max": 24.8,
+        "temp_min": 13.9
+      },
+      {
+        "date": "2026-10-25",
+        "code": 45,
+        "temp_max": 24.0,
+        "temp_min": 11.7
+      },
+      {
+        "date": "2026-10-26",
+        "code": 61,
+        "temp_max": 24.3,
+        "temp_min": 13.4
+      },
+      {
+        "date": "2026-10-27",
+        "code": 61,
+        "temp_max": 20.8,
+        "temp_min": 16.5
+      },
+      {
+        "date": "2026-10-28",
+        "code": 3,
+        "temp_max": 19.9,
+        "temp_min": 15.2
+      },
+      {
+        "date": "2026-10-29",
+        "code": 3,
+        "temp_max": 19.0,
+        "temp_min": 14.3
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Ekonomik Reformlar ve Faiz Kararı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Merkez Bankası'nın faiz indirimi ve fon krizine yönelik TBMM'den geçen yeni yasal düzenlemeler piyasalarda hareketliliğe neden oldu.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Merkez Bankası Faiz Kararını Açıkladı",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/10/22/merkez-bankasi-faiz-kararini-acikladi-7176676.html",
+          "also_in": [
+            "Haberet",
+            "Radikal",
+            "Forbes Türkiye"
+          ]
+        },
+        {
+          "title": "Merkez Bankası faizi yüzde 36’ya indirdi",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/ekonomi/merkez-bankasi-faizi-yuzde-36ya-indirdi-351905h",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "TCMB’den faiz kararı: Politika faizi yüzde 36",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/tcmbden-faiz-karari-politika-faizi-yuzde-36/367979/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Merkez Bankası ekim ayı faiz kararını açıkladı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/merkez-bankasi-ekim-ayi-faiz-kararini-acikladi/944831",
+          "also_in": []
+        },
+        {
+          "title": "Prof. Dr. Selva Demiralp yazdı: 9 ay sonra gelen indirim ne anlama geliyor?",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/prof-dr-selva-demiralp-yazdi-9-ay-sonra-gelen-indirim-ne-anlama-geliyor/944956",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Suç Örgütü ve Yolsuzluk Operasyonları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Alihan Kuriş suç örgütü ve fon soruşturması kapsamında çok sayıda tutuklama gerçekleşti; belediyelere yönelik operasyonlar sürdü.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Alihan Kuriş suç örgütü soruşturmasında 19 tutuklama",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/22/alihan-kuris-suc-orgutu-sorusturmasinda-19-tutuklama",
+          "also_in": [
+            "Aydınlık",
+            "Dünya",
+            "Dokuz8 Haber",
+            "İlke TV",
+            "OdaTV",
+            "Türkgün",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 11 şüpheli tutuklandı",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/fon-sorusturmasi-11-kisi-tutuklama-talep-edildi-4271952",
+          "also_in": [
+            "Haber Global",
+            "İnternet Haber",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
+          "source": "DW Haber",
+          "link": "https://www.dw.com/tr/mustafa-sarıgül-ün-oğlu-emir-sarıgül-tutuklandı/a-79728194?maca=tur-rss-tur-all-1495-rdf",
+          "also_in": [
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Son dakika...Fon soruşturmasında 11 tutuklama, 4 ev hapsi",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-11-tutuklama-4-ev-hapsi-p371851",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Alihan Kuriş Suç Örgütü soruşturmasında 19 şüpheli tutuklandı",
+          "source": "TürkInform",
+          "link": "https://turkinform.com.tr/alihan-kuris-suc-orgutu-sorusturmasinda-19-supheli-tutuklandi",
+          "also_in": [
+            "TGRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türkiye-Kanada Diplomasi Trafiği",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Türkiye ile Kanada arasında stratejik ortaklık düzeyinde yeni anlaşmalar imzalandı ve ticari hedefler güncellendi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye ile Kanada Arasında 3 Anlaşma İmzalandı",
+          "source": "Haber",
+          "link": "https://www.haber.com/gundem/turkiye-ile-kanada-arasinda-3-anlasma-imzalandi-29367",
+          "also_in": [
+            "Independent Türkçe",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Türkiye-Kanada arasında yeni dönem! Erdoğan: Stratejik ortaklık kuruyoruz",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/siyaset/turkiye-kanada-arasinda-yeni-donem-erdogan-stratejik-ortaklik-kuruyoruz-6991158",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Kanada ile ilişkiler 'stratejik ortaklık' düzeyine yükseltildi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-kanada-ile-iliskiler-stratejik-ortaklik-duzeyine-yukseltildi-110363",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Ankara'da diplomasi trafiği! Bakan Fidan, Kanadalı mevkidaşı Anand ile görüştü",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/22/bakan-fidan-kanadali-mevkidasi-anand-ile-gorustu",
+          "also_in": []
+        },
+        {
+          "title": "Bakan Bayraktar, Kanadalı yetkililerle enerjide iş birliği imkanlarını görüştüklerini bildirdi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-kanadali-yetkililerle-enerjide-is-birligi-imkanlarini-gorustuklerini-bildirdi/4097712",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş ve Trabzonspor'un Avrupa Mücadelesi",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş'ın Crystal Palace ile beraberliği ve Trabzonspor'un Avrupa'daki galibiyetleri Türk takımlarının haftalık karnesini şekillendirdi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Beşiktaş ilk puan kaybını yaptı: 10 kişi Kartal sahasında beraberlik aldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-besiktas-crystal-palace-canli-anlatim-431752",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Beşiktaş sahasında Crystal Palace ile berabere kaldı! İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/besiktas/2026/10/22/besiktas-sahasinda-crystal-palace-ile-berabere-kaldi-iste-macin-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Trabzonspor sahasında Hearts'ı rahat geçti! Fırtına'dan Avrupa'da 2'de 2",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/konferans-ligi/2026/10/22/trabzonspor-sahasinda-heartsi-rahat-gecti-firtinadan-avrupada-2de-2",
+          "also_in": []
+        },
+        {
+          "title": "Trabzonspor Konferans Ligi'nde yine kazandı",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/trabzonspor-konferans-liginde-yine-kazandi",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Beşiktaş, Avrupa'da yoluna yenilgisiz devam etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupada-yoluna-yenilgisiz-devam-etti/4097852",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Dijital Güvenlik ve PHP Krizi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Dünya genelinde etkili olan kritik PHP açığı Türkiye'de de siber güvenlik birimlerini alarm durumuna geçirdi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "PHP'de kritik alarm: Dünya genelinde dijital hizmetler askıya alındı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/phpde-kritik-alarm-dunya-genelinde-dijital-hizmetler-askiya-alindi/103981",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "İnternet dünyasında PHP alarmı: 9,2 şiddetindeki açık için kritik uyarı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/internet-dunyasinda-php-alarmi-92-siddetindeki-acik-icin-kritik-uyari/103975",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "PHP altyapısında kritik alarm: Siber Güvenlik Başkanlığı'ndan kritik açıklama",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/php-altyapisinda-kritik-alarm-siber-guvenlik-baskanligindan-kritik-aciklama/103960",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "İnternetin yüzde 70'ini tehdit eden PHP açığı: Türkiye'den kritik hamle",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/internetin-yuzde-70ini-tehdit-eden-php-acigi-turkiyeden-kritik-hamle/103949",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "PHP krizi hakkında neler biliniyor, Türkiye'de risk var mı? 5 soruda güvenlik açığının perde arkası",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/22/php-krizi-hakkinda-neler-biliniyor-turkiyede-risk-var-mi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "A Milli Takım'da Sergen Yalçın Dönemi",
+      "meta_category": "Spor",
+      "summary": "A Milli Takım teknik ekibinde Sergen Yalçın'ın göreve başlaması spor medyasında geniş yer buldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Milli Takım'da Sergen Yalçın'ın teknik ekibi belli oldu",
+          "source": "Duhuliye",
+          "link": "https://www.duhuliye.com/futbol/milli-takimda-sergen-yalcinin-teknik-ekibi-belli-oldu-83411",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Sergen Yalçın'ın teknik ekibi belli oldu",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/sergen-yalcinin-teknik-ekibi-belli-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=sergen-yalcinin-teknik-ekibi-belli-oldu",
+          "also_in": [
+            "Habertürk",
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Sergen Yalçın’ın A Milli Takım’daki çalışma arkadaşları açıklandı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/spor/sergen-yalcinin-a-milli-takimdaki-calisma-arkadaslari-aciklandi/368002/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Sergen Yalçın, A Milli Takım’a imzayı attı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/sergen-yalcin-a-milli-takima-imzayi-atti/367980/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "TFF, Sergen Yalçın'ın teknik ekibini duyurdu",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/tff-sergen-yalcinin-teknik-ekibini-duyurdu-1824525",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Meta'ya Dev Veri İhlali Cezası",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Meta platformlarına 25 milyar dolarlık dev bir veri ihlali cezası kesildi ve Türkiye'den de dava süreci gündeme geldi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Meta'ya dev veri ihlali cezası: 25 milyar dolarlık fatura",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/metaya-dev-veri-ihlali-cezasi-25-milyar-dolarlik-fatura/103980",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "26 yanıltıcı açıklama, 43 milyon ihlal: Meta’ya 25 milyar dolar ceza",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/26-yaniltici-aciklama-43-milyon-ihlal-metaya-25-milyar-dolar-ceza_184849.html",
+          "also_in": []
+        },
+        {
+          "title": "Bakan Tekin: Meta'ya dava açmayı düşünüyoruz!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/bakan-tekin-metaya-dava-acmayi-dusunuyoruz",
+          "also_in": [
+            "İnternet Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Meta’ya 25 milyar dolarlık ceza: 43 milyondan fazla ihlal tespit edildi",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/dunya/metaya-25-milyar-dolarlik-ceza-43-milyondan-fazla-ihlal-tespit-edildi/367978/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Milli Eğitim Bakanlığı Meta'ya dava açmaya hazırlanıyor",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/22/milli-egitim-bakanligi-metaya-dava-acmaya-hazirlaniyor",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yerel Yönetimlerde Siyasi Hareketlilik",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Bazı belediye başkanlarının partilerinden istifa edip yeni partilere geçmesi siyasi kulisleri hareketlendirdi.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kadıköy Belediye Başkanı Mesut Kösedağı YENİ Parti'ye geçti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/kadikoy-belediye-baskani-mesut-kosedagi-yeni-partiye-gecti/?utm_source=rss&utm_medium=rss&utm_campaign=kadikoy-belediye-baskani-mesut-kosedagi-yeni-partiye-gecti",
+          "also_in": [
+            "Gerçek Gündem"
+          ]
+        },
+        {
+          "title": "Kadıköy Belediyesi YENİ Parti’ye geçti",
+          "source": "İlke TV",
+          "link": "https://ilketv.com.tr/kadikoy-belediyesi-yeni-partiye-gecti/",
+          "also_in": [
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "Bir belediye başkanı daha CHP’den istifa etti: Kesin ihraç talebiyle disipline sevk edilmişti",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/bir-belediye-baskani-daha-chp-den-istifa-etti-kesin-ihrac-talebiyle-disipline-sevk-edilmisti-p371829",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "CHP'nin kalesiydi! Belediye Başkanı, yeni partisini açıkladı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/yeni-partinin-istanbuldaki-ilk-belediyesi-oldu-toplu-istifayla-ozgur-ozelin-partisine-gectiler-p371815",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "CHP’li İBB Meclis Üyesi Ebru Akgün Pekel istifa etti",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/chp-li-ibb-meclis-uyesi-ebru-akgun-pekel-istifa-etti-p371837",
+          "also_in": [
+            "Sözcü"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Çin'de 7 Büyüklüğünde Deprem",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Çin'in Tibet Özerk Bölgesi'nde meydana gelen 7 büyüklüğündeki depremde can kayıpları yaşandı.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cinin-tibet-ozerk-bolgesinde-7-buyuklugunde-deprem-h1576087",
+          "also_in": [
+            "Evrensel",
+            "Haber 7",
+            "Habertürk",
+            "Haber",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Çin'in Tibet Özerk Bölgesi'nde 7 büyüklüğünde deprem meydana geldi",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/cinin-tibet-ozerk-bolgesinde-7-buyuklugunde-deprem-meydana-geldi-286422h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Çin'de 7 büyüklüğünde deprem",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/dunya/cinde-7-buyuklugunde-deprem-6991197",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Çin'in Tibet Özerk Bölgesi'nde meydana gelen 7 büyüklüğündeki depremde 16 kişi öldü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/cinin-tibet-ozerk-bolgesinde-meydana-gelen-7-buyuklugundeki-depremde-16-kisi-oldu/4097900",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür ve Sanat Dünyasından Gelişmeler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Troya'da bulunan antik eserler ve yeni kitap lansmanları sanat gündemini oluşturdu.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Troya’da 2.800 Yıllık Kemik Flüt Ortaya Çıkarıldı",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/troyada-2-800-yillik-kemik-flut-ortaya-cikarildi/",
+          "also_in": []
+        },
+        {
+          "title": "Troya’da 2 bin 800 yıllık kemik flüt ve 4 bin 500 yıllık idol başı bulundu",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/troyada-2-bin-800-yillik-kemik-flut-ve-4-bin-500-yillik-idol-basi-bulundu/23726",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Londra Edebiyat Festivali, Dua Lipa’nın Küratörlüğünde Başladı",
+          "source": "Artkolik",
+          "link": "https://www.artkolik.net/edebiyat/londra-edebiyat-festivali-dua-lipanin-kuratorlugunde-basladi-25595",
+          "also_in": []
+        },
+        {
+          "title": "KADIN OLMAYI KUTLAYAN TEK FESTİVAL “FEMİNİSTANBUL” 9 YAŞINDA",
+          "source": "Edebiyat Burada",
+          "link": "https://edebiyatburada.com/kadin-olmayi-kutlayan-tek-festival-feministanbul-9-yasinda/",
+          "also_in": []
+        },
+        {
+          "title": "Troya’dan 2 bin 800 yıllık flüt çıktı",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/kazi-tarihinde-bir-ilk-troyadan-2-bin-800-yillik-flut-cikti-1824589",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "A Bar at the Folies-Bergère",
+    "artist": "Édouard Manet",
+    "year": "1882",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Courtauld Gallery, London",
+    "description": "Ekonomik belirsizlik ve toplumsal katmanlardaki tedirginliği, bar tezgahındaki oyalayıcı ama yalnızlaşmış bakışlarla yansıtır. İzleyicinin aynadaki yansıması ile gerçekliği arasındaki o huzursuz edici fark, günün karmaşık piyasa dinamiklerini andırıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Bar_at_the_Folies-Berg%C3%A8re",
+    "wikipedia_extract": "A Bar at the Folies-Bergère is a painting by Édouard Manet, considered to be his last major work. It was painted in 1882 and exhibited at the Paris Salon of that year. It depicts a scene in the Folies Bergère nightclub in Paris. The painting originally belonged to the composer Emmanuel Chabrier, a close friend of Manet, and hung over his piano. It is now in the Courtauld Gallery in London.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg/3840px-%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_%281882%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89douard_Manet"
+  },
+  "music": {
+    "title": "The Daily Mail",
+    "artists": "Radiohead",
+    "album": "The Daily Mail / Staircase",
+    "duration": "3:37",
+    "spotify_url": "https://open.spotify.com/track/0Kwg1epDRFLyXFq09t7MtB",
+    "spotify_id": "0Kwg1epDRFLyXFq09t7MtB",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273e10d5e8fe2fcf59ddbc92fc2",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0Kwg1epDRFLyXFq09t7MtB\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Ekonomik türbülansın ve toplumsal belirsizliklerin gölgesinde, bugün hem bir güvenlik arayışı hem de derin bir tekinsizlik hissiyle sarmalanmış durumdayız. Manet’nin Folies-Bergère barındaki o uzaklara dalmış barmen figürü, tam da bu tedirgin ruh halini, kalabalıklar içindeki o tekinsiz yalnızlığı ve şeffaflıkla örtülen gerçekleri yansıtan bir ayna görevi görüyor. Radiohead’in The Daily Mail parçasındaki piyano tınılarının yarattığı o kaotik ve sorgulayıcı atmosfer, tablodaki aynadan yansıyan çarpık dünyanın karmaşasıyla birleşerek modern hayatın üzerimize çöken ağırlığını vurguluyor. Güvenlik operasyonlarından diplomatik hamlelere uzanan bu yoğun gündem, tıpkı eserdeki barmenin donuk bakışları gibi, aslında nelerin olup bittiğini anlamaya çalıştığımız bir arafta asılı kalıyor. Sanatın ve müziğin bu kesişim noktasında, değişen ekonomik dengelerin ve dijital tehditlerin ortasında ayakta kalmaya çalışan bireyin içsel savunmasını izliyoruz. Belirsizliğin hüküm sürdüğü bu gün, estetik bir huzursuzlukla gerçeğin çıplaklığı arasında gidip gelen bir tür ruhsal denge arayışına dönüşüyor."
+}
