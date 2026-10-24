@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-24",
+  "date_human": "24 October 2026",
+  "generated_at": "2026-10-24T01:31:32.552679+00:00",
+  "stats": {
+    "feeds_collected": 262,
+    "news_total": 5495,
+    "news_analyzed": 604,
+    "clusters": 7
+  },
+  "mood": {
+    "description": "Siyasi gerilimler, belediyelere yönelik operasyonlar ve bölgesel çatışma endişeleriyle dolu, ancak teknolojik inovasyon ve sanatın iyileştirici gücüyle dengelenmeye çalışan temkinli bir atmosfer hakim.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Belediyelere yönelik idari operasyonlar ve siyasi müdahaleler",
+      "Orta Doğu'da tırmanan bölgesel gerilim ve diplomatik çözüm arayışları",
+      "Yapay zeka ve savunma sanayii teknolojilerindeki hızlı ilerleme",
+      "Ekonomik belirsizlik ve mali piyasalardaki volatilite",
+      "Kültür-sanat etkinlikleri ve toplumsal yaşamın rutinleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-24",
+        "code": 45,
+        "temp_max": 24.5,
+        "temp_min": 12.7
+      },
+      {
+        "date": "2026-10-25",
+        "code": 45,
+        "temp_max": 24.3,
+        "temp_min": 10.8
+      },
+      {
+        "date": "2026-10-26",
+        "code": 80,
+        "temp_max": 22.1,
+        "temp_min": 12.2
+      },
+      {
+        "date": "2026-10-27",
+        "code": 95,
+        "temp_max": 19.4,
+        "temp_min": 14.4
+      },
+      {
+        "date": "2026-10-28",
+        "code": 3,
+        "temp_max": 19.1,
+        "temp_min": 13.1
+      },
+      {
+        "date": "2026-10-29",
+        "code": 3,
+        "temp_max": 18.3,
+        "temp_min": 11.8
+      },
+      {
+        "date": "2026-10-30",
+        "code": 3,
+        "temp_max": 18.8,
+        "temp_min": 10.6
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Orta Doğu'da Askeri Gerilim ve Diplomasi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran'a yönelik olası askeri müdahaleler, tanker saldırıları ve İstanbul'da düzenlenen dışişleri bakanları zirvesi bölgedeki tansiyonu yansıtıyor.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trump: İran'a belki küçük bir Destansı Öfke Operasyonu daha yaparız",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz/4099126",
+          "also_in": [
+            "Diriliş Postası",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda \"iki süper tanker\" mayına çarptı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046",
+          "also_in": [
+            "CGTN Türk",
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil-110399",
+          "also_in": [
+            "Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Trump’tan İran’a yeni saldırı sinyali: “Bir Epic Fury daha yapabiliriz”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/trumptan-irana-yeni-saldiri-sinyali-bir-epic-fury-daha-yapabiliriz-875215",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Bakan Hakan Fidan'dan kritik uyarı: İran'a yeni saldırı savaşı yaygınlaştırır!",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/bakan-hakan-fidandan-dunyaya-ateskes-cagrisi-iran-ve-korfez-icin-kritik-mesaj",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Belediyelere Operasyon ve Görevden Uzaklaştırmalar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Çukurova Belediye Başkanı Emrah Kozay'ın görevden uzaklaştırılması ve çeşitli belediyelerdeki soruşturmalar gündemin merkezine oturdu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi-595873",
+          "also_in": [
+            "Cumhuriyet",
+            "CGTN Türk",
+            "En Son Haber",
+            "Gerçek Gündem",
+            "Haberet",
+            "Haber 7",
+            "Haber Global",
+            "Son Mühür",
+            "Sabah",
+            "Sputnik",
+            "soL Haber",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Tutuklanan Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6006355/tutuklanan-cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber",
+            "İnternet Haber",
+            "Karar",
+            "Haberler",
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "İçişleri Bakanlığı duyurdu! Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi",
+          "also_in": [
+            "Mynet"
+          ]
+        },
+        {
+          "title": "Çukurova Belediyesi soruşturmasında 34 kişi tutuklandı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/cukurova-belediyesi-sorusturmasinda-34-kisi-tutuklandi/368016/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Çukurova Belediye Başkanı görevden uzaklaştırıldı",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/son-dakika-cukurova-belediye-baskani-gorevden-uzaklastirildi-3922115",
+          "also_in": [
+            "Hürriyet"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji ve Savunma Sanayii Atılımları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye'nin savunma sanayii ihracatındaki rekorlar ve yapay zeka destekli yeni teknolojik projeler öne çıkıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ASELSAN'dan dev imza: Yurt dışına RADAR ve İHA sistemleri satacak",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/aselsandan-dev-imza-yurt-disina-radar-ve-iha-sistemleri-satacak/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN 442,5 Milyon Dolarlık Radar ve Anti-Dron Sattı",
+          "source": "Mavi Savunma",
+          "link": "https://www.mavisavunma.com/aselsan-4425-milyon-dolarlik-radar-ve-anti-dron-satti/",
+          "also_in": []
+        },
+        {
+          "title": "Sağlıkta yerli üretim hamlesi: İDEA ile dışa bağımlılık tarih oluyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/saglikta-yerli-uretim-hamlesi-idea-ile-disa-bagimlilik-tarih-oluyor/103996",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GPS'in olmadığı yerde otonom sistemler için yeni umut: KBÜ'den devrim niteliğinde proje",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gpsin-olmadigi-yerde-otonom-sistemler-icin-yeni-umut-kbuden-devrim-niteliginde-proje/103993",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Türk savunma sanayiinden 185 ülkeye ihracat! Haluk Görgün A Haber'de yeni hedefleri açıkladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/2027-vizyonu-ve-gelecek-hedefleri-savunma-sanayii-baskani-haluk-gorgunden-a-habere-ozel-aciklamalar",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Piyasa Hareketliliği",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Petrol fiyatlarındaki artış, borsa düşüşleri ve şirketlerin mal varlığı tedbirleri gibi konular ekonomi gündemini şekillendiriyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Brent petrol 6 ayın zirvesinde: Varil fiyatı 117 doları aştı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/brent-petrol-6-ayin-zirvesinde-varil-fiyati-117-dolari-asti-h1576379",
+          "also_in": [
+            "F5 Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Borsa günü düşüşle tamamladı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/borsa-gunu-dususle-tamamladi-14/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gunu-dususle-tamamladi-14",
+          "also_in": [
+            "Ekonomim"
+          ]
+        },
+        {
+          "title": "Astor Enerji'nin patronları hakkındaki malvarlığı tedbiri kaldırıldı!",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/astor-enerjinin-patronlari-hakkindaki-malvarligi-tedbiri-kaldirildi-haberi-926712",
+          "also_in": [
+            "Ekonomim"
+          ]
+        },
+        {
+          "title": "Orta Doğu'daki gerilim petrol fiyatlarını uçurdu: Son 6 ayın zirvesinde!",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/brent-petrol-23-ekim-2026-p372113",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 5 milyar TL'lik iade! Feridun ve Enver Geçgel'den TMSF'ye ödeme",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/fon-sorusturmasinda-5-milyar-tllik-iade-feridun-ve-enver-gecgelden-tmsfye-odeme",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Derbi ve Transfer Hareketleri",
+      "meta_category": "Spor",
+      "summary": "Galatasaray-Fenerbahçe derbisi öncesi hazırlıklar ve transfer kulisleri spor basınını domine ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray - Fenerbahçe Derbisinin Bilet Fiyatları Belli Oldu",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/galatasaray-fenerbahce-derbisinin-bilet-fiyatlari-belli-oldu-en-ucuz-bilet-2-bin-800-tl-1390751",
+          "also_in": [
+            "NTV Spor Futbol",
+            "Ulusal Post"
+          ]
+        },
+        {
+          "title": "Galatasaray'da derbi hazırlıkları başladı",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/23/galatasarayda-derbi-hazirliklari-basladi",
+          "also_in": [
+            "NTV Spor Anasayfa",
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Galatasaray, Fenerbahçe derbisinin hazırlıklarına başladı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/23/galatasaray-fenerbahce-derbisinin-hazirliklarina-basladi",
+          "also_in": [
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Galatasaray-Fenerbahçe derbisinin bilet fiyatları belli oldu",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/superlig/2026/10/23/galatasaray-fenerbahce-derbisinin-bilet-fiyatlari-belli-oldu",
+          "also_in": [
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Fenerbahçe, Galatasaray derbisinin hazırlıklarını sürdürdü",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/23/fenerbahce-galatasaray-derbisinin-hazirliklarini-surdurdu",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sanat ve Kültürel Etkinlikler",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "İstanbul'da düzenlenen tiyatro festivalleri, sergiler ve konserler sanatseverlerle buluşuyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Sessiz filmler, canlı müzikler: Arter’de “Görüntüyü Duymak”",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/arter-goruntuyu-duymak/",
+          "also_in": []
+        },
+        {
+          "title": "KONSER: Big Beats Big Times vol.23",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/konser-big-beats-big-times-vol-23/",
+          "also_in": []
+        },
+        {
+          "title": "İstanbul Tiyatro Festivali Caroline Guiela Nguyen’in Lacrima adlı yapımıyla başladı",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/istanbul-tiyatro-festivali-caroline-guiela-nguyenin-lacrima-adli-yapimiyla-basladi/23727",
+          "also_in": []
+        },
+        {
+          "title": "Modern dans eseri \"Rüzgar Ağacı\"nın prömiyeri bugün AKM'de gerçekleşecek",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/kultur/modern-dans-eseri-ruzgar-agacinin-promiyeri-bugun-akmde-gerceklesecek/4099139",
+          "also_in": []
+        },
+        {
+          "title": "Cumhurbaşkanlığı Senfoni Orkestrası \"Melankoli ve Gül\" konseriyle sanatseverlerle buluştu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/kultur/cumhurbaskanligi-senfoni-orkestrasi-melankoli-ve-gul-konseriyle-sanatseverlerle-bulustu/4099018",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Hakkı Bulut'un Sağlık Durumu",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Ünlü sanatçı Hakkı Bulut'un sahnede fenalaşarak hastaneye kaldırılması hayranlarını endişelendirdi.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/hakki-bulut-sahnede-fenalasti-hastaneye-kaldirildi-2549680",
+          "also_in": [
+            "Haber",
+            "Karar"
+          ]
+        },
+        {
+          "title": "Hakkı Bulut sahnede fenalaştı: Sedyeyle hastaneye kaldırıldı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/hakki-bulut-sahnede-fenalasti-sedyeyle-hastaneye-kaldirildi-h1576384",
+          "also_in": [
+            "İnternet Haber",
+            "Son Mühür"
+          ]
+        },
+        {
+          "title": "Hakkı Bulut hastaneye kaldırıldı",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/bilgi/foto/hakki-bulut-son-saglik-durumu-nasil-hastaneye-kaldirildi-menajerinden-aciklama-geldi-hakki-bulut-3922139",
+          "also_in": [
+            "Habertürk",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Sahnede fenalaşan ünlü sanatçı Hakkı Bulut hastaneye kaldırıldı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/sahnede-fenalasan-unlu-sanatci-hakki-bulut-hastaneye-kaldirildi",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Hakkı Bulut rahatsızlandı; hastaneye kaldırıldı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/hakki-bulut-rahatsizlandi-mi-saglik-durumu-nasil-p372155",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Judith Slaying Holofernes (Artemisia Gentileschi, Naples)",
+    "artist": "Artemisia Gentileschi",
+    "year": "1612-1613",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Museo di Capodimonte",
+    "description": "Güç odaklarına karşı gerçekleştirilen cesur müdahaleleri ve siyasi arenadaki otorite sarsıntılarını, güçlü bir direnç ve kararlılık metaforu üzerinden temsil ediyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi%2C_Naples)",
+    "wikipedia_extract": "Judith Slaying Holofernes is a painting by the Italian early Baroque artist Artemisia Gentileschi, completed in 1612–13 and now at the Museo Capodimonte, Naples, Italy.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+  },
+  "music": {
+    "title": "In the Air Tonight - 2015 Remaster",
+    "artists": "Phil Collins",
+    "album": "Face Value (Deluxe Editon)",
+    "duration": "5:36",
+    "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
+    "spotify_id": "18AXbzPzBS8Y3AkgSxzJPb",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2738a1d7cf42a84b10bd1ff8e56",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/18AXbzPzBS8Y3AkgSxzJPb\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Bugünün atmosferi, dışarıda tırmanan siyasi gerilimlerin ve belirsizliğin gölgesinde, her an bir kırılma yaşanacakmış gibi puslu bir bekleyişe ev sahipliği yapıyor. Artemisia Gentileschi’nin Judith Slaying Holofernes tablosundaki o keskin hesaplaşma, tam da bu tedirgin iklimin içinde, gücün ve adaletin trajik bir yüzleşme anına dönüşünü simgeliyor. Phil Collins’in In the Air Tonight parçasıyla yükselen o karanlık ve atmosferik ritim, bu tuvaldeki şiddetli kararlılığı adeta günümüzün teknolojik ve siyasi kaosuna taşıyan bir gerilim hattı örüyor. Sanatın iyileştirici çabası, tam da bu fırtına öncesi sessizlikte, bireyin kendi hakikatini savunma biçimi olarak karşımıza çıkıyor. Rutinlerimizin arasında saklanan bu tekinsizlik, aslında tarihin ve bugünün iç içe geçen bir haykırışı olarak ruhumuzda çınlıyor."
+}
