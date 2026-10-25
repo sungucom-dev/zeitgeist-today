@@ -1,22 +1,21 @@
 {
-  "date": "2026-10-24",
-  "date_human": "24 October 2026",
-  "generated_at": "2026-10-24T01:31:32.552679+00:00",
+  "date": "2026-10-25",
+  "date_human": "25 October 2026",
+  "generated_at": "2026-10-25T01:30:44.472936+00:00",
   "stats": {
     "feeds_collected": 262,
-    "news_total": 5495,
-    "news_analyzed": 604,
-    "clusters": 7
+    "news_total": 4706,
+    "news_analyzed": 575,
+    "clusters": 10
   },
   "mood": {
-    "description": "Siyasi gerilimler, belediyelere yönelik operasyonlar ve bölgesel çatışma endişeleriyle dolu, ancak teknolojik inovasyon ve sanatın iyileştirici gücüyle dengelenmeye çalışan temkinli bir atmosfer hakim.",
-    "dominant_emotion": "Tedirginlik",
+    "description": "Türkiye'nin gündemi, yüksek profilli yolsuzluk soruşturmaları ve acı verici kazalarla sarsılırken, kültürel etkinlikler ve sporun birleştirici gücüyle teselli arayan gergin ve melankolik bir atmosferde.",
+    "dominant_emotion": "Endişe",
     "key_themes": [
-      "Belediyelere yönelik idari operasyonlar ve siyasi müdahaleler",
-      "Orta Doğu'da tırmanan bölgesel gerilim ve diplomatik çözüm arayışları",
-      "Yapay zeka ve savunma sanayii teknolojilerindeki hızlı ilerleme",
-      "Ekonomik belirsizlik ve mali piyasalardaki volatilite",
-      "Kültür-sanat etkinlikleri ve toplumsal yaşamın rutinleri"
+      "Fon Soruşturması ve Finansal Yolsuzluk",
+      "Mardin'deki Trafik Faciası ve Şehit Haberleri",
+      "Yapay Zeka ve Küresel Teknoloji Dönüşümü",
+      "Süper Lig Derbi Heyecanı ve Spor Gündemi"
     ]
   },
   "weather": {
@@ -25,420 +24,539 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-24",
-        "code": 45,
-        "temp_max": 24.5,
-        "temp_min": 12.7
-      },
-      {
         "date": "2026-10-25",
         "code": 45,
-        "temp_max": 24.3,
-        "temp_min": 10.8
+        "temp_max": 23.8,
+        "temp_min": 10.1
       },
       {
         "date": "2026-10-26",
         "code": 80,
-        "temp_max": 22.1,
-        "temp_min": 12.2
+        "temp_max": 20.3,
+        "temp_min": 12.6
       },
       {
         "date": "2026-10-27",
-        "code": 95,
-        "temp_max": 19.4,
-        "temp_min": 14.4
+        "code": 80,
+        "temp_max": 19.2,
+        "temp_min": 14.3
       },
       {
         "date": "2026-10-28",
-        "code": 3,
-        "temp_max": 19.1,
-        "temp_min": 13.1
+        "code": 61,
+        "temp_max": 18.2,
+        "temp_min": 10.2
       },
       {
         "date": "2026-10-29",
-        "code": 3,
-        "temp_max": 18.3,
-        "temp_min": 11.8
+        "code": 1,
+        "temp_max": 17.7,
+        "temp_min": 5.7
       },
       {
         "date": "2026-10-30",
         "code": 3,
-        "temp_max": 18.8,
-        "temp_min": 10.6
+        "temp_max": 17.9,
+        "temp_min": 10.1
+      },
+      {
+        "date": "2026-10-31",
+        "code": 63,
+        "temp_max": 17.7,
+        "temp_min": 9.4
       }
     ]
   },
   "clusters": [
     {
-      "title": "Orta Doğu'da Askeri Gerilim ve Diplomasi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İran'a yönelik olası askeri müdahaleler, tanker saldırıları ve İstanbul'da düzenlenen dışişleri bakanları zirvesi bölgedeki tansiyonu yansıtıyor.",
+      "title": "Mardin'de Trafik Faciası",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Mardin'de bir otomobilin sulama kanalına devrilmesi sonucu 4'ü çocuk 6 kişi hayatını kaybetti.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Trump: İran'a belki küçük bir Destansı Öfke Operasyonu daha yaparız",
+          "title": "Mardin'de feci kaza! Otomobil sulama kanalına devrildi: Aynı aileden 4’ü çocuk 6 kişi hayatını kaybetti",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/mardinde-feci-kaza-otomobil-sulama-kanalina-devrildi-ayni-aileden-4u-cocuk-6-kisi-hayatini-kaybetti-6991763",
+          "also_in": [
+            "GZT",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Mardin'de otomobil sulama kanalına devrildi: 4'ü çocuk 6 kişi öldü",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/mardin-de-otomobil-sulama-kanalina-devrildi-4-u-cocuk-6-kisi-oldu-1023296.html",
+          "also_in": [
+            "dikGAZETE",
+            "BHA"
+          ]
+        },
+        {
+          "title": "Mardin'de feci kaza: 4'ü çocuk 6 kişi hayatını kaybetti",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/mardinde-feci-kaza-4u-cocuk-6-kisi-hayatini-kaybetti-haberi-926828",
+          "also_in": [
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Mardin’de otomobil su kanalına uçtu: 4’ü çocuk, 6 ölü",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/3-sayfa/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-olu-110407",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "4'Ü ÇOCUK 6 ÖLÜ!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-olu-1824921",
+          "also_in": [
+            "TGRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fon Soruşturmasında Tutuklamalar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon soruşturması kapsamında aralarında eski bürokrat ve iş insanlarının bulunduğu 15 kişi daha tutuklandı, soruşturma genişleyerek devam ediyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon soruşturmasında sürpriz gelişme: Nusret Altınbaş teslim oldu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/fon-sorusturmasinda-surpriz-gelisme-nusret-altinbas-teslim-oldu/104008",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 15 şüpheli daha tutuklandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/24/fon-sorusturmasinda-15-supheli-daha-tutuklandi",
+          "also_in": [
+            "Dünya",
+            "Haberet",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "FON Soruşturmasında 15 kişi daha tutuklandı!",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/genel/fon-sorusturmasinda-15-kisi-daha-tutuklandi/400085",
+          "also_in": [
+            "Gazete Zebra",
+            "Mynet"
+          ]
+        },
+        {
+          "title": "Fon soruşturması: İnan Altınbaş ve Taha Çakmak dahil 15 tutuklama",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/fon-sorusturmasi-inan-altinbas-ve-taha-cakmak-dahil-15-tutuklama/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasi-inan-altinbas-ve-taha-cakmak-dahil-15-tutuklama",
+          "also_in": [
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında yeni gelişme! 15 şüpheli tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/fon-sorusturmasinda-yeni-gelisme-15-supheli-tutuklandi-286700h",
+          "also_in": [
+            "Türkgün"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Askeri Araç Kazası ve Şehitler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu; Balıkesir'den de astsubay şehit haberi geldi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ankara’da askeri araç kazası: Albay Sayit Gökgöz şehit oldu",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/ankarada-askeri-arac-kazasi-albay-sayit-gokgoz-sehit-oldu-875317",
+          "also_in": [
+            "Aydınlık",
+            "Cumhuriyet",
+            "Haberet",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz/4099126",
+          "link": "https://www.aa.com.tr/tr/gundem/ankarada-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-oldu/4099894",
           "also_in": [
             "Diriliş Postası",
-            "TRT Haber"
+            "Sputnik"
           ]
         },
         {
-          "title": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda \"iki süper tanker\" mayına çarptı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046",
+          "title": "Ankara'dan acı haber: Albay Sayit Gökgöz şehit oldu",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/ankaradan-aci-haber-albay-sayit-gokgoz-sehit-oldu-haberi-845142",
           "also_in": [
-            "CGTN Türk",
-            "Evrensel"
+            "Gerçek Gündem"
           ]
         },
         {
-          "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil-110399",
+          "title": "Balıkesir'den acı haber: Astsubay Oğuzcan Alma şehit oldu",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3671125-balikesirden-aci-haber-astsubay-oguzcan-alma-sehit-oldu",
           "also_in": [
-            "Haber",
-            "TRT Haber"
+            "İnternet Haber"
           ]
         },
         {
-          "title": "Trump’tan İran’a yeni saldırı sinyali: “Bir Epic Fury daha yapabiliriz”",
+          "title": "Balıkesir’de Nöbet Sırasında Acı Ölüm! 27 Yaşındaki Astsubay Şehit Oldu!",
           "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/trumptan-irana-yeni-saldiri-sinyali-bir-epic-fury-daha-yapabiliriz-875215",
-          "also_in": [
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "Bakan Hakan Fidan'dan kritik uyarı: İran'a yeni saldırı savaşı yaygınlaştırır!",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/bakan-hakan-fidandan-dunyaya-ateskes-cagrisi-iran-ve-korfez-icin-kritik-mesaj",
+          "link": "https://abcgazetesi.com.tr/gundem/balikesirde-nobet-sirasinda-aci-olum-27-yasindaki-astsubay-sehit-oldu-875319",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Belediyelere Operasyon ve Görevden Uzaklaştırmalar",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Çukurova Belediye Başkanı Emrah Kozay'ın görevden uzaklaştırılması ve çeşitli belediyelerdeki soruşturmalar gündemin merkezine oturdu.",
-      "importance": 9,
+      "title": "Galatasaray-Fenerbahçe Derbisi Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de dev derbi öncesi takımlar hazırlıklarını sürdürürken, oyuncuların açıklamaları gündemdeki yerini koruyor.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi-595873",
+          "title": "Galatasaray-Fenerbahçe Derbisi Ne Zaman, Hangi Kanalda?",
+          "source": "İndir",
+          "link": "https://www.indir.com/haber/galatasaray-fenerbahce-derbisi-hangi-kanalda/",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Galatasaray derbisi hazırlıklarına devam etti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/24/fenerbahce-galatasaray-derbisi-hazirliklarina-devam-etti",
           "also_in": [
-            "Cumhuriyet",
-            "CGTN Türk",
-            "En Son Haber",
-            "Gerçek Gündem",
-            "Haberet",
-            "Haber 7",
-            "Haber Global",
-            "Son Mühür",
-            "Sabah",
-            "Sputnik",
-            "soL Haber",
-            "Yeni Şafak"
+            "AjansSpor"
           ]
         },
         {
-          "title": "Tutuklanan Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6006355/tutuklanan-cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Fenerbahçe, Galatasaray derbisinin hazırlıklarını sürdürdü",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/fenerbahce-galatasaray-derbisinin-hazirliklarini-surdurdu-431839",
           "also_in": [
-            "Dokuz8 Haber",
-            "İnternet Haber",
-            "Karar",
-            "Haberler",
-            "İlke TV"
+            "NTV Spor Futbol"
           ]
         },
         {
-          "title": "İçişleri Bakanlığı duyurdu! Çukurova Belediye Başkanı Emrah Kozay görevden uzaklaştırıldı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/cukurova-belediye-baskani-emrah-kozay-gorevden-uzaklastirildi",
+          "title": "Galatasaray, Fenerbahçe derbisinin hazırlıklarına devam etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galatasaray-fenerbahce-derbisinin-hazirliklarina-devam-etti-431855",
           "also_in": [
-            "Mynet"
+            "NTV Spor Futbol"
           ]
         },
         {
-          "title": "Çukurova Belediyesi soruşturmasında 34 kişi tutuklandı",
+          "title": "Galatasaray Fenerbahçe derbisinin hazırlıklarını sürdürdü",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/24/galatasaray-fenerbahce-derbisinin-hazirliklarini-surdurdu",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İsrail-Filistin Gerilimi ve Bölgesel Diplomasi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran ve İsrail arasındaki gerilim tırmanırken, uluslararası arenada iki devletli çözüm ve ateşkes çağrıları sürüyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İranlı yetkiliden \"saldırıya uğramaları halinde İsrail'i hedef alacakları\" tehdidi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkiliden-saldiriya-ugramalari-halinde-israili-hedef-alacaklari-tehdidi/4099860",
+          "also_in": [
+            "Diriliş Postası",
+            "İşçi Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irani-tekrar-bombalama-ihtimalim-var/4099896",
+          "also_in": [
+            "Dünya",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki saldırılarını sürdürdü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-saldirilarini-surdurdu/4099824",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "İran'dan Netanyahu'ya yanıt: Bir saat içinde İsrail yaşanmaz hale gelir",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/irandan-netanyahuya-yanit-bir-saat-icinde-israil-yasanmaz-hale-gelir",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Trump’tan İran’a yeni saldırı mesajı: “Tekrar bombalama ihtimalim var”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/trumptan-irana-yeni-saldiri-mesaji-tekrar-bombalama-ihtimalim-var-875323",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Küresel Teknoloji Tehditleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Teknoloji devleri ve uzmanlar, yapay zekanın yol açabileceği güvenlik açıkları ve ekonomik çalkantılar konusunda uyarılarda bulunuyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yapay zekâ ve robotlar: İnsan ruhunu anlamak için yeni bir ayna mı?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-ve-robotlar-insan-ruhunu-anlamak-icin-yeni-bir-ayna-mi/104002",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "FBI’dan PHP2Shell Uyarısı: Yapay Zekâyla Bulunan Açıklar İçin Acil Yama Çağrısı",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/fbidan-php2shell-uyarisi-yapay-zekayla-bulunan-aciklar-icin-acil-yama-cagrisi/",
+          "also_in": []
+        },
+        {
+          "title": "Altman: Yapay Zekâ Açıkları Artık Tek Tek Yamalayarak Kapatılamaz",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/altman-yapay-zeka-aciklari-artik-tek-tek-yamalayarak-kapatilamaz/",
+          "also_in": []
+        },
+        {
+          "title": "Daron Acemoğlu'ndan yapay zeka uyarısı: İşsizlik 3 katına çıkabilir",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/daron-acemoglundan-yapay-zeka-uyarisi-issizlik-3-katina-cikabilir-875305",
+          "also_in": []
+        },
+        {
+          "title": "Bill Gates yapay zeka için uyardı: Önce 20 yıllık ekonomik ve toplumsal çalkantı, sonra bolluk çağı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/bill-gates-yapay-zeka-icin-uyardi-once-20-yillik-ekonomik-ve-toplumsal-calkanti-sonra-bolluk-cagi-748717/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Maden Kazası ve Soruşturma",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Zonguldak'taki maden faciası sonrası yürütülen soruşturmada 3 kişi tutuklandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Zonguldak'ta maden ocağındaki patlamaya ilişkin 3 kişi tutuklandı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-3-kisi-tutuklandi-2549886",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Zonguldak’taki maden faciasında 3 şüpheli gözaltına alındı",
           "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/cukurova-belediyesi-sorusturmasinda-34-kisi-tutuklandi/368016/",
+          "link": "https://www.birgazete.com/gundem/zonguldaktaki-maden-faciasinda-3-supheli-gozaltina-alindi/368067/",
           "also_in": [
             "BHA"
           ]
         },
         {
-          "title": "Çukurova Belediye Başkanı görevden uzaklaştırıldı",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/gundem/son-dakika-cukurova-belediye-baskani-gorevden-uzaklastirildi-3922115",
+          "title": "Zonguldak’taki maden faciasında 3 gözaltı",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/zonguldaktaki-maden-faciasinda-3-gozalti",
           "also_in": [
-            "Hürriyet"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji ve Savunma Sanayii Atılımları",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin savunma sanayii ihracatındaki rekorlar ve yapay zeka destekli yeni teknolojik projeler öne çıkıyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "ASELSAN'dan dev imza: Yurt dışına RADAR ve İHA sistemleri satacak",
-          "source": "Sanayi Gazetesi",
-          "link": "https://sanayigazetesi.com.tr/aselsandan-dev-imza-yurt-disina-radar-ve-iha-sistemleri-satacak/",
-          "also_in": []
-        },
-        {
-          "title": "ASELSAN 442,5 Milyon Dolarlık Radar ve Anti-Dron Sattı",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/aselsan-4425-milyon-dolarlik-radar-ve-anti-dron-satti/",
-          "also_in": []
-        },
-        {
-          "title": "Sağlıkta yerli üretim hamlesi: İDEA ile dışa bağımlılık tarih oluyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/saglikta-yerli-uretim-hamlesi-idea-ile-disa-bagimlilik-tarih-oluyor/103996",
-          "also_in": [
-            "Megabayt Teknoloji"
+            "Kamudan Haber"
           ]
         },
         {
-          "title": "GPS'in olmadığı yerde otonom sistemler için yeni umut: KBÜ'den devrim niteliğinde proje",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/gpsin-olmadigi-yerde-otonom-sistemler-icin-yeni-umut-kbuden-devrim-niteliginde-proje/103993",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Türk savunma sanayiinden 185 ülkeye ihracat! Haluk Görgün A Haber'de yeni hedefleri açıkladı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/2027-vizyonu-ve-gelecek-hedefleri-savunma-sanayii-baskani-haluk-gorgunden-a-habere-ozel-aciklamalar",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Veriler ve Piyasa Hareketliliği",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Petrol fiyatlarındaki artış, borsa düşüşleri ve şirketlerin mal varlığı tedbirleri gibi konular ekonomi gündemini şekillendiriyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Brent petrol 6 ayın zirvesinde: Varil fiyatı 117 doları aştı",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/brent-petrol-6-ayin-zirvesinde-varil-fiyati-117-dolari-asti-h1576379",
-          "also_in": [
-            "F5 Haber",
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "Borsa günü düşüşle tamamladı",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/borsa-gunu-dususle-tamamladi-14/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gunu-dususle-tamamladi-14",
-          "also_in": [
-            "Ekonomim"
-          ]
-        },
-        {
-          "title": "Astor Enerji'nin patronları hakkındaki malvarlığı tedbiri kaldırıldı!",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/gundem/astor-enerjinin-patronlari-hakkindaki-malvarligi-tedbiri-kaldirildi-haberi-926712",
-          "also_in": [
-            "Ekonomim"
-          ]
-        },
-        {
-          "title": "Orta Doğu'daki gerilim petrol fiyatlarını uçurdu: Son 6 ayın zirvesinde!",
+          "title": "Son dakika...Zonguldak'taki maden faciasında 3 tutuklama",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/brent-petrol-23-ekim-2026-p372113",
+          "link": "https://www.sozcu.com.tr/son-dakika-zonguldak-taki-maden-faciasi-3-tutuklama-p372368",
           "also_in": [
-            "Sözcü Ekonomi"
+            "Sözcü Gündem"
           ]
         },
         {
-          "title": "Fon soruşturmasında 5 milyar TL'lik iade! Feridun ve Enver Geçgel'den TMSF'ye ödeme",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/23/fon-sorusturmasinda-5-milyar-tllik-iade-feridun-ve-enver-gecgelden-tmsfye-odeme",
+          "title": "Grizu faciası: Gözaltı sayısı üçe çıktı",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/grizu-faciasi-gozalti-sayisi-uce-cikti-748712/",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Spor Dünyasında Derbi ve Transfer Hareketleri",
-      "meta_category": "Spor",
-      "summary": "Galatasaray-Fenerbahçe derbisi öncesi hazırlıklar ve transfer kulisleri spor basınını domine ediyor.",
+      "title": "Ekonomi ve Mali Şeffaflık",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Bakan Şimşek, Türkiye'nin mali şeffaflık konusunda ilerleme kaydettiğini belirtirken, bütçe ve yatırım öngörüleri açıklandı.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Galatasaray - Fenerbahçe Derbisinin Bilet Fiyatları Belli Oldu",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/galatasaray-fenerbahce-derbisinin-bilet-fiyatlari-belli-oldu-en-ucuz-bilet-2-bin-800-tl-1390751",
+          "title": "Bakan Şimşek: Türkiye mali şeffaflıkta üst sıralarda yer aldı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/bakan-simsek-turkiye-mali-seffaflikta-ust-siralarda-yer-aldi/368058/",
           "also_in": [
-            "NTV Spor Futbol",
-            "Ulusal Post"
+            "BHA"
           ]
         },
         {
-          "title": "Galatasaray'da derbi hazırlıkları başladı",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/23/galatasarayda-derbi-hazirliklari-basladi",
+          "title": "Sanayi ve Teknoloji Bakanlığına 3 yılda 881 milyar liralık bütçe öngörülüyor",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/sanayi-ve-teknoloji-bakanligina-3-yilda-881-milyar-liralik-butce-ongoruluyor/368050/",
           "also_in": [
-            "NTV Spor Anasayfa",
-            "NTV Spor Futbol"
+            "BHA"
           ]
         },
         {
-          "title": "Galatasaray, Fenerbahçe derbisinin hazırlıklarına başladı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/10/23/galatasaray-fenerbahce-derbisinin-hazirliklarina-basladi",
+          "title": "IMF: Türkiye mali şeffaflıkta son 10 yılda önemli ilerleme kaydetti",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/imfden-turkiye-hakkinda-kritik-rapor-mali-seffaflikta-ust-siralarda-h40197",
           "also_in": [
-            "Sözcü Spor"
+            "Döviz"
           ]
         },
         {
-          "title": "Galatasaray-Fenerbahçe derbisinin bilet fiyatları belli oldu",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/superlig/2026/10/23/galatasaray-fenerbahce-derbisinin-bilet-fiyatlari-belli-oldu",
-          "also_in": [
-            "Sözcü Spor"
-          ]
+          "title": "Bakan Şimşek'ten IMF'nin Mali Şeffaflık Değerlendirmesi'ne ilişkin açıklama",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/bakan-simsek-ten-imf-nin-mali-seffaflik-degerlendirmesi-ne-iliskin-aciklama-3792460",
+          "also_in": []
         },
         {
-          "title": "Fenerbahçe, Galatasaray derbisinin hazırlıklarını sürdürdü",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/23/fenerbahce-galatasaray-derbisinin-hazirliklarini-surdurdu",
+          "title": "Bakan Şimşek’ten mali şeffaflık mesajı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/bakan-simsek-ten-mali-seffaflik-mesaji/945613",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Sanat ve Kültürel Etkinlikler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "İstanbul'da düzenlenen tiyatro festivalleri, sergiler ve konserler sanatseverlerle buluşuyor.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Sessiz filmler, canlı müzikler: Arter’de “Görüntüyü Duymak”",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/arter-goruntuyu-duymak/",
-          "also_in": []
-        },
-        {
-          "title": "KONSER: Big Beats Big Times vol.23",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/konser-big-beats-big-times-vol-23/",
-          "also_in": []
-        },
-        {
-          "title": "İstanbul Tiyatro Festivali Caroline Guiela Nguyen’in Lacrima adlı yapımıyla başladı",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/istanbul-tiyatro-festivali-caroline-guiela-nguyenin-lacrima-adli-yapimiyla-basladi/23727",
-          "also_in": []
-        },
-        {
-          "title": "Modern dans eseri \"Rüzgar Ağacı\"nın prömiyeri bugün AKM'de gerçekleşecek",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/kultur/modern-dans-eseri-ruzgar-agacinin-promiyeri-bugun-akmde-gerceklesecek/4099139",
-          "also_in": []
-        },
-        {
-          "title": "Cumhurbaşkanlığı Senfoni Orkestrası \"Melankoli ve Gül\" konseriyle sanatseverlerle buluştu",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/kultur/cumhurbaskanligi-senfoni-orkestrasi-melankoli-ve-gul-konseriyle-sanatseverlerle-bulustu/4099018",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Hakkı Bulut'un Sağlık Durumu",
+      "title": "Şarkıcı Nev'in Vefatı",
       "meta_category": "Magazin ve Eğlence",
-      "summary": "Ünlü sanatçı Hakkı Bulut'un sahnede fenalaşarak hastaneye kaldırılması hayranlarını endişelendirdi.",
-      "importance": 5,
-      "story_count": 5,
+      "summary": "Ünlü şarkıcı Nev, tedavi gördüğü hastanede hayatını kaybetti.",
+      "importance": 7,
+      "story_count": 3,
       "stories": [
         {
-          "title": "Hakkı Bulut sahnede fenalaştı: Hastaneye kaldırıldı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/hakki-bulut-sahnede-fenalasti-hastaneye-kaldirildi-2549680",
+          "title": "Ünlü Şarkıcı Nev Hayatını Kaybetti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/unlu-sarkici-nev-hayatini-kaybetti-1390960",
           "also_in": [
+            "Dünya",
+            "Gerçek Gündem",
             "Haber",
-            "Karar"
+            "Haber Global",
+            "Sputnik"
           ]
         },
         {
-          "title": "Hakkı Bulut sahnede fenalaştı: Sedyeyle hastaneye kaldırıldı",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/hakki-bulut-sahnede-fenalasti-sedyeyle-hastaneye-kaldirildi-h1576384",
+          "title": "Şarkıcı Nev hayatını kaybetti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/sarkici-nev-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=sarkici-nev-hayatini-kaybetti",
           "also_in": [
-            "İnternet Haber",
-            "Son Mühür"
+            "Ekonomim",
+            "Evrensel",
+            "Haberet",
+            "İstiklal",
+            "Haberler",
+            "Türkiye Gazetesi",
+            "Serbestiyet"
           ]
         },
         {
-          "title": "Hakkı Bulut hastaneye kaldırıldı",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/bilgi/foto/hakki-bulut-son-saglik-durumu-nasil-hastaneye-kaldirildi-menajerinden-aciklama-geldi-hakki-bulut-3922139",
+          "title": "İkinci kez entübe edilmişti! Şarkıcı Nev hayatını kaybetti",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/ikinci-kez-entube-edilmisti-sarkici-nev-hayatini-kaybetti-foto-galerisi-2465577.htm",
+          "also_in": [
+            "Ulusal Kanal"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültür Yolu Festivalleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "İzmir ve Mardin Kültür Yolu Festivalleri konserler ve sergilerle devam ediyor.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Mardin Kültür Yolu Festivali’nde bando konseri, kumaş boyama atölyesi ve tarihî emanetler",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/mardin-kultur-yolu-festivalinde-bando-konseri-kumas-boyama-atolyesi-ve-tarihi-emanetler/23729",
+          "also_in": []
+        },
+        {
+          "title": "İzmir Kültür Yolu Festivali 303 etkinlikle başladı: Konserler, sergiler ve gastronomi rotaları",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/izmir-kultur-yolu-festivali-303-etkinlikle-basladi-konserler-sergiler-ve-gastronomi-rotalari/23728",
+          "also_in": []
+        },
+        {
+          "title": "İzmir Kültür Yolu Festivali başladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/24/izmir-kultur-yolu-festivali-basladi",
           "also_in": [
             "Habertürk",
-            "Türkiye Gazetesi"
+            "Haberler"
           ]
         },
         {
-          "title": "Sahnede fenalaşan ünlü sanatçı Hakkı Bulut hastaneye kaldırıldı",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/sahnede-fenalasan-unlu-sanatci-hakki-bulut-hastaneye-kaldirildi",
+          "title": "İzmir’de Kültür Yolu Festivali heyecanı dördüncü kez başladı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/kultur-sanat/izmirde-kultur-yolu-festivali-heyecani-dorduncu-kez-basladi-haberi-845130",
           "also_in": [
-            "Haber Global"
-          ]
-        },
-        {
-          "title": "Hakkı Bulut rahatsızlandı; hastaneye kaldırıldı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/hakki-bulut-rahatsizlandi-mi-saglik-durumu-nasil-p372155",
-          "also_in": [
-            "Sözcü Gündem"
+            "Mynet",
+            "Yeni Şafak"
           ]
         }
       ]
     }
   ],
   "artwork": {
-    "title": "Judith Slaying Holofernes (Artemisia Gentileschi, Naples)",
-    "artist": "Artemisia Gentileschi",
-    "year": "1612-1613",
+    "title": "The Treachery of Images",
+    "artist": "René Magritte",
+    "year": "1929",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Museo di Capodimonte",
-    "description": "Güç odaklarına karşı gerçekleştirilen cesur müdahaleleri ve siyasi arenadaki otorite sarsıntılarını, güçlü bir direnç ve kararlılık metaforu üzerinden temsil ediyor.",
+    "location": "Los Angeles County Museum of Art",
+    "description": "Yapay zeka teknolojisinin gerçeği manipüle etme potansiyeli ve dijital dünyadaki 'görünen' ile 'gerçek' arasındaki bulanıklık, bu ikonik eserin sorguladığı kimlik ve temsil temalarıyla örtüşüyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi%2C_Naples)",
-    "wikipedia_extract": "Judith Slaying Holofernes is a painting by the Italian early Baroque artist Artemisia Gentileschi, completed in 1612–13 and now at the Museo Capodimonte, Naples, Italy.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Artemisia_Gentileschi"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Treachery_of_Images",
+    "wikipedia_extract": "The Treachery of Images is a 1929 painting by Belgian surrealist painter René Magritte. It is also known as This Is Not a Pipe, Ceci n'est pas une pipe and The Wind and the Song. It is on display at the Los Angeles County Museum of Art.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
   },
   "music": {
-    "title": "In the Air Tonight - 2015 Remaster",
-    "artists": "Phil Collins",
-    "album": "Face Value (Deluxe Editon)",
-    "duration": "5:36",
-    "spotify_url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb",
-    "spotify_id": "18AXbzPzBS8Y3AkgSxzJPb",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2738a1d7cf42a84b10bd1ff8e56",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/18AXbzPzBS8Y3AkgSxzJPb\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Hurt",
+    "artists": "Johnny Cash",
+    "album": "American IV: The Man Comes Around",
+    "duration": "3:36",
+    "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+    "spotify_id": "28cnXtME493VX9NOw9cIUh",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/28cnXtME493VX9NOw9cIUh\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugünün atmosferi, dışarıda tırmanan siyasi gerilimlerin ve belirsizliğin gölgesinde, her an bir kırılma yaşanacakmış gibi puslu bir bekleyişe ev sahipliği yapıyor. Artemisia Gentileschi’nin Judith Slaying Holofernes tablosundaki o keskin hesaplaşma, tam da bu tedirgin iklimin içinde, gücün ve adaletin trajik bir yüzleşme anına dönüşünü simgeliyor. Phil Collins’in In the Air Tonight parçasıyla yükselen o karanlık ve atmosferik ritim, bu tuvaldeki şiddetli kararlılığı adeta günümüzün teknolojik ve siyasi kaosuna taşıyan bir gerilim hattı örüyor. Sanatın iyileştirici çabası, tam da bu fırtına öncesi sessizlikte, bireyin kendi hakikatini savunma biçimi olarak karşımıza çıkıyor. Rutinlerimizin arasında saklanan bu tekinsizlik, aslında tarihin ve bugünün iç içe geçen bir haykırışı olarak ruhumuzda çınlıyor."
+  "curator_statement": "Üzerimize çöken bu melankolik sisin içinde, haber bültenlerinden taşan yolsuzlukların ve acı dolu yasların ağırlığıyla sarsılan ruhlarımız, gerçekliğin kırılgan zemininde bir teselli arayışına giriyor. René Magritte’in bir pipoyu resmedip altına bu bir pipo değildir yazarak bizi temsilin yanıltıcılığıyla yüzleştirdiği o meşhur eseri, bugün hakikatten kopmuş, güvenini yitirmiş toplumumuzun aynası haline geliyor. Johnny Cash’in derin ve sarsıcı sesiyle yankılanan Hurt ise, tam da bu noktada, kaybın ve tükenmişliğin evrensel kederini teknolojik dönüşümlerin soğuk ışığı altında bile hissedebileceğimizi hatırlatıyor. Sporun birleştiren coşkusunu dahi gölgeleyen bu endişe çağında, gördüğümüzün gerçek, duyduğumuzun ise sadece bir yankı olduğunu fark ederek, yapay zekanın hüküm sürdüğü bir geleceğin eşiğinde kendi içsel hakikatimize dönüyoruz. Sanat ve müzik, bu kaotik atmosferde bizi dağılmadan tutan tek gerçeklik olarak, ruhun en kuytu köşelerindeki o değişmez acıya dokunuyor."
 }

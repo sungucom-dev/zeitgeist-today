@@ -1,0 +1,562 @@
+{
+  "date": "2026-10-25",
+  "date_human": "25 October 2026",
+  "generated_at": "2026-10-25T01:30:44.472936+00:00",
+  "stats": {
+    "feeds_collected": 262,
+    "news_total": 4706,
+    "news_analyzed": 575,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye'nin gündemi, yüksek profilli yolsuzluk soruşturmaları ve acı verici kazalarla sarsılırken, kültürel etkinlikler ve sporun birleştirici gücüyle teselli arayan gergin ve melankolik bir atmosferde.",
+    "dominant_emotion": "Endişe",
+    "key_themes": [
+      "Fon Soruşturması ve Finansal Yolsuzluk",
+      "Mardin'deki Trafik Faciası ve Şehit Haberleri",
+      "Yapay Zeka ve Küresel Teknoloji Dönüşümü",
+      "Süper Lig Derbi Heyecanı ve Spor Gündemi"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-25",
+        "code": 45,
+        "temp_max": 23.8,
+        "temp_min": 10.1
+      },
+      {
+        "date": "2026-10-26",
+        "code": 80,
+        "temp_max": 20.3,
+        "temp_min": 12.6
+      },
+      {
+        "date": "2026-10-27",
+        "code": 80,
+        "temp_max": 19.2,
+        "temp_min": 14.3
+      },
+      {
+        "date": "2026-10-28",
+        "code": 61,
+        "temp_max": 18.2,
+        "temp_min": 10.2
+      },
+      {
+        "date": "2026-10-29",
+        "code": 1,
+        "temp_max": 17.7,
+        "temp_min": 5.7
+      },
+      {
+        "date": "2026-10-30",
+        "code": 3,
+        "temp_max": 17.9,
+        "temp_min": 10.1
+      },
+      {
+        "date": "2026-10-31",
+        "code": 63,
+        "temp_max": 17.7,
+        "temp_min": 9.4
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Mardin'de Trafik Faciası",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Mardin'de bir otomobilin sulama kanalına devrilmesi sonucu 4'ü çocuk 6 kişi hayatını kaybetti.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Mardin'de feci kaza! Otomobil sulama kanalına devrildi: Aynı aileden 4’ü çocuk 6 kişi hayatını kaybetti",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/mardinde-feci-kaza-otomobil-sulama-kanalina-devrildi-ayni-aileden-4u-cocuk-6-kisi-hayatini-kaybetti-6991763",
+          "also_in": [
+            "GZT",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Mardin'de otomobil sulama kanalına devrildi: 4'ü çocuk 6 kişi öldü",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/mardin-de-otomobil-sulama-kanalina-devrildi-4-u-cocuk-6-kisi-oldu-1023296.html",
+          "also_in": [
+            "dikGAZETE",
+            "BHA"
+          ]
+        },
+        {
+          "title": "Mardin'de feci kaza: 4'ü çocuk 6 kişi hayatını kaybetti",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/mardinde-feci-kaza-4u-cocuk-6-kisi-hayatini-kaybetti-haberi-926828",
+          "also_in": [
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Mardin’de otomobil su kanalına uçtu: 4’ü çocuk, 6 ölü",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/3-sayfa/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-olu-110407",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "4'Ü ÇOCUK 6 ÖLÜ!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/mardinde-otomobil-su-kanalina-uctu-4u-cocuk-6-olu-1824921",
+          "also_in": [
+            "TGRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fon Soruşturmasında Tutuklamalar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon soruşturması kapsamında aralarında eski bürokrat ve iş insanlarının bulunduğu 15 kişi daha tutuklandı, soruşturma genişleyerek devam ediyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon soruşturmasında sürpriz gelişme: Nusret Altınbaş teslim oldu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/fon-sorusturmasinda-surpriz-gelisme-nusret-altinbas-teslim-oldu/104008",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 15 şüpheli daha tutuklandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/24/fon-sorusturmasinda-15-supheli-daha-tutuklandi",
+          "also_in": [
+            "Dünya",
+            "Haberet",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "FON Soruşturmasında 15 kişi daha tutuklandı!",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/genel/fon-sorusturmasinda-15-kisi-daha-tutuklandi/400085",
+          "also_in": [
+            "Gazete Zebra",
+            "Mynet"
+          ]
+        },
+        {
+          "title": "Fon soruşturması: İnan Altınbaş ve Taha Çakmak dahil 15 tutuklama",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/fon-sorusturmasi-inan-altinbas-ve-taha-cakmak-dahil-15-tutuklama/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasi-inan-altinbas-ve-taha-cakmak-dahil-15-tutuklama",
+          "also_in": [
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında yeni gelişme! 15 şüpheli tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/fon-sorusturmasinda-yeni-gelisme-15-supheli-tutuklandi-286700h",
+          "also_in": [
+            "Türkgün"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Askeri Araç Kazası ve Şehitler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu; Balıkesir'den de astsubay şehit haberi geldi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ankara’da askeri araç kazası: Albay Sayit Gökgöz şehit oldu",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/ankarada-askeri-arac-kazasi-albay-sayit-gokgoz-sehit-oldu-875317",
+          "also_in": [
+            "Aydınlık",
+            "Cumhuriyet",
+            "Haberet",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/ankarada-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-oldu/4099894",
+          "also_in": [
+            "Diriliş Postası",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Ankara'dan acı haber: Albay Sayit Gökgöz şehit oldu",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/ankaradan-aci-haber-albay-sayit-gokgoz-sehit-oldu-haberi-845142",
+          "also_in": [
+            "Gerçek Gündem"
+          ]
+        },
+        {
+          "title": "Balıkesir'den acı haber: Astsubay Oğuzcan Alma şehit oldu",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3671125-balikesirden-aci-haber-astsubay-oguzcan-alma-sehit-oldu",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Balıkesir’de Nöbet Sırasında Acı Ölüm! 27 Yaşındaki Astsubay Şehit Oldu!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/balikesirde-nobet-sirasinda-aci-olum-27-yasindaki-astsubay-sehit-oldu-875319",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Galatasaray-Fenerbahçe Derbisi Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de dev derbi öncesi takımlar hazırlıklarını sürdürürken, oyuncuların açıklamaları gündemdeki yerini koruyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray-Fenerbahçe Derbisi Ne Zaman, Hangi Kanalda?",
+          "source": "İndir",
+          "link": "https://www.indir.com/haber/galatasaray-fenerbahce-derbisi-hangi-kanalda/",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Galatasaray derbisi hazırlıklarına devam etti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/24/fenerbahce-galatasaray-derbisi-hazirliklarina-devam-etti",
+          "also_in": [
+            "AjansSpor"
+          ]
+        },
+        {
+          "title": "Fenerbahçe, Galatasaray derbisinin hazırlıklarını sürdürdü",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/fenerbahce-galatasaray-derbisinin-hazirliklarini-surdurdu-431839",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Galatasaray, Fenerbahçe derbisinin hazırlıklarına devam etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galatasaray-fenerbahce-derbisinin-hazirliklarina-devam-etti-431855",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Galatasaray Fenerbahçe derbisinin hazırlıklarını sürdürdü",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/24/galatasaray-fenerbahce-derbisinin-hazirliklarini-surdurdu",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İsrail-Filistin Gerilimi ve Bölgesel Diplomasi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İran ve İsrail arasındaki gerilim tırmanırken, uluslararası arenada iki devletli çözüm ve ateşkes çağrıları sürüyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İranlı yetkiliden \"saldırıya uğramaları halinde İsrail'i hedef alacakları\" tehdidi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkiliden-saldiriya-ugramalari-halinde-israili-hedef-alacaklari-tehdidi/4099860",
+          "also_in": [
+            "Diriliş Postası",
+            "İşçi Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irani-tekrar-bombalama-ihtimalim-var/4099896",
+          "also_in": [
+            "Dünya",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki saldırılarını sürdürdü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-saldirilarini-surdurdu/4099824",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "İran'dan Netanyahu'ya yanıt: Bir saat içinde İsrail yaşanmaz hale gelir",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/irandan-netanyahuya-yanit-bir-saat-icinde-israil-yasanmaz-hale-gelir",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Trump’tan İran’a yeni saldırı mesajı: “Tekrar bombalama ihtimalim var”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/trumptan-irana-yeni-saldiri-mesaji-tekrar-bombalama-ihtimalim-var-875323",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Küresel Teknoloji Tehditleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Teknoloji devleri ve uzmanlar, yapay zekanın yol açabileceği güvenlik açıkları ve ekonomik çalkantılar konusunda uyarılarda bulunuyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yapay zekâ ve robotlar: İnsan ruhunu anlamak için yeni bir ayna mı?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-ve-robotlar-insan-ruhunu-anlamak-icin-yeni-bir-ayna-mi/104002",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "FBI’dan PHP2Shell Uyarısı: Yapay Zekâyla Bulunan Açıklar İçin Acil Yama Çağrısı",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/fbidan-php2shell-uyarisi-yapay-zekayla-bulunan-aciklar-icin-acil-yama-cagrisi/",
+          "also_in": []
+        },
+        {
+          "title": "Altman: Yapay Zekâ Açıkları Artık Tek Tek Yamalayarak Kapatılamaz",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/altman-yapay-zeka-aciklari-artik-tek-tek-yamalayarak-kapatilamaz/",
+          "also_in": []
+        },
+        {
+          "title": "Daron Acemoğlu'ndan yapay zeka uyarısı: İşsizlik 3 katına çıkabilir",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/daron-acemoglundan-yapay-zeka-uyarisi-issizlik-3-katina-cikabilir-875305",
+          "also_in": []
+        },
+        {
+          "title": "Bill Gates yapay zeka için uyardı: Önce 20 yıllık ekonomik ve toplumsal çalkantı, sonra bolluk çağı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/bill-gates-yapay-zeka-icin-uyardi-once-20-yillik-ekonomik-ve-toplumsal-calkanti-sonra-bolluk-cagi-748717/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Maden Kazası ve Soruşturma",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Zonguldak'taki maden faciası sonrası yürütülen soruşturmada 3 kişi tutuklandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Zonguldak'ta maden ocağındaki patlamaya ilişkin 3 kişi tutuklandı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-3-kisi-tutuklandi-2549886",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Zonguldak’taki maden faciasında 3 şüpheli gözaltına alındı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/zonguldaktaki-maden-faciasinda-3-supheli-gozaltina-alindi/368067/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Zonguldak’taki maden faciasında 3 gözaltı",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/zonguldaktaki-maden-faciasinda-3-gozalti",
+          "also_in": [
+            "Kamudan Haber"
+          ]
+        },
+        {
+          "title": "Son dakika...Zonguldak'taki maden faciasında 3 tutuklama",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/son-dakika-zonguldak-taki-maden-faciasi-3-tutuklama-p372368",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Grizu faciası: Gözaltı sayısı üçe çıktı",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/grizu-faciasi-gozalti-sayisi-uce-cikti-748712/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi ve Mali Şeffaflık",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Bakan Şimşek, Türkiye'nin mali şeffaflık konusunda ilerleme kaydettiğini belirtirken, bütçe ve yatırım öngörüleri açıklandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bakan Şimşek: Türkiye mali şeffaflıkta üst sıralarda yer aldı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/bakan-simsek-turkiye-mali-seffaflikta-ust-siralarda-yer-aldi/368058/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Sanayi ve Teknoloji Bakanlığına 3 yılda 881 milyar liralık bütçe öngörülüyor",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/sanayi-ve-teknoloji-bakanligina-3-yilda-881-milyar-liralik-butce-ongoruluyor/368050/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "IMF: Türkiye mali şeffaflıkta son 10 yılda önemli ilerleme kaydetti",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/imfden-turkiye-hakkinda-kritik-rapor-mali-seffaflikta-ust-siralarda-h40197",
+          "also_in": [
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Bakan Şimşek'ten IMF'nin Mali Şeffaflık Değerlendirmesi'ne ilişkin açıklama",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/bakan-simsek-ten-imf-nin-mali-seffaflik-degerlendirmesi-ne-iliskin-aciklama-3792460",
+          "also_in": []
+        },
+        {
+          "title": "Bakan Şimşek’ten mali şeffaflık mesajı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/bakan-simsek-ten-mali-seffaflik-mesaji/945613",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Şarkıcı Nev'in Vefatı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Ünlü şarkıcı Nev, tedavi gördüğü hastanede hayatını kaybetti.",
+      "importance": 7,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Ünlü Şarkıcı Nev Hayatını Kaybetti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/unlu-sarkici-nev-hayatini-kaybetti-1390960",
+          "also_in": [
+            "Dünya",
+            "Gerçek Gündem",
+            "Haber",
+            "Haber Global",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Şarkıcı Nev hayatını kaybetti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/sarkici-nev-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=sarkici-nev-hayatini-kaybetti",
+          "also_in": [
+            "Ekonomim",
+            "Evrensel",
+            "Haberet",
+            "İstiklal",
+            "Haberler",
+            "Türkiye Gazetesi",
+            "Serbestiyet"
+          ]
+        },
+        {
+          "title": "İkinci kez entübe edilmişti! Şarkıcı Nev hayatını kaybetti",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/ikinci-kez-entube-edilmisti-sarkici-nev-hayatini-kaybetti-foto-galerisi-2465577.htm",
+          "also_in": [
+            "Ulusal Kanal"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültür Yolu Festivalleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "İzmir ve Mardin Kültür Yolu Festivalleri konserler ve sergilerle devam ediyor.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Mardin Kültür Yolu Festivali’nde bando konseri, kumaş boyama atölyesi ve tarihî emanetler",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/mardin-kultur-yolu-festivalinde-bando-konseri-kumas-boyama-atolyesi-ve-tarihi-emanetler/23729",
+          "also_in": []
+        },
+        {
+          "title": "İzmir Kültür Yolu Festivali 303 etkinlikle başladı: Konserler, sergiler ve gastronomi rotaları",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/izmir-kultur-yolu-festivali-303-etkinlikle-basladi-konserler-sergiler-ve-gastronomi-rotalari/23728",
+          "also_in": []
+        },
+        {
+          "title": "İzmir Kültür Yolu Festivali başladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/24/izmir-kultur-yolu-festivali-basladi",
+          "also_in": [
+            "Habertürk",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "İzmir’de Kültür Yolu Festivali heyecanı dördüncü kez başladı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/kultur-sanat/izmirde-kultur-yolu-festivali-heyecani-dorduncu-kez-basladi-haberi-845130",
+          "also_in": [
+            "Mynet",
+            "Yeni Şafak"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Treachery of Images",
+    "artist": "René Magritte",
+    "year": "1929",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Los Angeles County Museum of Art",
+    "description": "Yapay zeka teknolojisinin gerçeği manipüle etme potansiyeli ve dijital dünyadaki 'görünen' ile 'gerçek' arasındaki bulanıklık, bu ikonik eserin sorguladığı kimlik ve temsil temalarıyla örtüşüyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Treachery_of_Images",
+    "wikipedia_extract": "The Treachery of Images is a 1929 painting by Belgian surrealist painter René Magritte. It is also known as This Is Not a Pipe, Ceci n'est pas une pipe and The Wind and the Song. It is on display at the Los Angeles County Museum of Art.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
+  },
+  "music": {
+    "title": "Hurt",
+    "artists": "Johnny Cash",
+    "album": "American IV: The Man Comes Around",
+    "duration": "3:36",
+    "spotify_url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh",
+    "spotify_id": "28cnXtME493VX9NOw9cIUh",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736f4f62da3d811b6501a69ffa",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/28cnXtME493VX9NOw9cIUh\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Üzerimize çöken bu melankolik sisin içinde, haber bültenlerinden taşan yolsuzlukların ve acı dolu yasların ağırlığıyla sarsılan ruhlarımız, gerçekliğin kırılgan zemininde bir teselli arayışına giriyor. René Magritte’in bir pipoyu resmedip altına bu bir pipo değildir yazarak bizi temsilin yanıltıcılığıyla yüzleştirdiği o meşhur eseri, bugün hakikatten kopmuş, güvenini yitirmiş toplumumuzun aynası haline geliyor. Johnny Cash’in derin ve sarsıcı sesiyle yankılanan Hurt ise, tam da bu noktada, kaybın ve tükenmişliğin evrensel kederini teknolojik dönüşümlerin soğuk ışığı altında bile hissedebileceğimizi hatırlatıyor. Sporun birleştiren coşkusunu dahi gölgeleyen bu endişe çağında, gördüğümüzün gerçek, duyduğumuzun ise sadece bir yankı olduğunu fark ederek, yapay zekanın hüküm sürdüğü bir geleceğin eşiğinde kendi içsel hakikatimize dönüyoruz. Sanat ve müzik, bu kaotik atmosferde bizi dağılmadan tutan tek gerçeklik olarak, ruhun en kuytu köşelerindeki o değişmez acıya dokunuyor."
+}
