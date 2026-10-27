@@ -1,22 +1,21 @@
 {
-  "date": "2026-10-26",
-  "date_human": "26 October 2026",
-  "generated_at": "2026-10-26T01:30:51.227470+00:00",
+  "date": "2026-10-27",
+  "date_human": "27 October 2026",
+  "generated_at": "2026-10-27T01:32:39.089296+00:00",
   "stats": {
-    "feeds_collected": 261,
-    "news_total": 4639,
-    "news_analyzed": 580,
-    "clusters": 8
+    "feeds_collected": 258,
+    "news_total": 5499,
+    "news_analyzed": 622,
+    "clusters": 10
   },
   "mood": {
-    "description": "Türkiye, yerel seçimlerin ve hukuki süreçlerin yoğunluğuyla hareketli bir gün yaşarken, savunma sanayiindeki teknolojik başarılar ve yoğun spor gündemiyle dikkat çekiyor. Toplum, bir yandan yerel baro seçimlerini ve kazaları takip ederken, diğer yandan kültürel etkinliklerin canlılığıyla dengeleniyor.",
-    "dominant_emotion": "Hareketli",
+    "description": "Türkiye'de futbol derbisinin yarattığı gerginlik ve toplumsal kutuplaşma, ekonomik belirsizlikler ve bölgesel güvenlik krizleriyle birleşerek endişeli bir atmosfer oluşturuyor.",
+    "dominant_emotion": "Gerginlik",
     "key_themes": [
-      "Savunma Sanayii ve Milli Teknoloji Hamlesi",
-      "Hukuki Soruşturmalar ve Baro Seçimleri",
-      "Spor Gündemi (Derbi ve Dünya Şampiyonası)",
-      "Ekonomik Gelişmeler ve Piyasa Hareketliliği",
-      "Uluslararası Diplomasi ve Seçimler"
+      "Galatasaray-Fenerbahçe Derbisi ve Saha Olayları",
+      "Ekonomik Düzenlemeler ve Fon Soruşturmaları",
+      "Bölgesel Güvenlik ve Savunma Sanayii",
+      "Teknoloji ve Yapay Zeka Gelişmeleri"
     ]
   },
   "weather": {
@@ -25,306 +24,204 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-26",
-        "code": 80,
-        "temp_max": 23.2,
-        "temp_min": 12.4
-      },
-      {
         "date": "2026-10-27",
         "code": 80,
-        "temp_max": 18.7,
-        "temp_min": 14.7
+        "temp_max": 20.8,
+        "temp_min": 11.3
       },
       {
         "date": "2026-10-28",
-        "code": 80,
-        "temp_max": 20.4,
-        "temp_min": 14.3
+        "code": 63,
+        "temp_max": 19.0,
+        "temp_min": 13.1
       },
       {
         "date": "2026-10-29",
         "code": 61,
-        "temp_max": 23.0,
-        "temp_min": 13.9
+        "temp_max": 20.8,
+        "temp_min": 11.9
       },
       {
         "date": "2026-10-30",
-        "code": 3,
-        "temp_max": 22.4,
-        "temp_min": 14.5
+        "code": 45,
+        "temp_max": 20.7,
+        "temp_min": 13.7
       },
       {
         "date": "2026-10-31",
         "code": 3,
-        "temp_max": 22.0,
-        "temp_min": 14.7
+        "temp_max": 21.2,
+        "temp_min": 12.7
       },
       {
         "date": "2026-11-01",
-        "code": 3,
-        "temp_max": 22.1,
-        "temp_min": 16.3
+        "code": 61,
+        "temp_max": 19.9,
+        "temp_min": 15.1
+      },
+      {
+        "date": "2026-11-02",
+        "code": 80,
+        "temp_max": 20.7,
+        "temp_min": 16.7
       }
     ]
   },
   "clusters": [
     {
-      "title": "Savunma Sanayiinde Yerli Teknoloji Başarısı",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye'nin yerli savunma sistemleri SİPER-2, TOLGA ve PİRANA'nın başarılı test atışları ve yeni nesil İHA teknolojilerinin sahada gösterdiği performans öne çıkıyor.",
+      "title": "Galatasaray-Fenerbahçe Derbisi ve Sonrası",
+      "meta_category": "Spor",
+      "summary": "Galatasaray'ın Fenerbahçe'yi 2-1 yendiği derbi sonrası saha içinde ve dışında yaşanan kavgalar, kırmızı kartlar ve taraftar protestoları gündeme oturdu.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Derbinin kazananı Galatasaray!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/26/derbinin-kazanani-galatasaray",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Osimhen duble yaptı: Lider Galatasaray derbiyi kazanarak koltuğunu korudu",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-fenerbahce-canli-anlatim-431951",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Kavganın bilançosu ortaya çıktı: Galatasaray - Fenerbahçe maçının ardından 2 isme kırmızı kart",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-kavganin-bilancosu-ortaya-cikti-galatasaray-fenerbahce-macinin-ardindan-2-isme-kirmizi-kart-431962",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Olaylı Galatasaray-Fenerbahçe derbisi yabancı basında manşet oldu!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/26/olayli-galatasaray-fenerbahce-derbisi-yabanci-basinda-manset-oldu",
+          "also_in": []
+        },
+        {
+          "title": "Derbide Galatasaray, Fenerbahçe'yi 2-1 mağlup etti",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6006718/derbide-galatasaray-fenerbahce-yi-2-1-maglup-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Gazete Zebra"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fon Soruşturması ve SPK Müdahaleleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Nusret Altınbaş ve eski SPK Daire Başkanı Erman Çete'nin tutuklandığı fon soruşturması derinleşirken, çeşitli portföy şirketlerinin faaliyetleri durduruldu.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "TOLGA ve PİRANA sistemleri hedefleri tam isabetle vurdu",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/savunma/tolga-ve-pirana-sistemleri-hedefleri-tam-isabetle-vurdu-110437",
+          "title": "Fon soruşturmasında eski SPK Daire Başkanı Erman Çete tutuklandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/fon-sorusturmasinda-eski-spk-daire-baskani-erman-cete-tutuklandi-596307",
           "also_in": [
             "Haber Global",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "STM'nin avcı İHA'sı TUNGA-X, düşman unsurunu tam isabetle imha etti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stmnin-avci-ihasi-tunga-x-dusman-unsurunu-tam-isabetle-imha-etti/4100327",
-          "also_in": [
-            "GZT"
-          ]
-        },
-        {
-          "title": "SİPER yeni kabiliyetini başarıyla test etti",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/siper-yeni-kabiliyetini-basariyla-test-etti-286763h",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Bakan Kacır Paylaştı: SİPER-2 Havada Hedef Değiştirip Vurdu!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/bakan-kacir-paylasti-siper-2-havada-hedef-degistirip-vurdu-875441",
-          "also_in": []
-        },
-        {
-          "title": "SİPER Ürün-2'den kritik başarı: Uçuş sırasında hedef değiştirip ikinci hedefi imha etti",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/25/siper-urun-2den-kritik-basari-ucus-sirasinda-hedef-degistirip-ikinci-hedefi-imha-etti",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Fon Soruşturması ve Hukuki Gelişmeler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Fon soruşturması kapsamında Ertan Aydın ve Gürol Sami Özer gibi isimlerin tutuklanmasıyla genişleyen hukuki süreç ve baro seçimleri gündemin merkezinde.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Türkiye Sigorta Genel Müdür Yardımcısı Gürol Sami Özer tutuklandı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/turkiye-sigorta-genel-mudur-yardimcisi-gurol-sami-ozer-tutuklandi-596123",
-          "also_in": [
-            "Dünya",
-            "Ekonomim",
-            "İşçi Haber",
-            "OdaTV",
-            "TürkInform",
-            "Son Mühür",
-            "TGRT Haber",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Fon soruşturması kapsamında Ertan Aydın tutuklandı",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/fon-sorusturmasi-kapsaminda-ertan-aydin-tutuklandi",
-          "also_in": [
-            "En Son Haber",
-            "Haber 7",
-            "İşçi Haber"
-          ]
-        },
-        {
-          "title": "Fon Soruşturmasında Ertan Aydın Tutuklandı!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-ertan-aydin-tutuklandi-875430",
-          "also_in": [
-            "Habertürk",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında çifte tutuklama: Eski vekil ve üst düzey yönetici",
-          "source": "Haber",
-          "link": "https://www.haber.com/ekonomi/fon-sorusturmasinda-cifte-tutuklama-eski-vekil-ve-ust-duzey-yonetici-29703",
-          "also_in": [
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında yeniden gözaltına alınan eski AK Parti Milletvekili Ertan Aydın tutuklandı",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/gundem/fon-sorusturmasinda-yeniden-gozaltina-alinan-eski-ak-parti-milletvekili-ertan-aydin-tutuklandi-550436",
-          "also_in": [
-            "Haberler"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Spor Gündemi: Derbi Heyecanı ve Dünya Şampiyonaları",
-      "meta_category": "Spor",
-      "summary": "Galatasaray-Fenerbahçe derbisi öncesi hazırlıklar, dünya güreş şampiyonasındaki madalyalar ve Formula 1'deki Kimi Antonelli zaferi spor basınının odağında.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Milli güreşçi Yüksel Sarıçiçek dünya ikincisi oldu!",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/gures/2026/10/25/milli-guresci-yuksel-saricicek-dunya-ikincisi-oldu",
-          "also_in": [
-            "A Spor",
-            "Anadolu Ajansı",
-            "Dünya",
-            "Türkiye Gazetesi",
-            "Türkgün",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/motor-sporlari/2026/10/25/formula-1-abd-grand-prixsini-kimi-antonelli-kazandi",
-          "also_in": [
-            "Anadolu Ajansı",
-            "Diriliş Postası",
-            "En Son Haber"
-          ]
-        },
-        {
-          "title": "Fenerbahçe Galatasaray derbisine hazır!",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/25/fenerbahce-galatasaray-derbisine-hazir",
-          "also_in": [
-            "A Spor"
-          ]
-        },
-        {
-          "title": "Galatasaray-Fenerbahçe derbisinin muhtemel 11'leri!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/spor-toto-super-lig/2026/10/25/galatasaray-fenerbahce-derbisinin-muhtemel-11leri",
-          "also_in": [
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Hüseyin Özkök yorumladı! Galatasaray-Fenerbahçe derbisi...",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/video-haber/videoizle/huseyin-ozkok-yorumladi-galatasaray-fenerbahce-derbisi",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Uluslararası Siyasi Seçimler ve Diplomasi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Sırbistan'daki seçim sonuçları, Bulgaristan'daki cumhurbaşkanlığı yarışı ve Rusya-Ukrayna arasındaki diplomatik temas trafiği dünya gündemini oluşturuyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Bulgaristan’da seçim ikinci tura kaldı",
-          "source": "Doğru Haber",
-          "link": "https://dogruhaber.com.tr/bulgaristanda-secim-ikinci-tura-kaldi",
-          "also_in": [
-            "Haber 7",
-            "OdaTV",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Sırbistan'da başbakan adayı Vucic, \"Öğrenci Listesi\" karşısında seçim mağlubiyetini kabul etti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-basbakan-adayi-vucic-ogrenci-listesi-karsisinda-secim-maglubiyetini-kabul-etti/4100487",
-          "also_in": [
-            "10Haber"
-          ]
-        },
-        {
-          "title": "Sırbistan’da Erken Seçim Şoku: Vucic Yenilgiyi Kabul Etti!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/sirbistanda-erken-secim-soku-vucic-yenilgiyi-kabul-etti-875439",
-          "also_in": []
-        },
-        {
-          "title": "Sırp lider Aleksandar Vucic, seçim yenilgisini kabul etti",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/dunya/sirp-lider-aleksandar-vucic-secim-yenilgisini-kabul-etti/haber-1709133",
-          "also_in": []
-        },
-        {
-          "title": "Sırbistan'da siyasi deprem: Vucic seçimi kaybettiğini duyurdu",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/dunya/sirbistanda-siyasi-deprem-vucic-secimi-kaybettigini-duyurdu-h40245",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "İstanbul Barosu ve Yerel Yönetim Seçimleri",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İstanbul Barosu başkanlık seçimlerini Ümit Kocasakal'ın kazanması ve çeşitli illerdeki yerel siyasi hareketlilikler takip ediliyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "İstanbul Barosu'nun yeni başkanı Ümit Kocasakal oldu",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/cq8jz33m09j1o?at_medium=RSS&at_campaign=rss",
-          "also_in": [
-            "Artı Gerçek",
-            "Dünya",
-            "Haber 7",
-            "İnternet Haber",
             "Haberler",
-            "Haberiniz",
-            "Yeni Akit",
+            "İstiklal",
+            "İşçi Haber",
             "Ulusal Kanal",
+            "Yeni Şafak",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Fon soruşturması: Eski SPK Daire Başkanı Erman Çete tutuklandı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/siyaset/fon-sorusturmasi-eski-spk-daire-baskani-erman-cete-ye-tutuklama-talebi-2550464",
+          "also_in": [
+            "Yeni Yaşam Gazetesi",
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında Nusret Altınbaş tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/asayis/fon-sorusturmasinda-nusret-altinbas-tutuklandi-286913h",
+          "also_in": [
             "Yeni Şafak"
           ]
         },
         {
-          "title": "İstanbul Barosu Başkanı Ümit Kocasakal oldu",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/istanbul-barosu-baskani-belli-oldu-p372616",
+          "title": "Dev fon soruşturmasında sıcak gelişme! Eski SPK Daire Başkanı Erman Çete tutuklandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/26/eski-spk-daire-baskani-erman-cete-tutuklandi",
+          "also_in": []
+        },
+        {
+          "title": "Sermaye piyasası soruşturmasında Altınbaş Holding’in sahibi Nusret Altınbaş tutuklandı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/borsa/sermaye-piyasasi-sorusturmasinda-altinbas-holdingin-sahibi-nusret-altinbas-tutuklandi-h40363",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Milas Belediye Başkanı Görevden Uzaklaştırıldı",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Milas Belediye Başkanı Fevzi Topuz, devam eden soruşturmalar kapsamında görevinden uzaklaştırıldı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Milas Belediye Başkanı Fevzi Topuz görevden uzaklaştırıldı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/26/milas-belediye-baskani-fevzi-topuz-gorevden-uzaklastirildi",
           "also_in": [
+            "Artı Gerçek",
+            "Diken",
+            "Cumhuriyet",
+            "Elips Haber",
+            "Haber 7",
+            "Dokuz8 Haber",
             "Sözcü Gündem",
-            "Türkiye Gazetesi"
+            "Sözcü",
+            "Yeniçağ Gazetesi"
           ]
         },
         {
-          "title": "İstanbul Barosunda seçim günü",
-          "source": "Agos",
-          "link": "https://www.agos.com.tr/tr/haber/istanbul-barosunda-secim-gunu-42286",
+          "title": "Tutuklanan Milas Belediye Başkanı Fevzi Topuz görevden uzaklaştırıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/tutuklanan-milas-belediye-baskani-fevzi-topuz-gorevden-uzaklastirildi-596301",
           "also_in": [
-            "Haber"
+            "Evrensel",
+            "Haberet",
+            "Haber",
+            "Haberler",
+            "NTV"
           ]
         },
         {
-          "title": "İstanbul Barosu Seçimlerini Resmi Olmayan Sonuçlara Göre Ümit Kocasakal Kazandı",
-          "source": "Gerçek Gündem",
-          "link": "https://www.gercekgundem.com/guncel/istanbul-barosu-baskanlik-secimlerini-umit-kocasakal-kazandi-581101",
+          "title": "Milas Belediye Başkanı Topuz, görevden uzaklaştırıldı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/ankara/milas-belediye-baskani-topuz-gorevden-uzaklastirildi-3484898",
           "also_in": [
-            "Independent Türkçe"
+            "Sputnik"
           ]
         },
         {
-          "title": "Ağrı'da tır ile otomobil çarpıştı: 4 ölü",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/3-sayfa/agrida-tir-ile-otomobil-carpisti-4-olu-110438",
+          "title": "Fevzi Topuz görevden uzaklaştırıldı",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/son-dakika-milas-belediye-baskani-fevzi-topuz-gorevden-uzaklastirildi-3922723",
+          "also_in": [
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "Milas Belediye Başkanı görevden uzaklaştırıldı",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/milas-belediye-baskani-gorevden-uzaklastirildi-2465845h.htm",
           "also_in": [
             "TRT Haber"
           ]
@@ -332,162 +229,330 @@
       ]
     },
     {
-      "title": "Ekonomik Gelişmeler ve Yatırımlar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Audi'nin yeni yatırımı, borsa verileri, kripto para piyasasındaki hareketlilik ve elektrik kurulu gücündeki artış dikkat çekiyor.",
-      "importance": 7,
-      "story_count": 5,
+      "title": "Antalya'da Hortum Felaketi",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Antalya'da meydana gelen hortum felaketi sonucu 5 işçi hayatını kaybetti, bölgede büyük maddi hasar oluştu.",
+      "importance": 8,
+      "story_count": 4,
       "stories": [
         {
-          "title": "Alman otomotiv devi Audi’den 4 milyar dolarlık yatırım! 4 bin 500 kişiye iş kapısı açılacak",
+          "title": "Antalya'da hortum nedeniyle parçalanan konteynerlerdeki 4 işçi öldü, 1 işçi yaralandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/antalyada-hortum-nedeniyle-parcalanan-konteynerlerdeki-4-isci-oldu-1-isci-yaralandi/4101842",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Antalya'da hortum faciası: 4 işçi hayatını kaybetti, 1 işçi yaralandı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/antalya-hortum-faciasi-p373059",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "ANTALYA'DA HORTUM FACİASI!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/gundem/antalyada-hortum-faciasi-2-konteyner-savruldu-5-isci-oldu-1825372",
+          "also_in": [
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Antalya’da hortum faciası: 5 işçi hayatını kaybetti! Vali Şahin’den açıklama",
           "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ekonomi/alman-otomotiv-devi-audiden-4-milyar-dolarlik-yatirim-4-bin-500-kisiye-is-kapisi-875420",
-          "also_in": []
-        },
-        {
-          "title": "Altınay Teknoloji Grubu'ndan 55 milyon dolarlık teknoloji kampüsü yatırımı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/sirket-haberleri/altinay-teknoloji-grubundan-55-milyon-dolarlik-teknoloji-kampusu-yatirimi-h40261",
-          "also_in": []
-        },
-        {
-          "title": "Türkiye'nin elektrik kurulu gücü 127 bin megavatı aştı: Yenilenebilir enerjinin payı yüzde 63,1",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/turkiyenin-elektrik-kurulu-gucu-127-bin-megavati-asti-yenilenebilir-enerjinin-payi-yuzde-631-h40238",
-          "also_in": []
-        },
-        {
-          "title": "Fed Faiz Artırdı, Bitcoin Geri Adım Atmadı: 102.600 Dolar Kapısı Açılıyor mu?",
-          "source": "Investing Kripto",
-          "link": "https://tr.investing.com/analysis/fed-faiz-artrd-bitcoin-geri-adm-atmad-102600-dolar-kaps-aclyor-mu-200506274",
-          "also_in": []
-        },
-        {
-          "title": "Solana 100 Dolar Eşiğini Aştı",
-          "source": "Investing Kripto",
-          "link": "https://tr.investing.com/analysis/solana-100-dolar-esigini-ast-200506078",
+          "link": "https://abcgazetesi.com.tr/turkiye/antalyada-hortum-faciasi-5-isci-hayatini-kaybetti-vali-sahinden-aciklama-875562",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Meteorolojik Uyarılar ve Trafik Kazaları",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Yurdun birçok bölgesinde kuvvetli sağanak yağış uyarıları ve çeşitli illerde yaşanan ölümlü trafik kazaları toplumsal gündemdeki yerini koruyor.",
-      "importance": 6,
+      "title": "Savunma Sanayiinde Yeni Hamleler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ASELSAN ve SSB arasında 523 milyon euroluk füze sözleşmesi imzalandı, SİPER-2 ve yerli İHA'ların yeni kabiliyetleri test edildi.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "İçişleri Bakanlığı'ndan 5 il için kuvvetli sağanak uyarısı",
-          "source": "Karar",
-          "link": "https://www.karar.com/guncel-haberler/icisleri-bakanligindan-5-il-icin-kuvvetli-saganak-uyarisi-2080553",
+          "title": "ASELSAN'ın yeni nesil güdüm kiti F-16'dan başarıyla ateşlendi",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/dunya/haber/3671631-aselsanin-yeni-nesil-gudum-kiti-f-16dan-basariyla-ateslendi",
           "also_in": [
-            "Sözcü",
-            "Sözcü Gündem"
+            "İnternet Haber",
+            "TRT Haber"
           ]
         },
         {
-          "title": "Adıyaman'da iki hafif ticari araç çarpıştı; 8 yaralı",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/yerel-haberler/adiyaman/kahta/adiyamanda-iki-hafif-ticari-arac-carpisti-8-yarali-3484452",
+          "title": "Mavi Vatan'da gövde gösterisi: TUNGA-X düşman İHA'yı havada avladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/26/tunga-xten-tam-isabet-tatbikatta-dusman-ihasini-avladi",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN ve SSB 523 milyon avroluk füze sözleşmesi imzaladı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/aselsan-ve-ssb-523-milyon-avroluk-fuze-sozlesmesi-imzaladi-749315/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN ile SSB'den 523 milyon euroluk savunma hamlesi",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/aselsan-ile-ssbden-523-milyon-euroluk-savunma-hamlesi/",
+          "also_in": []
+        },
+        {
+          "title": "Bakan Kacır: SİPER-2'nin başarılı atış testini tebrik etti",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/bakan-kacir-siper-2nin-basarili-atis-testini-tebrik-etti/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Bilanço ve İndirim Dönemi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Şirketlerin 3. çeyrek bilançoları açıklanırken, Hepsiburada gibi platformlarda Kasım indirimleri ve tüketici harcama eğilimleri öne çıktı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Hepsiburada'nın Efsane Kasım kampanyası şimdiden başladı: İşte indirimler",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/hepsiburada-efsane-kasim-2026-indirimlerini-baslatti--212125",
+          "also_in": []
+        },
+        {
+          "title": "TAB Gıda’nın 9 aylık kârı yüzde 24 düştü: Bilanço beklentiyi karşılayamadı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/tab-gidanin-9-aylik-kari-yuzde-24-dustu-bilanco-beklentiyi-karsilayamadi-h40377",
+          "also_in": []
+        },
+        {
+          "title": "Teknosa bilançosunda dikkat çeken tablo: Zarar yüzde 55 arttı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/teknosa-bilancosunda-dikkat-ceken-tablo-zarar-yuzde-55-artti-h40376",
+          "also_in": []
+        },
+        {
+          "title": "Borsanın sigorta devi bilançosunu açıkladı: Kârında yüzde 60'lık artış",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/borsanin-sigorta-devi-bilancosunu-acikladi-karinda-yuzde-60lik-artis-h40375",
+          "also_in": []
+        },
+        {
+          "title": "Kasım indirimleri başladı: Alışveriş bütçesi 28 bin TL'ye ulaştı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-haberleri/kasim-indirimleri-basladi-alisveris-butcesi-28-bin-tlye-ulasti-h40340",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bayrampaşa'da İnşaat Göçüğü",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Bayrampaşa'da kazı çalışması sırasında meydana gelen göçükte bir işçi hayatını kaybetti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bayrampaşa'da yol çöktü: Göçük altında kalan işçi hayatını kaybetti",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/bayrampasada-yol-coktu-gocuk-altinda-kalan-isci-hayatini-kaybetti",
           "also_in": [
-            "GZT"
+            "Gerçek Gündem",
+            "Sözcü Gündem",
+            "Sözcü"
           ]
         },
         {
-          "title": "Pancar yüklü TIR ile otomobil çarpıştı: 4 ölü, 1 yaralı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6006578/pancar-yuklu-tir-ile-otomobil-carpisti-4-olu-1-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Bayrampaşa'da kazı çalışması sırasında yolda oluşan göçüğe düşen işçi öldü",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/bayrampasada-yol-coktu-mahsur-kalanlar-var-43355835",
           "also_in": [
             "Haber 7"
           ]
         },
         {
-          "title": "Ağrı'da tır ile otomobil çarpıştı: 4 ölü",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/3-sayfa/agrida-tir-ile-otomobil-carpisti-4-olu-110438",
+          "title": "Bayrampaşa'da yol çöktü! Mahsur kalan işçiden acı haber",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/son-dakika-bayrampasa-da-yol-coktu-3922709",
           "also_in": [
-            "TRT Haber"
+            "Haber Global"
           ]
         },
         {
-          "title": "İçişleri’nden Peş Peşe Uyarı: 5 İlde Şiddetli Sağanak, İstanbul İçin de Tarih Verildi!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/yasam/icislerinden-pes-pese-uyari-5-ilde-siddetli-saganak-istanbul-icin-de-tarih-verildi-875442",
+          "title": "Bayrampaşa'da kazı çalışmasında göçük faciası: 1 işçi hayatını kaybetti",
+          "source": "Haber 3",
+          "link": "https://www.haber3.com/video-galeri/haber/bayrampasada-kazi-calismasinda-gocuk-faciasi-1-isci-hayatini-kaybetti-video-6267996",
+          "also_in": [
+            "Haber 3"
+          ]
+        },
+        {
+          "title": "Bayrampaşa'da yol çöktü: Mahsur kalanlar var",
+          "source": "OdaTV",
+          "link": "https://www.odatv.com/guncel/bayrampasada-yol-coktu-mahsur-kalanlar-var-120168398",
+          "also_in": [
+            "Yeni Akit"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bölgesel Jeopolitik Gelişmeler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Mısır'ın Suudi Arabistan'a askeri destek kararı ve İsrail'in seçim atmosferi bölgesel tansiyonu yükseltti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İsrail sandığa gidiyor: Netanyahu, seçime 1 gün kala atom bombalı paylaşım yaptı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/dunya/israil-sandiga-gidiyor-netanyahu-secime-1-gun-kala-atom-bombali-paylasim-yapti-352014h",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Mısır Meclisinden Suudi Arabistan’a Askeri Destek Kararı",
+          "source": "Haber",
+          "link": "https://www.haber.com/dunya/misir-meclisinden-suudi-arabistana-askeri-destek-karari-29774",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Mısır'dan Suudi Arabistan'a askeri destek kararı",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/dunya/misirdan-suudi-arabistana-askeri-destek-karari-550540",
+          "also_in": [
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Mısır&apos;dan Suudi Arabistan&apos;a askeri destek kararı",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/dunya/misir-dan-suudi-arabistan-a-askeri-destek-karari-20367456-haberi/",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Husi saldırıları sonrası Mısır'dan sürpriz karar!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/dunya/husi-saldirilari-sonrasi-misirdan-surpriz-karar-1825290",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Apple Ürünlerine Zam ve iPhone Sorunları",
+      "meta_category": "Teknoloji",
+      "summary": "Apple Türkiye'de iPad fiyatlarına zam yaparken, yeni iPhone Duo modellerinde ekran kırılma şikayetleri arttı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Apple’dan tüm iPad modellerine sürpriz zam: İşte yeni fiyatlar",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-dan-tum-ipad-modellerine-surpriz-zam-iste-yeni-fiyatlar--212119",
+          "also_in": []
+        },
+        {
+          "title": "iPhone Duo şikayetleri artıyor: Ekran neden kırılıyor?",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/iphone-duo-ekrani-neden-kiriliyor-veya-catliyor--212087",
+          "also_in": []
+        },
+        {
+          "title": "iPhone Duo'da yeni sorun: Bazı cihazlar saatler içinde çatladı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/iphone-duo-da-yeni-sorun-bazi-cihazlar-saatler-icinde-catladi--212078",
+          "also_in": []
+        },
+        {
+          "title": "Apple Türkiye'den sessiz sedasız zam! iPad fiyatları uçtu",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/apple-ipad-5-ayda-yuzde-40-zam-p373039",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Apple'ın katlanabilir iPhone Duo modelinde ilk sorun: Ekranlar çatlamaya başladı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/teknoloji/applein-yeni-iphoneunda-ekran-krizi-daha-ilk-gunden-catladi-h40344",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Kültür, Sanat ve Etkinlikler",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Mardin Kültür Yolu Festivali, Altın Portakal ödülleri ve çeşitli sergi/konser etkinlikleri sanatseverlerin ilgisini çekiyor.",
-      "importance": 5,
+      "title": "Yapay Zeka ve Küresel Teknoloji Trendleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka modellerinin (Kimi K3.1, SKY-001) gelişimi ve teknoloji dünyasındaki işten çıkarmalar tartışılıyor.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "KONSER: Big Beats Big Times vol.23",
-          "source": "Bant Mag",
-          "link": "https://bantmag.com/konser-big-beats-big-times-vol-23/",
+          "title": "AI Günlükleri: Yapay zekâ dünyasında bu hafta (26 Ekim 2026)",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yapay-zeka-dunyasinda-bu-hafta-26-ekim-2026--212105",
           "also_in": []
         },
         {
-          "title": "Mert Demir, Mardin Kültür Yolu Festivali’nde sahne aldı",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/mert-demir-mardin-kultur-yolu-festivalinde-sahne-aldi/23739",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Midas’ın Kulakları Mardin'de mitolojik anlatıyı sahneye taşıdı",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/midasin-kulaklari-mardinde-mitolojik-anlatiyi-sahneye-tasidi/23738",
+          "title": "Mühendislerin işini değiştirebilecek yapay zeka: SKY-001 tanıtıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/muhendislerin-isini-degistirebilecek-yapay-zeka-sky-001--212100",
           "also_in": []
         },
         {
-          "title": "Altın Portakal’da Onur Ödülleri sahiplerini buldu",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/altin-portakalda-onur-odulleri-sahiplerini-buldu-1825161",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
+          "title": "2,8 trilyon parametreli Kimi K3.1 Pro, en gelişmiş kapalı modellere kafa tutuyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/2-8-trilyon-parametreli-dev-yapay-zeka-tanitildi-kimi-k3-1-pro--212081",
+          "also_in": []
         },
         {
-          "title": "Mardin’in gastronomi hazinesi 38 lezzet noktasında keşfediliyor",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/mardinin-gastronomi-hazinesi-38-lezzet-noktasinda-kesfediliyor-1825052",
-          "also_in": [
-            "Ulusal Kanal"
-          ]
+          "title": "Microsoft Binlerce Çalışanına İşten Ayrılma Teklifi Sundu! Yapay Zekanın Faturası Büyüyor",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/microsoft-binlerce-calisanina-isten-440036",
+          "also_in": []
+        },
+        {
+          "title": "Patron 'yapay zeka' demişti! Dev şirketten 60 bin kişiye işten ayrılma teklifi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-haberleri/patron-yapay-zeka-demisti-dev-sirketten-60-bin-kisiye-isten-ayrilma-teklifi-h40360",
+          "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Fighting Temeraire",
-    "artist": "J. M. W. Turner",
-    "year": "1839",
+    "title": "The Calling of Saint Matthew",
+    "artist": "Caravaggio",
+    "year": "1599",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "National Gallery, London",
-    "description": "Eski ve yeninin çatışmasını, teknolojik ilerlemeyi ve geçiş döneminin melankolisini simgeleyen bu eser, Türkiye'nin savunma sanayindeki teknolojik hamlelerinin yarattığı modern ve güçlü atmosferi yansıtıyor.",
+    "location": "Contarelli Chapel",
+    "description": "Fon soruşturmaları ve ekonomik belirsizlikler içindeki bir dünyada, para ve güç arasındaki çelişkili ilişkiyi ışık ve gölge oyunlarıyla sorguluyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fighting_Temeraire",
-    "wikipedia_extract": "The Fighting Temeraire, tugged to her last berth to be broken up, 1838 is an oil-on-canvas painting by the English artist Joseph Mallord William Turner, painted in 1838 and exhibited at the Royal Academy in 1839.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg/3840px-The_Fighting_Temeraire%2C_JMW_Turner%2C_National_Gallery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/J._M._W._Turner"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Calling_of_Saint_Matthew",
+    "wikipedia_extract": "The Calling of Saint Matthew is an oil painting by the Italian Baroque master Caravaggio that depicts the moment Jesus Christ calls on the tax collector Matthew to follow him. It was completed in 1599–1600 for the Contarelli Chapel in the church of the French congregation, San Luigi dei Francesi in Rome, where it remains. It hangs alongside two other paintings of Matthew by Caravaggio: The Martyrdom of Saint Matthew and The Inspiration of Saint Matthew (1602).",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg/3840px-Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Caravaggio"
   },
   "music": {
-    "title": "Trans-Europe Express - 2009 Remaster",
-    "artists": "Kraftwerk",
-    "album": "Trans-Europe Express (2009 Remaster)",
-    "duration": "6:37",
-    "spotify_url": "https://open.spotify.com/track/3UjH6apk0ogZeIqhHbjrRU",
-    "spotify_id": "3UjH6apk0ogZeIqhHbjrRU",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2737cf7be893131178035b2a3cb",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/3UjH6apk0ogZeIqhHbjrRU\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "The Man Who Sold the World - 2015 Remaster",
+    "artists": "David Bowie",
+    "album": "The Man Who Sold the World (2015 Remaster)",
+    "duration": "4:01",
+    "spotify_url": "https://open.spotify.com/track/4mWahKerLaVddUjb8d1Q4Q",
+    "spotify_id": "4mWahKerLaVddUjb8d1Q4Q",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27346926e777bd6665f03128d29",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/4mWahKerLaVddUjb8d1Q4Q\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugünün Türkiye'sinde yükselen teknolojik hırsın mekanik ritmi, J. M. W. Turner'ın görkemli fırçasında bir dönemin kapanışını simgeleyen The Fighting Temeraire ile çarpıcı bir tezat oluşturuyor. Kraftwerk'in Trans-Europe Express parçası, tıpkı o eski savaş gemisini limana çeken buharlı römorkör gibi, bizi hantal geçmişin ağırlığından koparıp hızla dijital ve endüstriyel bir geleceğe doğru sürüklüyor. Toplumsal hafızamızda hukukun ve siyasetin dalgalı suları, sporun rekabetçi heyecanıyla harmanlanırken, her şey bir geçiş dönemi estetiğine bürünüyor. Güneş, bir devrin gururlu silüeti üzerine batarken, teknoloji ve diplomasi dünyası rayların üzerindeki ritmik bir kararlılıkla yarını inşa etmeye devam ediyor. Bu hareketli gün, hem bir vedanın hüznünü hem de yeni bir çağın soğuk ve parlak metalik ışıltısını aynı anda barındırıyor."
+  "curator_statement": "Bugün toplumun damarlarında dolaşan o huzursuz edici gerginlik, stadyumların gürültüsünden ekonomik belirsizliklerin sessiz ağırlığına kadar her köşede yankılanıyor. Caravaggio’nun ışık ve gölge oyunlarıyla kurguladığı o meşhur çağrı anı, bugün tam da bu kutuplaşmış atmosferin ortasında, karanlıktan bir çıkış yolu arayan şaşkın bakışlarımızı temsil ediyor. David Bowie’nin sarsıcı tınıları eşliğinde, tıpkı vergi memuru Matta gibi, bizler de kendi gerçekliğimizin sorgulayıcı eşiğinde durup bir seçim yapmaya zorlanıyoruz. Bölgesel krizlerin ve teknolojik devrimlerin yarattığı bu tekinsiz boşlukta, sanatın o kadim ışığı, ruhumuzdaki melankoliyi ve toplumsal kaygılarımızı yüzümüze vuran bir aynaya dönüşüyor. Kendi dünyasını satanların yarattığı bu puslu sahnede, belki de tek kurtuluş, o ilahi çağrıyı duymak ya da en azından neden sustuğumuzu anlamaktır."
 }
