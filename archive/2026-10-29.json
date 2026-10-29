@@ -1,0 +1,557 @@
+{
+  "date": "2026-10-29",
+  "date_human": "29 October 2026",
+  "generated_at": "2026-10-29T01:30:55.549951+00:00",
+  "stats": {
+    "feeds_collected": 260,
+    "news_total": 5313,
+    "news_analyzed": 608,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Cumhuriyetin 103. yıl dönümü coşkusuyla harmanlanmış, teknolojik kırılmalar ve ekonomik belirsizliklerin gölgesinde geçen yoğun bir gün. Toplum, bayram kutlamaları ve şehit haberlerinin getirdiği hüzün arasında bir denge arıyor.",
+    "dominant_emotion": "Gurur",
+    "key_themes": [
+      "Cumhuriyetin 103. Yılı ve Milli Birlik",
+      "Yapay Zeka ve Dijital Dönüşümün Yarattığı Krizler",
+      "Ekonomik Göstergeler ve Fed Kararları",
+      "İspanya'daki Tren Kazası ve Bölgesel Güvenlik"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-29",
+        "code": 45,
+        "temp_max": 21.0,
+        "temp_min": 11.1
+      },
+      {
+        "date": "2026-10-30",
+        "code": 45,
+        "temp_max": 21.5,
+        "temp_min": 12.7
+      },
+      {
+        "date": "2026-10-31",
+        "code": 3,
+        "temp_max": 21.3,
+        "temp_min": 12.0
+      },
+      {
+        "date": "2026-11-01",
+        "code": 61,
+        "temp_max": 21.3,
+        "temp_min": 14.1
+      },
+      {
+        "date": "2026-11-02",
+        "code": 80,
+        "temp_max": 21.2,
+        "temp_min": 15.7
+      },
+      {
+        "date": "2026-11-03",
+        "code": 80,
+        "temp_max": 20.2,
+        "temp_min": 16.9
+      },
+      {
+        "date": "2026-11-04",
+        "code": 2,
+        "temp_max": 18.5,
+        "temp_min": 14.6
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Cumhuriyetin 103. Yılı Kutlamaları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Türkiye genelinde 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü büyük bir coşkuyla kutlanıyor, resmi kurumlar ve markalar özel mesajlar yayınlıyor.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Hepsiburada’dan Cumhuriyet’in 103. Yılına Özel Film: Cumhuriyet Her Kapıyı Çaldı",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/genel/hepsiburadadan-cumhuriyetin-103-yilina-ozel-film-cumhuriyet-her-kapiyi-caldi/",
+          "also_in": []
+        },
+        {
+          "title": "Markalardan 29 Ekim Cumhuriyet Bayramı mesajları",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/29-ekim/markalardan-29-ekim-cumhuriyet-bayrami-mesajlari-2/",
+          "also_in": []
+        },
+        {
+          "title": "McDonald’s Türkiye’den Cumhuriyet’in 103. Yılına Renkli Kutlama",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/mcdonald-s-turkiye-den-cumhuriyet-in-103-yilina-renkli-kutlama--212153",
+          "also_in": []
+        },
+        {
+          "title": "CUMHURİYET BAYRAMIMIZ KUTLU OLSUN",
+          "source": "Basket Dergisi",
+          "link": "https://basketdergisi.com/cumhuriyet-bayramimiz-kutlu-olsun-3.html",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye Cumhuriyeti 103 yaşında",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/turkiye-cumhuriyeti-103-yasinda-h1577791",
+          "also_in": [
+            "Haber 7",
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İspanya'da Feci Tren Kazası",
+      "meta_category": "Diğer",
+      "summary": "İspanya'da meydana gelen yüksek hızlı tren kazasında çok sayıda kişi hayatını kaybetti; Türkiye taziye mesajları yayınladı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İspanya'da 24 maç, tren kazası nedeniyle ertelendi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/ispanyada-24-mac-tren-kazasi-nedeniyle-ertelendi-432055",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "İspanya'da iki yüksek hızlı tren çarpıştı: Çok sayıda ölü ve yaralı var!",
+          "source": "Haber 3",
+          "link": "https://www.haber3.com/dunya/ispanyada-iki-yuksek-hizli-tren-carpisti-cok-sayida-olu-ve-yarali-var-haberi-6268111",
+          "also_in": [
+            "Haber 3"
+          ]
+        },
+        {
+          "title": "İspanya'daki Tren Kazasında Can Kaybı 68'e Yükseldi: Ülkede 3 Günlük Yas İlan Edildi!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/ispanyadaki-tren-kazasinda-can-kaybi-68e-yukseldi-ulkede-3-gunluk-yas-ilan-edildi-875750",
+          "also_in": []
+        },
+        {
+          "title": "İki hızlı tren çarpıştı: 50 kişi öldü",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/iki-hizli-tren-carpisti-50-kisi-oldu-749872/",
+          "also_in": []
+        },
+        {
+          "title": "İspanya'da feci tren kazası: Ölenlerin sayısı artıyor",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/dunya/ispanyada-feci-tren-kazasi-olenlerin-sayisi-artiyor-h40520",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fed Faiz Kararı ve Piyasa Etkileri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fed'in faiz kararını açıklaması ve dünya ekonomisine dair Fitch ile Dünya Bankası'ndan gelen uyarılar piyasalarda hareketliliğe neden oldu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fed faiz kararını açıkladı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/ekonomi/fed-faiz-kararini-acikladi-352141h",
+          "also_in": [
+            "Cumhuriyet",
+            "Ekonomim",
+            "Gerçek Gündem",
+            "Habertürk",
+            "Haber 7",
+            "Sözcü",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Fed faizi sabit tuttu",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/fed-faizi-sabit-tuttu-15/?utm_source=rss&utm_medium=rss&utm_campaign=fed-faizi-sabit-tuttu-15",
+          "also_in": [
+            "OdaTV",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "FED faiz kararı belli oldu",
+          "source": "GZT",
+          "link": "https://www.gzt.com/ekonomi/son-dakika-fed-faiz-karari-belli-oldu-4273655",
+          "also_in": [
+            "Haber Global",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Fed, Ekim ayı faiz kararını açıkladı",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/fed-ekim-ayi-faiz-kararini-acikladi",
+          "also_in": [
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Piyasaların beklediği karar açıklandı: Fed faiz kararını duyurdu",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/faiz/piyasalarin-bekledigi-karar-aciklandi-fed-faiz-kararini-duyurdu-h40536",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Mustafa Sarıgül Soruşturması",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Mustafa Sarıgül hakkındaki taciz iddiaları ve soruşturma kapsamında yeni gözaltı kararlarıyla birlikte siyasi yankıları devam ediyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Mustafa Sarıgül'ün taciz ettiği iddia edilen Caner Dursun’un ifadesi ortaya çıktı",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/mustafa-sarigulun-taciz-ettigi-iddia-edilen-caner-dursunun-ifadesi-ortaya-cikti",
+          "also_in": [
+            "En Son Haber"
+          ]
+        },
+        {
+          "title": "Sarıgül soruşturması kapsamında 10 kişi hakkında daha gözaltı kararı verildi",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/sarigul-sorusturmasi-kapsaminda-10-kisi-hakkinda-daha-gozalti-karari-verildi-h1577756",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Sarıgül Soruşturmasında Yeni Dalga: 10 Şüpheli İçin Gözaltı Kararı",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/sarigul-sorusturmasinda-yeni-dalga-10-supheli-icin-gozalti-karari-581347",
+          "also_in": [
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Sarıgül soruşturmasında 10 kişi hakkında daha gözaltı kararı verildi",
+          "source": "Haber",
+          "link": "https://www.haber.com/gundem/sarigul-sorusturmasinda-10-kisi-hakkinda-daha-gozalti-karari-verildi-30029",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Sarıgül soruşturmasında 10 kişi hakkında gözaltı kararı",
+          "source": "İlke TV",
+          "link": "https://ilketv.com.tr/sarigul-sorusturmasinda-10-kisi-hakkinda-gozalti-karari/",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kayıplar ve Şehitler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Polis memuru Tayfun Akalan'ın şehit olması ve yazar Cem Akaş'ın vefatı ülke gündeminde üzüntüyle karşılandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Can Yayınları Genel Yayın Yönetmeni Cem Akaş Hayatını Kaybetti!",
+          "source": "Hardware Plus",
+          "link": "https://hwp.com.tr/can-yayinlari-yayin-yonetmeni-cem-akas-vefat-etti-334890",
+          "also_in": [
+            "Mürekkep Haber",
+            "Artı Gerçek",
+            "Kısa Dalga",
+            "Yurtsever"
+          ]
+        },
+        {
+          "title": "Trafik kazasında yaralanan polis memuru Tayfun Akalan şehit oldu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/trafik-kazasinda-yaralanan-polis-memuru-tayfun-akalan-sehit-oldu/4104359",
+          "also_in": [
+            "Elips Haber",
+            "Bengütürk",
+            "Haber Global",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Bakan Çiftçi duyurdu: Polis memuru Tayfun Akalan şehit oldu",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/bakan-ciftci-duyurdu-polis-memuru-tayfun-akalan-sehit-oldu-596585",
+          "also_in": [
+            "İnternet Haber",
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Polis Memuru Tayfun Akalan Şehit Oldu",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/polis-memuru-tayfun-akalan-sehit-oldu-581352",
+          "also_in": [
+            "Karar"
+          ]
+        },
+        {
+          "title": "Mustafa Çiftçi Duyurdu: Polis Memuru Tayfun Akalan Şehit Oldu!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/mustafa-ciftci-duyurdu-polis-memuru-tayfun-akalan-sehit-oldu-875738",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka Teknolojileri ve Siber Güvenlik",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Google Gemini 4, yapay zeka çiplerindeki rekabet ve siber güvenlik açıklarına dair endişeler teknoloji gündemini domine ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Google, Gemini 4 Carbon modelini duyurdu: Siber güvenlikte rakiplerine fark atıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/google-gemini-4-carbon-modelini-duyurdu--212223",
+          "also_in": []
+        },
+        {
+          "title": "OpenAI, baş rakibi Google’dan yapay zeka çipleri satın alacak",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/openai-google-dan-yapay-zeka-cipleri-satin-alacak--212204",
+          "also_in": []
+        },
+        {
+          "title": "Yeni bir AI girişimi, Anthropic'in sistemlerine sadece 12 saatte sızmayı başardı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yeni-bir-ai-girisimi-anthropic-in-sistemlerine-12-saatte-sizdi--212213",
+          "also_in": []
+        },
+        {
+          "title": "Google Genie 4 tanıtıldı: Yapay zeka artık sesli, etkileşimli dünyalar oluşturuyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/google-genie-4-tanitildi-yapay-zeka-artik-sesli-etkilesimli-dunyalar-olusturuyor_184936.html",
+          "also_in": []
+        },
+        {
+          "title": "Google Gemini 4 Carbon’ı Tanıttı: Siber Güvenlikte Şirketin En Güçlü Modeli",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/google-gemini-4-carboni-tanitti-siber-guvenlikte-sirketin-en-guclu-modeli/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe ve Galatasaray Teknik Direktör Gündemi",
+      "meta_category": "Spor",
+      "summary": "Süper Lig devlerinde teknik direktör arayışları ve Dirk Kuyt'ın durumu spor basınında en çok konuşulan başlıklar arasında.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe Dirk Kuyt yönetiminde çalıştı!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/28/fenerbahce-dirk-kuyt-yonetiminde-calisti",
+          "also_in": [
+            "AjansSpor"
+          ]
+        },
+        {
+          "title": "Dirk Kuyt için menajerinden iddia geldi: \"Sezonu tamamlayabilir\"",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-dirk-kuyt-icin-menajerinden-iddia-geldi-sezonu-tamamlayabilir-432049",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe, Göztepe maçı hazırlıklarına Dirk Kuyt yönetimindeki antrenmanla devam etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/fenerbahce-goztepe-maci-hazirliklarina-dirk-kuyt-yonetimindeki-antrenmanla-devam-etti-432048",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'de Dirk Kuyt sezon sonuna kadar kalabilir! Menajerinden açıklama",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/28/fenerbahcede-dirk-kuyt-sezon-sonuna-kadar-kalabilir-menajerinden-aciklama",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe açıkladı: Yeni teknik direktöre kadar Dirk Kuyt",
+          "source": "10Haber",
+          "link": "https://10haber.net/spor/fenerbahce-acikladi-yeni-teknik-direktore-kadar-dirk-kuyt-749816/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Çorum ve Aydın'daki Trafik ve Sel Felaketleri",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Çorum'daki trafik kazası ve Aydın'daki sel felaketi gibi olumsuz hava koşulları ve trafik kazaları can kayıplarına yol açtı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Aydın'da otomobil sel sularına kapıldı: Sürücü ve yolcu kurtarıldı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6007049/aydinda-otomobil-sel-sularina-kapildi-surucu-ve-yolcu-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Haber Global",
+            "Haber 7",
+            "Haberler",
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Çorum'da katliam gibi kaza! 4 ölü, 2 yaralı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/corumda-katliam-gibi-kaza-4-olu-2-yarali-596561",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Çorum'da iki otomobil çarpıştı: 4 ölü, 2 yaralı",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/corumda-iki-otomobil-carpisti-4-olu-2-yarali-2466128h.htm",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Çorum’da otomobil ile cip çarpıştı; 4 ölü, 2 yaralı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/3-sayfa/corumda-otomobil-ile-cip-carpisti-4-olu-2-yarali-110533",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Aydın'da otomobil sel sularına kapıldı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/aydinda-otomobil-sel-sularina-kapildi-p373748",
+          "also_in": [
+            "Sözcü"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İsrail Seçimleri ve Hile İddiaları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İsrail'de gerçekleşen seçim sonuçları sonrası Likud partisinin usulsüzlük iddiaları ve uluslararası tepkiler sürüyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İsrail'de seçim sonuçlandı: Trump'tan Netanyahu açıklaması",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/israilde-secim-sonuclandi-trumptan-netanyahu-aciklamasi-2466130h.htm",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "İsrail'de Seçim Tartışması Büyüyor! Likud'dan Arap Partilerine Usulsüzlük Suçlaması!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/israilde-secim-tartismasi-buyuyor-likuddan-arap-partilerine-usulsuzluk-suclamasi-875762",
+          "also_in": []
+        },
+        {
+          "title": "İsrail polisinden Netanyahu'ya yanıt: Arap partileri seçimi çaldı mı?",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/politika/israil-polisinden-netanyahuya-yanit-arap-partileri-secimi-caldi-mi-875749",
+          "also_in": []
+        },
+        {
+          "title": "Netanyahu'nun Likud Partisi'nden seçimlerde hile iddiası: “Seçimler çalındı”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/politika/netanyahunun-likud-partisinden-secimlerde-hile-iddiasi-secimler-calindi-875740",
+          "also_in": []
+        },
+        {
+          "title": "İsrail polisi sırtını döndü: Katil Bibi'nin \"hile\" yalanı elinde kaldı",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/israil-polisi-sirtini-dondu-katil-bibinin-hile-yalani-elinde-kaldi/haber-1710082",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yeni MacBook Pro ve Donanım Yenilikleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Apple'ın Dynamic Island özellikli yeni MacBook Pro modelleri ve donanım güncellemeleri teknoloji dünyasında tartışılıyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Apple, Dynamic Island özelliğini yıllar sonra Mac'e getirdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-dynamic-island-ozelligini-yillar-sonra-mac-e-getirdi--212222",
+          "also_in": []
+        },
+        {
+          "title": "Işıklı Apple logosuyla dokunmatik ekranlı MacBook Pro tanıtıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/dokunmatik-ekranli-macbook-pro-tanitildi-iste-turkiye-fiyati--212220",
+          "also_in": []
+        },
+        {
+          "title": "Yeni MacBook Pro Dynamic Island ile geliyor: Çentikli ekrana veda!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yeni-macbook-pro-dynamic-island-ozellikli-ekranla-geliyor--212209",
+          "also_in": []
+        },
+        {
+          "title": "MacBook Neo 2 için çıkış tarihi ortaya çıktı: A19 Pro ve 12 GB RAM geliyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/macbook-neo-2-icin-cikis-tarihi-ortaya-cikti--212186",
+          "also_in": []
+        },
+        {
+          "title": "Apple'ın yeni MacBook Pro'su neredeyse 5 asgari ücret: Peki bu fiyata ne sunuyor?",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/applein-yeni-macbook-prosu-neredeyse-5-asgari-ucret-peki-bu-fiyata-ne-sunuyor_184935.html",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Liberty Leading the People",
+    "artist": "Eugène Delacroix",
+    "year": "1830",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Louvre Museum, Paris",
+    "description": "Cumhuriyetin 103. yıl dönümündeki milli coşkuyu ve halkın birlik olma iradesini yansıtan ikonik bir başkaldırı ve özgürlük tasviri.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Liberty_Leading_the_People",
+    "wikipedia_extract": "Liberty Leading the People is a painting of the Romantic era by the French artist Eugène Delacroix, commemorating the July Revolution of 1830 that toppled King Charles X. A bare-breasted \"woman of the people\" with a Phrygian cap personifying the concept and Goddess of Liberty, accompanied by a young boy brandishing a pistol in each hand, leads a group of various people forward over a barricade and the bodies of the fallen while holding aloft the flag of the French Revolution—the tricolour, which again became France's national flag after these events—in one hand, and brandishing a bayonetted musket with the other. The figure of Liberty is also viewed as a symbol of France and the French Republic known as Marianne. The painting is sometimes wrongly thought to depict the French Revolution of 1789.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/3840px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix"
+  },
+  "music": {
+    "title": "Adagio for Strings, Op. 11",
+    "artists": "Samuel Barber, Leonard Bernstein, New York Philharmonic",
+    "album": "Romantic Favorites for Strings (Expanded Edition)",
+    "duration": "9:56",
+    "spotify_url": "https://open.spotify.com/track/7nHvS6UUhz2gJhj8TIROLX",
+    "spotify_id": "7nHvS6UUhz2gJhj8TIROLX",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273cb4644852f97e92bd9f0e676",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7nHvS6UUhz2gJhj8TIROLX\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Cumhuriyetimizin 103. yılına ulaşmanın sarsılmaz gururu, bugün hem teknolojik çağın belirsiz kırılmalarıyla hem de yitip giden canların derin hüznüyle iç içe geçiyor. Delacroix’nın fırçasından dökülen o devrimci ruh, özgürlüğün ancak kolektif bir iradeyle ve bedeller ödenerek yükselebileceğini hatırlatırken, Samuel Barber’ın Adagio for Strings bestesi bu ağırbaşlı coşkuyu evrensel bir ağıda dönüştürüyor. Dijital dönüşümün soğuk rüzgarları ve ekonomik darboğazların gölgesinde, Liberty figürünün kararlı yürüyüşü ile yaylıların hüzünlü tınısı tek bir noktada birleşiyor; bizler, geçmişin onurlu mirası ile geleceğin bilinmezliği arasında, kaybettiğimiz değerlere duyduğumuz derin saygı ve geleceğe olan sarsılmaz inancımızla bir arada duruyoruz. Bugünün karmaşık atmosferinde sanat, hem yas tutan bir merhamet hem de yeniden ayağa kalkma cesareti veren bir pusula görevi görüyor."
+}
