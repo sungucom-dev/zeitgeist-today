@@ -1,0 +1,421 @@
+{
+  "date": "2026-10-30",
+  "date_human": "30 October 2026",
+  "generated_at": "2026-10-30T01:30:56.857971+00:00",
+  "stats": {
+    "feeds_collected": 261,
+    "news_total": 4905,
+    "news_analyzed": 580,
+    "clusters": 7
+  },
+  "mood": {
+    "description": "Cumhuriyet Bayramı'nın 103. yıl dönümü coşkusuyla örülü, teknolojik devrimlerin ve ekonomik dalgalanmaların gölgesinde hüzünlü ve dinamik bir atmosfer hakim.",
+    "dominant_emotion": "Gurur",
+    "key_themes": [
+      "Cumhuriyet'in 103. Yılı Kutlamaları",
+      "Yapay Zeka ve Teknoloji Ekosistemindeki Sarsıntılar",
+      "Kapadokya'daki Trajik Peribacası Çökmesi",
+      "Küresel Ekonomik Belirsizlikler"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-10-30",
+        "code": 45,
+        "temp_max": 21.5,
+        "temp_min": 12.9
+      },
+      {
+        "date": "2026-10-31",
+        "code": 3,
+        "temp_max": 21.4,
+        "temp_min": 12.1
+      },
+      {
+        "date": "2026-11-01",
+        "code": 61,
+        "temp_max": 21.9,
+        "temp_min": 14.7
+      },
+      {
+        "date": "2026-11-02",
+        "code": 80,
+        "temp_max": 20.3,
+        "temp_min": 15.6
+      },
+      {
+        "date": "2026-11-03",
+        "code": 80,
+        "temp_max": 19.6,
+        "temp_min": 16.8
+      },
+      {
+        "date": "2026-11-04",
+        "code": 2,
+        "temp_max": 20.0,
+        "temp_min": 15.0
+      },
+      {
+        "date": "2026-11-05",
+        "code": 3,
+        "temp_max": 17.2,
+        "temp_min": 12.0
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Cumhuriyet'in 103. Yılı Kutlamaları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Türkiye'nin dört bir yanında Cumhuriyet'in 103. yılı çeşitli etkinlikler, yürüyüşler ve görsel şölenlerle coşkuyla kutlandı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "McDonald’s Türkiye’den Cumhuriyet’in 103. Yılına Renkli Kutlama",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/mcdonald-s-turkiye-den-cumhuriyet-in-103-yilina-renkli-kutlama--212153",
+          "also_in": []
+        },
+        {
+          "title": "29 Ekim Cumhuriyet Bayramı Kutlu Olsun",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/29-ekim-cumhuriyet-bayrami-kutlu-olsun-haber-263947",
+          "also_in": []
+        },
+        {
+          "title": "Cumhuriyet'in 103 yıllık ışığı Galata Kulesi'ni aydınlattı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/cumhuriyetin-103-yillik-isigi-galata-kulesini-aydinlatti-3486415",
+          "also_in": [
+            "Dünya",
+            "Karar",
+            "NTV",
+            "Sabah",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Yüzbinler Cumhuriyetimizin 103'üncü yılı için 'Cumhuriyet Yürüyüşüne' başladı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/yuzbinler-cumhuriyetimizin-103-uncu-yili-icin-cumhuriyet-yuruyusune-basladi-p374067",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İzmir’de Cumhuriyet Bayramı bin dronla kutlandı",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/izmirde-cumhuriyet-bayrami-bin-dronla-kutlandi/337329/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kapadokya'da Peribacası Çökmesi",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Göreme'de meydana gelen peribacası çökmesi sonucu 3 kişi hayatını kaybetti, 5 kişi yaralandı; olay büyük üzüntü yarattı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kapadokya'da Peribacası Çöktü! Ölü Ve Yaralılar Var",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/10/29/kapadokya-da-peribacasi-coktu-olu-ve-yaralilar-var-7176822.html",
+          "also_in": [
+            "Aykırı",
+            "Dijital Gaste",
+            "Haber 3",
+            "Korkusuz",
+            "Kamudan Haber",
+            "Veryansın TV",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Kapadokya'da peribacası çöktü: 3 kişi hayatını kaybetti, 5 kişi yaralandı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/guncel/kapadokyada-peribacasi-coktu-olu-ve-yaralilar-var-352151h",
+          "also_in": [
+            "Evrensel",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&at_campaign=rss",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Göreme’deki faciada kahreden detay: Gazeteci ve eşi feci şekilde can verdi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/goremedeki-faciada-kahreden-detay-gazeteci-ve-esi-feci-sekilde-can-verdi-p374118",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Kapadokya’da peribacası çöktü: 2 kişi yaşamını yitirdi!",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/kapadokyada-peribacasi-coktu-2-kisi-yasamini-yitirdi-750225/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Dünyasında Büyük Çalkantılar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Alphabet'in piyasa değerindeki devasa düşüş, Binance hack iddiaları ve yapay zeka modelleri üzerindeki etik tartışmalar teknoloji gündemine oturdu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Binance borsasına inanılmaz saldırı, 5.8 milyar dolar çalındı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/binance-borsasina-tarihi-saldiri--212246",
+          "also_in": []
+        },
+        {
+          "title": "Alphabet Piyasa Değerinden Rekor 500 Milyar Dolar Kaybetti: Arama Büyümesi Yavaşladı",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/alphabet-piyasa-degerinden-rekor-500-milyar-dolar-kaybetti-arama-buyumesi-yavasladi/",
+          "also_in": []
+        },
+        {
+          "title": "Alphabet çakıldı, Nasdaq geriledi! Yapay zeka yatırımlarında borç alarmı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/alphabet-cakildi-nasdaq-geriledi-yapay-zeka-yatirimlarinda-borc-alarmi-875816",
+          "also_in": []
+        },
+        {
+          "title": "Kripto para borsası Binance hacklendi mi? Binance kurucusundan açıklama",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/kripto/kripto-para-borsasi-binance-hacklendi-mi-binance-kurucusundan-aciklama-h40593",
+          "also_in": []
+        },
+        {
+          "title": "Alphabet düşüşü Nasdaq'ı vurdu: Yapay zeka endişesi büyüyor",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/piyasalar/alphabet-dususu-nasdaqi-vurdu-yapay-zeka-endisesi-buyuyor-h40586",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Küresel Piyasalar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Avrupa Merkez Bankası'nın faiz kararı, ABD'nin büyüme verileri ve Lagarde'ın istifa haberi piyasalarda hareketliliğe neden oldu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Avrupa Merkez Bankası Başkanı Lagarde istifa etti",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/avrupa-merkez-bankasi-baskani-lagarde-istifa-etti",
+          "also_in": [
+            "Haberler",
+            "TRT Haber",
+            "Yurtsever"
+          ]
+        },
+        {
+          "title": "Avrupa Merkez Bankası faiz kararını açıkladı",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/avrupa-merkez-bankasi-faiz-kararini-acikladi-2466267h.htm",
+          "also_in": [
+            "Döviz",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "ECB faiz kararını açıkladı: Oranlar ikinci kez sabit kaldı",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3672553-ecb-faiz-kararini-acikladi-oranlar-ikinci-kez-sabit-kaldi",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "AMB Ekim toplantısını pas geçti",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/amb-ekim-toplantisini-pas-gecti-3792802",
+          "also_in": []
+        },
+        {
+          "title": "Euro, ECB Başkanı Lagarde'ın erken ayrılık haberiyle yükseldi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/doviz/euro-ecb-baskani-lagardein-erken-ayrilik-haberiyle-yukseldi-h40570",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve Diplomasi Gündemi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın TDT zirvesi kapsamındaki temasları ve Trump ile yaptığı telefon görüşmeleri diplomasi trafiğini yoğunlaştırdı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-tdt-zirvesi-vesilesiyle-gerceklestirilen-aksam-yemeginde-konusuyor-h1578007",
+          "also_in": [
+            "Haber Global",
+            "İstiklal",
+            "NTV",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Donald Trump'la görüştü",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-donald-trump-la-gorustu-3923561",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "ABD Başkanı Trump'tan Cumhurbaşkanı Erdoğan'a telefon",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/abd-baskani-trumptan-cumhurbaskani-erdogana-telefon-43359824",
+          "also_in": [
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Erdoğan ile Trump’tan 24 saatte ikinci telefon görüşmesi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/erdogan-ile-trumptan-24-saatte-ikinci-telefon-gorusmesi-875827",
+          "also_in": []
+        },
+        {
+          "title": "Türk devletleri Ankara’da! Başkan Erdoğan: Önümüzdeki dönemi Türk asrı ilan edeceğiz",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/29/turk-devletleri-ankarada-baskan-erdogandan-onemli-mesajlar",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Patrick Stewart'ın Vefatı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Star Trek ve X-Men gibi yapımlarla tanınan efsanevi oyuncu Patrick Stewart 86 yaşında hayatını kaybetti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bilim Kurgu Sinemasının Efsane İsmi Patrick Stewart 86 Yaşında Hayatını Kaybetti!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000229894/",
+          "also_in": []
+        },
+        {
+          "title": "Patrick Stewart Hayatını Kaybetti: Star Trek ve X-Men Yıldızı 86 Yaşındaydı",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/patrick-stewart-hayatini-kaybetti-star-trek-ve-x-men-yildizi-86-yasindaydi",
+          "also_in": []
+        },
+        {
+          "title": "Star Trek’in Kaptanı ve X-Men’in Süper Kahramanı Sir Patrick Stewart 86 Yaşında Hayatını Kaybetti",
+          "source": "Rotka",
+          "link": "https://rotka.org/star-trekin-kaptani-ve-x-menin-super-kahramani-sir-patrick-stewart-86-yasinda-hayatini-kaybetti/",
+          "also_in": []
+        },
+        {
+          "title": "Oyuncu Patrick Stewart hayatını kaybetti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/oyuncu-patrick-stewart-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=oyuncu-patrick-stewart-hayatini-kaybetti",
+          "also_in": [
+            "Haber Global",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Bilim kurgunun efsane ismiydi: İngiliz oyuncu Patrick Stewart hayatını kaybetti",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/kultur-sanat/bilim-kurgunun-efsane-ismiydi-ingiliz-oyuncu-patrick-stewart-hayatini-kaybet-875846",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Gelişmeler",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de teknik direktör değişimleri, Ziraat Türkiye Kupası maçları ve Avrupa kupalarındaki hazırlıklar sporseverlerin gündeminde.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ziraat Türkiye Kupası'nda 4. eleme turu kura çekiminin saati değişti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/ziraat-turkiye-kupasinda-4-eleme-turu-kura-cekiminin-saati-degisti-432109",
+          "also_in": [
+            "NTV Spor Futbol",
+            "AjansSpor",
+            "Anadolu Ajansı"
+          ]
+        },
+        {
+          "title": "Sivasspor'un yeni teknik direktörü belli oldu",
+          "source": "Sözcü Spor",
+          "link": "https://www.sozcu.com.tr/sivasspor-un-yeni-teknik-direktoru-belli-oldu-p374078",
+          "also_in": [
+            "Cumhuriyet"
+          ]
+        },
+        {
+          "title": "Sivasspor'da teknik direktörlük görevine Çağdaş Çavuş getirildi",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/tff-birinci-lig/2026/10/29/sivassporda-teknik-direktorluk-gorevine-cagdas-cavus-getirildi",
+          "also_in": []
+        },
+        {
+          "title": "Kasımpaşa, Türkiye Kupası'nda üst turda! Kasımpaşa 3-1 Çorluspor 1947 (MAÇ ÖZETİ)",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/turkiye-kupasi/2026/10/29/kasimpasa-turkiye-kupasinda-ust-turda-kasimpasa-3-1-corluspor-1947-mac-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Sivasspor’da Çağdaş Çavuş dönemi başladı! Sezon sonuna kadar anlaşma sağlandı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/sivassporda-cagdas-cavus-donemi-basladi-sezon-sonuna-kadar-anlasma-saglandi-875824",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Ninth Wave",
+    "artist": "Ivan Aivazovsky",
+    "year": "1850",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "State Russian Museum",
+    "description": "Küresel piyasalardaki dalgalanmalar ve belirsizlikler altında hayatta kalma çabasını, fırtınanın içindeki umutla birleştirerek görsel bir metafor haline getiriyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ninth_Wave",
+    "wikipedia_extract": "The Ninth Wave is an 1850 painting by Russian marine painter Ivan Aivazovsky. It is his best-known work.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg/3840px-Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Aivazovsky"
+  },
+  "music": {
+    "title": "\"Heroes\" - 2017 Remaster",
+    "artists": "David Bowie",
+    "album": "\"Heroes\" (2017 Remaster)",
+    "duration": "6:11",
+    "spotify_url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
+    "spotify_id": "7Jh1bpe76CNTCgdgAdBw4Z",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7Jh1bpe76CNTCgdgAdBw4Z\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Cumhuriyetimizin 103. yılına ulaşmanın sarsılmaz gururu, teknolojik devrimlerin yarattığı belirsizlikler ve Kapadokya’nın kadim sessizliğinden kopan o hüzünlü çöküşle harmanlanarak bugünün ruhunu şekillendiriyor. Aivazovsky’nin The Ninth Wave eserindeki o devasa, yıkıcı dalgalar tam da bugün ekonomik ve sosyal türbülansların ortasında hayatta kalma çabamızı, insan ruhunun direncini simgeliyor. David Bowie’nin Heroes parçası ise bu fırtınalı denizin üzerinde yükselerek, yıkımın içinde bile olsa ayağa kalkmanın ve yeniden inşa etmenin o epik görkemini kulaklarımıza fısıldıyor. Tarihin ve geleceğin kesiştiği bu noktada, dev dalgaların altında ezilmek yerine ona göğüs geren bir cesaretle Cumhuriyetin ışığına tutunuyoruz. Belirsizliğin gölgesi ne kadar uzun olursa olsun, bizler bu hüzünlü ama dinamik çağın ortasında birbirimizin zaferine tanıklık eden birer direniş hikayesiyiz."
+}
