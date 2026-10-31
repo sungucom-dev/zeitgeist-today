@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-30",
-  "date_human": "30 October 2026",
-  "generated_at": "2026-10-30T01:30:56.857971+00:00",
+  "date": "2026-10-31",
+  "date_human": "31 October 2026",
+  "generated_at": "2026-10-31T01:30:44.375224+00:00",
   "stats": {
-    "feeds_collected": 261,
-    "news_total": 4905,
-    "news_analyzed": 580,
-    "clusters": 7
+    "feeds_collected": 286,
+    "news_total": 5477,
+    "news_analyzed": 606,
+    "clusters": 10
   },
   "mood": {
-    "description": "Cumhuriyet Bayramı'nın 103. yıl dönümü coşkusuyla örülü, teknolojik devrimlerin ve ekonomik dalgalanmaların gölgesinde hüzünlü ve dinamik bir atmosfer hakim.",
-    "dominant_emotion": "Gurur",
+    "description": "Siyasal ve ekonomik çalkantıların, teknolojik güvenlik kaygılarıyla birleştiği, belirsizliklerin gölgelediği yoğun bir gün yaşanıyor.",
+    "dominant_emotion": "Endişe",
     "key_themes": [
-      "Cumhuriyet'in 103. Yılı Kutlamaları",
-      "Yapay Zeka ve Teknoloji Ekosistemindeki Sarsıntılar",
-      "Kapadokya'daki Trajik Peribacası Çökmesi",
-      "Küresel Ekonomik Belirsizlikler"
+      "Siber güvenlik ve yapay zeka riskleri",
+      "Ekonomik daralma ve enflasyon baskısı",
+      "Uluslararası diplomasi ve Türk dünyası entegrasyonu",
+      "Suç örgütlerine yönelik geniş çaplı operasyonlar"
     ]
   },
   "weather": {
@@ -24,282 +24,382 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-30",
-        "code": 45,
-        "temp_max": 21.5,
-        "temp_min": 12.9
-      },
-      {
         "date": "2026-10-31",
         "code": 3,
-        "temp_max": 21.4,
-        "temp_min": 12.1
+        "temp_max": 21.8,
+        "temp_min": 12.5
       },
       {
         "date": "2026-11-01",
         "code": 61,
-        "temp_max": 21.9,
-        "temp_min": 14.7
+        "temp_max": 22.1,
+        "temp_min": 14.4
       },
       {
         "date": "2026-11-02",
-        "code": 80,
-        "temp_max": 20.3,
-        "temp_min": 15.6
+        "code": 61,
+        "temp_max": 21.2,
+        "temp_min": 14.6
       },
       {
         "date": "2026-11-03",
         "code": 80,
-        "temp_max": 19.6,
-        "temp_min": 16.8
+        "temp_max": 21.1,
+        "temp_min": 15.6
       },
       {
         "date": "2026-11-04",
-        "code": 2,
-        "temp_max": 20.0,
+        "code": 80,
+        "temp_max": 19.4,
         "temp_min": 15.0
       },
       {
         "date": "2026-11-05",
         "code": 3,
-        "temp_max": 17.2,
-        "temp_min": 12.0
+        "temp_max": 17.4,
+        "temp_min": 12.3
+      },
+      {
+        "date": "2026-11-06",
+        "code": 0,
+        "temp_max": 17.0,
+        "temp_min": 10.7
       }
     ]
   },
   "clusters": [
     {
-      "title": "Cumhuriyet'in 103. Yılı Kutlamaları",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Türkiye'nin dört bir yanında Cumhuriyet'in 103. yılı çeşitli etkinlikler, yürüyüşler ve görsel şölenlerle coşkuyla kutlandı.",
+      "title": "Küresel Siber Saldırı ve Binance Krizi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Binance'e yönelik milyarlarca dolarlık siber saldırı dünya piyasalarını sarsarken, kullanıcıların varlıklarına erişim sorunu devam ediyor.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "McDonald’s Türkiye’den Cumhuriyet’in 103. Yılına Renkli Kutlama",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/mcdonald-s-turkiye-den-cumhuriyet-in-103-yilina-renkli-kutlama--212153",
-          "also_in": []
-        },
-        {
-          "title": "29 Ekim Cumhuriyet Bayramı Kutlu Olsun",
-          "source": "Merlin'in Kazanı",
-          "link": "https://www.merlininkazani.com/29-ekim-cumhuriyet-bayrami-kutlu-olsun-haber-263947",
-          "also_in": []
-        },
-        {
-          "title": "Cumhuriyet'in 103 yıllık ışığı Galata Kulesi'ni aydınlattı",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/cumhuriyetin-103-yillik-isigi-galata-kulesini-aydinlatti-3486415",
+          "title": "Kripto dünyasında büyük şok: Binance'ten milyarlarca dolarlık siber saldırı açıklaması",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/kripto-dunyasinda-buyuk-sok-binanceten-milyarlarca-dolarlik-siber-saldiri-aciklamasi/104043",
           "also_in": [
-            "Dünya",
-            "Karar",
-            "NTV",
-            "Sabah",
-            "Ulusal Kanal"
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Yüzbinler Cumhuriyetimizin 103'üncü yılı için 'Cumhuriyet Yürüyüşüne' başladı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/yuzbinler-cumhuriyetimizin-103-uncu-yili-icin-cumhuriyet-yuruyusune-basladi-p374067",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "İzmir’de Cumhuriyet Bayramı bin dronla kutlandı",
-          "source": "Savunma Sanayi Gazetesi",
-          "link": "https://savunmasanayigazetesi.com.tr/izmirde-cumhuriyet-bayrami-bin-dronla-kutlandi/337329/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kapadokya'da Peribacası Çökmesi",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Göreme'de meydana gelen peribacası çökmesi sonucu 3 kişi hayatını kaybetti, 5 kişi yaralandı; olay büyük üzüntü yarattı.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kapadokya'da Peribacası Çöktü! Ölü Ve Yaralılar Var",
-          "source": "Beyaz Gazete",
-          "link": "https://beyazgazete.com/haber/2026/10/29/kapadokya-da-peribacasi-coktu-olu-ve-yaralilar-var-7176822.html",
-          "also_in": [
-            "Aykırı",
-            "Dijital Gaste",
-            "Haber 3",
-            "Korkusuz",
-            "Kamudan Haber",
-            "Veryansın TV",
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "Kapadokya'da peribacası çöktü: 3 kişi hayatını kaybetti, 5 kişi yaralandı",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/guncel/kapadokyada-peribacasi-coktu-olu-ve-yaralilar-var-352151h",
-          "also_in": [
-            "Evrensel",
-            "Haberet"
-          ]
-        },
-        {
-          "title": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&at_campaign=rss",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Göreme’deki faciada kahreden detay: Gazeteci ve eşi feci şekilde can verdi",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/goremedeki-faciada-kahreden-detay-gazeteci-ve-esi-feci-sekilde-can-verdi-p374118",
-          "also_in": [
-            "Sözcü Gündem"
-          ]
-        },
-        {
-          "title": "Kapadokya’da peribacası çöktü: 2 kişi yaşamını yitirdi!",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/kapadokyada-peribacasi-coktu-2-kisi-yasamini-yitirdi-750225/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji Dünyasında Büyük Çalkantılar",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Alphabet'in piyasa değerindeki devasa düşüş, Binance hack iddiaları ve yapay zeka modelleri üzerindeki etik tartışmalar teknoloji gündemine oturdu.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Binance borsasına inanılmaz saldırı, 5.8 milyar dolar çalındı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/binance-borsasina-tarihi-saldiri--212246",
+          "title": "Binance saldırısında hesap büyüdü: İlk tahmin 5,8 milyar dolardı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/binance-saldirisinda-hesap-buyudu-ilk-tahmin-58-milyar-dolardi_184951.html",
           "also_in": []
         },
         {
-          "title": "Alphabet Piyasa Değerinden Rekor 500 Milyar Dolar Kaybetti: Arama Büyümesi Yavaşladı",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/alphabet-piyasa-degerinden-rekor-500-milyar-dolar-kaybetti-arama-buyumesi-yavasladi/",
-          "also_in": []
-        },
-        {
-          "title": "Alphabet çakıldı, Nasdaq geriledi! Yapay zeka yatırımlarında borç alarmı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ekonomi/alphabet-cakildi-nasdaq-geriledi-yapay-zeka-yatirimlarinda-borc-alarmi-875816",
-          "also_in": []
-        },
-        {
-          "title": "Kripto para borsası Binance hacklendi mi? Binance kurucusundan açıklama",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/kripto/kripto-para-borsasi-binance-hacklendi-mi-binance-kurucusundan-aciklama-h40593",
-          "also_in": []
-        },
-        {
-          "title": "Alphabet düşüşü Nasdaq'ı vurdu: Yapay zeka endişesi büyüyor",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/piyasalar/alphabet-dususu-nasdaqi-vurdu-yapay-zeka-endisesi-buyuyor-h40586",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Veriler ve Küresel Piyasalar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Avrupa Merkez Bankası'nın faiz kararı, ABD'nin büyüme verileri ve Lagarde'ın istifa haberi piyasalarda hareketliliğe neden oldu.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Avrupa Merkez Bankası Başkanı Lagarde istifa etti",
-          "source": "Dokuz8 Haber",
-          "link": "https://dokuz8haber.net/avrupa-merkez-bankasi-baskani-lagarde-istifa-etti",
-          "also_in": [
-            "Haberler",
-            "TRT Haber",
-            "Yurtsever"
-          ]
-        },
-        {
-          "title": "Avrupa Merkez Bankası faiz kararını açıkladı",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/avrupa-merkez-bankasi-faiz-kararini-acikladi-2466267h.htm",
-          "also_in": [
-            "Döviz",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "ECB faiz kararını açıkladı: Oranlar ikinci kez sabit kaldı",
-          "source": "Haber 7",
-          "link": "https://ekonomi.haber7.com/ekonomi/haber/3672553-ecb-faiz-kararini-acikladi-oranlar-ikinci-kez-sabit-kaldi",
+          "title": "Binance gün verdi: Para çekme işlemleri için tarih belli oldu",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/binance-gun-verdi-para-cekme-islemleri-icin-tarih-belli-oldu-30262",
           "also_in": [
             "CNBC-e"
           ]
         },
         {
-          "title": "AMB Ekim toplantısını pas geçti",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/amb-ekim-toplantisini-pas-gecti-3792802",
+          "title": "Binance saldırısında 6,3 milyar dolarlık kayıp: Trump \"kimin yaptığını bilmiyoruz\" dedi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/binance-saldirisinda-63-milyar-dolarlik-kayip-trump-kimin-yaptigini-bilmiyoruz-dedi-875925",
           "also_in": []
         },
         {
-          "title": "Euro, ECB Başkanı Lagarde'ın erken ayrılık haberiyle yükseldi",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/doviz/euro-ecb-baskani-lagardein-erken-ayrilik-haberiyle-yukseldi-h40570",
+          "title": "Binance TR: Kripto varlık çekimleri geçici olarak durduruldu",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/kripto-para-haberleri/binance-tr-kripto-varlik-cekimleri-gecici-olarak-durduruldu/946636",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türk Dünyası Zirvesi ve Diplomatik Trafik",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Ankara'da gerçekleşen Türk Devletleri Teşkilatı 13. Zirvesi'nde savunmadan uzaya kadar geniş kapsamlı bir iş birliği bildirisi imzalandı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İletişim Başkanlığından Türk Devletleri Teşkilatı 13. Zirvesi'ne özel görsel iletişim çalışması",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turk-devletleri-teskilati-13-zirvesine-ozel-gorsel-iletisim-calismasi/4106853",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "Türk Devletleri Teşkilatı 13. Zirvesi Ankara Bildirisi yayımlandı",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/turk-devletleri-teskilati-13-zirvesi-ankara-bildirisi-yayimlandi-750519/",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "ANKARA BİLDİRİSİ İMZALANDI",
+          "source": "TGRT Haber",
+          "link": "https://www.tgrthaber.com/politika/cumhurbaskani-erdogandan-onemli-aciklamalar-3368396",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Türk devletlerinden 163 maddelik Ankara Bildirisi: Savunmadan uzaya, Zengezur'dan KKTC'ye kritik kararlar",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/30/turk-devletlerinden-163-maddelik-ankara-bildirisi-iste-alinan-kararlar",
+          "also_in": []
+        },
+        {
+          "title": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Enerji Ufku\" paneli düzenlendi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-enerji-ufku-paneli-duzenlendi/4106871",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Siyaset ve Diplomasi Gündemi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan'ın TDT zirvesi kapsamındaki temasları ve Trump ile yaptığı telefon görüşmeleri diplomasi trafiğini yoğunlaştırdı.",
-      "importance": 7,
+      "title": "Daltonlar Suç Örgütüne Büyük Operasyon",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "30 ilde eş zamanlı düzenlenen operasyonlarda 'Daltonlar' suç örgütü çökertildi, onlarca şüpheli tutuklama talebiyle mahkemeye sevk edildi.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Cumhurbaşkanı Erdoğan: Önümüzdeki dönem Türk asrı olacak",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-tdt-zirvesi-vesilesiyle-gerceklestirilen-aksam-yemeginde-konusuyor-h1578007",
+          "title": "30 ilde “Daltonlar” operasyonu: 76 kişi için tutuklama talebi",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6007349/30-ilde-daltonlar-operasyonu-76-kisi-icin-tutuklama-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "also_in": [
-            "Haber Global",
-            "İstiklal",
-            "NTV",
-            "Ulusal Kanal"
+            "İlke TV",
+            "soL Haber"
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan, Donald Trump'la görüştü",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-donald-trump-la-gorustu-3923561",
+          "title": "Daltonlar suç örgütüne 30 ilde operasyon: 76 şüpheliye tutuklama talebi",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/daltonlar-suc-orgutune-30-ilde-operasyon-76-supheliye-tutuklama-talebi-h1578283",
+          "also_in": [
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "'Daltonlar' suç örgütüne operasyon: 76 şüpheliye tutuklama talebi",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/daltonlar-suc-orgutune-operasyon-76-supheliye-tutuklama-talebi-43361083",
+          "also_in": [
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "30 ilde suç örgütüne operasyon! 52 şüpheli tutuklama talebiyle hakimliğe sevk edildi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/30/istanbul-merkezli-30-ilde-suc-orgutune-operasyon",
+          "also_in": []
+        },
+        {
+          "title": "Daltonlar WhatsApp grubunda eylem hazırlığı yaparken yakalandı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/daltonlar-whatsapp-grubunda-eylem-hazirligi-yaparken-yakalandi-875910",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Enflasyon Baskısı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Açlık ve yoksulluk sınırlarının artmasıyla birlikte Merkez Bankası rezervlerindeki azalış ve enflasyonist baskılar piyasaları zorluyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Açlık sınırı 38 bin TL’yi, yoksulluk sınırı 123 bin TL’yi aştı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/aclik-siniri-38-bin-tlyi-yoksulluk-siniri-123-bin-tlyi-asti-750388/",
+          "also_in": [
+            "Artı Gerçek",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Merkez Bankası rezervleri bir haftada 6,9 milyar dolar azaldı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/merkez-bankasi-rezervleri-bir-haftada-69-milyar-dolar-azaldi-750515/",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "TMO, kasımda piyasaya 5,5 milyon ton hububat arz edecek",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/sektorler/tarim/tmo-kasimda-piyasaya-55-milyon-ton-hububat-arz-edecek-haberi-928110",
           "also_in": [
             "Bloomberg HT"
           ]
         },
         {
-          "title": "ABD Başkanı Trump'tan Cumhurbaşkanı Erdoğan'a telefon",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/gundem/abd-baskani-trumptan-cumhurbaskani-erdogana-telefon-43359824",
+          "title": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3672790-tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir",
           "also_in": [
-            "Haberet"
+            "TRT Haber"
           ]
         },
         {
-          "title": "Erdoğan ile Trump’tan 24 saatte ikinci telefon görüşmesi",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/erdogan-ile-trumptan-24-saatte-ikinci-telefon-gorusmesi-875827",
+          "title": "TCMB: Manşet enflasyondaki yükselişin ana eğilime etkisi sınırlı kalacak",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/tcmb-manset-enflasyondaki-yukselisin-ana-egilime-etkisi-sinirli-kalacak/946661",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Faili Meçhul Cinayetlerin Aydınlatılması",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Bakan Gürlek, Türkiye genelinde uzun süredir çözülemeyen çok sayıda faili meçhul cinayetin aydınlatıldığını duyurdu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bakan Gürlek duyurdu! 4 faili meçhul cinayet daha aydınlatıldı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi-596829",
+          "also_in": [
+            "Sabah",
+            "TRT Haber",
+            "Yeni Asır Gazetesi"
+          ]
+        },
+        {
+          "title": "Konya, Kahramanmaraş, Mersin ve Hatay'da faili meçhul 4 cinayet dosyası aydınlatıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/konya-kahramanmaras-mersin-ve-hatayda-faili-mechul-4-cinayet-dosyasi-aydinlatildi/4106868",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "Bakan Gürlek duyurdu: 4 faili meçhul cinayet daha çözüldü",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-cozuldu",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "4 faili meçhul cinayet daha aydınlatıldı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/4-faili-mechul-cinayet-daha-aydinlatildi-p374431",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Betonla kapatılan buzluktaki cesetten yenidoğan bebek katliamına... Bakan Gürlek duyurdu: 75 cinayet faili meçhul olmaktan çıkarıldı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/30/bakan-gurlek-duyurdu-68-dosyada-75-cinayet-faili-mechul-olmaktan-cikarildi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Güvenliği",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka modellerinin güvenlik riskleri, veri merkezlerinin karbon salımı ve siber saldırıların otomobil sistemlerine etkisi tartışılıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Modern otomobillerde siber tehlike: Eğlence sistemleri sürüş güvenliğini tehdit ediyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/modern-otomobillerde-siber-tehlike-eglence-sistemleri-surus-guvenligini-tehdit-ediyor/104048",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zeka devlerinde büyük sarsıntı: Google bir günde 500 milyar dolar kaybetti",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-devlerinde-buyuk-sarsinti-google-bir-gunde-500-milyar-dolar-kaybetti/104041",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "MIMESIS'te arkadaşınıza güvenmek artık daha zor: Yapay zeka canavarları geliştirildi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/mimesiste-arkadasiniza-guvenmek-artik-daha-zor-yapay-zeka-canavarlari-gelistirildi_184949.html",
           "also_in": []
         },
         {
-          "title": "Türk devletleri Ankara’da! Başkan Erdoğan: Önümüzdeki dönemi Türk asrı ilan edeceğiz",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/29/turk-devletleri-ankarada-baskan-erdogandan-onemli-mesajlar",
+          "title": "Yapay zeka veri merkezleri ABD'nin karbon salımını patlatabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yapay-zeka-veri-merkezleri-abd-nin-karbon-salimini-patlatabilir--212277",
+          "also_in": []
+        },
+        {
+          "title": "SİBER SALDIRI VE AI VURDU",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/bitcoinde-son-5-ayin-en-sert-dususu-siber-saldiri-ve-ai-hisseleri-vurdu-1825997",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Siyasette İstifalar ve Gelişmeler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Mustafa Sarıgül'ün partiden istifası ve DEVA Partisi'ndeki ayrılıklar siyasi arenada hareketliliğe yol açtı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Mustafa Sarıgül Yeni Parti’den istifa etti",
+          "source": "10Haber",
+          "link": "https://10haber.net/siyaset/mustafa-sarigul-yeni-partiden-istifa-etti-750429/",
+          "also_in": [
+            "Artı Gerçek",
+            "Dokuz8 Haber",
+            "Korkusuz",
+            "Kısa Dalga",
+            "NTV",
+            "Sputnik",
+            "Tele2",
+            "Veryansın TV",
+            "Yurt Gazetesi",
+            "Yurtsever"
+          ]
+        },
+        {
+          "title": "DEVA Partili Ertuğrul Kaya istifa etti",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/deva-partili-ertugrul-kaya-istifa-etti",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Mustafa Sarıgül partisinden istifa etti",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/siyaset/mustafa-sarigul-partisinden-istifa-etti-110591",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Deva Partili vekil istifa etti; Yeni Yol'un Meclis'teki grubu düştü!",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/ertugrul-kaya-deva-partisi-istifa-etti-p374416",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Mustafa Sarıgül hakkında fezleke iddiası: Dokunulmazlığının kaldırılması istenecek mi?",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/mustafa-sarigul-hakkinda-fezleke-iddiasi-dokunulmazliginin-kaldirilmasi-istenecek-875915",
           "also_in": []
         }
       ]
@@ -307,115 +407,131 @@
     {
       "title": "Patrick Stewart'ın Vefatı",
       "meta_category": "Magazin ve Eğlence",
-      "summary": "Star Trek ve X-Men gibi yapımlarla tanınan efsanevi oyuncu Patrick Stewart 86 yaşında hayatını kaybetti.",
+      "summary": "Star Trek ve X-Men gibi yapımlarla tanınan efsanevi oyuncu Patrick Stewart hayatını kaybetti.",
       "importance": 7,
-      "story_count": 5,
+      "story_count": 2,
       "stories": [
         {
-          "title": "Bilim Kurgu Sinemasının Efsane İsmi Patrick Stewart 86 Yaşında Hayatını Kaybetti!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000229894/",
+          "title": "Professor X öksüz kaldı, Patrick Stewart hayatını kaybetti",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/patrick-stewart-hayatini-kaybetti--212243",
           "also_in": []
         },
         {
-          "title": "Patrick Stewart Hayatını Kaybetti: Star Trek ve X-Men Yıldızı 86 Yaşındaydı",
-          "source": "FRPNET",
-          "link": "https://frpnet.net/haberler/sinema-haberleri/patrick-stewart-hayatini-kaybetti-star-trek-ve-x-men-yildizi-86-yasindaydi",
-          "also_in": []
-        },
-        {
-          "title": "Star Trek’in Kaptanı ve X-Men’in Süper Kahramanı Sir Patrick Stewart 86 Yaşında Hayatını Kaybetti",
-          "source": "Rotka",
-          "link": "https://rotka.org/star-trekin-kaptani-ve-x-menin-super-kahramani-sir-patrick-stewart-86-yasinda-hayatini-kaybetti/",
-          "also_in": []
-        },
-        {
-          "title": "Oyuncu Patrick Stewart hayatını kaybetti",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/oyuncu-patrick-stewart-hayatini-kaybetti/?utm_source=rss&utm_medium=rss&utm_campaign=oyuncu-patrick-stewart-hayatini-kaybetti",
-          "also_in": [
-            "Haber Global",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Bilim kurgunun efsane ismiydi: İngiliz oyuncu Patrick Stewart hayatını kaybetti",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/kultur-sanat/bilim-kurgunun-efsane-ismiydi-ingiliz-oyuncu-patrick-stewart-hayatini-kaybet-875846",
+          "title": "Star Trek ve X-Men'in ünlü oyuncusu Patrick Stewart hayatını kaybetti",
+          "source": "Elele",
+          "link": "https://www.elele.com.tr/plus/star-trek-ve-x-menin-unlu-oyuncusu-patrick-stewart-hayatini-kaybetti",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Spor Dünyasında Gelişmeler",
+      "title": "Galatasaray'ın Konya Galibiyeti",
       "meta_category": "Spor",
-      "summary": "Süper Lig'de teknik direktör değişimleri, Ziraat Türkiye Kupası maçları ve Avrupa kupalarındaki hazırlıklar sporseverlerin gündeminde.",
+      "summary": "Galatasaray, Konyaspor deplasmanında 4-0 kazanarak liderliğini perçinlerken, maç sonrası Abdülkerim Bardakcı'ya destek mesajları öne çıktı.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Ziraat Türkiye Kupası'nda 4. eleme turu kura çekiminin saati değişti",
+          "title": "Galatasaray Konya'da farka koştu!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/30/galatasaray-konyada-farka-kostu",
+          "also_in": [
+            "Gerçek Gündem"
+          ]
+        },
+        {
+          "title": "Galatasaray deplasmanda 3 puanı 4 golle aldı",
           "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/ziraat-turkiye-kupasinda-4-eleme-turu-kura-cekiminin-saati-degisti-432109",
+          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-deplasmanda-3-puani-4-golle-aldi-432150",
           "also_in": [
-            "NTV Spor Futbol",
-            "AjansSpor",
-            "Anadolu Ajansı"
+            "NTV Spor Futbol"
           ]
         },
         {
-          "title": "Sivasspor'un yeni teknik direktörü belli oldu",
-          "source": "Sözcü Spor",
-          "link": "https://www.sozcu.com.tr/sivasspor-un-yeni-teknik-direktoru-belli-oldu-p374078",
+          "title": "TÜMOSAN Konyaspor galibiyeti sonrası Okan Buruk: Abdülkerim'e armağan ediyorum",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/10/30/tumosan-konyaspor-galibiyeti-sonrasi-okan-buruk-abdulkerime-armagan-ediyorum",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 yenerek liderliğini sürdürdü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-yenerek-liderligini-surdurdu/4106855",
           "also_in": [
-            "Cumhuriyet"
+            "Diriliş Postası"
           ]
         },
         {
-          "title": "Sivasspor'da teknik direktörlük görevine Çağdaş Çavuş getirildi",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/tff-birinci-lig/2026/10/29/sivassporda-teknik-direktorluk-gorevine-cagdas-cavus-getirildi",
-          "also_in": []
-        },
-        {
-          "title": "Kasımpaşa, Türkiye Kupası'nda üst turda! Kasımpaşa 3-1 Çorluspor 1947 (MAÇ ÖZETİ)",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/turkiye-kupasi/2026/10/29/kasimpasa-turkiye-kupasinda-ust-turda-kasimpasa-3-1-corluspor-1947-mac-ozeti",
-          "also_in": []
-        },
-        {
-          "title": "Sivasspor’da Çağdaş Çavuş dönemi başladı! Sezon sonuna kadar anlaşma sağlandı",
+          "title": "Galatasaray, Konyaspor deplasmanında gol oldu yağdı",
           "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/sivassporda-cagdas-cavus-donemi-basladi-sezon-sonuna-kadar-anlasma-saglandi-875824",
+          "link": "https://abcgazetesi.com.tr/spor/galatasaray-konyaspor-deplasmaninda-gol-oldu-yagdi-875907",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültürel Tartışmalar ve Yargı Kararları",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Elif Şafak lehine çıkan Yargıtay kararı ve edebiyat dünyasındaki bağımsız yayıncılık tartışmaları öne çıktı.",
+      "importance": 5,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Yargıtay’dan Elif Şafak lehine karar: Mine Kırıkkanat’ın intihal davası bozuldu",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/yargitaydan-elif-safak-lehine-karar-mine-kirikkanatin-intihal-davasi-bozuldu/",
+          "also_in": [
+            "Edebiyat Burada",
+            "Cumhuriyet",
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "Varlık dergisinin Kasım 2026 sayısı çıktı",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/varlikin-kasim-sayisi-yayimlandi-3/",
+          "also_in": []
+        },
+        {
+          "title": "2026 Goncourt Ödülü’nün finalistleri belli oldu",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/2026-goncourt-odulunun-finalistleri-belli-oldu/",
+          "also_in": []
+        },
+        {
+          "title": "Bağımsız yayıncılıkta ekonomik sürdürülebilirlik tartışması büyüyor",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/bagimsiz-yayincilikta-ekonomik-surdurulebilirlik-tartismasi-buyuyor/",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Ninth Wave",
-    "artist": "Ivan Aivazovsky",
-    "year": "1850",
+    "title": "Nighthawks (Hopper)",
+    "artist": "Edward Hopper",
+    "year": "1942",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "State Russian Museum",
-    "description": "Küresel piyasalardaki dalgalanmalar ve belirsizlikler altında hayatta kalma çabasını, fırtınanın içindeki umutla birleştirerek görsel bir metafor haline getiriyor.",
+    "location": "Art Institute of Chicago",
+    "description": "Şehir yaşamındaki yabancılaşma ve tekinsiz sessizlik, siber güvenlik kaygıları ve bireyin teknoloji karşısındaki yalnızlaşmış halini temsil ediyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Ninth_Wave",
-    "wikipedia_extract": "The Ninth Wave is an 1850 painting by Russian marine painter Ivan Aivazovsky. It is his best-known work.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg/3840px-Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Ivan_Aivazovsky"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nighthawks_(Hopper)",
+    "wikipedia_extract": "Nighthawks is a 1942 oil on canvas painting by the American artist Edward Hopper that portrays four people in a downtown diner late at night, as viewed through the diner's large glass window. The light coming from the diner illuminates a darkened and deserted urban streetscape.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/3840px-Nighthawks_by_Edward_Hopper_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Hopper"
   },
   "music": {
-    "title": "\"Heroes\" - 2017 Remaster",
-    "artists": "David Bowie",
-    "album": "\"Heroes\" (2017 Remaster)",
-    "duration": "6:11",
-    "spotify_url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z",
-    "spotify_id": "7Jh1bpe76CNTCgdgAdBw4Z",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273204f41d52743c6a9efd62985",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7Jh1bpe76CNTCgdgAdBw4Z\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "How to Disappear Completely",
+    "artists": "Radiohead",
+    "album": "Kid A",
+    "duration": "5:56",
+    "spotify_url": "https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6",
+    "spotify_id": "2rtGaCAeYtmcIvuZsvgTf6",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2rtGaCAeYtmcIvuZsvgTf6\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Cumhuriyetimizin 103. yılına ulaşmanın sarsılmaz gururu, teknolojik devrimlerin yarattığı belirsizlikler ve Kapadokya’nın kadim sessizliğinden kopan o hüzünlü çöküşle harmanlanarak bugünün ruhunu şekillendiriyor. Aivazovsky’nin The Ninth Wave eserindeki o devasa, yıkıcı dalgalar tam da bugün ekonomik ve sosyal türbülansların ortasında hayatta kalma çabamızı, insan ruhunun direncini simgeliyor. David Bowie’nin Heroes parçası ise bu fırtınalı denizin üzerinde yükselerek, yıkımın içinde bile olsa ayağa kalkmanın ve yeniden inşa etmenin o epik görkemini kulaklarımıza fısıldıyor. Tarihin ve geleceğin kesiştiği bu noktada, dev dalgaların altında ezilmek yerine ona göğüs geren bir cesaretle Cumhuriyetin ışığına tutunuyoruz. Belirsizliğin gölgesi ne kadar uzun olursa olsun, bizler bu hüzünlü ama dinamik çağın ortasında birbirimizin zaferine tanıklık eden birer direniş hikayesiyiz."
+  "curator_statement": "Modernitenin neon ışıklarıyla aydınlanan bu tekinsiz köşebaşı, ekonomik daralmanın ve siber belirsizliklerin gölgelediği günümüzün kolektif endişesini Edward Hopper’ın fırçasından süzülen o meşhur yalnızlıkla mühürlüyor. Dışarıdaki dünyanın diplomatik çalkantıları ve suç örgütlerinin yarattığı tekinsiz sessizlik, Radiohead’in How to Disappear Completely parçasıyla birleşerek bizi o cam fanusun ardındaki derin izolasyona hapsediyor. Vitrinin ışığı, yapay zekanın soğuk parıltısı ile güvensiz bir sokak arasına sıkışmış ruhlarımızı görünür kılarken, hepimiz aslında kendi içsel sürgünümüzde kaybolmaya çalışıyoruz. Türk dünyasının yeni entegrasyon arayışları ve küresel enflasyonun ağırlığı altında ezilen insanlık, tıpkı Hopper’ın figürleri gibi birbirine yakın ama bir o kadar da dokunulmaz bir mesafede, varoluşun sınırlarını sorguluyor. Bu gece, teknolojinin ve krizlerin gölgesinde, belki de en büyük devrimimiz, gürültüden kaçıp kendi sessizliğimizde tamamen yok olmayı başarabilmektir."
 }
