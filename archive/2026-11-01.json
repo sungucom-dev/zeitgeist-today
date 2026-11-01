@@ -1,0 +1,397 @@
+{
+  "date": "2026-11-01",
+  "date_human": "01 November 2026",
+  "generated_at": "2026-11-01T01:47:45.225019+00:00",
+  "stats": {
+    "feeds_collected": 285,
+    "news_total": 4953,
+    "news_analyzed": 609,
+    "clusters": 7
+  },
+  "mood": {
+    "description": "Türkiye gündeminde Borsa İstanbul'daki üst düzey gözaltıların yarattığı şok dalgası, spor camiasındaki mağlubiyetlerle birleşerek tedirgin bir atmosfer oluşturuyor. Aynı zamanda uluslararası diplomasi trafiği ve teknoloji dünyasındaki hızlı gelişmeler, ülkenin hem bölgesel hem de dijital dönüşüm sancılarını yansıtıyor.",
+    "dominant_emotion": "Belirsizlik",
+    "key_themes": [
+      "Borsa İstanbul ve Sermaye Piyasaları operasyonu",
+      "Fenerbahçe'nin ligdeki formsuzluğu ve yönetim krizi",
+      "Uluslararası diplomasi: Erdoğan-Zelenskiy görüşmesi",
+      "Yapay zeka ve teknoloji sektöründeki global dalgalanmalar",
+      "Ekonomi: ÖTV beklentisi ve piyasa belirsizlikleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-01",
+        "code": 80,
+        "temp_max": 21.7,
+        "temp_min": 14.2
+      },
+      {
+        "date": "2026-11-02",
+        "code": 61,
+        "temp_max": 19.2,
+        "temp_min": 14.1
+      },
+      {
+        "date": "2026-11-03",
+        "code": 80,
+        "temp_max": 20.4,
+        "temp_min": 15.1
+      },
+      {
+        "date": "2026-11-04",
+        "code": 80,
+        "temp_max": 19.9,
+        "temp_min": 14.1
+      },
+      {
+        "date": "2026-11-05",
+        "code": 2,
+        "temp_max": 17.8,
+        "temp_min": 12.0
+      },
+      {
+        "date": "2026-11-06",
+        "code": 2,
+        "temp_max": 15.0,
+        "temp_min": 9.6
+      },
+      {
+        "date": "2026-11-07",
+        "code": 1,
+        "temp_max": 15.5,
+        "temp_min": 8.2
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Borsa İstanbul'da Operasyon ve SPK Ataması",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un fon soruşturması kapsamında gözaltına alınması ve SPK Başkanlığına Muhsin Atcı'nın atanması piyasalarda büyük yankı uyandırdı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltinda",
+          "also_in": [
+            "BBC Türkçe",
+            "Aydınlık",
+            "Diken",
+            "En Son Haber",
+            "Ekonomim",
+            "GZT",
+            "Haber",
+            "İstiklal",
+            "İnternet Haber",
+            "OdaTV",
+            "soL Haber",
+            "Yeni Şafak",
+            "CNBC-e",
+            "Döviz",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Son dakika... Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/ekonomi/son-dakika-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-845956",
+          "also_in": [
+            "F5 Haber",
+            "Son Mühür",
+            "Sözcü",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Fon soruşturması Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/fon-sorusturmasi-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Fon soruşturması Borsa İstanbul'a uzandı: Genel müdür Korkmaz Enes Ergun gözaltında",
+          "source": "Independent Türkçe",
+          "link": "https://www.indyturk.com/node/784589/haber/fon-soru%C5%9Fturmas%C4%B1-borsa-i%CC%87stanbula-uzand%C4%B1-genel-m%C3%BCd%C3%BCr-korkmaz-enes-ergun-g%C3%B6zalt%C4%B1nda",
+          "also_in": [
+            "Karar"
+          ]
+        },
+        {
+          "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada Korkmaz Enes Ergun gözaltına alındı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-korkmaz-enes-ergun-gozaltina-alindi/4107574",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe'de Yönetim Krizi ve Göztepe Mağlubiyeti",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'nin sahasında Göztepe'ye mağlup olması sonrası taraftarların 'yönetim istifa' tezahüratları ve takım içindeki teknik/idari huzursuzluklar spor gündeminin merkezine oturdu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kadıköy'de 'yönetim istifa' sesleri!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/kadikoyde-yonetim-istifa-sesleri",
+          "also_in": [
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Kadıköy'de isyan var! Fenerbahçe tribünlerinde \"Yönetim istifa\" tezahüratları",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-kadikoyde-isyan-var-fenerbahce-tribunlerinde-yonetim-istifa-tezahuratlari-432219",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "Fenerbahçe Kadıköy'de Göztepe'ye kayıp!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahce-kadikoyde-goztepeye-kayip",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/fenerbahce-one-gectigi-musabakada-goztepeye-maglup/4107590",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "Fenerbahçe 1-2 Göztepe | Kadıköy’de büyük şok!",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/spor/fenerbahce-1-2-goztepe-kadikoyde-buyuk-sok/468351",
+          "also_in": [
+            "Bir Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Erdoğan-Zelenskiy Görüşmesi ve Diplomasi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın İstanbul'da Ukrayna Devlet Başkanı Zelenskiy ile bir araya gelmesi, barış arayışları ve bölgesel istikrar konularını gündeme taşıdı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ukrayna Devlet Başkanı Zelenski İstanbul'a geldi",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/ukrayna-devlet-baskani-zelenski-istanbula-geldi",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Zelenskiy ile Dolmabahçe’de bir araya geldi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-zelenskiy-ile-dolmabahcede-bir-araya-geldi-110607",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Erdoğan Zelenskiy ile bir araya geldi",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-bir-araya-geldi-p374645",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Zelenskiy ile görüşen Başkan Erdoğan'dan net mesaj: Barış için her türlü gayrete hazırız",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/baskan-erdogan-adil-bir-barisin-kaybedeni-olmaz",
+          "also_in": []
+        },
+        {
+          "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Binance Siber Saldırısı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Binance borsasına yönelik düzenlenen büyük siber saldırı sonucu milyarlarca dolarlık kayıp yaşanması ve şirketin bu kayıpları karşılama süreci kripto piyasasını sarstı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Binance’ten 6,3 Milyar Dolar Çalındı: Kuzey Kore İzi Öne Çıkıyor",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/binanceten-63-milyar-dolar-calindi-kuzey-kore-izi-one-cikiyor/",
+          "also_in": []
+        },
+        {
+          "title": "Kripto Devi Binance&apos;te Para Çekme İçin Tarih Verildi",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/kripto-devi-binance-te-para-cekme-icin-tarih-verildi-1392442",
+          "also_in": []
+        },
+        {
+          "title": "Binance'ten milyarlarca dolarlık hamle: 10 kripto varlıkta kayıplar karşılandı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/kripto/binanceten-milyarlarca-dolarlik-hamle-10-kripto-varlikta-kayiplar-karsilandi-h40713",
+          "also_in": []
+        },
+        {
+          "title": "Binance'ten çalınan 6 milyar dolar nereye gitti? 5 soruda soygunun perde arkası",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/kripto/binanceten-calinan-6-milyar-dolar-nereye-gitti-5-soruda-soygunun-perde-arkasi-g40709",
+          "also_in": []
+        },
+        {
+          "title": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/binance-siber-saldirida-calinan-varliklarin-yuzde-90-ini-karsiladi-3792992",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Devlerinde Çalkantı",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Teknoloji borsalarında yapay zeka harcamalarının kâr marjlarını düşürmesi sonucu büyük teknoloji şirketlerinin hisselerinde yaşanan sert hareketler ve sektörel krizler dikkat çekiyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Teknoloji borsalarında yapay zeka depremi: Apple zirveye yerleşti, Intel çakıldı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/teknoloji-borsalarinda-yapay-zeka-depremi-apple-zirveye-yerlesti-intel-cakildi/104053",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Google'ın yapay zeka hamlesi beklenen getiriyi sağlamıyor: Hisseler çakıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/google-in-yapay-zeka-hayali-pahaliya-patliyor-hisseler-cakildi--212292",
+          "also_in": []
+        },
+        {
+          "title": "Yapay Zekâ Harcamaları, Büyük Teknolojinin Yatırımcıya Nakit İadesini 15 Yılın Dibine İndirdi",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/yapay-zeka-harcamalari-buyuk-teknolojinin-yatirimciya-nakit-iadesini-15-yilin-dibine-indirdi/",
+          "also_in": []
+        },
+        {
+          "title": "OpenAI, Finansman Turu Hedefini 20 Milyar Dolara Düşürdü: Değerleme 1,25 Trilyon",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/openai-finansman-turu-hedefini-20-milyar-dolara-dusurdu-degerleme-125-trilyon/",
+          "also_in": []
+        },
+        {
+          "title": "Apple, Yapay Zekâ Satış Dalgasında Nvidia’yı Geçip Dünyanın En Değerli Şirketi Oldu",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/apple-yapay-zeka-satis-dalgasinda-nvidiayi-gecip-dunyanin-en-degerli-sirketi-oldu/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bakırköy Belediyesi'ne Soruşturma",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Bakırköy Belediyesi'ne yönelik yürütülen soruşturma kapsamında, aralarında belediye görevlilerinin de bulunduğu 39 kişi tutuklandı.",
+      "importance": 7,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Bakırköy Belediyesi soruşturması: 39 kişi tutuklandı",
+          "source": "10Haber",
+          "link": "https://10haber.net/siyaset/bakirkoy-belediyesi-sorusturmasi-39-kisi-tutuklandi-750701/",
+          "also_in": [
+            "Artı Gerçek",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Bakırköy Belediyesi soruşturmasında 20'si belediye görevlisi 39 kişi hakkında tutuklama kararı verildi",
+          "source": "Kısa Dalga",
+          "link": "https://kisadalga.net/haber/gundem/bakirkoy-belediyesi-sorusturmasinda-40-kisi-tutuklama-talebiyle-hakimlige-sevk-edildi-141299",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "İmamoğlu’ndan Bakırköy’deki tutuklamalara tepki: ‘Millete kötülük yapıyorsunuz’",
+          "source": "10Haber",
+          "link": "https://10haber.net/siyaset/imamoglundan-bakirkoydeki-tutuklamalara-tepki-millete-kotuluk-yapiyorsunuz-750715/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fındık Sektöründe Rekabet Kurumu İncelemesi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Rekabet Kurumu'nun fındık sektöründeki fiyat baskısı iddiaları üzerine 6 dev firmaya yönelik soruşturma başlatması üretici ve piyasa çevrelerinde geniş yankı buldu.",
+      "importance": 6,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor!",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3673126-rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "Fındıkta fiyat oyununa büyük darbe! Rekabet Kurumu'ndan 6 dev firmaya soruşturma: \"Çiftçimizi asla ezdirmeyeceğiz\"",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/rekabet-kurumundan-6-dev-firmaya-sorusturma",
+          "also_in": []
+        },
+        {
+          "title": "Fındıkta fiyat baskısı mercek altında",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/findikta-fiyat-baskisi-mercek-altinda-3792989",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Witches' Sabbath (Goya, 1798)",
+    "artist": "Francisco Goya",
+    "year": "1798",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Museo Lázaro Galdiano",
+    "description": "Borsa İstanbul'daki ani çöküş ve gözaltıların yarattığı karanlık, belirsiz atmosferi Goya'nın bu tekinsiz ve huzursuz kompozisyonu ile eşleştiriyoruz. İktidarın ve düzenin sarsıldığı anlarda ortaya çıkan kaotik ruh halini yansıtıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Witches'_Sabbath_(Goya%2C_1798)",
+    "wikipedia_extract": "Witches' Sabbath is a 1798 oil painting on canvas by the Spanish artist Francisco Goya. Today it is held in the Museo Lázaro Galdiano, Madrid. It depicts a Witches' Sabbath.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya"
+  },
+  "music": {
+    "title": "Everything In Its Right Place",
+    "artists": "Radiohead",
+    "album": "Kid A",
+    "duration": "4:11",
+    "spotify_url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+    "spotify_id": "2kRFrWaLWiKq48YYVdGcm8",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2kRFrWaLWiKq48YYVdGcm8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Günün puslu atmosferi, Borsa İstanbul’un sarsılan zemininden spor sahalarının yankısız mağlubiyetlerine kadar uzanan bir belirsizlik yumağını beraberinde getiriyor. Francisco Goya’nın The Witches Sabbath tablosundaki karanlık ve tekinsiz figürler, bugün ekonomi ve diplomasi koridorlarında fısıltıyla konuşulan o tekinsiz tedirginliği, bir toplumsal ayinin gölgesi gibi üzerimize örtüyor. Radiohead’in Everything In Its Right Place parçası, mekanik ve hipnotik ritmiyle bu kaosu kusursuz bir düzen arayışına dönüştürürken, zihnimizdeki teknolojik dönüşüm sancılarını ve yarının getireceği bilinmezliği derinleştiriyor. Uluslararası diplomasinin ince çizgisi ile piyasaların öngörülemez nabzı arasında sıkışan ruhumuz, her şeyin yerli yerinde olduğu yanılsamasıyla Goya’nın o kadim karanlığına bakıyor. Bu seçki, belirsizliğin estetik bir sığınağa dönüştüğü, dijital ve reel olanın birbirine karıştığı bugünün modern bir yansımasıdır."
+}

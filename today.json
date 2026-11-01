@@ -1,21 +1,22 @@
 {
-  "date": "2026-10-31",
-  "date_human": "31 October 2026",
-  "generated_at": "2026-10-31T01:30:44.375224+00:00",
+  "date": "2026-11-01",
+  "date_human": "01 November 2026",
+  "generated_at": "2026-11-01T01:47:45.225019+00:00",
   "stats": {
-    "feeds_collected": 286,
-    "news_total": 5477,
-    "news_analyzed": 606,
-    "clusters": 10
+    "feeds_collected": 285,
+    "news_total": 4953,
+    "news_analyzed": 609,
+    "clusters": 7
   },
   "mood": {
-    "description": "Siyasal ve ekonomik çalkantıların, teknolojik güvenlik kaygılarıyla birleştiği, belirsizliklerin gölgelediği yoğun bir gün yaşanıyor.",
-    "dominant_emotion": "Endişe",
+    "description": "Türkiye gündeminde Borsa İstanbul'daki üst düzey gözaltıların yarattığı şok dalgası, spor camiasındaki mağlubiyetlerle birleşerek tedirgin bir atmosfer oluşturuyor. Aynı zamanda uluslararası diplomasi trafiği ve teknoloji dünyasındaki hızlı gelişmeler, ülkenin hem bölgesel hem de dijital dönüşüm sancılarını yansıtıyor.",
+    "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Siber güvenlik ve yapay zeka riskleri",
-      "Ekonomik daralma ve enflasyon baskısı",
-      "Uluslararası diplomasi ve Türk dünyası entegrasyonu",
-      "Suç örgütlerine yönelik geniş çaplı operasyonlar"
+      "Borsa İstanbul ve Sermaye Piyasaları operasyonu",
+      "Fenerbahçe'nin ligdeki formsuzluğu ve yönetim krizi",
+      "Uluslararası diplomasi: Erdoğan-Zelenskiy görüşmesi",
+      "Yapay zeka ve teknoloji sektöründeki global dalgalanmalar",
+      "Ekonomi: ÖTV beklentisi ve piyasa belirsizlikleri"
     ]
   },
   "weather": {
@@ -24,514 +25,373 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-10-31",
-        "code": 3,
-        "temp_max": 21.8,
-        "temp_min": 12.5
-      },
-      {
         "date": "2026-11-01",
-        "code": 61,
-        "temp_max": 22.1,
-        "temp_min": 14.4
+        "code": 80,
+        "temp_max": 21.7,
+        "temp_min": 14.2
       },
       {
         "date": "2026-11-02",
         "code": 61,
-        "temp_max": 21.2,
-        "temp_min": 14.6
+        "temp_max": 19.2,
+        "temp_min": 14.1
       },
       {
         "date": "2026-11-03",
         "code": 80,
-        "temp_max": 21.1,
-        "temp_min": 15.6
+        "temp_max": 20.4,
+        "temp_min": 15.1
       },
       {
         "date": "2026-11-04",
         "code": 80,
-        "temp_max": 19.4,
-        "temp_min": 15.0
+        "temp_max": 19.9,
+        "temp_min": 14.1
       },
       {
         "date": "2026-11-05",
-        "code": 3,
-        "temp_max": 17.4,
-        "temp_min": 12.3
+        "code": 2,
+        "temp_max": 17.8,
+        "temp_min": 12.0
       },
       {
         "date": "2026-11-06",
-        "code": 0,
-        "temp_max": 17.0,
-        "temp_min": 10.7
+        "code": 2,
+        "temp_max": 15.0,
+        "temp_min": 9.6
+      },
+      {
+        "date": "2026-11-07",
+        "code": 1,
+        "temp_max": 15.5,
+        "temp_min": 8.2
       }
     ]
   },
   "clusters": [
     {
-      "title": "Küresel Siber Saldırı ve Binance Krizi",
+      "title": "Borsa İstanbul'da Operasyon ve SPK Ataması",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Binance'e yönelik milyarlarca dolarlık siber saldırı dünya piyasalarını sarsarken, kullanıcıların varlıklarına erişim sorunu devam ediyor.",
+      "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un fon soruşturması kapsamında gözaltına alınması ve SPK Başkanlığına Muhsin Atcı'nın atanması piyasalarda büyük yankı uyandırdı.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Kripto dünyasında büyük şok: Binance'ten milyarlarca dolarlık siber saldırı açıklaması",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/kripto-dunyasinda-buyuk-sok-binanceten-milyarlarca-dolarlik-siber-saldiri-aciklamasi/104043",
+          "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltinda",
           "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Binance saldırısında hesap büyüdü: İlk tahmin 5,8 milyar dolardı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/binance-saldirisinda-hesap-buyudu-ilk-tahmin-58-milyar-dolardi_184951.html",
-          "also_in": []
-        },
-        {
-          "title": "Binance gün verdi: Para çekme işlemleri için tarih belli oldu",
-          "source": "Haber",
-          "link": "https://www.haber.com/ekonomi/binance-gun-verdi-para-cekme-islemleri-icin-tarih-belli-oldu-30262",
-          "also_in": [
-            "CNBC-e"
-          ]
-        },
-        {
-          "title": "Binance saldırısında 6,3 milyar dolarlık kayıp: Trump \"kimin yaptığını bilmiyoruz\" dedi",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/binance-saldirisinda-63-milyar-dolarlik-kayip-trump-kimin-yaptigini-bilmiyoruz-dedi-875925",
-          "also_in": []
-        },
-        {
-          "title": "Binance TR: Kripto varlık çekimleri geçici olarak durduruldu",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/kripto-para-haberleri/binance-tr-kripto-varlik-cekimleri-gecici-olarak-durduruldu/946636",
-          "also_in": [
+            "BBC Türkçe",
+            "Aydınlık",
+            "Diken",
+            "En Son Haber",
+            "Ekonomim",
+            "GZT",
+            "Haber",
+            "İstiklal",
+            "İnternet Haber",
+            "OdaTV",
+            "soL Haber",
+            "Yeni Şafak",
+            "CNBC-e",
+            "Döviz",
             "Bloomberg HT"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Türk Dünyası Zirvesi ve Diplomatik Trafik",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Ankara'da gerçekleşen Türk Devletleri Teşkilatı 13. Zirvesi'nde savunmadan uzaya kadar geniş kapsamlı bir iş birliği bildirisi imzalandı.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
+        },
         {
-          "title": "İletişim Başkanlığından Türk Devletleri Teşkilatı 13. Zirvesi'ne özel görsel iletişim çalışması",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turk-devletleri-teskilati-13-zirvesine-ozel-gorsel-iletisim-calismasi/4106853",
+          "title": "Son dakika... Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/ekonomi/son-dakika-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-845956",
           "also_in": [
-            "Diriliş Postası"
-          ]
-        },
-        {
-          "title": "Türk Devletleri Teşkilatı 13. Zirvesi Ankara Bildirisi yayımlandı",
-          "source": "10Haber",
-          "link": "https://10haber.net/dunya/turk-devletleri-teskilati-13-zirvesi-ankara-bildirisi-yayimlandi-750519/",
-          "also_in": [
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "ANKARA BİLDİRİSİ İMZALANDI",
-          "source": "TGRT Haber",
-          "link": "https://www.tgrthaber.com/politika/cumhurbaskani-erdogandan-onemli-aciklamalar-3368396",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        },
-        {
-          "title": "Türk devletlerinden 163 maddelik Ankara Bildirisi: Savunmadan uzaya, Zengezur'dan KKTC'ye kritik kararlar",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/30/turk-devletlerinden-163-maddelik-ankara-bildirisi-iste-alinan-kararlar",
-          "also_in": []
-        },
-        {
-          "title": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Enerji Ufku\" paneli düzenlendi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-enerji-ufku-paneli-duzenlendi/4106871",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Daltonlar Suç Örgütüne Büyük Operasyon",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "30 ilde eş zamanlı düzenlenen operasyonlarda 'Daltonlar' suç örgütü çökertildi, onlarca şüpheli tutuklama talebiyle mahkemeye sevk edildi.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "30 ilde “Daltonlar” operasyonu: 76 kişi için tutuklama talebi",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6007349/30-ilde-daltonlar-operasyonu-76-kisi-icin-tutuklama-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "İlke TV",
-            "soL Haber"
-          ]
-        },
-        {
-          "title": "Daltonlar suç örgütüne 30 ilde operasyon: 76 şüpheliye tutuklama talebi",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/daltonlar-suc-orgutune-30-ilde-operasyon-76-supheliye-tutuklama-talebi-h1578283",
-          "also_in": [
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "'Daltonlar' suç örgütüne operasyon: 76 şüpheliye tutuklama talebi",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/gundem/daltonlar-suc-orgutune-operasyon-76-supheliye-tutuklama-talebi-43361083",
-          "also_in": [
-            "TürkInform"
-          ]
-        },
-        {
-          "title": "30 ilde suç örgütüne operasyon! 52 şüpheli tutuklama talebiyle hakimliğe sevk edildi",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/30/istanbul-merkezli-30-ilde-suc-orgutune-operasyon",
-          "also_in": []
-        },
-        {
-          "title": "Daltonlar WhatsApp grubunda eylem hazırlığı yaparken yakalandı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/daltonlar-whatsapp-grubunda-eylem-hazirligi-yaparken-yakalandi-875910",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Veriler ve Enflasyon Baskısı",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Açlık ve yoksulluk sınırlarının artmasıyla birlikte Merkez Bankası rezervlerindeki azalış ve enflasyonist baskılar piyasaları zorluyor.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Açlık sınırı 38 bin TL’yi, yoksulluk sınırı 123 bin TL’yi aştı",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/aclik-siniri-38-bin-tlyi-yoksulluk-siniri-123-bin-tlyi-asti-750388/",
-          "also_in": [
-            "Artı Gerçek",
-            "Yurt Gazetesi"
-          ]
-        },
-        {
-          "title": "Merkez Bankası rezervleri bir haftada 6,9 milyar dolar azaldı",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/merkez-bankasi-rezervleri-bir-haftada-69-milyar-dolar-azaldi-750515/",
-          "also_in": [
+            "F5 Haber",
+            "Son Mühür",
+            "Sözcü",
             "Sözcü Ekonomi"
           ]
         },
         {
-          "title": "TMO, kasımda piyasaya 5,5 milyon ton hububat arz edecek",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/sektorler/tarim/tmo-kasimda-piyasaya-55-milyon-ton-hububat-arz-edecek-haberi-928110",
+          "title": "Fon soruşturması Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/fon-sorusturmasi-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi",
           "also_in": [
-            "Bloomberg HT"
+            "NTV"
           ]
         },
         {
-          "title": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
-          "source": "Haber 7",
-          "link": "https://ekonomi.haber7.com/ekonomi/haber/3672790-tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir",
+          "title": "Fon soruşturması Borsa İstanbul'a uzandı: Genel müdür Korkmaz Enes Ergun gözaltında",
+          "source": "Independent Türkçe",
+          "link": "https://www.indyturk.com/node/784589/haber/fon-soru%C5%9Fturmas%C4%B1-borsa-i%CC%87stanbula-uzand%C4%B1-genel-m%C3%BCd%C3%BCr-korkmaz-enes-ergun-g%C3%B6zalt%C4%B1nda",
           "also_in": [
-            "TRT Haber"
+            "Karar"
           ]
         },
         {
-          "title": "TCMB: Manşet enflasyondaki yükselişin ana eğilime etkisi sınırlı kalacak",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/tcmb-manset-enflasyondaki-yukselisin-ana-egilime-etkisi-sinirli-kalacak/946661",
-          "also_in": [
-            "Bloomberg HT"
-          ]
+          "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada Korkmaz Enes Ergun gözaltına alındı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-korkmaz-enes-ergun-gozaltina-alindi/4107574",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Faili Meçhul Cinayetlerin Aydınlatılması",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Bakan Gürlek, Türkiye genelinde uzun süredir çözülemeyen çok sayıda faili meçhul cinayetin aydınlatıldığını duyurdu.",
-      "importance": 8,
+      "title": "Fenerbahçe'de Yönetim Krizi ve Göztepe Mağlubiyeti",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'nin sahasında Göztepe'ye mağlup olması sonrası taraftarların 'yönetim istifa' tezahüratları ve takım içindeki teknik/idari huzursuzluklar spor gündeminin merkezine oturdu.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Bakan Gürlek duyurdu! 4 faili meçhul cinayet daha aydınlatıldı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi-596829",
+          "title": "Kadıköy'de 'yönetim istifa' sesleri!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/kadikoyde-yonetim-istifa-sesleri",
           "also_in": [
-            "Sabah",
-            "TRT Haber",
-            "Yeni Asır Gazetesi"
+            "Sözcü Spor"
           ]
         },
         {
-          "title": "Konya, Kahramanmaraş, Mersin ve Hatay'da faili meçhul 4 cinayet dosyası aydınlatıldı",
+          "title": "Kadıköy'de isyan var! Fenerbahçe tribünlerinde \"Yönetim istifa\" tezahüratları",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-kadikoyde-isyan-var-fenerbahce-tribunlerinde-yonetim-istifa-tezahuratlari-432219",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "Fenerbahçe Kadıköy'de Göztepe'ye kayıp!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahce-kadikoyde-goztepeye-kayip",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/konya-kahramanmaras-mersin-ve-hatayda-faili-mechul-4-cinayet-dosyasi-aydinlatildi/4106868",
+          "link": "https://www.aa.com.tr/tr/spor/fenerbahce-one-gectigi-musabakada-goztepeye-maglup/4107590",
           "also_in": [
             "Diriliş Postası"
           ]
         },
         {
-          "title": "Bakan Gürlek duyurdu: 4 faili meçhul cinayet daha çözüldü",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-cozuldu",
+          "title": "Fenerbahçe 1-2 Göztepe | Kadıköy’de büyük şok!",
+          "source": "BHA",
+          "link": "https://www.bha.net.tr/spor/fenerbahce-1-2-goztepe-kadikoyde-buyuk-sok/468351",
           "also_in": [
-            "Haber Global"
+            "Bir Gazete"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Erdoğan-Zelenskiy Görüşmesi ve Diplomasi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın İstanbul'da Ukrayna Devlet Başkanı Zelenskiy ile bir araya gelmesi, barış arayışları ve bölgesel istikrar konularını gündeme taşıdı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ukrayna Devlet Başkanı Zelenski İstanbul'a geldi",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/ukrayna-devlet-baskani-zelenski-istanbula-geldi",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü"
           ]
         },
         {
-          "title": "4 faili meçhul cinayet daha aydınlatıldı",
+          "title": "Cumhurbaşkanı Erdoğan, Zelenskiy ile Dolmabahçe’de bir araya geldi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-zelenskiy-ile-dolmabahcede-bir-araya-geldi-110607",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Erdoğan Zelenskiy ile bir araya geldi",
           "source": "Sözcü Gündem",
-          "link": "https://www.sozcu.com.tr/4-faili-mechul-cinayet-daha-aydinlatildi-p374431",
+          "link": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-bir-araya-geldi-p374645",
           "also_in": [
             "Sözcü"
           ]
         },
         {
-          "title": "Betonla kapatılan buzluktaki cesetten yenidoğan bebek katliamına... Bakan Gürlek duyurdu: 75 cinayet faili meçhul olmaktan çıkarıldı",
+          "title": "Zelenskiy ile görüşen Başkan Erdoğan'dan net mesaj: Barış için her türlü gayrete hazırız",
           "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/30/bakan-gurlek-duyurdu-68-dosyada-75-cinayet-faili-mechul-olmaktan-cikarildi",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/baskan-erdogan-adil-bir-barisin-kaybedeni-olmaz",
+          "also_in": []
+        },
+        {
+          "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Yapay Zeka ve Teknoloji Güvenliği",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka modellerinin güvenlik riskleri, veri merkezlerinin karbon salımı ve siber saldırıların otomobil sistemlerine etkisi tartışılıyor.",
+      "title": "Binance Siber Saldırısı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Binance borsasına yönelik düzenlenen büyük siber saldırı sonucu milyarlarca dolarlık kayıp yaşanması ve şirketin bu kayıpları karşılama süreci kripto piyasasını sarstı.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Modern otomobillerde siber tehlike: Eğlence sistemleri sürüş güvenliğini tehdit ediyor",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/modern-otomobillerde-siber-tehlike-eglence-sistemleri-surus-guvenligini-tehdit-ediyor/104048",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Yapay zeka devlerinde büyük sarsıntı: Google bir günde 500 milyar dolar kaybetti",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-devlerinde-buyuk-sarsinti-google-bir-gunde-500-milyar-dolar-kaybetti/104041",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "MIMESIS'te arkadaşınıza güvenmek artık daha zor: Yapay zeka canavarları geliştirildi",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/mimesiste-arkadasiniza-guvenmek-artik-daha-zor-yapay-zeka-canavarlari-gelistirildi_184949.html",
+          "title": "Binance’ten 6,3 Milyar Dolar Çalındı: Kuzey Kore İzi Öne Çıkıyor",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/binanceten-63-milyar-dolar-calindi-kuzey-kore-izi-one-cikiyor/",
           "also_in": []
         },
         {
-          "title": "Yapay zeka veri merkezleri ABD'nin karbon salımını patlatabilir",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yapay-zeka-veri-merkezleri-abd-nin-karbon-salimini-patlatabilir--212277",
+          "title": "Kripto Devi Binance&apos;te Para Çekme İçin Tarih Verildi",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/kripto-devi-binance-te-para-cekme-icin-tarih-verildi-1392442",
           "also_in": []
         },
         {
-          "title": "SİBER SALDIRI VE AI VURDU",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/bitcoinde-son-5-ayin-en-sert-dususu-siber-saldiri-ve-ai-hisseleri-vurdu-1825997",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
+          "title": "Binance'ten milyarlarca dolarlık hamle: 10 kripto varlıkta kayıplar karşılandı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/kripto/binanceten-milyarlarca-dolarlik-hamle-10-kripto-varlikta-kayiplar-karsilandi-h40713",
+          "also_in": []
+        },
+        {
+          "title": "Binance'ten çalınan 6 milyar dolar nereye gitti? 5 soruda soygunun perde arkası",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/kripto/binanceten-calinan-6-milyar-dolar-nereye-gitti-5-soruda-soygunun-perde-arkasi-g40709",
+          "also_in": []
+        },
+        {
+          "title": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/binance-siber-saldirida-calinan-varliklarin-yuzde-90-ini-karsiladi-3792992",
+          "also_in": []
         }
       ]
     },
     {
-      "title": "Siyasette İstifalar ve Gelişmeler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Mustafa Sarıgül'ün partiden istifası ve DEVA Partisi'ndeki ayrılıklar siyasi arenada hareketliliğe yol açtı.",
+      "title": "Yapay Zeka ve Teknoloji Devlerinde Çalkantı",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Teknoloji borsalarında yapay zeka harcamalarının kâr marjlarını düşürmesi sonucu büyük teknoloji şirketlerinin hisselerinde yaşanan sert hareketler ve sektörel krizler dikkat çekiyor.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Mustafa Sarıgül Yeni Parti’den istifa etti",
+          "title": "Teknoloji borsalarında yapay zeka depremi: Apple zirveye yerleşti, Intel çakıldı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/teknoloji-borsalarinda-yapay-zeka-depremi-apple-zirveye-yerlesti-intel-cakildi/104053",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Google'ın yapay zeka hamlesi beklenen getiriyi sağlamıyor: Hisseler çakıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/google-in-yapay-zeka-hayali-pahaliya-patliyor-hisseler-cakildi--212292",
+          "also_in": []
+        },
+        {
+          "title": "Yapay Zekâ Harcamaları, Büyük Teknolojinin Yatırımcıya Nakit İadesini 15 Yılın Dibine İndirdi",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/yapay-zeka-harcamalari-buyuk-teknolojinin-yatirimciya-nakit-iadesini-15-yilin-dibine-indirdi/",
+          "also_in": []
+        },
+        {
+          "title": "OpenAI, Finansman Turu Hedefini 20 Milyar Dolara Düşürdü: Değerleme 1,25 Trilyon",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/openai-finansman-turu-hedefini-20-milyar-dolara-dusurdu-degerleme-125-trilyon/",
+          "also_in": []
+        },
+        {
+          "title": "Apple, Yapay Zekâ Satış Dalgasında Nvidia’yı Geçip Dünyanın En Değerli Şirketi Oldu",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/apple-yapay-zeka-satis-dalgasinda-nvidiayi-gecip-dunyanin-en-degerli-sirketi-oldu/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bakırköy Belediyesi'ne Soruşturma",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Bakırköy Belediyesi'ne yönelik yürütülen soruşturma kapsamında, aralarında belediye görevlilerinin de bulunduğu 39 kişi tutuklandı.",
+      "importance": 7,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Bakırköy Belediyesi soruşturması: 39 kişi tutuklandı",
           "source": "10Haber",
-          "link": "https://10haber.net/siyaset/mustafa-sarigul-yeni-partiden-istifa-etti-750429/",
+          "link": "https://10haber.net/siyaset/bakirkoy-belediyesi-sorusturmasi-39-kisi-tutuklandi-750701/",
           "also_in": [
             "Artı Gerçek",
-            "Dokuz8 Haber",
-            "Korkusuz",
-            "Kısa Dalga",
-            "NTV",
-            "Sputnik",
-            "Tele2",
-            "Veryansın TV",
-            "Yurt Gazetesi",
-            "Yurtsever"
+            "Sputnik"
           ]
         },
         {
-          "title": "DEVA Partili Ertuğrul Kaya istifa etti",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/deva-partili-ertugrul-kaya-istifa-etti",
+          "title": "Bakırköy Belediyesi soruşturmasında 20'si belediye görevlisi 39 kişi hakkında tutuklama kararı verildi",
+          "source": "Kısa Dalga",
+          "link": "https://kisadalga.net/haber/gundem/bakirkoy-belediyesi-sorusturmasinda-40-kisi-tutuklama-talebiyle-hakimlige-sevk-edildi-141299",
           "also_in": [
-            "Haber 7"
+            "Dokuz8 Haber"
           ]
         },
         {
-          "title": "Mustafa Sarıgül partisinden istifa etti",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/siyaset/mustafa-sarigul-partisinden-istifa-etti-110591",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Deva Partili vekil istifa etti; Yeni Yol'un Meclis'teki grubu düştü!",
-          "source": "Sözcü Gündem",
-          "link": "https://www.sozcu.com.tr/ertugrul-kaya-deva-partisi-istifa-etti-p374416",
-          "also_in": [
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "Mustafa Sarıgül hakkında fezleke iddiası: Dokunulmazlığının kaldırılması istenecek mi?",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/mustafa-sarigul-hakkinda-fezleke-iddiasi-dokunulmazliginin-kaldirilmasi-istenecek-875915",
+          "title": "İmamoğlu’ndan Bakırköy’deki tutuklamalara tepki: ‘Millete kötülük yapıyorsunuz’",
+          "source": "10Haber",
+          "link": "https://10haber.net/siyaset/imamoglundan-bakirkoydeki-tutuklamalara-tepki-millete-kotuluk-yapiyorsunuz-750715/",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Patrick Stewart'ın Vefatı",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "Star Trek ve X-Men gibi yapımlarla tanınan efsanevi oyuncu Patrick Stewart hayatını kaybetti.",
-      "importance": 7,
-      "story_count": 2,
-      "stories": [
-        {
-          "title": "Professor X öksüz kaldı, Patrick Stewart hayatını kaybetti",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/patrick-stewart-hayatini-kaybetti--212243",
-          "also_in": []
-        },
-        {
-          "title": "Star Trek ve X-Men'in ünlü oyuncusu Patrick Stewart hayatını kaybetti",
-          "source": "Elele",
-          "link": "https://www.elele.com.tr/plus/star-trek-ve-x-menin-unlu-oyuncusu-patrick-stewart-hayatini-kaybetti",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Galatasaray'ın Konya Galibiyeti",
-      "meta_category": "Spor",
-      "summary": "Galatasaray, Konyaspor deplasmanında 4-0 kazanarak liderliğini perçinlerken, maç sonrası Abdülkerim Bardakcı'ya destek mesajları öne çıktı.",
+      "title": "Fındık Sektöründe Rekabet Kurumu İncelemesi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Rekabet Kurumu'nun fındık sektöründeki fiyat baskısı iddiaları üzerine 6 dev firmaya yönelik soruşturma başlatması üretici ve piyasa çevrelerinde geniş yankı buldu.",
       "importance": 6,
-      "story_count": 5,
+      "story_count": 3,
       "stories": [
         {
-          "title": "Galatasaray Konya'da farka koştu!",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/galatasaray/2026/10/30/galatasaray-konyada-farka-kostu",
+          "title": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor!",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3673126-rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor",
           "also_in": [
-            "Gerçek Gündem"
+            "Habertürk"
           ]
         },
         {
-          "title": "Galatasaray deplasmanda 3 puanı 4 golle aldı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-deplasmanda-3-puani-4-golle-aldi-432150",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "TÜMOSAN Konyaspor galibiyeti sonrası Okan Buruk: Abdülkerim'e armağan ediyorum",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/10/30/tumosan-konyaspor-galibiyeti-sonrasi-okan-buruk-abdulkerime-armagan-ediyorum",
+          "title": "Fındıkta fiyat oyununa büyük darbe! Rekabet Kurumu'ndan 6 dev firmaya soruşturma: \"Çiftçimizi asla ezdirmeyeceğiz\"",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/rekabet-kurumundan-6-dev-firmaya-sorusturma",
           "also_in": []
         },
         {
-          "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 yenerek liderliğini sürdürdü",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-yenerek-liderligini-surdurdu/4106855",
-          "also_in": [
-            "Diriliş Postası"
-          ]
-        },
-        {
-          "title": "Galatasaray, Konyaspor deplasmanında gol oldu yağdı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/galatasaray-konyaspor-deplasmaninda-gol-oldu-yagdi-875907",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kültürel Tartışmalar ve Yargı Kararları",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Elif Şafak lehine çıkan Yargıtay kararı ve edebiyat dünyasındaki bağımsız yayıncılık tartışmaları öne çıktı.",
-      "importance": 5,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "Yargıtay’dan Elif Şafak lehine karar: Mine Kırıkkanat’ın intihal davası bozuldu",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/yargitaydan-elif-safak-lehine-karar-mine-kirikkanatin-intihal-davasi-bozuldu/",
-          "also_in": [
-            "Edebiyat Burada",
-            "Cumhuriyet",
-            "OdaTV"
-          ]
-        },
-        {
-          "title": "Varlık dergisinin Kasım 2026 sayısı çıktı",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/varlikin-kasim-sayisi-yayimlandi-3/",
-          "also_in": []
-        },
-        {
-          "title": "2026 Goncourt Ödülü’nün finalistleri belli oldu",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/2026-goncourt-odulunun-finalistleri-belli-oldu/",
-          "also_in": []
-        },
-        {
-          "title": "Bağımsız yayıncılıkta ekonomik sürdürülebilirlik tartışması büyüyor",
-          "source": "Edebiyat Haber",
-          "link": "https://www.edebiyathaber.net/bagimsiz-yayincilikta-ekonomik-surdurulebilirlik-tartismasi-buyuyor/",
+          "title": "Fındıkta fiyat baskısı mercek altında",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/findikta-fiyat-baskisi-mercek-altinda-3792989",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "Nighthawks (Hopper)",
-    "artist": "Edward Hopper",
-    "year": "1942",
+    "title": "Witches' Sabbath (Goya, 1798)",
+    "artist": "Francisco Goya",
+    "year": "1798",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Art Institute of Chicago",
-    "description": "Şehir yaşamındaki yabancılaşma ve tekinsiz sessizlik, siber güvenlik kaygıları ve bireyin teknoloji karşısındaki yalnızlaşmış halini temsil ediyor.",
+    "location": "Museo Lázaro Galdiano",
+    "description": "Borsa İstanbul'daki ani çöküş ve gözaltıların yarattığı karanlık, belirsiz atmosferi Goya'nın bu tekinsiz ve huzursuz kompozisyonu ile eşleştiriyoruz. İktidarın ve düzenin sarsıldığı anlarda ortaya çıkan kaotik ruh halini yansıtıyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nighthawks_(Hopper)",
-    "wikipedia_extract": "Nighthawks is a 1942 oil on canvas painting by the American artist Edward Hopper that portrays four people in a downtown diner late at night, as viewed through the diner's large glass window. The light coming from the diner illuminates a darkened and deserted urban streetscape.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/3840px-Nighthawks_by_Edward_Hopper_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Hopper"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Witches'_Sabbath_(Goya%2C_1798)",
+    "wikipedia_extract": "Witches' Sabbath is a 1798 oil painting on canvas by the Spanish artist Francisco Goya. Today it is held in the Museo Lázaro Galdiano, Madrid. It depicts a Witches' Sabbath.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya"
   },
   "music": {
-    "title": "How to Disappear Completely",
+    "title": "Everything In Its Right Place",
     "artists": "Radiohead",
     "album": "Kid A",
-    "duration": "5:56",
-    "spotify_url": "https://open.spotify.com/track/2rtGaCAeYtmcIvuZsvgTf6",
-    "spotify_id": "2rtGaCAeYtmcIvuZsvgTf6",
+    "duration": "4:11",
+    "spotify_url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
+    "spotify_id": "2kRFrWaLWiKq48YYVdGcm8",
     "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2rtGaCAeYtmcIvuZsvgTf6\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2kRFrWaLWiKq48YYVdGcm8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Modernitenin neon ışıklarıyla aydınlanan bu tekinsiz köşebaşı, ekonomik daralmanın ve siber belirsizliklerin gölgelediği günümüzün kolektif endişesini Edward Hopper’ın fırçasından süzülen o meşhur yalnızlıkla mühürlüyor. Dışarıdaki dünyanın diplomatik çalkantıları ve suç örgütlerinin yarattığı tekinsiz sessizlik, Radiohead’in How to Disappear Completely parçasıyla birleşerek bizi o cam fanusun ardındaki derin izolasyona hapsediyor. Vitrinin ışığı, yapay zekanın soğuk parıltısı ile güvensiz bir sokak arasına sıkışmış ruhlarımızı görünür kılarken, hepimiz aslında kendi içsel sürgünümüzde kaybolmaya çalışıyoruz. Türk dünyasının yeni entegrasyon arayışları ve küresel enflasyonun ağırlığı altında ezilen insanlık, tıpkı Hopper’ın figürleri gibi birbirine yakın ama bir o kadar da dokunulmaz bir mesafede, varoluşun sınırlarını sorguluyor. Bu gece, teknolojinin ve krizlerin gölgesinde, belki de en büyük devrimimiz, gürültüden kaçıp kendi sessizliğimizde tamamen yok olmayı başarabilmektir."
+  "curator_statement": "Günün puslu atmosferi, Borsa İstanbul’un sarsılan zemininden spor sahalarının yankısız mağlubiyetlerine kadar uzanan bir belirsizlik yumağını beraberinde getiriyor. Francisco Goya’nın The Witches Sabbath tablosundaki karanlık ve tekinsiz figürler, bugün ekonomi ve diplomasi koridorlarında fısıltıyla konuşulan o tekinsiz tedirginliği, bir toplumsal ayinin gölgesi gibi üzerimize örtüyor. Radiohead’in Everything In Its Right Place parçası, mekanik ve hipnotik ritmiyle bu kaosu kusursuz bir düzen arayışına dönüştürürken, zihnimizdeki teknolojik dönüşüm sancılarını ve yarının getireceği bilinmezliği derinleştiriyor. Uluslararası diplomasinin ince çizgisi ile piyasaların öngörülemez nabzı arasında sıkışan ruhumuz, her şeyin yerli yerinde olduğu yanılsamasıyla Goya’nın o kadim karanlığına bakıyor. Bu seçki, belirsizliğin estetik bir sığınağa dönüştüğü, dijital ve reel olanın birbirine karıştığı bugünün modern bir yansımasıdır."
 }
