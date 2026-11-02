@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-01",
-  "date_human": "01 November 2026",
-  "generated_at": "2026-11-01T01:47:45.225019+00:00",
+  "date": "2026-11-02",
+  "date_human": "02 November 2026",
+  "generated_at": "2026-11-02T01:30:45.671600+00:00",
   "stats": {
-    "feeds_collected": 285,
-    "news_total": 4953,
-    "news_analyzed": 609,
-    "clusters": 7
+    "feeds_collected": 282,
+    "news_total": 4493,
+    "news_analyzed": 598,
+    "clusters": 8
   },
   "mood": {
-    "description": "Türkiye gündeminde Borsa İstanbul'daki üst düzey gözaltıların yarattığı şok dalgası, spor camiasındaki mağlubiyetlerle birleşerek tedirgin bir atmosfer oluşturuyor. Aynı zamanda uluslararası diplomasi trafiği ve teknoloji dünyasındaki hızlı gelişmeler, ülkenin hem bölgesel hem de dijital dönüşüm sancılarını yansıtıyor.",
+    "description": "Türkiye ve dünya gündeminin yoğun siyasi hareketlilik, ekonomik baskılar ve teknolojik değişimlerle şekillendiği, yer yer gergin yer yer ise kültürel arayışların öne çıktığı dinamik bir gün.",
     "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Borsa İstanbul ve Sermaye Piyasaları operasyonu",
-      "Fenerbahçe'nin ligdeki formsuzluğu ve yönetim krizi",
-      "Uluslararası diplomasi: Erdoğan-Zelenskiy görüşmesi",
-      "Yapay zeka ve teknoloji sektöründeki global dalgalanmalar",
-      "Ekonomi: ÖTV beklentisi ve piyasa belirsizlikleri"
+      "Siyasi istifalar ve yönetim krizleri",
+      "Yapay zeka etiği ve regülasyonları",
+      "Ekonomik enflasyon ve kredi destekleri",
+      "Uluslararası diplomasi ve bölgesel çatışmalar",
+      "Spor dünyasında yönetimsel çalkantılar"
     ]
   },
   "weather": {
@@ -25,373 +25,416 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-01",
-        "code": 80,
-        "temp_max": 21.7,
-        "temp_min": 14.2
-      },
-      {
         "date": "2026-11-02",
         "code": 61,
-        "temp_max": 19.2,
-        "temp_min": 14.1
+        "temp_max": 21.2,
+        "temp_min": 15.1
       },
       {
         "date": "2026-11-03",
         "code": 80,
         "temp_max": 20.4,
-        "temp_min": 15.1
+        "temp_min": 15.3
       },
       {
         "date": "2026-11-04",
         "code": 80,
-        "temp_max": 19.9,
-        "temp_min": 14.1
+        "temp_max": 19.2,
+        "temp_min": 13.8
       },
       {
         "date": "2026-11-05",
         "code": 2,
-        "temp_max": 17.8,
-        "temp_min": 12.0
+        "temp_max": 17.6,
+        "temp_min": 11.0
       },
       {
         "date": "2026-11-06",
-        "code": 2,
-        "temp_max": 15.0,
-        "temp_min": 9.6
+        "code": 0,
+        "temp_max": 16.0,
+        "temp_min": 9.4
       },
       {
         "date": "2026-11-07",
-        "code": 1,
-        "temp_max": 15.5,
-        "temp_min": 8.2
+        "code": 3,
+        "temp_max": 15.3,
+        "temp_min": 8.7
+      },
+      {
+        "date": "2026-11-08",
+        "code": 3,
+        "temp_max": 15.9,
+        "temp_min": 8.5
       }
     ]
   },
   "clusters": [
     {
-      "title": "Borsa İstanbul'da Operasyon ve SPK Ataması",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un fon soruşturması kapsamında gözaltına alınması ve SPK Başkanlığına Muhsin Atcı'nın atanması piyasalarda büyük yankı uyandırdı.",
-      "importance": 10,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltinda",
-          "also_in": [
-            "BBC Türkçe",
-            "Aydınlık",
-            "Diken",
-            "En Son Haber",
-            "Ekonomim",
-            "GZT",
-            "Haber",
-            "İstiklal",
-            "İnternet Haber",
-            "OdaTV",
-            "soL Haber",
-            "Yeni Şafak",
-            "CNBC-e",
-            "Döviz",
-            "Bloomberg HT"
-          ]
-        },
-        {
-          "title": "Son dakika... Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/ekonomi/son-dakika-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi-haberi-845956",
-          "also_in": [
-            "F5 Haber",
-            "Son Mühür",
-            "Sözcü",
-            "Sözcü Ekonomi"
-          ]
-        },
-        {
-          "title": "Fon soruşturması Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun gözaltına alındı",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/fon-sorusturmasi-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-gozaltina-alindi",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Fon soruşturması Borsa İstanbul'a uzandı: Genel müdür Korkmaz Enes Ergun gözaltında",
-          "source": "Independent Türkçe",
-          "link": "https://www.indyturk.com/node/784589/haber/fon-soru%C5%9Fturmas%C4%B1-borsa-i%CC%87stanbula-uzand%C4%B1-genel-m%C3%BCd%C3%BCr-korkmaz-enes-ergun-g%C3%B6zalt%C4%B1nda",
-          "also_in": [
-            "Karar"
-          ]
-        },
-        {
-          "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada Korkmaz Enes Ergun gözaltına alındı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-korkmaz-enes-ergun-gozaltina-alindi/4107574",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Fenerbahçe'de Yönetim Krizi ve Göztepe Mağlubiyeti",
-      "meta_category": "Spor",
-      "summary": "Fenerbahçe'nin sahasında Göztepe'ye mağlup olması sonrası taraftarların 'yönetim istifa' tezahüratları ve takım içindeki teknik/idari huzursuzluklar spor gündeminin merkezine oturdu.",
+      "title": "Siyasette İstifa ve Kriz Dalgası",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Galatasaray yönetimindeki istifalar ve CHP içindeki tartışmalı süreçler, siyasette ve spor yönetimlerinde hareketli bir gün yaşanmasına neden oldu.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Kadıköy'de 'yönetim istifa' sesleri!",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/31/kadikoyde-yonetim-istifa-sesleri",
+          "title": "Galatasaray ikinci başkanı Metin Öztürk istifa etti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/galatasaray-ikinci-baskani-metin-ozturk-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=galatasaray-ikinci-baskani-metin-ozturk-istifa-etti",
           "also_in": [
-            "Sözcü Spor"
+            "Dijital Gaste",
+            "BHA",
+            "Kısa Dalga"
           ]
         },
         {
-          "title": "Kadıköy'de isyan var! Fenerbahçe tribünlerinde \"Yönetim istifa\" tezahüratları",
-          "source": "NTV Spor Futbol",
-          "link": "https://www.ntvspor.net/futbol/galeri-kadikoyde-isyan-var-fenerbahce-tribunlerinde-yonetim-istifa-tezahuratlari-432219",
+          "title": "Galatasaray'da Abdullah Kavukcu istifa ettiğini açıkladı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/galatasarayda-abdullah-kavukcu-istifa-ettigini-acikladi-597082",
           "also_in": [
-            "NTV Spor Anasayfa"
+            "Hürriyet"
           ]
         },
         {
-          "title": "Fenerbahçe Kadıköy'de Göztepe'ye kayıp!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/10/31/fenerbahce-kadikoyde-goztepeye-kayip",
-          "also_in": []
-        },
-        {
-          "title": "Fenerbahçe, öne geçtiği müsabakada Göztepe'ye mağlup",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/fenerbahce-one-gectigi-musabakada-goztepeye-maglup/4107590",
-          "also_in": [
-            "Diriliş Postası"
-          ]
-        },
-        {
-          "title": "Fenerbahçe 1-2 Göztepe | Kadıköy’de büyük şok!",
-          "source": "BHA",
-          "link": "https://www.bha.net.tr/spor/fenerbahce-1-2-goztepe-kadikoyde-buyuk-sok/468351",
-          "also_in": [
-            "Bir Gazete"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Erdoğan-Zelenskiy Görüşmesi ve Diplomasi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan'ın İstanbul'da Ukrayna Devlet Başkanı Zelenskiy ile bir araya gelmesi, barış arayışları ve bölgesel istikrar konularını gündeme taşıdı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Ukrayna Devlet Başkanı Zelenski İstanbul'a geldi",
-          "source": "Dokuz8 Haber",
-          "link": "https://dokuz8haber.net/ukrayna-devlet-baskani-zelenski-istanbula-geldi",
-          "also_in": [
-            "Sözcü Gündem",
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Zelenskiy ile Dolmabahçe’de bir araya geldi",
-          "source": "Haberet",
-          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-zelenskiy-ile-dolmabahcede-bir-araya-geldi-110607",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "Erdoğan Zelenskiy ile bir araya geldi",
-          "source": "Sözcü Gündem",
-          "link": "https://www.sozcu.com.tr/erdogan-zelenskiy-ile-bir-araya-geldi-p374645",
-          "also_in": [
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "Zelenskiy ile görüşen Başkan Erdoğan'dan net mesaj: Barış için her türlü gayrete hazırız",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/baskan-erdogan-adil-bir-barisin-kaybedeni-olmaz",
-          "also_in": []
-        },
-        {
-          "title": "Ukrayna Devlet Başkanı Zelenskiy Fener Rum Patrikhanesi'ni ziyaret etti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-fener-rum-patrikhanesini-ziyaret-etti/4107602",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Binance Siber Saldırısı",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Binance borsasına yönelik düzenlenen büyük siber saldırı sonucu milyarlarca dolarlık kayıp yaşanması ve şirketin bu kayıpları karşılama süreci kripto piyasasını sarstı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Binance’ten 6,3 Milyar Dolar Çalındı: Kuzey Kore İzi Öne Çıkıyor",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/binanceten-63-milyar-dolar-calindi-kuzey-kore-izi-one-cikiyor/",
-          "also_in": []
-        },
-        {
-          "title": "Kripto Devi Binance&apos;te Para Çekme İçin Tarih Verildi",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/kripto-devi-binance-te-para-cekme-icin-tarih-verildi-1392442",
-          "also_in": []
-        },
-        {
-          "title": "Binance'ten milyarlarca dolarlık hamle: 10 kripto varlıkta kayıplar karşılandı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/kripto/binanceten-milyarlarca-dolarlik-hamle-10-kripto-varlikta-kayiplar-karsilandi-h40713",
-          "also_in": []
-        },
-        {
-          "title": "Binance'ten çalınan 6 milyar dolar nereye gitti? 5 soruda soygunun perde arkası",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/kripto/binanceten-calinan-6-milyar-dolar-nereye-gitti-5-soruda-soygunun-perde-arkasi-g40709",
-          "also_in": []
-        },
-        {
-          "title": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladı",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/binance-siber-saldirida-calinan-varliklarin-yuzde-90-ini-karsiladi-3792992",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka ve Teknoloji Devlerinde Çalkantı",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Teknoloji borsalarında yapay zeka harcamalarının kâr marjlarını düşürmesi sonucu büyük teknoloji şirketlerinin hisselerinde yaşanan sert hareketler ve sektörel krizler dikkat çekiyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Teknoloji borsalarında yapay zeka depremi: Apple zirveye yerleşti, Intel çakıldı",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/teknoloji-borsalarinda-yapay-zeka-depremi-apple-zirveye-yerlesti-intel-cakildi/104053",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Google'ın yapay zeka hamlesi beklenen getiriyi sağlamıyor: Hisseler çakıldı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/google-in-yapay-zeka-hayali-pahaliya-patliyor-hisseler-cakildi--212292",
-          "also_in": []
-        },
-        {
-          "title": "Yapay Zekâ Harcamaları, Büyük Teknolojinin Yatırımcıya Nakit İadesini 15 Yılın Dibine İndirdi",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/yapay-zeka-harcamalari-buyuk-teknolojinin-yatirimciya-nakit-iadesini-15-yilin-dibine-indirdi/",
-          "also_in": []
-        },
-        {
-          "title": "OpenAI, Finansman Turu Hedefini 20 Milyar Dolara Düşürdü: Değerleme 1,25 Trilyon",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/openai-finansman-turu-hedefini-20-milyar-dolara-dusurdu-degerleme-125-trilyon/",
-          "also_in": []
-        },
-        {
-          "title": "Apple, Yapay Zekâ Satış Dalgasında Nvidia’yı Geçip Dünyanın En Değerli Şirketi Oldu",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/apple-yapay-zeka-satis-dalgasinda-nvidiayi-gecip-dunyanin-en-degerli-sirketi-oldu/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Bakırköy Belediyesi'ne Soruşturma",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Bakırköy Belediyesi'ne yönelik yürütülen soruşturma kapsamında, aralarında belediye görevlilerinin de bulunduğu 39 kişi tutuklandı.",
-      "importance": 7,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Bakırköy Belediyesi soruşturması: 39 kişi tutuklandı",
-          "source": "10Haber",
-          "link": "https://10haber.net/siyaset/bakirkoy-belediyesi-sorusturmasi-39-kisi-tutuklandi-750701/",
-          "also_in": [
-            "Artı Gerçek",
-            "Sputnik"
-          ]
-        },
-        {
-          "title": "Bakırköy Belediyesi soruşturmasında 20'si belediye görevlisi 39 kişi hakkında tutuklama kararı verildi",
-          "source": "Kısa Dalga",
-          "link": "https://kisadalga.net/haber/gundem/bakirkoy-belediyesi-sorusturmasinda-40-kisi-tutuklama-talebiyle-hakimlige-sevk-edildi-141299",
+          "title": "Galatasaray'da Metin Öztürk istifa etti!",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-metin-ozturk-yonetim-kurulu-gorevinden-istifa-etti-3924103",
           "also_in": [
             "Dokuz8 Haber"
           ]
         },
         {
-          "title": "İmamoğlu’ndan Bakırköy’deki tutuklamalara tepki: ‘Millete kötülük yapıyorsunuz’",
-          "source": "10Haber",
-          "link": "https://10haber.net/siyaset/imamoglundan-bakirkoydeki-tutuklamalara-tepki-millete-kotuluk-yapiyorsunuz-750715/",
+          "title": "CHP’de ‘Özel’ temizlik! İnternet sitesinden silindi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/01/chpde-ozel-temizlik-internet-sitesinden-silindi",
+          "also_in": []
+        },
+        {
+          "title": "Emir Sarıgül’den Özgür Özel hakkında para iddiası: “Yüz binlerce dolar elden verildi”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/emir-sarigulden-ozgur-ozel-hakkinda-para-iddiasi-yuz-binlerce-dolar-elden-verildi-876012",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Fındık Sektöründe Rekabet Kurumu İncelemesi",
+      "title": "Süper Lig'de Gergin Hafta",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş'ın Kasımpaşa beraberliği, Fenerbahçe'deki teknik direktör arayışları ve Galatasaray'daki yönetimsel krizler spor gündemini sarstı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Beşiktaş deplasmanda takıldı: Kasımpaşa 2-0'dan dönüp puanı kaptı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-kasimpasa-besiktas-canli-anlatim-432275",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'nin olağanüstü toplantısında Sergio Conceiçao dahil 3 hoca adayı ön plana çıktı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahcenin-olaganustu-toplantisinda-sergio-conceicao-dahil-3-hoca-adayi-on-plana-cikti-432290",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Beşiktaş'a Kasımpaşa çelmesi!",
+          "source": "Fotomaç",
+          "link": "https://www.fotomac.com.tr/besiktas/2026/11/01/besiktasa-kasimpasa-celmesi",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş'ın deplasman fobisi Kasımpaşa'da devam etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/besiktasin-deplasman-fobisi-kasimpasada-devam-etti/4108160",
+          "also_in": []
+        },
+        {
+          "title": "Beşiktaş, Kasımpaşa deplasmanında 2 puan bıraktı! Kartal 2 farklı üstünlüğünü koruyamadı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/besiktas-kasimpasa-deplasmaninda-2-puan-birakti-kartal-2-farkli-ustunlugunu-koruyama-876010",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'ın Güney Kore Ziyareti",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın Güney Kore ziyareti ve bu süreçte Cevdet Yılmaz'ın vekaleti, dış politika gündeminin merkezinde yer aldı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Güney Kore'ye gitti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-gitti/4108183",
+          "also_in": [
+            "Diriliş Postası",
+            "Dünya",
+            "Elips Haber",
+            "Bengütürk",
+            "Ekonomim",
+            "Doğru Haber",
+            "Haber 7",
+            "Habertürk",
+            "NTV",
+            "TRT Haber",
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligi-na-cevdet-yilmaz-vekalet-edecek-2552359",
+          "also_in": [
+            "Dünya",
+            "Ekonomim",
+            "Haberler",
+            "Son Mühür",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Erdoğan, Güney Kore'ye gitti",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/erdogan-guney-koreye-gitti",
+          "also_in": [
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "Başkan Erdoğan'dan Güney Kore'ye önemli ziyaret",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/01/baskan-erdogandan-guney-koreye-onemli-ziyaret",
+          "also_in": []
+        },
+        {
+          "title": "Erdoğan Güney Kore’de: Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/erdogan-guney-korede-cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek-876028",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomide Enflasyon ve Yeni Kredi Paketi",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Rekabet Kurumu'nun fındık sektöründeki fiyat baskısı iddiaları üzerine 6 dev firmaya yönelik soruşturma başlatması üretici ve piyasa çevrelerinde geniş yankı buldu.",
+      "summary": "İstanbul'un Ekim enflasyonu açıklanırken, TOBB Nefes Kredisi'nin yeniden başlaması iş dünyası için önemli bir gündem maddesi oldu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "KOBİ'lere 50 milyar liralık yeni \"Nefes Kredisi\" imkanı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/ekonomi/kobilere-50-milyar-liralik-yeni-nefes-kredisi-imkani-287660h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İstanbul'un ekim enflasyonu açıklandı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/istanbul-un-ekim-enflasyonu-aciklandi/946843",
+          "also_in": []
+        },
+        {
+          "title": "İstanbul'da aylık enflasyon Ekim'de hızlandı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/istanbulda-aylik-enflasyon-ekim-de-hizlandi-3793000",
+          "also_in": []
+        },
+        {
+          "title": "TOBB Nefes Kredisi başvuruları 3 Kasım'da başlıyor: Kredi limiti 5 milyon lira",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/tobb-nefes-kredisi-basvurulari-3-kasimda-basliyor-kredi-limiti-5-milyon-lira-h40732",
+          "also_in": []
+        },
+        {
+          "title": "TOBB NEFES KREDİSİ YENİDEN BAŞLIYOR",
+          "source": "İşin Detayı İş Dünyası",
+          "link": "https://www.isindetayi.com/tobb-nefes-kredisi-yeniden-basliyor-1",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Uluslararası Çatışmalar ve Jeopolitik Gerilim",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hürmüz Boğazı'ndaki gerilim, Orta Doğu'daki çatışmalar ve ABD seçimleri öncesi küresel belirsizlikler öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "UKMTO: Hürmüz Boğazı'nda bir gemiye bilinmeyen cisim isabet etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-bir-gemiye-bilinmeyen-cisim-isabet-etti/4108186",
+          "also_in": [
+            "Diriliş Postası",
+            "Bengütürk"
+          ]
+        },
+        {
+          "title": "İran, İngiltere'nin deniz ve hava kuvvetlerini \"terör örgütü\" ilan etti",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/dunya/iran-ingiltere-nin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-3924153",
+          "also_in": [
+            "Radikal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Axios: Netanyahu, Trump'a İran'a saldırı için baskı yaptı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6007595/axios-netanyahu-trumpa-irana-saldiri-icin-baski-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "ABD-İran savaşını sona erdirmek için Doha'da müzakereler üçüncü gününde",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6ae73087422c786f3f7ae70f/PICNEWS/tr/abd-iran-savasini-sona-erdirmek-icin-doha-da-muzakereler-ucuncu-gununde-01-11-26/",
+          "also_in": []
+        },
+        {
+          "title": "İran'dan ABD'ye Hürmüz resti: 7 şart yerine getirilmeden boğaz açılmayacak, müzakereler başlamayacak",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6ae6bfa7422c786f3f7ae670/PICNEWS/tr/iran-dan-abd-ye-hurmuz-resti-7-sart-yerine-getirilmeden-bogaz-acilmayacak-muzakereler-baslamayacak-01-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknolojik Regülasyonlar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka uygulamalarının toplumsal etkileri, etik tartışmaları ve sosyal medya kısıtlamaları teknoloji dünyasını domine etti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Sosyal medyada Vahşi Batı dönemi bitti mi? Türkiye, Çin, Avustralya ve AB çocukları nasıl koruyor?",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/sosyal-medyada-vahsi-bati-donemi-bitti-yeni-donem-daha-mi-iyi--212332",
+          "also_in": []
+        },
+        {
+          "title": "Sosyal medya platformlarının 15 yaşını doldurmamış çocuklara hizmet sunmasını yasaklayan yönetmelik yürürlüğe girdi",
+          "source": "LOG",
+          "link": "https://www.log.com.tr/sosyal-medya-platformlarinin-15-yasini-doldurmamis-cocuklara-hizmet-sunmasini-yasaklayan-yonetmelik-yururluge-girdi/",
+          "also_in": []
+        },
+        {
+          "title": "Papa 14. Leo, Yapay Zekaya Tüzel Kişilik Verilmesine Karşı Çıktı",
+          "source": "ÇözümPark",
+          "link": "https://www.cozumpark.com/papa-14-leo-yapay-zekaya-tuzel-kisilik-verilmesine-karsi-cikti/",
+          "also_in": []
+        },
+        {
+          "title": "Anthropic’ten yapay zekâya oyun kısıtlaması: Claude artık mevcut oyunları yeniden oluşturamayacak",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/anthropicten-yapay-zekaya-oyun-kisitlamasi-claude-artik-mevcut-oyunlari-y-876020",
+          "also_in": []
+        },
+        {
+          "title": "15 yaş altına sosyal medya yasağı yürürlüğe girdi: Yaş doğrulamada e-Devlet şartı",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/teknoloji/15-yas-altina-sosyal-medya-yasagi-yururluge-girdi-yas-dogrulamada-e-devlet-sarti-g40745",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Cadılar Bayramı Olayları ve Güvenlik",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "ABD'de Cadılar Bayramı kutlamaları sırasında yaşanan silahlı saldırılar ve dünya genelindeki yansımaları toplum gündeminde yer buldu.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "ABD'de 'cadılar bayramı' kutlamalarında silahlı saldırılar: En az 6 kişi hayatını kaybetti",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/dunya/abd-de-cadilar-bayrami-kutlamalarinda-silahli-saldirilar-en-az-6-kisi-hayatini-kaybetti-2552286",
+          "also_in": [
+            "Evrensel",
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "ABD'de Cadılar Bayramı kutlamaları kana bulandı: Çok sayıda ölü ve yaralı var",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/dunya/abdde-cadilar-bayrami-kutlamalari-kana-bulandi-cok-sayida-olu-ve-yarali-var-43362716",
+          "also_in": [
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "ABD'de Cadılar Bayramı kutlamaları sırasında düzenlenen silahlı saldırılarda en az 6 kişi yaşamını yitirdi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
+          "also_in": []
+        },
+        {
+          "title": "ABD'de Cadılar Bayramı kan gölüne döndü! 6 kişi hayatını kaybetti",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/abdde-cadilar-bayrami-kan-golune-dondu-6-kisi-hayatini-kaybetti-876002",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Altın Portakal'da Ödül Gecesi",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "63. Antalya Altın Portakal Film Festivali'nde ödüller sahiplerini buldu, 'Taş ve Tüy' filmi geceye damgasını vurdu.",
       "importance": 6,
       "story_count": 3,
       "stories": [
         {
-          "title": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor!",
-          "source": "Haber 7",
-          "link": "https://ekonomi.haber7.com/ekonomi/haber/3673126-rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor",
-          "also_in": [
-            "Habertürk"
-          ]
-        },
-        {
-          "title": "Fındıkta fiyat oyununa büyük darbe! Rekabet Kurumu'ndan 6 dev firmaya soruşturma: \"Çiftçimizi asla ezdirmeyeceğiz\"",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/10/31/rekabet-kurumundan-6-dev-firmaya-sorusturma",
+          "title": "63. Antalya Altın Portakal Film Festivali Ödülleri Sahiplerini Buldu: En İyi Film \"Taş ve Tüy\"!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000230134/",
           "also_in": []
         },
         {
-          "title": "Fındıkta fiyat baskısı mercek altında",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/findikta-fiyat-baskisi-mercek-altinda-3792989",
+          "title": "ANTALYA ALTIN PORTAKAL FİLM FESTİVALİ ÖDÜLLERİ SAHİPLERİNİ BULDU…",
+          "source": "Marjinal Sinema",
+          "link": "https://marjinalsinema.com/2026/11/01/antalya-altin-portakal-film-festivali-odulleri-sahiplerini-buldu/",
+          "also_in": []
+        },
+        {
+          "title": "Altın Portakal’da Taş ve Tüy rüzgârı: 6 ödülle gecenin galibi oldu",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/altin-portakalda-tas-ve-tuy-ruzgari-6-odulle-gecenin-galibi-oldu/23815",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "Witches' Sabbath (Goya, 1798)",
-    "artist": "Francisco Goya",
-    "year": "1798",
+    "title": "The False Mirror",
+    "artist": "René Magritte",
+    "year": "1928",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Museo Lázaro Galdiano",
-    "description": "Borsa İstanbul'daki ani çöküş ve gözaltıların yarattığı karanlık, belirsiz atmosferi Goya'nın bu tekinsiz ve huzursuz kompozisyonu ile eşleştiriyoruz. İktidarın ve düzenin sarsıldığı anlarda ortaya çıkan kaotik ruh halini yansıtıyor.",
+    "location": "Museum of Modern Art",
+    "description": "Yapay zeka etiği ve dijital gözetim çağında, gerçeklik ile algı arasındaki bulanık sınırı işaret ederek, teknolojinin bakış açımızı nasıl manipüle ettiğini sorgulatıyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Witches'_Sabbath_(Goya%2C_1798)",
-    "wikipedia_extract": "Witches' Sabbath is a 1798 oil painting on canvas by the Spanish artist Francisco Goya. Today it is held in the Museo Lázaro Galdiano, Madrid. It depicts a Witches' Sabbath.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Francisco_de_Goya_y_Lucientes_-_Witches_Sabbath_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_False_Mirror",
+    "wikipedia_extract": "The False Mirror is a surrealist oil on canvas painting by René Magritte, from 1929. It depicts a human eye framing a cloudy, blue sky. In the depiction of the eye in the painting, the clouds take the place normally occupied by the iris. The painting's original French title is Le faux miroir.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/The_False_Mirror.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
   },
   "music": {
-    "title": "Everything In Its Right Place",
-    "artists": "Radiohead",
-    "album": "Kid A",
-    "duration": "4:11",
-    "spotify_url": "https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8",
-    "spotify_id": "2kRFrWaLWiKq48YYVdGcm8",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2kRFrWaLWiKq48YYVdGcm8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Twisted Transistor",
+    "artists": "Korn",
+    "album": "See You On the Other Side",
+    "duration": "3:08",
+    "spotify_url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ",
+    "spotify_id": "05NpeTQWnzXS1d8ZqL4YFZ",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/05NpeTQWnzXS1d8ZqL4YFZ\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Günün puslu atmosferi, Borsa İstanbul’un sarsılan zemininden spor sahalarının yankısız mağlubiyetlerine kadar uzanan bir belirsizlik yumağını beraberinde getiriyor. Francisco Goya’nın The Witches Sabbath tablosundaki karanlık ve tekinsiz figürler, bugün ekonomi ve diplomasi koridorlarında fısıltıyla konuşulan o tekinsiz tedirginliği, bir toplumsal ayinin gölgesi gibi üzerimize örtüyor. Radiohead’in Everything In Its Right Place parçası, mekanik ve hipnotik ritmiyle bu kaosu kusursuz bir düzen arayışına dönüştürürken, zihnimizdeki teknolojik dönüşüm sancılarını ve yarının getireceği bilinmezliği derinleştiriyor. Uluslararası diplomasinin ince çizgisi ile piyasaların öngörülemez nabzı arasında sıkışan ruhumuz, her şeyin yerli yerinde olduğu yanılsamasıyla Goya’nın o kadim karanlığına bakıyor. Bu seçki, belirsizliğin estetik bir sığınağa dönüştüğü, dijital ve reel olanın birbirine karıştığı bugünün modern bir yansımasıdır."
+  "curator_statement": "Bugünün dünyası, yönetim krizlerinin gölgesinde ve ekonomik belirsizliklerin yarattığı o tekinsiz boşlukta, tıpkı René Magritte’in The False Mirror eserindeki gibi kendi gerçekliğine yabancılaşmış devasa bir göze dönüşüyor. Gökyüzünü içine hapseden ama aslında dış dünyaya dair hiçbir yansıma barındırmayan o irissiz bakış, teknolojik etiğin ve siyasi çalkantıların ağırlığı altında ezilen insanlığın körleşen perspektifini simgeliyor. Korn’un Twisted Transistor parçasındaki kaotik ve hipnotik ritimler, bu görsel sessizliğin üzerine inşa edilen dijital gürültüyü temsil ederek belirsizliğin melodisini kusursuzca tamamlıyor. Bir yanda sınırları zorlanan diplomasinin soğukluğu, diğer yanda ise ekranlar aracılığıyla zihnimize dayatılan yapay gerçeklikler, hepimizi bu devasa gözün içindeki geçici bulutlara mahkûm ediyor. Gördüğümüzü sandığımız dünya belki de sadece yansımasız bir aynadan ibaret; bu karmaşanın içinde tek gerçek ise, anlam arayışımızın bizden kaçan o puslu gökyüzüne olan bitmek bilmeyen özlemidir."
 }
