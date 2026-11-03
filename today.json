@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-02",
-  "date_human": "02 November 2026",
-  "generated_at": "2026-11-02T01:30:45.671600+00:00",
+  "date": "2026-11-03",
+  "date_human": "03 November 2026",
+  "generated_at": "2026-11-03T01:31:37.061229+00:00",
   "stats": {
-    "feeds_collected": 282,
-    "news_total": 4493,
-    "news_analyzed": 598,
+    "feeds_collected": 286,
+    "news_total": 5521,
+    "news_analyzed": 617,
     "clusters": 8
   },
   "mood": {
-    "description": "Türkiye ve dünya gündeminin yoğun siyasi hareketlilik, ekonomik baskılar ve teknolojik değişimlerle şekillendiği, yer yer gergin yer yer ise kültürel arayışların öne çıktığı dinamik bir gün.",
-    "dominant_emotion": "Belirsizlik",
+    "description": "Türkiye, sanayi dünyasının önemli bir isminin kaybıyla yasa bürünürken, eş zamanlı olarak İstanbul'daki olumsuz hava koşulları ve fon soruşturması gibi kritik gündem maddeleriyle yoğun ve gergin bir atmosfer yaşıyor.",
+    "dominant_emotion": "Hüzün",
     "key_themes": [
-      "Siyasi istifalar ve yönetim krizleri",
-      "Yapay zeka etiği ve regülasyonları",
-      "Ekonomik enflasyon ve kredi destekleri",
-      "Uluslararası diplomasi ve bölgesel çatışmalar",
-      "Spor dünyasında yönetimsel çalkantılar"
+      "Sanayi dünyasında kayıp",
+      "İstanbul'da sağanak ve afet riskleri",
+      "Ekonomik fon soruşturmaları",
+      "Jeopolitik gerilimler ve bölgesel krizler"
     ]
   },
   "weather": {
@@ -25,416 +24,511 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-02",
-        "code": 61,
-        "temp_max": 21.2,
-        "temp_min": 15.1
-      },
-      {
         "date": "2026-11-03",
-        "code": 80,
-        "temp_max": 20.4,
-        "temp_min": 15.3
+        "code": 3,
+        "temp_max": 19.7,
+        "temp_min": 13.4
       },
       {
         "date": "2026-11-04",
         "code": 80,
-        "temp_max": 19.2,
-        "temp_min": 13.8
+        "temp_max": 20.0,
+        "temp_min": 13.5
       },
       {
         "date": "2026-11-05",
         "code": 2,
-        "temp_max": 17.6,
-        "temp_min": 11.0
+        "temp_max": 18.0,
+        "temp_min": 11.3
       },
       {
         "date": "2026-11-06",
-        "code": 0,
-        "temp_max": 16.0,
-        "temp_min": 9.4
+        "code": 1,
+        "temp_max": 15.8,
+        "temp_min": 8.5
       },
       {
         "date": "2026-11-07",
         "code": 3,
-        "temp_max": 15.3,
-        "temp_min": 8.7
+        "temp_max": 16.9,
+        "temp_min": 7.1
       },
       {
         "date": "2026-11-08",
+        "code": 0,
+        "temp_max": 16.4,
+        "temp_min": 8.8
+      },
+      {
+        "date": "2026-11-09",
         "code": 3,
-        "temp_max": 15.9,
-        "temp_min": 8.5
+        "temp_max": 17.7,
+        "temp_min": 7.9
       }
     ]
   },
   "clusters": [
     {
-      "title": "Siyasette İstifa ve Kriz Dalgası",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Galatasaray yönetimindeki istifalar ve CHP içindeki tartışmalı süreçler, siyasette ve spor yönetimlerinde hareketli bir gün yaşanmasına neden oldu.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Galatasaray ikinci başkanı Metin Öztürk istifa etti",
-          "source": "Diken",
-          "link": "https://www.diken.com.tr/galatasaray-ikinci-baskani-metin-ozturk-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=galatasaray-ikinci-baskani-metin-ozturk-istifa-etti",
-          "also_in": [
-            "Dijital Gaste",
-            "BHA",
-            "Kısa Dalga"
-          ]
-        },
-        {
-          "title": "Galatasaray'da Abdullah Kavukcu istifa ettiğini açıkladı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/galatasarayda-abdullah-kavukcu-istifa-ettigini-acikladi-597082",
-          "also_in": [
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "Galatasaray'da Metin Öztürk istifa etti!",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/spor/son-dakika-galatasaray-da-metin-ozturk-yonetim-kurulu-gorevinden-istifa-etti-3924103",
-          "also_in": [
-            "Dokuz8 Haber"
-          ]
-        },
-        {
-          "title": "CHP’de ‘Özel’ temizlik! İnternet sitesinden silindi",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/01/chpde-ozel-temizlik-internet-sitesinden-silindi",
-          "also_in": []
-        },
-        {
-          "title": "Emir Sarıgül’den Özgür Özel hakkında para iddiası: “Yüz binlerce dolar elden verildi”",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/emir-sarigulden-ozgur-ozel-hakkinda-para-iddiasi-yuz-binlerce-dolar-elden-verildi-876012",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Süper Lig'de Gergin Hafta",
-      "meta_category": "Spor",
-      "summary": "Beşiktaş'ın Kasımpaşa beraberliği, Fenerbahçe'deki teknik direktör arayışları ve Galatasaray'daki yönetimsel krizler spor gündemini sarstı.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Beşiktaş deplasmanda takıldı: Kasımpaşa 2-0'dan dönüp puanı kaptı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-kasimpasa-besiktas-canli-anlatim-432275",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Fenerbahçe'nin olağanüstü toplantısında Sergio Conceiçao dahil 3 hoca adayı ön plana çıktı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahcenin-olaganustu-toplantisinda-sergio-conceicao-dahil-3-hoca-adayi-on-plana-cikti-432290",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Beşiktaş'a Kasımpaşa çelmesi!",
-          "source": "Fotomaç",
-          "link": "https://www.fotomac.com.tr/besiktas/2026/11/01/besiktasa-kasimpasa-celmesi",
-          "also_in": []
-        },
-        {
-          "title": "Beşiktaş'ın deplasman fobisi Kasımpaşa'da devam etti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/spor/besiktasin-deplasman-fobisi-kasimpasada-devam-etti/4108160",
-          "also_in": []
-        },
-        {
-          "title": "Beşiktaş, Kasımpaşa deplasmanında 2 puan bıraktı! Kartal 2 farklı üstünlüğünü koruyamadı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/besiktas-kasimpasa-deplasmaninda-2-puan-birakti-kartal-2-farkli-ustunlugunu-koruyama-876010",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Cumhurbaşkanı Erdoğan'ın Güney Kore Ziyareti",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Cumhurbaşkanı Erdoğan'ın Güney Kore ziyareti ve bu süreçte Cevdet Yılmaz'ın vekaleti, dış politika gündeminin merkezinde yer aldı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Cumhurbaşkanı Erdoğan, Güney Kore'ye gitti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreye-gitti/4108183",
-          "also_in": [
-            "Diriliş Postası",
-            "Dünya",
-            "Elips Haber",
-            "Bengütürk",
-            "Ekonomim",
-            "Doğru Haber",
-            "Haber 7",
-            "Habertürk",
-            "NTV",
-            "TRT Haber",
-            "Yeni Akit"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligi-na-cevdet-yilmaz-vekalet-edecek-2552359",
-          "also_in": [
-            "Dünya",
-            "Ekonomim",
-            "Haberler",
-            "Son Mühür",
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Erdoğan, Güney Kore'ye gitti",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/erdogan-guney-koreye-gitti",
-          "also_in": [
-            "OdaTV"
-          ]
-        },
-        {
-          "title": "Başkan Erdoğan'dan Güney Kore'ye önemli ziyaret",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/01/baskan-erdogandan-guney-koreye-onemli-ziyaret",
-          "also_in": []
-        },
-        {
-          "title": "Erdoğan Güney Kore’de: Cumhurbaşkanlığı'na Cevdet Yılmaz vekalet edecek",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/erdogan-guney-korede-cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek-876028",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomide Enflasyon ve Yeni Kredi Paketi",
+      "title": "Ahmet Nazif Zorlu'nun Vefatı",
       "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "İstanbul'un Ekim enflasyonu açıklanırken, TOBB Nefes Kredisi'nin yeniden başlaması iş dünyası için önemli bir gündem maddesi oldu.",
-      "importance": 8,
+      "summary": "Zorlu Holding Yönetim Kurulu Başkanı iş insanı Ahmet Nazif Zorlu'nun hayatını kaybetmesi, iş dünyasında büyük bir üzüntüyle karşılandı.",
+      "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "KOBİ'lere 50 milyar liralık yeni \"Nefes Kredisi\" imkanı",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/ekonomi/kobilere-50-milyar-liralik-yeni-nefes-kredisi-imkani-287660h",
+          "title": "Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu Hayatını Kaybetti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/zorlu-holding-yonetim-kurulu-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-1393062",
           "also_in": [
+            "Cumhuriyet",
+            "En Son Haber",
+            "Elips Haber",
+            "F5 Haber",
+            "Evrensel",
+            "GZT",
+            "Hukuki Haber",
+            "Independent Türkçe",
+            "Haberiniz",
+            "Sözcü",
+            "Sözcü Gündem",
+            "TürkInform",
+            "Savunma Sanayi Gazetesi",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Ahmet Nazif Zorlu Kimdir? Ahmet Nazif Zorlu Öldü mü?",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/ahmet-nazif-zorlu-kimdir-ahmet-nazif-zorlu-oldu-mu-1393061",
+          "also_in": [
+            "Cumhuriyet"
+          ]
+        },
+        {
+          "title": "Ahmet Nazif Zorlu hayatını kaybetti",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/ahmet-nazif-zorlu-hayatini-kaybetti/haber-1711274",
+          "also_in": [
+            "CGTN Türk",
+            "Diken",
+            "Dünya",
+            "Ekonomim",
+            "Habertürk",
+            "İstiklal",
+            "OdaTV",
             "TRT Haber"
           ]
         },
         {
-          "title": "İstanbul'un ekim enflasyonu açıklandı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/istanbul-un-ekim-enflasyonu-aciklandi/946843",
-          "also_in": []
+          "title": "İş insanı Ahmet Nazif Zorlu hayatını kaybetti",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/istanbul/is-insani-ahmet-nazif-zorlu-hayatini-kaybetti-3488067",
+          "also_in": [
+            "Aydınlık",
+            "Haber 7",
+            "Haber Global",
+            "İnternet Haber",
+            "Haberler",
+            "Sputnik",
+            "Yeni Akit"
+          ]
         },
         {
-          "title": "İstanbul'da aylık enflasyon Ekim'de hızlandı",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/istanbulda-aylik-enflasyon-ekim-de-hizlandi-3793000",
-          "also_in": []
-        },
-        {
-          "title": "TOBB Nefes Kredisi başvuruları 3 Kasım'da başlıyor: Kredi limiti 5 milyon lira",
+          "title": "İş dünyasının acı kaybı! Zorlu Holding Başkanı Ahmet Nazif Zorlu hayatını kaybetti",
           "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/tobb-nefes-kredisi-basvurulari-3-kasimda-basliyor-kredi-limiti-5-milyon-lira-h40732",
-          "also_in": []
-        },
-        {
-          "title": "TOBB NEFES KREDİSİ YENİDEN BAŞLIYOR",
-          "source": "İşin Detayı İş Dünyası",
-          "link": "https://www.isindetayi.com/tobb-nefes-kredisi-yeniden-basliyor-1",
+          "link": "https://www.cnbce.com/is-dunyasi/is-dunyasinin-aci-kaybi-zorlu-holding-baskani-ahmet-nazif-zorlu-hayatini-kaybetti-h40856",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Uluslararası Çatışmalar ve Jeopolitik Gerilim",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Hürmüz Boğazı'ndaki gerilim, Orta Doğu'daki çatışmalar ve ABD seçimleri öncesi küresel belirsizlikler öne çıktı.",
-      "importance": 8,
+      "title": "İstanbul'da Sağanak ve Afet Uyarıları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul'da etkili olan şiddetli sağanak yağışlar, yol çökmeleri ve sel riskine karşı Valilik tarafından uyarılar yapıldı.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "UKMTO: Hürmüz Boğazı'nda bir gemiye bilinmeyen cisim isabet etti",
+          "title": "İstanbul için kuvvetli sağanak uyarısı",
           "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/ukmto-hurmuz-bogazinda-bir-gemiye-bilinmeyen-cisim-isabet-etti/4108186",
+          "link": "https://www.aa.com.tr/tr/gundem/istanbul-icin-kuvvetli-saganak-uyarisi/4109144",
           "also_in": [
             "Diriliş Postası",
             "Bengütürk"
           ]
         },
         {
-          "title": "İran, İngiltere'nin deniz ve hava kuvvetlerini \"terör örgütü\" ilan etti",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/dunya/iran-ingiltere-nin-deniz-ve-hava-kuvvetlerini-teror-orgutu-ilan-etti-3924153",
+          "title": "Bursa’da sağanak yağış; cadde ve sokaklar suyla doldu",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/bursa/mudanya/bursada-saganak-yagis-cadde-ve-sokaklar-suyla-doldu-3488071",
           "also_in": [
-            "Radikal",
+            "CNN Türk",
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "İstanbul Valiliği'nden gök gürültülü sağanak uyarısı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/istanbul/istanbul-valiliginden-gok-gurultulu-saganak-uyarisi-3488063",
+          "also_in": [
+            "Bengütürk"
+          ]
+        },
+        {
+          "title": "İstanbul'u sağanak yağış vurdu: Valilikten 'sel' uyarısı",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/istanbulda-saganak-etkili-oluyor-2",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "İstanbul Valiliği'nden son dakika sağanak uyarısı! Metrekareye 50 kilogram yağış",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/istanbul-valiliginden-son-dakika-saganak-uyarisi-metrekareye-50-kilogram-yagis-h40855",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Borsa İstanbul ve Fon Soruşturmaları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun hakkında tutuklama talebi içeren fon soruşturmasında yeni tutuklamalar ve gelişmeler yaşanıyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun hakkında tutuklama talebi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/haberler/borsa-istanbul-genel-muduru-korkmaz-enes-ergun-20389277-haberi/",
+          "also_in": [
+            "TürkInform",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Eski Borsa İstanbul Genel Müdürü Ergun’a tutuklama talebi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/fon-sorusturmasi-borsa-istanbul-genel-muduru-korkmaz-enes-erguna-tutuklama-talebi-haberi-928687",
+          "also_in": [
             "TRT Haber"
           ]
         },
         {
-          "title": "Axios: Netanyahu, Trump'a İran'a saldırı için baskı yaptı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6007595/axios-netanyahu-trumpa-irana-saldiri-icin-baski-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "Fon soruşturması | Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun’a tutuklama talebi",
+          "source": "İlke TV",
+          "link": "https://ilketv.com.tr/fon-sorusturmasi-borsa-istanbul-genel-muduru-korkmaz-enes-erguna-tutuklama-talebi/",
           "also_in": [
-            "İlke TV"
+            "Yeni Şafak"
           ]
         },
         {
-          "title": "ABD-İran savaşını sona erdirmek için Doha'da müzakereler üçüncü gününde",
-          "source": "Foreks",
-          "link": "https://www.foreks.com/haber/detay/6ae73087422c786f3f7ae70f/PICNEWS/tr/abd-iran-savasini-sona-erdirmek-icin-doha-da-muzakereler-ucuncu-gununde-01-11-26/",
-          "also_in": []
+          "title": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'a tutuklama istemi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/korkmaz-enes-ergun-hakkinda-karar-p375306",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
         },
         {
-          "title": "İran'dan ABD'ye Hürmüz resti: 7 şart yerine getirilmeden boğaz açılmayacak, müzakereler başlamayacak",
-          "source": "Foreks",
-          "link": "https://www.foreks.com/haber/detay/6ae6bfa7422c786f3f7ae670/PICNEWS/tr/iran-dan-abd-ye-hurmuz-resti-7-sart-yerine-getirilmeden-bogaz-acilmayacak-muzakereler-baslamayacak-01-11-26/",
+          "title": "Fon soruşturmasında Korkmaz Enes Ergun adliyeye sevk edildi",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/fon-sorusturmasinda-korkmaz-enes-ergun-adliyeye-sevk-edildi/947049",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Yapay Zeka ve Teknolojik Regülasyonlar",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka uygulamalarının toplumsal etkileri, etik tartışmaları ve sosyal medya kısıtlamaları teknoloji dünyasını domine etti.",
+      "title": "Muğla ve Osmaniye'de Depremler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Muğla Datça açıklarında 5.1, Osmaniye'de ise 4.2 büyüklüğünde depremler meydana geldi, panik yaşandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Osmaniye'de 4,2 büyüklüğünde deprem",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/osmaniyede-4-2-buyuklugunde-deprem/4109093",
+          "also_in": [
+            "CGTN Türk",
+            "Artı Gerçek",
+            "Diriliş Postası",
+            "dikGAZETE",
+            "En Son Haber",
+            "F5 Haber",
+            "Gerçek Gündem",
+            "Hürriyet",
+            "Haber Global",
+            "İnternet Haber",
+            "NTV",
+            "Mynet",
+            "Sputnik",
+            "TRT Haber",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "AFAD duyurdu! Osmaniye'de 4.2 büyüklüğünde deprem",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/afad-duyurdu-osmaniyede-42-buyuklugunde-deprem-597249",
+          "also_in": [
+            "Evrensel",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Akdeniz'de 5,1 büyüklüğünde deprem",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/akdenizde-5-1-buyuklugunde-deprem/4109049",
+          "also_in": [
+            "Diriliş Postası",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Muğla açıklarında 5,1 büyüklüğünde deprem",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/mugla-aciklarinda-51-buyuklugunde-deprem/?utm_source=rss&utm_medium=rss&utm_campaign=mugla-aciklarinda-51-buyuklugunde-deprem",
+          "also_in": [
+            "Habertürk",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "AFAD duyurdu: Muğla Datça'da 5,1 büyüklüğünde deprem",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/gundem/afad-duyurdu-mugla-datcada-51-buyuklugunde-deprem/278007",
+          "also_in": [
+            "CNBC-e"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İran-ABD ve Bölgesel Gerilimler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hürmüz Boğazı'ndaki patlamalar ve İran ile ABD arasındaki gerilimli diplomatik süreçler dünya gündemini meşgul ediyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İran basını: ABD ile iletişimde yeni gelişme yok",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/dunya/iran-basini-abd-ile-iletisimde-yeni-gelisme-yok-haberi-846183",
+          "also_in": [
+            "Habertürk",
+            "TRT Haber",
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "İran basını: Hürmüz Boğazı'ndaki Keşm Adası'nda patlama sesleri duyuldu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasinda-patlama-sesleri-duyuldu/4109221",
+          "also_in": [
+            "Diriliş Postası",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran: Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carpti-2552611",
+          "also_in": [
+            "Haberet",
+            "Tele1"
+          ]
+        },
+        {
+          "title": "ABD Başkanı Trump'tan İran savaşı açıklaması: Acelem yok",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/abd-baskani-trumptan-iran-savasi-aciklamasi-acelem-yok-3487985",
+          "also_in": [
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "İran-ABD geriliminde sürpriz gelişme! Trump: Anlaşma yapmak istiyorlar",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/iran-abd-geriliminde-surpriz-gelisme-trump-anlasma-yapmak-istiyorlar-h40854",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Devlet Bahçeli'nin Aile Acısı",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "MHP Lideri Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli'nin vefatı üzerine Cumhurbaşkanı Erdoğan taziye mesajı yayımladı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan Devlet Bahçeli'ye taziye mesajı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cumhurbaskani-erdogandan-devlet-bahceliye-taziye-mesaji-h1579180",
+          "also_in": [
+            "Haber Global",
+            "Haberler",
+            "Yeni Şafak",
+            "Savunma Sanayi Gazetesi"
+          ]
+        },
+        {
+          "title": "Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli hayatını kaybetti",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6007722/devlet-bahceli-nin-kiz-kardesi-serpil-bahceli-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Independent Türkçe",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Uyan32"
+          ]
+        },
+        {
+          "title": "MHP Genel Başkanı Devlet Bahçeli'nin acı günü: Kız kardeşi Serpil Bahçeli hayatını kaybetti",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/mhp-genel-baskani-devlet-bahcelinin-aci-gunu-kiz-kardesi-serpil-bahceli-hayatini-kaybetti-4274930",
+          "also_in": [
+            "Sabah"
+          ]
+        },
+        {
+          "title": "Bahçeli'nin kız kardeşi Serpil Bahçeli hayatını kaybetti",
+          "source": "Sputnik",
+          "link": "https://anlatilaninotesi.com.tr/20261102/bahcelinin-kiz-kardesi-serpil-bahceli-hayatini-kaybetti-1110057742.html",
+          "also_in": [
+            "Serbestiyet"
+          ]
+        },
+        {
+          "title": "Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli'den acı haber! Başkan Erdoğan'dan taziye",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/02/devlet-bahcelinin-kiz-kardesi-serpil-bahceliden-aci-haber",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe-Liverpool Maçı Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "Şampiyonlar Ligi maçı öncesi Fenerbahçe'de taktik çalışmalar sürerken, karaborsa bilet operasyonları gündeme geldi.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Sosyal medyada Vahşi Batı dönemi bitti mi? Türkiye, Çin, Avustralya ve AB çocukları nasıl koruyor?",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/sosyal-medyada-vahsi-bati-donemi-bitti-yeni-donem-daha-mi-iyi--212332",
-          "also_in": []
-        },
-        {
-          "title": "Sosyal medya platformlarının 15 yaşını doldurmamış çocuklara hizmet sunmasını yasaklayan yönetmelik yürürlüğe girdi",
-          "source": "LOG",
-          "link": "https://www.log.com.tr/sosyal-medya-platformlarinin-15-yasini-doldurmamis-cocuklara-hizmet-sunmasini-yasaklayan-yonetmelik-yururluge-girdi/",
-          "also_in": []
-        },
-        {
-          "title": "Papa 14. Leo, Yapay Zekaya Tüzel Kişilik Verilmesine Karşı Çıktı",
-          "source": "ÇözümPark",
-          "link": "https://www.cozumpark.com/papa-14-leo-yapay-zekaya-tuzel-kisilik-verilmesine-karsi-cikti/",
-          "also_in": []
-        },
-        {
-          "title": "Anthropic’ten yapay zekâya oyun kısıtlaması: Claude artık mevcut oyunları yeniden oluşturamayacak",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/anthropicten-yapay-zekaya-oyun-kisitlamasi-claude-artik-mevcut-oyunlari-y-876020",
-          "also_in": []
-        },
-        {
-          "title": "15 yaş altına sosyal medya yasağı yürürlüğe girdi: Yaş doğrulamada e-Devlet şartı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/teknoloji/15-yas-altina-sosyal-medya-yasagi-yururluge-girdi-yas-dogrulamada-e-devlet-sarti-g40745",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Cadılar Bayramı Olayları ve Güvenlik",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "ABD'de Cadılar Bayramı kutlamaları sırasında yaşanan silahlı saldırılar ve dünya genelindeki yansımaları toplum gündeminde yer buldu.",
-      "importance": 7,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "ABD'de 'cadılar bayramı' kutlamalarında silahlı saldırılar: En az 6 kişi hayatını kaybetti",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/dunya/abd-de-cadilar-bayrami-kutlamalarinda-silahli-saldirilar-en-az-6-kisi-hayatini-kaybetti-2552286",
+          "title": "Fenerbahçe'de Oppong, Liverpool maçına yetişecek mi? İşte son durum",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahcede-oppong-liverpool-macina-yetisecek-mi-iste-son-durum-432330",
           "also_in": [
-            "Evrensel",
-            "İlke TV"
+            "NTV Spor Futbol"
           ]
         },
         {
-          "title": "ABD'de Cadılar Bayramı kutlamaları kana bulandı: Çok sayıda ölü ve yaralı var",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/dunya/abdde-cadilar-bayrami-kutlamalari-kana-bulandi-cok-sayida-olu-ve-yarali-var-43362716",
+          "title": "Fenerbahçe'de Liverpool maçının taktiği çalışıldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/fenerbahcede-liverpool-macinin-taktigi-calisildi-432329",
           "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe - Liverpool Maç Tahmini │ Şampiyonlar Ligi",
+          "source": "Futboo",
+          "link": "https://www.futboo.com/fenerbahce-liverpool-mac-tahmini/92813/",
+          "also_in": [
+            "Futboo"
+          ]
+        },
+        {
+          "title": "Fenerbahçe-Liverpool maçı öncesi karaborsa bilet operasyonu: 9 gözaltı",
+          "source": "Haber",
+          "link": "https://www.haber.com/spor/fenerbahce-liverpool-maci-oncesi-karaborsa-bilet-operasyonu-9-gozalti-30734",
+          "also_in": [
+            "Türkgün",
             "TürkInform"
           ]
         },
         {
-          "title": "ABD'de Cadılar Bayramı kutlamaları sırasında düzenlenen silahlı saldırılarda en az 6 kişi yaşamını yitirdi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
-          "also_in": []
-        },
-        {
-          "title": "ABD'de Cadılar Bayramı kan gölüne döndü! 6 kişi hayatını kaybetti",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/abdde-cadilar-bayrami-kan-golune-dondu-6-kisi-hayatini-kaybetti-876002",
-          "also_in": []
+          "title": "Fenerbahçe-Liverpool maçına karaborsa bilet satışında 9 gözaltı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/fenerbahceliverpool-macina-karaborsa-bilet-satisinda-9-gozalti-p375384",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
         }
       ]
     },
     {
-      "title": "Altın Portakal'da Ödül Gecesi",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "63. Antalya Altın Portakal Film Festivali'nde ödüller sahiplerini buldu, 'Taş ve Tüy' filmi geceye damgasını vurdu.",
-      "importance": 6,
-      "story_count": 3,
+      "title": "Yapay Zeka Düzenlemeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Rekabet Kurumu'nun Google'ın yapay zeka hamlelerine yönelik aldığı tedbir kararları ve yapay zeka etiği tartışmaları devam ediyor.",
+      "importance": 7,
+      "story_count": 5,
       "stories": [
         {
-          "title": "63. Antalya Altın Portakal Film Festivali Ödülleri Sahiplerini Buldu: En İyi Film \"Taş ve Tüy\"!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000230134/",
+          "title": "Google'ın yapay zeka hamlesine Rekabet Kurumu'ndan sert fren",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/googlein-yapay-zeka-hamlesine-rekabet-kurumundan-sert-fren/104073",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Google'ın yapay zeka hamlesine Rekabet Kurumu'ndan fren: Yayıncıların hakları koruma altında",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/googlein-yapay-zeka-hamlesine-rekabet-kurumundan-fren-yayincilarin-haklari-koruma-altinda/104068",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Rekabet Kurumu'ndan Google'ın yapay zeka hizmetine tedbir",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/rekabet-kurumu-ndan-google-in-yapay-zeka-hizmetine-tedbir/946977",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Google’a yapay zekâ freni! Haber özetlerine 'adil paylaşım' tedbiri",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/02/googlein-yapay-zeka-ozetlerine-adil-paylasim-tedbiri",
           "also_in": []
         },
         {
-          "title": "ANTALYA ALTIN PORTAKAL FİLM FESTİVALİ ÖDÜLLERİ SAHİPLERİNİ BULDU…",
-          "source": "Marjinal Sinema",
-          "link": "https://marjinalsinema.com/2026/11/01/antalya-altin-portakal-film-festivali-odulleri-sahiplerini-buldu/",
-          "also_in": []
-        },
-        {
-          "title": "Altın Portakal’da Taş ve Tüy rüzgârı: 6 ödülle gecenin galibi oldu",
-          "source": "Mürekkep Haber",
-          "link": "https://www.murekkephaber.com/altin-portakalda-tas-ve-tuy-ruzgari-6-odulle-gecenin-galibi-oldu/23815",
+          "title": "Tıklamadan okuma dönemi bitiyor: Google’ın ‘yapay zeka özetleri’ne fren",
+          "source": "10Haber",
+          "link": "https://10haber.net/bilim-teknoloji/tiklamadan-okuma-donemi-bitiyor-googlein-yapay-zeka-ozetlerine-fren-751211/",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The False Mirror",
-    "artist": "René Magritte",
-    "year": "1928",
+    "title": "Isle of the Dead (Rachmaninoff)",
+    "artist": "Arnold Böcklin",
+    "year": "1880",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Museum of Modern Art",
-    "description": "Yapay zeka etiği ve dijital gözetim çağında, gerçeklik ile algı arasındaki bulanık sınırı işaret ederek, teknolojinin bakış açımızı nasıl manipüle ettiğini sorgulatıyor.",
+    "location": "Kunstmuseum Basel",
+    "description": "Üst üste gelen kayıplar ve depremlerin hatırlattığı fani dünya, sessiz ve melankolik bir yolculuk atmosferiyle temsil ediliyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_False_Mirror",
-    "wikipedia_extract": "The False Mirror is a surrealist oil on canvas painting by René Magritte, from 1929. It depicts a human eye framing a cloudy, blue sky. In the depiction of the eye in the painting, the clouds take the place normally occupied by the iris. The painting's original French title is Le faux miroir.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/11/The_False_Mirror.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Isle_of_the_Dead_(Rachmaninoff)",
+    "wikipedia_extract": "Isle of the Dead, Op. 29, is a symphonic poem composed by Sergei Rachmaninoff, written in the key of A minor. The piece was inspired by a black and white reproduction of Arnold Böcklin's painting Isle of the Dead, which he saw in Paris in 1907. He composed the work from January to March of 1909, but later made numerous revisions, including cuts.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Arnold_B%C3%B6cklin_-_Die_Toteninsel_-_Version_4_sw.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin"
   },
   "music": {
-    "title": "Twisted Transistor",
-    "artists": "Korn",
-    "album": "See You On the Other Side",
-    "duration": "3:08",
-    "spotify_url": "https://open.spotify.com/track/05NpeTQWnzXS1d8ZqL4YFZ",
-    "spotify_id": "05NpeTQWnzXS1d8ZqL4YFZ",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b27374c1560b64750a1774495144",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/05NpeTQWnzXS1d8ZqL4YFZ\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Videotape",
+    "artists": "Radiohead",
+    "album": "In Rainbows",
+    "duration": "4:39",
+    "spotify_url": "https://open.spotify.com/track/4T1iiabe7G0UjWQJCY6NE2",
+    "spotify_id": "4T1iiabe7G0UjWQJCY6NE2",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/4T1iiabe7G0UjWQJCY6NE2\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugünün dünyası, yönetim krizlerinin gölgesinde ve ekonomik belirsizliklerin yarattığı o tekinsiz boşlukta, tıpkı René Magritte’in The False Mirror eserindeki gibi kendi gerçekliğine yabancılaşmış devasa bir göze dönüşüyor. Gökyüzünü içine hapseden ama aslında dış dünyaya dair hiçbir yansıma barındırmayan o irissiz bakış, teknolojik etiğin ve siyasi çalkantıların ağırlığı altında ezilen insanlığın körleşen perspektifini simgeliyor. Korn’un Twisted Transistor parçasındaki kaotik ve hipnotik ritimler, bu görsel sessizliğin üzerine inşa edilen dijital gürültüyü temsil ederek belirsizliğin melodisini kusursuzca tamamlıyor. Bir yanda sınırları zorlanan diplomasinin soğukluğu, diğer yanda ise ekranlar aracılığıyla zihnimize dayatılan yapay gerçeklikler, hepimizi bu devasa gözün içindeki geçici bulutlara mahkûm ediyor. Gördüğümüzü sandığımız dünya belki de sadece yansımasız bir aynadan ibaret; bu karmaşanın içinde tek gerçek ise, anlam arayışımızın bizden kaçan o puslu gökyüzüne olan bitmek bilmeyen özlemidir."
+  "curator_statement": "İstanbul bugün, sanayi dünyasının sessizliğe gömüldüğü bir kaybın ağırlığı ile dışarıda şehri döven sağanağın tekinsiz ritmi arasında, derin bir melankoliye hapsolmuş durumda. Arnold Böcklin in Ölüler Adası tablosundaki o tekinsiz sükunet, bugün şehrin üzerine çöken gri sis ve yankılanan ekonomik belirsizliklerle tuhaf bir paralellik gösteriyor. Radiohead in Videotape parçası, bu durgun ve ağır atmosferin içinde, her şeyin yavaşça silinip gittiği bir vedayı adeta bir ağıt gibi tınlatıyor. İnsan eliyle kurulan sanayi imparatorluklarının kırılganlığı ile doğanın dizginlenemez gücü arasında sıkışan ruhlarımız, bir kıyıdan diğerine geçişi bekleyen kayıkçının sessizliğini paylaşıyor. Bölgesel krizlerin ve fonların gölgesindeki bu gergin bekleyiş, sanatın ve müziğin kadim hüznüyle birleşerek zamanın durduğu o noktaya, yani kaçınılmaz sonun huzursuz dinginliğine evriliyor."
 }
