@@ -1,21 +1,22 @@
 {
-  "date": "2026-11-04",
-  "date_human": "04 November 2026",
-  "generated_at": "2026-11-04T01:30:48.633614+00:00",
+  "date": "2026-11-05",
+  "date_human": "05 November 2026",
+  "generated_at": "2026-11-05T01:32:25.557270+00:00",
   "stats": {
-    "feeds_collected": 285,
-    "news_total": 5637,
-    "news_analyzed": 620,
-    "clusters": 8
+    "feeds_collected": 284,
+    "news_total": 5575,
+    "news_analyzed": 624,
+    "clusters": 10
   },
   "mood": {
-    "description": "Türkiye, Emre Belözoğlu'nun Fenerbahçe'ye dönüşü ve Galatasaray'ın Avrupa'daki galibiyetiyle spor odaklı bir heyecana kilitlenirken, ekonomik verilerin açıklanmasıyla birlikte toplumsal bir geçim ve gelecek kaygısı atmosferi hakim.",
-    "dominant_emotion": "Gerginlik",
+    "description": "Güne, Fenerbahçe'nin Liverpool karşısında aldığı tarihi zaferin yarattığı büyük coşku ve İstanbul'da yaşanan yoğun sağanak yağışın getirdiği trafik karmaşası damga vurdu. Siyasi arenada ise ABD seçim sonuçlarının yankıları ve yerel istifalarla hareketli bir atmosfer hakim.",
+    "dominant_emotion": "Heyecan",
     "key_themes": [
-      "Fenerbahçe ve Galatasaray eksenli spor gündemi",
-      "Ekonomi, enflasyon ve vergi düzenlemeleri",
-      "Siber güvenlik saldırıları ve teknolojik krizler",
-      "Uluslararası diplomatik hareketlilik ve seçimler"
+      "Fenerbahçe'nin tarihi Şampiyonlar Ligi zaferi",
+      "İstanbul'da sağanak yağış ve sel felaketi",
+      "ABD seçimleri sonrası küresel siyasi dalgalanmalar",
+      "Yapay zeka ve teknolojik dönüşüm",
+      "Yerel siyasi istifalar ve operasyonlar"
     ]
   },
   "weather": {
@@ -24,462 +25,547 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-04",
-        "code": 80,
-        "temp_max": 19.2,
-        "temp_min": 14.7
-      },
-      {
         "date": "2026-11-05",
-        "code": 3,
-        "temp_max": 17.8,
-        "temp_min": 11.0
+        "code": 2,
+        "temp_max": 17.7,
+        "temp_min": 11.5
       },
       {
         "date": "2026-11-06",
         "code": 1,
-        "temp_max": 15.5,
-        "temp_min": 8.0
+        "temp_max": 15.8,
+        "temp_min": 8.4
       },
       {
         "date": "2026-11-07",
         "code": 1,
         "temp_max": 15.0,
-        "temp_min": 7.3
+        "temp_min": 7.5
       },
       {
         "date": "2026-11-08",
         "code": 1,
-        "temp_max": 17.0,
-        "temp_min": 5.5
+        "temp_max": 14.9,
+        "temp_min": 5.7
       },
       {
         "date": "2026-11-09",
-        "code": 3,
-        "temp_max": 17.0,
-        "temp_min": 7.5
+        "code": 61,
+        "temp_max": 15.1,
+        "temp_min": 3.9
       },
       {
         "date": "2026-11-10",
         "code": 3,
-        "temp_max": 18.7,
-        "temp_min": 12.2
+        "temp_max": 18.3,
+        "temp_min": 8.0
+      },
+      {
+        "date": "2026-11-11",
+        "code": 2,
+        "temp_max": 18.2,
+        "temp_min": 10.9
       }
     ]
   },
   "clusters": [
     {
-      "title": "Emre Belözoğlu Fenerbahçe'de",
+      "title": "Fenerbahçe'nin Liverpool Zaferi",
       "meta_category": "Spor",
-      "summary": "Emre Belözoğlu'nun Fenerbahçe'nin yeni teknik direktörü olması ve Kasımpaşa'dan ayrılışı spor gündeminin en önemli başlığı haline geldi.",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi'nde Liverpool'u 3-2 mağlup ederek 18 yıl sonra büyük bir zafere imza attı; maç sonrası teknik heyet ve futbolcular tarihi başarıyı kutladı.",
       "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Fenerbahçe&apos;nin Yeni Teknik Direktörü Emre Belözoğlu Oldu",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/fenerbahce-nin-yeni-teknik-direktoru-emre-belozoglu-oldu-1393212",
+          "title": "Fenerbahçe, Liverpool'u eli boş yolladı: Devler Ligi'nde 18 yıl sonra gelen tarihi zafer",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-fenerbahce-liverpoolu-eli-bos-yolladi-devler-liginde-18-yil-sonra-gelen-tarihi-zafer-432460",
           "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Dev zafer sonrası dış basında Fenerbahçe manşetleri!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/04/dev-zafer-sonrasi-dis-basinda-fenerbahce-mansetleri",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe'ye Liverpool zaferinden dev gelir! İşte kazanılan para",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/04/fenerbahceye-liverpool-zaferinden-dev-gelir-iste-kazanilan-para",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Şampiyonlar Ligi'nde Liverpool'u 3-2 mağlup etti",
+          "source": "İstiklal",
+          "link": "https://www.istiklal.com.tr/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-3-2-maglup-etti-1109999h",
+          "also_in": [
+            "Ulusal Kanal",
+            "Savunma Sanayi Gazetesi"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'den Kadıköy'de tarihi zafer! Liverpool'u 6 dakikada yıktı geçti",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/fenerbahceden-kadikoyde-tarihi-zafer-liverpoolu-6-dakikada-yikti-gecti-876287",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İstanbul'da Sağanak ve Sel Alarmı",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul'da etkili olan şiddetli sağanak yağış yolların çökmesine, trafiğin kilitlenmesine ve bazı bölgelerde sel baskınlarına yol açtı; AKOM ve valilikten uyarılar geldi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İstanbul'da sağanak kabusu: Yollar çöktü, araçlar mahsur kaldı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/istanbulda-saganak-kabusu-yollar-coktu-araclar-mahsur-kaldi/104127",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Kuvvetli sağanak nedeniyle Şişli'deki alt geçidi su bastı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/kuvvetli-saganak-nedeniyle-sislideki-alt-gecidi-su-basti",
+          "also_in": [
+            "Bengütürk"
+          ]
+        },
+        {
+          "title": "AKOM, İstanbul için saat vererek uyardı! Yollar göle döndü, trafik kilitlendi",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/akom-istanbul-icin-saat-vererek-uyardi-yollar-gole-dondu-trafik-kilitlendi-6995062",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "İstanbul'da ikinci sel alarmı! Sağanak hayatı olumsuz etkiledi: Yollar göle döndü",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/04/istanbulda-saganak-hayati-olumsuz-etkiledi-yollar-gole-dondu",
+          "also_in": []
+        },
+        {
+          "title": "İstanbul'da trafik yoğunluğu yüzde 80'i geçti! Sağanak trafiği kilitledi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/04/istanbulda-saganak-trafigi-felc-etti",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "ABD Seçimleri ve Küresel Yankıları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "ABD seçim sonuçları piyasalarda dalgalanmalara neden olurken, Trump'ın yenilgisi ve İran ile ilgili açıklamaları dünya basınında geniş yer buldu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ABD Başkan Yardımcısı JD Vance: Seçimleri İran Savaşı nedeniyle kaybettik",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/dunya/abd-baskan-yardimcisi-jd-vance-secimleri-iran-savasi-nedeniyle-kaybettik-352387h",
+          "also_in": [
+            "DW Haber",
+            "soL Haber"
+          ]
+        },
+        {
+          "title": "Seçimlerdeki hezimetten sonra Beyaz Saray: Trump hala sizin başkanınız",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/dunya/secimlerdeki-hezimetten-sonra-beyaz-saray-trump-hala-sizin-baskaniniz-6995094",
+          "also_in": [
+            "İnternet Haber",
             "Haberler"
           ]
         },
         {
-          "title": "Fenerbahçe'de Emre Belözoğlu dönemi",
-          "source": "Futboo",
-          "link": "https://www.futboo.com/fenerbahce-de-emre-belozoglu-donemi/92832/",
+          "title": "Trump’ın ABD seçimlerindeki yenilgisi dünya basınında",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/siyaset/trump-in-abd-secimlerindeki-yenilgisi-dunya-basininda-2553378",
           "also_in": [
-            "Fotospor",
-            "Aydınlık",
-            "Dünya",
-            "Habertürk"
+            "dikGAZETE"
           ]
         },
         {
-          "title": "Emre Belözoğlu, Fenerbahçe'ye imzayı attı!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/03/emre-belozoglu-fenerbahceye-imzayi-atti",
+          "title": "ABD Başkanı Donald Trump, seçim yenilgisinin sebebini açıkladı: \"İran savaşı\"",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/dunya/abd-baskani-donald-trump-secim-yenilgisinin-sebebini-acikladi-iran-savasi-6995114",
           "also_in": [
-            "Sözcü Spor",
-            "Karar"
+            "Mynet"
           ]
         },
         {
-          "title": "Kasımpaşa, Emre Belözoğlu'na veda etti!",
-          "source": "AjansSpor",
-          "link": "https://ajansspor.com/haber/kasimpasa-emre-belozogluna-veda-etti-737914",
+          "title": "Ekonomistlerden ABD ara seçimleri sonrası \"dış politikada türbülans ve piyasalarda dalgalanma\" uyarısı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/ekonomistlerden-abd-ara-secimleri-sonrasi-dis-politikada-turbulans-ve-piyasalarda-dalgalanma-uyarisi/947542",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayiinde Yerli Üretim",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "HÜRKUŞ uçaklarının envantere teslimi ve savunma sanayiindeki yeni yerli projelerle Türkiye'nin askeri kapasitesi güçlendiriliyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "HÜRKUŞ’ta 2 uçağın daha kabulü tamamlandı",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/hurkusta-2-ucagin-daha-kabulu-tamamlandi",
+          "also_in": []
+        },
+        {
+          "title": "HÜRKUŞ'un yerli envanter teslimatları devam ediyor",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/hurkusun-yerli-envanter-teslimatlari-devam-ediyor/",
+          "also_in": []
+        },
+        {
+          "title": "HÜRKUŞ’ta 2 Uçağın Daha Kabulü Tamamlandı: Hava Kuvvetleri Envanterindeki HÜRKUŞ Sayısı 4’e Ulaştı",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/hurkusta-2-ucagin-daha-kabulu-tamamlandi-hava-kuvvetleri-envanterindeki-hurkus-sayisi-4e-ulasti/",
+          "also_in": []
+        },
+        {
+          "title": "HÜRKUŞ-II Envantere Girdi",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/hurkus-ii-envantere-girdi/",
+          "also_in": []
+        },
+        {
+          "title": "HÜRKUŞ sayısı 4'e yükseldi: Hava Kuvvetleri'ne 2 yeni uçak daha teslim edildi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/04/hava-kuvvetleri-envanterindeki-hurkus-sayisi-4e-ulasti",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yerel Siyasette İstifa ve Gelişmeler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Korkuteli Belediye Başkanı'nın ve Şişli'de çok sayıda belediye meclis üyesinin CHP'den istifa etmesi siyaset gündemini hareketlendirdi.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Korkuteli Belediye Başkanı Saniye Caran, CHP’den istifa etti",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6008030/korkuteli-belediye-baskani-saniye-caran-chpden-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
           "also_in": [
-            "Diken",
+            "Gerçek Gündem",
+            "Dokuz8 Haber",
+            "Mynet",
+            "Sözcü Gündem",
+            "TürkInform",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Şişli'de 31 belediye meclis üyesi CHP'den istifa etti",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/siyaset/sisli-de-31-belediye-meclis-uyesi-chp-den-istifa-etti-2553396",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Korkuteli Belediye Başkanı CHP'den istifa etti",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/04/korkuteli-belediye-baskani-chpden-istifa-etti",
+          "also_in": [
             "Türkiye Gazetesi"
           ]
         },
         {
-          "title": "Fenerbahçe'nin yeni teknik direktörü Emre Belözoğlu oldu!",
-          "source": "Doğru Haber",
-          "link": "https://dogruhaber.com.tr/fenerbahcenin-yeni-teknik-direktoru-emre-belozoglu-oldu",
+          "title": "Espiye Belediye Başkanı Erol Karadere, Yeni Parti'ye katıldı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/erol-karadere-yeni-parti-ye-katildi-p376048",
           "also_in": [
-            "Haber 7",
-            "İşçi Haber",
-            "TRT Haber",
-            "Ulusal Kanal"
+            "Sözcü"
           ]
         }
       ]
     },
     {
-      "title": "Galatasaray'ın Avrupa Zaferi",
-      "meta_category": "Spor",
-      "summary": "Galatasaray'ın Stuttgart'ı 2-0 mağlup ettiği Şampiyonlar Ligi maçı, hem saha içi performansıyla hem de hakem tepkileriyle geniş yankı uyandırdı.",
-      "importance": 9,
+      "title": "Kaşif Kozinoğlu'nun Ölüm Nedeni",
+      "meta_category": "Diğer",
+      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne dair Adli Tıp raporu sonuçlandı ve kesin ölüm nedeni kamuoyu ile paylaşıldı.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Galatasaray kazandı! UEFA ülke puanında son durum",
-          "source": "AjansSpor",
-          "link": "https://ajansspor.com/haber/galatasaray-kazandi-uefa-ulke-puaninda-son-durum-737910",
+          "title": "Kaşif Kozinoğlu'nun ölüm nedeni açıklandı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/kasif-kozinoglunun-olum-nedeni-aciklandi-haberi-929199",
           "also_in": [
-            "NTV Spor Futbol",
-            "NTV Spor Anasayfa"
+            "Habertürk",
+            "OdaTV",
+            "TürkInform"
           ]
         },
         {
-          "title": "Galatasaray, Stuttgart'ı 2-0 mağlup etti",
+          "title": "SON DAKİKA | Kaşif Kozinoğlu'nun ölüm nedeni belli oldu",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/son-dakika-kasif-kozinoglunun-olum-nedeni-belli-oldu-3489097",
+          "also_in": [
+            "Haber 7",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Kaşif Kozinoğlu'nun ölüm nedeni belli oldu",
           "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/galatasaray-stuttgarti-2-0-maglup-etti-597400",
+          "link": "https://www.aydinlik.com.tr/haber/kasif-kozinoglunun-olum-nedeni-belli-oldu-597541",
           "also_in": [
-            "Artı Gerçek",
-            "Son Mühür"
+            "Doğru Haber",
+            "Mynet"
           ]
         },
         {
-          "title": "Galatasaray Şampiyonlar Ligi'nde Stuttgart'ı 2-0 mağlup etti",
-          "source": "Dokuz8 Haber",
-          "link": "https://dokuz8haber.net/galatasaray-sampiyonlar-liginde-stuttgarti-2-0-maglup-etti",
+          "title": "Eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporu çıktı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/eski-mit-gorevlisi-kasif-kozinoglunun-olumune-iliskin-adli-tip-raporu-cikti/4112007",
           "also_in": [
             "Independent Türkçe"
           ]
         },
         {
-          "title": "Galatasaray tribünlerinden Filistin'e destek! Stuttgart maçında anlamlı pankartlar",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/11/03/galatasaray-tribunlerinden-filistine-destek-stuttgart-macinda-anlamli-pankartlar",
-          "also_in": []
-        },
-        {
-          "title": "Galatasaray Stuttgart CANLI izle! Galatasaray Stuttgart full HD donmadan kesintisiz nasıl izlenir?",
-          "source": "Haberler",
-          "link": "https://www.haberler.com/haber/galatasaray-stuttgart-canli-izle-galatasaray-20392756-haberi/",
+          "title": "ÖLÜM NEDENİ BELLİ OLDU",
+          "source": "TGRT Haber",
+          "link": "https://www.tgrthaber.com/gundem/kasif-kozinoglunun-olum-nedeni-belli-oldu-adli-tip-raporu-cikti-3369558",
           "also_in": [
-            "Haberler"
+            "Türkiye Gazetesi"
           ]
         }
       ]
     },
     {
-      "title": "Ekonomik Veriler ve Zamlar",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Ekim ayı enflasyon verilerinin açıklanmasıyla birlikte kira artış oranları, vergi, harç ve ceza zamları netleşti.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Kasım ayı kira artış oranı belli oldu",
-          "source": "Artı Gerçek",
-          "link": "https://artigercek.com/ekonomi/kasim-ayi-kira-artis-orani-belli-oldu-352302h",
-          "also_in": [
-            "Tele2"
-          ]
-        },
-        {
-          "title": "Ekim enflasyonu açıklandı",
-          "source": "Diyanet Haber",
-          "link": "https://www.diyanethaber.com.tr/ekim-enflasyonu-aciklandi",
-          "also_in": [
-            "Haberet"
-          ]
-        },
-        {
-          "title": "2027 yılı vergi, harç ve ceza artış oranı belli oldu",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/ekonomi/2027-yili-vergi-harc-ve-ceza-artis-orani-belli-oldu/368314/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "Enflasyon açıklandı: Kasım ayı kira artış oranı belli oldu",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/ekonomi/enflasyon-aciklandi-kasim-ayi-kira-artis-orani-belli-oldu/368339/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "2027 yılı yeniden değerleme oranı belli oldu: İşte vergi, pasaport, harç ve cezalara gelecek zamlar…",
-          "source": "Veryansın TV",
-          "link": "https://www.veryansintv.com/2027-yili-yeniden-degerleme-orani-belli-oldu-iste-vergi-pasaport-harc-ve-cezalara-gelecek-zamlar",
-          "also_in": [
-            "Sözcü Ekonomi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Siber Güvenlik ve Veri Krizleri",
+      "title": "Yapay Zeka ve Teknoloji Güncellemeleri",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Rus teknoloji devi Beget ve çeşitli bulut sistemlerine yönelik siber saldırılar, büyük veri kayıplarına ve güvenlik tartışmalarına yol açtı.",
-      "importance": 8,
+      "summary": "Siri'nin Türkçe konuşmaya başlaması, ChatGPT'nin artan trafiği ve yapay zeka ajanlarının geleceği üzerine teknolojik gelişmeler öne çıktı.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Rus teknoloji devi Beget'te büyük kriz: Siber saldırı verileri vurdu",
+          "title": "ChatGPT, Google arama trafiğinin yüzde 20'sine ulaştı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/chatgpt-google-arama-trafiginin-yuzde-20-sine-ulasti--212483",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "iOS 27.3 ile Siri AI artık Türkçe konuşacak: İşte uyumlu modeller",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ios-27-3-ile-siri-ai-artik-turkce-konusacak-iste-uyumlu-modeller--212446",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "iOS 27.3 beta yayınlandı: Türkçe Siri AI, yeni Apple Sağlık ve fazlası",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ios-27-3-beta-yayinlandi-iste-iphone-lara-gelen-tum-yenilikler--212447",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Apple'dan dev hamle: Siri AI artık Türkçe konuşuyor",
           "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/rus-teknoloji-devi-begette-buyuk-kriz-siber-saldiri-verileri-vurdu/104106",
+          "link": "https://www.megabayt.com/teknoloji/appledan-dev-hamle-siri-ai-artik-turkce-konusuyor/104111",
           "also_in": [
             "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Bulut devinde büyük kriz: Siber saldırı sonrası veriler uçtu",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/bulut-devinde-buyuk-kriz-siber-saldiri-sonrasi-veriler-uctu/104105",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "WhatsApp'ta yeni tehlike: Yazışma tarzınızı kopyalayıp yakınlarınızdan para istiyorlar",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/whatsappta-yeni-tehlike-yazisma-tarzinizi-kopyalayip-yakinlarinizdan-para-istiyorlar/104099",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Moskova'dan teknoloji devlerine ağır fatura: Google ve Telegram'a milyonluk ceza",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/moskovadan-teknoloji-devlerine-agir-fatura-google-ve-telegrama-milyonluk-ceza/104095",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Binance, siber saldırının perde arkasını açıkladı",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/binance-siber-saldirinin-perde-arkasini-acikladi-3793350",
+          "title": "Siri AI Türkçe konuşmaya başladı: iOS 27.3 betası yayında",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/siri-ai-turkce-konusmaya-basladi-ios-273-betasi-yayinda_185064.html",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Fon ve Borsa Manipülasyonu Soruşturması",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Borsa İstanbul eski Genel Müdürü'nün tutuklanması ve fon soruşturmasındaki yeni gözaltılar, finansal piyasalardaki usulsüzlük iddialarını gündeme taşıdı.",
-      "importance": 8,
+      "title": "Operasyonlar ve Güvenlik",
+      "meta_category": "Diğer",
+      "summary": "Türkiye genelinde yasadışı bahis, uyuşturucu ve dolandırıcılık şebekelerine yönelik eş zamanlı büyük operasyonlar düzenlendi.",
+      "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklandı",
-          "source": "Fayn",
-          "link": "https://www.fayn.press/eski-borsa-istanbul-genel-muduru-korkmaz-enes-ergun-tutuklandi/",
+          "title": "Batman merkezli 10 ilde yasadışı bahis operasyonu: 32 gözaltı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/batman/merkez/batman-merkezli-10-ilde-yasadisi-bahis-operasyonu-32-gozalti-3489180",
           "also_in": [
-            "Kısa Dalga",
-            "Foreks"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında 6 kişi hakkında gözaltı kararı",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/fon-sorusturmasinda-6-kisi-hakkinda-gozalti-karari/368286/",
-          "also_in": [
-            "BHA",
-            "Bloomberg HT"
-          ]
-        },
-        {
-          "title": "Bakan Gürlek açıkladı: Fon soruşturmasında 112 tutuklama",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/bakan-gurlek-acikladi-fon-sorusturmasinda-112-tutuklama/368317/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "Borsa İstanbul’un eski Genel Müdürü Korkmaz Enes Ergun tutuklandı",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/borsa-istanbulun-eski-genel-muduru-korkmaz-enes-ergun-tutuklandi/368293/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında yeni operasyon: 6 şüpheliye gözaltı kararı! eski SPK Kurul Başkan Vekili Enver Usca da listede",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/03/fon-sorusturmasinda-yeni-operasyon-6-supheli-hakkinda-gozalti-karari",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "ABD Ara Seçimleri ve Uluslararası Diplomasi",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "ABD'de Kongre ara seçimleri başlarken, Türkiye'nin Güney Kore ile yaptığı anlaşmalar ve Orta Doğu'daki diplomatik gerilimler öne çıktı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi/4110638",
-          "also_in": [
-            "CGTN Türk",
+            "Cumhuriyet",
+            "Elips Haber",
             "En Son Haber",
             "Haber 7",
-            "TRT Haber"
+            "Haber Global"
           ]
         },
         {
-          "title": "ABD'de ara seçimlerde oy kullanma işlemi başladı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6007849/abdde-ara-secimlerde-oy-kullanma-islemi-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Dokuz8 Haber"
-          ]
-        },
-        {
-          "title": "ABD’de ara seçimler başladı: Seçmenler sandık başında",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/dunya/abdde-ara-secimler-basladi-secmenler-sandik-basinda/368311/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "ABD'de ara seçimler için yaklaşık 60 milyon seçmen erken oy kullanıldı",
-          "source": "TRT Haber",
-          "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-icin-yaklasik-60-milyon-secmen-erken-oy-kullanildi-962142.html",
-          "also_in": [
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "Başkan Erdoğan'dan Güney Kore çıkarması! Lee Jae Myung ile kritik görüşme: Yeni anlaşmalar imzalandı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/03/baskan-erdogandan-guney-kore-cikarmasi-lee-jae-myung-ile-kritik-gorusme",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Doğal Afetler ve Sel Felaketleri",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "İstanbul ve çevresinde etkili olan şiddetli sağanak yağışlar sel felaketine dönüşerek hayatı felç etti ve işletmelere destek paketi gündeme geldi.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Bursa’da sağanak hayatı olumsuz etkiledi: Yollar göle döndü",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/asayis/bursada-saganak-hayati-olumsuz-etkiledi-yollar-gole-dondu-287955h",
-          "also_in": [
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "Muğla Fethiye’de sağanak yağış sonrası sel",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/mugla-fethiyede-saganak-yagis-sonrasi-sel",
+          "title": "Antalya’da 68 adrese uyuşturucu operasyonu: 9 şüpheli tutuklandı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/antalya-da-68-adrese-uyusturucu-operasyonu-9-supheli-tutuklandi-1024928.html",
           "also_in": [
             "En Son Haber"
           ]
         },
         {
-          "title": "Sağanak Sultangazi'yi Vurdu: Habipler Tüneli Sular Altında Kaldı",
-          "source": "İşçi Haber",
-          "link": "https://www.iscihaber.net/istanbul/saganak-sultangaziyi-vurdu-habipler-tuneli-sular-altinda-kaldi/278485",
+          "title": "Mersin'de telefon dolandırıcılığı operasyonu: 13 gözaltı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/mersinde-telefon-dolandiriciligi-operasyonu-13-gozalti-h1579805",
           "also_in": [
-            "Yeni Şafak"
+            "İşçi Haber"
           ]
         },
         {
-          "title": "SEL MAĞDURU KOBİ'LERE DESTEK!",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/sel-magduru-esnafa-destek-bakan-kacir-duyurdu-isletme-basina-1-milyon-tl-faizsiz-kred-1826981",
+          "title": "10 ilde yasa dışı bahis operasyonu: 32 gözaltı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/10-ilde-yasa-disi-bahis-operasyonu-32-gozalti-p376118",
           "also_in": [
-            "TGRT Haber"
+            "Sözcü"
           ]
         },
         {
-          "title": "İBB'nin tramvay çalışması esnafı sele teslim etti! Eyüpsultan'da 1 milyonluk zarar",
+          "title": "21 ilde dolandırıcılık şebekelerine darbe! 464 milyon TL'lik vurgunun şüphelileri yakalandı",
           "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/03/ibbnin-tramvay-calismasi-esnafi-sele-teslim-etti-eyupsultanda-1-milyonluk-zarar",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/04/21-ilde-dolandiricilik-operasyonu-327-supheli-yakalandi",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Savunma Sanayiinde İhracat ve Yerlilik",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türk savunma sanayii, milyar dolarlık ihracat sözleşmeleri ve yeni nesil hava savunma sistemleriyle küresel pazarda gücünü artırıyor.",
-      "importance": 7,
+      "title": "Emir Sarıgül'ün Tahliyesi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Mustafa Sarıgül'ün oğlu Emir Sarıgül, 'etkin pişmanlık' yasasından faydalanarak ev hapsi şartıyla tahliye edildi.",
+      "importance": 5,
       "story_count": 5,
       "stories": [
         {
-          "title": "Türk savunma ve havacılık sektöründen rekor ihracat",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/turk-savunma-ve-havacilik-sektorunden-rekor-ihracat-2",
+          "title": "Emir Sarıgül ev hapsiyle tahliye edildi",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/emir-sarigul-ev-hapsiyle-tahliye-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=emir-sarigul-ev-hapsiyle-tahliye-edildi",
+          "also_in": [
+            "Cumhuriyet",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Emir Sarıgül, etkin pişmanlıktan faydalanarak tahliye edildi",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/emir-sarigul-etkin-pismanliktan-faydalanarak-tahliye-edildi",
+          "also_in": [
+            "Haberet",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Mustafa Sarıgül’ün oğlu Emir Sarıgül tahliye edildi",
+          "source": "İstiklal",
+          "link": "https://www.istiklal.com.tr/gundem/mustafa-sarigulun-oglu-emir-sarigul-tahliye-edildi-1109988h",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "'Etkin pişmanlık'tan yararlanan Emir Sarıgül tahliye edildi",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/etkin-pismanliktan-yararlanan-emir-sarigul-tahliye-edildi-352386h",
+          "also_in": [
+            "Aydınlık"
+          ]
+        },
+        {
+          "title": "EMİR SARIGÜL TAHLİYE EDİLDİ",
+          "source": "TGRT Haber",
+          "link": "https://www.tgrthaber.com/genel/sarigul-sorusturmasinda-tutuklanan-emir-sarigul-ev-hapsi-karariyla-tahliye-edildi-3369544",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İş Dünyası ve Oda Seçimleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "İTO ve İSO gibi önemli iş dünyası kuruluşlarında başkanlık seçimleri yapıldı; Şekib Avdagiç ve Adnan Dalgakıran göreve seçildi.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İTO Yönetim Kurulu Başkanlığına Şekib Avdagiç yeniden seçildi!",
+          "source": "Dijital Gaste",
+          "link": "https://www.dijitalgaste.com/ito-yonetim-kurulu-baskanligina-sekib-avdagic-yeniden-secildi",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "İSO’nun yeni başkanı Adnan Dalgakıran oldu",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/isonun-yeni-baskani-belli-oldu-adnan-dalgakiran-86-oyla-secildi-1827217",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "İTO'da Şekib Avdagiç yeniden başkan seçildi",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/ekonomi/itoda-sekib-avdagic-yeniden-baskan-secildi-ucuncu-kez-goreve-geldi-1827185",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "İTO Yönetim Kurulu Başkanlığı'na yeniden Şekib Avdagiç seçildi",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/ito-yonetim-kurulu-baskanligi-na-yeniden-sekib-avdagic-secildi/947490",
           "also_in": []
         },
         {
-          "title": "ASELSAN’dan milyar dolarlık ihracat",
-          "source": "DefenceTurk",
-          "link": "https://www.defenceturk.net/aselsandan-milyar-dolarlik-ihracat",
-          "also_in": []
-        },
-        {
-          "title": "ASELSAN'dan deniz savunmasında yeni hamle: GÖKDENİZ ilk kez tanıtıldı",
-          "source": "Sanayi Gazetesi",
-          "link": "https://sanayigazetesi.com.tr/aselsandan-deniz-savunmasinda-yeni-hamle-gokdeniz-ilk-kez-tanitildi/",
-          "also_in": []
-        },
-        {
-          "title": "ASELSAN’dan Milyar Dolarlık İhracat Sözleşmesi",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/aselsandan-milyar-dolarlik-ihracat-sozlesmesi/",
-          "also_in": []
-        },
-        {
-          "title": "Savunma ve havacılık ihracatı son 12 ayda 11,36 milyar dolar",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/savunma-ve-havacilik-ihracati-son-12-ayda-1136-milyar-dolar/",
+          "title": "İTO’da Güven Tazelendi: Şekib Avdagiç Yeniden Başkan Seçildi",
+          "source": "İşin Detayı İş Dünyası",
+          "link": "https://www.isindetayi.com/itoda-guven-tazelendi-sekib-avdagic-yeniden-baskan-secildi",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Gates of Hell",
+    "title": "The Thinker",
     "artist": "Auguste Rodin",
-    "year": "1880-1917",
+    "year": "1904",
     "form": "heykel",
     "medium": "Bronze",
     "location": "Musée Rodin, Paris",
-    "description": "Siber krizler, borsa manipülasyonları ve sel felaketleri gibi üst üste gelen kaosun yarattığı karmaşayı simgeliyor. İnsanlığın içinden çıkamadığı kriz döngüsünü ve bu gerilimli ortamın kaotik yapısını derinlemesine işler.",
+    "description": "Yerel siyasetteki istifalar ve belediye yönetimindeki hareketlilik sonrası, durumu derinlemesine analiz eden ve stratejik karar bekleyen bir duruşu simgeliyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Gates_of_Hell",
-    "wikipedia_extract": "The Gates of Hell is a monumental bronze sculptural group work by the French artist Auguste Rodin that depicts a scene from the Inferno, the first section of Dante Alighieri's Divine Comedy. It stands at 6 metres high, 4 metres wide and 1 metre deep (19.7×13.1×3.3 ft) and contains 180 figures.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/La_puerta_del_Infierno_de_Rodin_del_museo_Soumaya_%28con_fondo_negro%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Thinker",
+    "wikipedia_extract": "The Thinker, by Auguste Rodin, is a bronze sculpture depicting a nude male figure of heroic size, seated on a large rock, leaning forward, his right elbow placed upon his left thigh, with the back of his right hand supporting his chin in a posture evocative of deep thought and contemplation. This universally recognized expression of \"deep thought\" has made the sculpture one of the most widely known artworks in the world. It has become the iconic symbol of thinking; images of the sculpture in profile are often used to indicate philosophy and other practices of contemplation or introspection.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_Rodin"
   },
   "music": {
-    "title": "Atmosphere",
-    "artists": "Joy Division",
-    "album": "The Best Of",
-    "duration": "4:10",
-    "spotify_url": "https://open.spotify.com/track/0NBgmP6Yg5xZYsnIZ0pGdo",
-    "spotify_id": "0NBgmP6Yg5xZYsnIZ0pGdo",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273f4bd5e92d66207ec37255902",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0NBgmP6Yg5xZYsnIZ0pGdo\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Born Slippy (Nuxx)",
+    "artists": "Underworld",
+    "album": "1992 - 2012",
+    "duration": "7:36",
+    "spotify_url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC",
+    "spotify_id": "7xQYVjs4wZNdCwO0EeAWMC",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2731e34bdf6792b78c2da36a767",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7xQYVjs4wZNdCwO0EeAWMC\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugün Türkiye, bir yanda stadyumların ateşli rekabetiyle tutkuya boğulurken diğer yanda ekonomik belirsizliklerin ve siber dünyanın tekinsiz gölgeleriyle sarsılan, parçalı bir ruh haline ev sahipliği yapıyor. Rodin’in Cehennem Kapıları’ndaki o bitmek bilmeyen figürler kalabalığı, bugün toplumun geleceği kucaklama arzusu ile geçim kaygısının yarattığı o ağır gerginliği, bronz bir çaresizlik içinde adeta yeniden sahneliyor. Joy Division’ın Atmosphere parçası, bu kaotik atmosferin üzerine karanlık bir örtü gibi serilirken, yankılanan her nota, Dante’nin infernosundan modern dünyanın dijital labirentlerine uzanan o kaçınılmaz tekinsizliği derinleştiriyor. Bu eser ve melodi, bireyin ve toplumun, gündelik olanın gürültüsü ile varoluşsal kaygının sessizliği arasında sıkışıp kalmış o huzursuz bekleyişini temsil ediyor. Bugünün dünyasında her bir figür, tıpkı Rodin’in bronz heykelleri gibi, kendi küçük mücadelesini verirken kolektif bir tedirginliğin ortak paydasında birleşiyor."
+  "curator_statement": "İstanbul semalarında birbiriyle yarışan sağanak yağışın kaotik ritmi ile Fenerbahçe’nin hafızalara kazınan tarihi zaferi, şehrin damarlarında hem bir melankoli hem de dizginlenemez bir heyecan dalgası yaratıyor. Rodin’in Düşünen Adam heykeli, ABD seçimlerinin küresel yankıları ve yerel istifaların getirdiği belirsizlik karşısında insanlığın bitmek bilmeyen sorgulama arzusunu temsil ederken, Underworld’ün Born Slippy parçası bu derin düşünsel duruşu modern zamanın teknolojik ve sınırsız enerjisiyle sarsıyor. Bir yanda yağmurun altında kilitlenen yollar ve değişen siyasi iklimin ağırlığı, diğer yanda zaferin getirdiği o baş döndürücü coşku, bizi hem kendi iç dünyamızın sessizliğine hem de dış dünyanın gürültülü dönüşümüne aynı anda mahkûm ediyor. Sanatın durağan bronzunda donup kalan o derin tefekkür, müziğin hızla akan elektronik ritmiyle birleşerek bugünün karmaşasını bir sanat enstalasyonuna dönüştürüyor. Hepimiz, bu sel sularının ve siyasi dalgalanmaların ortasında, kazandığımız zaferin sarhoşluğu ile yarının bilinmezliğine doğru koşan birer modern zaman yolcusuyuz."
 }
