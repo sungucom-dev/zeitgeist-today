@@ -1,0 +1,481 @@
+{
+  "date": "2026-11-07",
+  "date_human": "07 November 2026",
+  "generated_at": "2026-11-07T01:31:48.374595+00:00",
+  "stats": {
+    "feeds_collected": 287,
+    "news_total": 4703,
+    "news_analyzed": 624,
+    "clusters": 8
+  },
+  "mood": {
+    "description": "Türkiye genelinde hem siyasi hem de finansal bir hareketliliğin yaşandığı, deprem ve hava muhalefeti gibi doğa olaylarının tedirginlik yarattığı, yoğun bir gündem atmosferi hakim.",
+    "dominant_emotion": "Gerginlik",
+    "key_themes": [
+      "Fon piyasası ve ekonomik kriz yönetimi",
+      "Siyasi tutuklamalar ve yargı süreçleri",
+      "Doğa olayları ve iklim uyarıları",
+      "Teknoloji dünyasında yapay zeka ve borsa dalgalanmaları",
+      "Spor dünyasında transfer ve teknik direktör hareketliliği"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-07",
+        "code": 3,
+        "temp_max": 15.8,
+        "temp_min": 6.2
+      },
+      {
+        "date": "2026-11-08",
+        "code": 1,
+        "temp_max": 15.0,
+        "temp_min": 6.3
+      },
+      {
+        "date": "2026-11-09",
+        "code": 3,
+        "temp_max": 15.1,
+        "temp_min": 4.9
+      },
+      {
+        "date": "2026-11-10",
+        "code": 61,
+        "temp_max": 13.8,
+        "temp_min": 7.8
+      },
+      {
+        "date": "2026-11-11",
+        "code": 61,
+        "temp_max": 18.0,
+        "temp_min": 11.1
+      },
+      {
+        "date": "2026-11-12",
+        "code": 3,
+        "temp_max": 21.2,
+        "temp_min": 18.0
+      },
+      {
+        "date": "2026-11-13",
+        "code": 3,
+        "temp_max": 22.1,
+        "temp_min": 18.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Fon Piyasasındaki Kriz ve Soruşturmalar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon piyasasında yaşanan tasfiye süreci ve buna bağlı hukuki süreçler, hükümet yetkilileri ve SPK'nın açıklamalarıyla gündemin merkezinde yer aldı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan fon tasfiye süreciyle ilgili açıklama!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/cumhurbaskani-yardimcisi-yilmazdan-fon-tasfiye-sureciyle-ilgili-aciklama",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Cevdet Yılmaz'dan fon açıklaması: Yeni ödeme tarihini verdi",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/cevdet-yilmazdan-fon-aciklamasi-yeni-odeme-tarihini-verdi-6995805",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Cevdet Yılmaz'dan fon açıklaması: Gelecek hafta Cuma günü yeni bir ödeme yapılacak",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6008360/cevdet-yilmaz-dan-fon-aciklamasi-gelecek-hafta-cuma-gunu-yeni-bir-odeme-yapilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "SPK: Fonların yeniden işleme açılması için şirketler Ziraat Bankası'na başvurmalı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6008357/spk-fonlarin-yeniden-isleme-acilmasi-icin-sirketler-ziraat-bankasina-basvurmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "SPK'dan tasfiye kapsamı dışındaki kapalı fonların yeniden açılma sürecine ilişkin açıklama",
+          "source": "Gazete Zebra",
+          "link": "https://www.gazetezebra.com.tr/spkdan-tasfiye-kapsami-disindaki-kapali-fonlarin-yeniden-acilma-surecine-iliskin-aciklama",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Siyasi Tutuklamalar ve Yargı Gündemi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Fatma Betül Sayan Kaya'nın tutuklanması, Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin tahliyesi ve siyasi davalar yoğun tartışmalara konu oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fatma Betül Sayan Kaya tutuklandı!",
+          "source": "Açık Gazete",
+          "link": "https://acikgazete.com/turkiye/fatma-betul-sayan-kaya-tutuklandi/",
+          "also_in": [
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Gaziosmanpaşa Belediyesi davası: Hakan Bahçetepe ev hapsi ile tahliye edildi",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/gaziosmanpasa-belediyesi-davasi-hakan-bahcetepe-ev-hapsi-ile-tahliye-edildi-h1580302",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Murat Emir: Fatma Betül Sayan Kaya'nın tutuklanması tek başına bir şey ifade etmez",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6008327/murat-emir-fatma-betul-sayan-kayanin-tutuklanmasi-tek-basina-bir-sey-ifade-etmez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "Bakan Çiftçi'den Fatma Betül Sayan Kaya sözleri: Sembol isimlerden biriydi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/mustafa-ciftci-fatma-betul-sayan-kaya-aciklamasi-p376773",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "GOP Başkanı Hakan Bahçetepe tahliye edildi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/hakan-bahcetepe-ye-tahliye-6-kasim-2026-p376763",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Doğa Olayları ve Meteorolojik Uyarılar",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Yurdun çeşitli bölgelerinde beklenen kar yağışı, zirai don riski ve Akdeniz'de meydana gelen depremler dikkat çekti.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bolu Valiliğinden kar uyarısı: Kalınlığı 20 santimetreyi bulacak",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/yerel-haberler/bolu-valiliginden-kar-uyarisi-kalinligi-20-santimetreyi-bulacak-288360h",
+          "also_in": [
+            "dikGAZETE",
+            "Haber 7",
+            "Haberler",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Ankara Valiliğinden zirai don uyarısı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/sektorler/tarim/ankara-valiliginden-zirai-don-uyarisi-haberi-929671",
+          "also_in": [
+            "Haber Global",
+            "İnternet Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Muğla açıklarında 4,1 büyüklüğünde deprem",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/akdeniz-mugla-aciklari-deprem-6-kasim-2026-p376753",
+          "also_in": [
+            "Sputnik",
+            "Sözcü Gündem",
+            "Ulusal Post"
+          ]
+        },
+        {
+          "title": "Meteoroloji'den 26 il için uyarı: Kuvvetli yağış ve kar geliyor",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/meteoroloji-den-26-il-icin-uyari-kuvvetli-yagis-ve-kar-geliyor-p376774",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Meteoroloji'den Trakya, Sakarya ve Kocaeli için zirai don uyarısı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/meteorolojiden-trakya-sakarya-ve-kocaeli-icin-zirai-don-uyarisi-p376740",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yasa Dışı Bahis ve Suç Operasyonları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Emniyet güçlerinin 34 ilde gerçekleştirdiği yasa dışı bahis operasyonları ve gözaltı kararları kamuoyunun gündemindeydi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "34 ilde yasa dışı bahis operasyonu: 90 şüpheli tutuklandı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/34-ilde-yasa-disi-bahis-operasyonu-90-supheli-tutuklandi-288369h",
+          "also_in": [
+            "Haber Global",
+            "İnternet Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Nevşehir'de yasa dışı bahis operasyonunda 90 şüpheli tutuklandı",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/nevsehirde-yasa-disi-bahis-operasyonunda-90-supheli-tutuklandi",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Yasadışı bahis operasyonunda gözaltına alınan 119 şüpheliden 90'ı tutuklandı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6008352/yasadisi-bahis-operasyonunda-gozaltina-alinan-119-supheliden-90i-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "GZT"
+          ]
+        },
+        {
+          "title": "34 ilde yasa dışı bahis operasyonu: 90 tutuklama",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/34-ilde-yasa-disi-bahis-operasyonu-90-tutuklama-p376781",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuklandı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/yasa-disi-bahis-aginda-milyarlik-para-trafigi-34-kisi-tutuklandi-p376769",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Veriler ve Şirket Bilançoları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Borsa İstanbul'daki şirketlerin 3. çeyrek bilançoları, TCMB açıklamaları ve küresel piyasalardaki dalgalanmalar takip edildi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Borsada bilanço yağmuru: 76 şirketin sonuçları geldi, devlerin rakamları dikkat çekti",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/borsada-bilanco-yagmuru-76-sirketin-sonuclari-geldi-devlerin-rakamlari-dikkat-cekti-g41240",
+          "also_in": []
+        },
+        {
+          "title": "Yataş'ın (YATAS) 3. çeyrek bilançosu beklenti altında kaldı: İşte detaylar!",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/yatasin-yatas-3-ceyrek-bilancosu-beklenti-altinda-kaldi-iste-detaylar-h41239",
+          "also_in": []
+        },
+        {
+          "title": "Reeder'ın (REEDR) zararı 673 milyon TL'ye geriledi! Satışlar yüzde 42 düştü",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/reederin-reedr-zarari-673-milyon-tlye-geriledi-satislar-yuzde-42-dustu-h41238",
+          "also_in": []
+        },
+        {
+          "title": "Borusan'ın (BRSAN) karı yüzde 155 arttı: İşte şirketin 3. çeyrek bilançosu",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/sirket-bilancolari/borusanin-brsan-kari-yuzde-155-artti-iste-sirketin-3-ceyrek-bilancosu-h41237",
+          "also_in": []
+        },
+        {
+          "title": "Borsa günü yükselişle kapattı! BIST 100 11.483",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/borsa-gunu-yukselisle-kapatti-bist-100-11-483-876446",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Teknik Direktör Hareketliliği",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'de Emre Belözoğlu dönemi, Fatih Karagümrük'te Bocchetti ataması ve milli takım kadro açıklamaları spor gündemini domine etti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe yeni teknik direktörü Emre Belözoğlu için imza töreninde açıklamalarda bulundu!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/06/fenerbahce-yeni-teknik-direktoru-emre-belozoglu-icin-imza-toreni-duzenliyor-canli",
+          "also_in": []
+        },
+        {
+          "title": "Fatih Karagümrük'ün yeni teknik direktörü Salvatore Bocchetti oldu",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/spor/fatih-karagumrukun-yeni-teknik-direktoru-salvatore-bocchetti-oldu-552232",
+          "also_in": [
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Emre Belözoğlu, Fenerbahçe'ye imza attı: 5 sene önceki Emre değilim",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/emre-belozoglu-fenerbahceye-imza-atti-5-sene-onceki-emre-degilim-6995748",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "A Milli Takım Teknik Direktörü Sergen Yalçın açıklamalarda bulundu!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/milli-takim/2026/11/06/a-milli-takim-teknik-direktoru-sergen-yalcin-aciklamalarda-bulunuyor",
+          "also_in": []
+        },
+        {
+          "title": "Fatih Karagümrük'te Salvatore Bocchetti dönemi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/fatih-karagumrukte-salvatore-bocchetti-donemi-432600",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Borsaları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Teknoloji borsalarındaki yapay zeka temelli dalgalanmalar ve büyük teknoloji şirketlerinin yeni ürün/strateji açıklamaları öne çıktı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Teknoloji borsalarında yapay zeka depremi: 2,5 trilyon dolarlık erime",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/teknoloji-borsalarinda-yapay-zeka-depremi-25-trilyon-dolarlik-erime/104158",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ABD'deki seçimler teknoloji şirketlerine ağır darbe indirdi: Bir günde 2 trilyon dolar kayıp",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/abd-deki-secimler-teknoloji-sirketlerine-agir-darbe-indirdi--212588",
+          "also_in": []
+        },
+        {
+          "title": "Küresel piyasalarda yapay zeka baskısı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/kuresel-piyasalarda-yapay-zeka-baskisi-3793733",
+          "also_in": []
+        },
+        {
+          "title": "AMD Zen 6 işlemcisi ilk kez Geekbench 7’de görüntülendi: 9950X3D'yi geçiyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/amd-zen-6-islemcisi-ilk-kez-geekbench-7-de-goruntulendi--212566",
+          "also_in": []
+        },
+        {
+          "title": "İlk kez bir insansı robot şirketi halka arz oldu: Geliri sadece 1,8 milyon dolar",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/ilk-kez-bir-insansi-robot-sirketi-halka-arz-oldu--212555",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Rektör Atamaları",
+      "meta_category": "Eğitim",
+      "summary": "Resmi Gazete'de yayımlanan kararla 11 üniversiteye yeni rektör ataması gerçekleştirildi.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "11 üniversiteye yeni rektör atandı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/11-universiteye-yeni-rektor-atandi-3490113",
+          "also_in": [
+            "Haberler",
+            "Son Mühür",
+            "Savunma Sanayi Gazetesi"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan 11 üniversiteye rektör ataması!",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/cumhurbaskani-erdogandan-11-universiteye-rektor-atamasi",
+          "also_in": [
+            "Evrensel",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Resmi Gazete'de yayımlandı: 11 üniversiteye rektör ataması",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/resmi-gazetede-yayimlandi-11-universiteye-rektor-atamasi-haberi-846752",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Resmi Gazete'de yayımlandı! 11 üniversiteye yeni rektör atandı",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3674839-resmi-gazetede-yayimlandi-11-universiteye-yeni-rektor-atandi",
+          "also_in": [
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "11 üniversiteye rektör atandı! İşte yeni rektörlerin isimleri",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/resmi-gazete-atamalar-7-kasim-2026-p376803",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Black Square",
+    "artist": "Kazimir Malevich",
+    "year": "1915",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Tretyakov Gallery",
+    "description": "Yapay zeka ve teknoloji borsalarındaki dalgalanmaların yarattığı 'boşluk' hissini, bilinmezliği ve dijital geleceğin soyut tekinsizliğini temsil ediyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Square",
+    "wikipedia_extract": "Black Square is a 1915 oil on linen canvas painting by the Russian avant-garde artist and theorist Kazimir Malevich. There are four painted versions, the first of which was completed in 1915 and described by the artist as his breakthrough work and the inception of his Suprematist art movement (1915–1919).",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Kazimir_Malevich%2C_1915%2C_Black_Suprematic_Square%2C_oil_on_linen_canvas%2C_79.5_x_79.5_cm%2C_Tretyakov_Gallery%2C_Moscow.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Kazimir_Malevich"
+  },
+  "music": {
+    "title": "The Eraser",
+    "artists": "Thom Yorke",
+    "album": "The Eraser",
+    "duration": "4:55",
+    "spotify_url": "https://open.spotify.com/track/6VRU4oTgt7cIKhx7G8jGb7",
+    "spotify_id": "6VRU4oTgt7cIKhx7G8jGb7",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273691b5e122dee32f6dcb7894b",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/6VRU4oTgt7cIKhx7G8jGb7\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Üzerimize çöken bu yoğun belirsizlik atmosferi, toplumun zihninde ekonomik bir sarsıntının ve doğanın öngörülemez gücünün yarattığı derin bir gerilimle birleşiyor. Kazimir Malevich’in Black Square eseri, bu kaotik gündemin ortasında her şeyin silinip gittiği nihai bir boşluğu ve tüm kavramların ötesindeki o tekinsiz sessizliği temsil ediyor. Thom Yorke’un ritmik ve tedirgin edici The Eraser parçası ise bu siyah karenin içindeki dijital gürültüyü, yargı süreçlerinden ekonomik dalgalanmalara uzanan o huzursuz çarkın tıkırtısını yansıtıyor. Sanatın bu radikal boşluğu ile müziğin mekanik ritmi, bugün yaşadığımız krizlerin ağırlığını bir araya getirerek bizi bildiğimiz dünyanın sınırlarında yeni bir tefekküre zorluyor. İnsanlık, belirsizliğin gölgesinde kendi yarattığı karmaşanın içinde kaybolurken, bu eserler tüm gürültünün sonunda geriye kalan o saf ve kaçınılmaz yüzleşmeyi fısıldıyor."
+}
