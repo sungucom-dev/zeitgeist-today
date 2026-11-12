@@ -1,0 +1,513 @@
+{
+  "date": "2026-11-12",
+  "date_human": "12 November 2026",
+  "generated_at": "2026-11-12T01:31:06.849037+00:00",
+  "stats": {
+    "feeds_collected": 287,
+    "news_total": 4792,
+    "news_analyzed": 617,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye, COP31 iklim zirvesindeki küresel temaslar ve ekonomi yönetimindeki kritik değişimlerle hareketli bir gün geçiriyor. Toplumda ise kışa geçişin getirdiği soğuk hava şartları ve dijital dönüşümün yarattığı gündelik değişimler öne çıkıyor.",
+    "dominant_emotion": "Beklenti",
+    "key_themes": [
+      "COP31 ve İklim Finansmanı",
+      "Ekonomi Yönetiminde Değişim ve Kredi Düzenlemeleri",
+      "Teknolojik Dönüşüm ve Yapay Zeka",
+      "Spor Dünyasında Ayrılıklar ve Milli Takım Hazırlıkları"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-12",
+        "code": 3,
+        "temp_max": 22.2,
+        "temp_min": 17.3
+      },
+      {
+        "date": "2026-11-13",
+        "code": 61,
+        "temp_max": 22.5,
+        "temp_min": 18.1
+      },
+      {
+        "date": "2026-11-14",
+        "code": 3,
+        "temp_max": 22.0,
+        "temp_min": 18.1
+      },
+      {
+        "date": "2026-11-15",
+        "code": 95,
+        "temp_max": 19.3,
+        "temp_min": 11.5
+      },
+      {
+        "date": "2026-11-16",
+        "code": 45,
+        "temp_max": 16.5,
+        "temp_min": 7.6
+      },
+      {
+        "date": "2026-11-17",
+        "code": 80,
+        "temp_max": 18.4,
+        "temp_min": 9.3
+      },
+      {
+        "date": "2026-11-18",
+        "code": 80,
+        "temp_max": 19.8,
+        "temp_min": 15.3
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "BDDK Başkanı Şahap Kavcıoğlu'nun İstifası",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "BDDK Başkanı Şahap Kavcıoğlu, görevinden affını isteyerek istifa etti; yerine gelecek isim ve piyasa etkileri konuşuluyor.",
+      "importance": 9,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "BDDK Başkanı Şahap Kavcıoğlu İstifa Etti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/bddk-baskani-sahap-kavcioglu-istifa-etti-1394497",
+          "also_in": [
+            "Artı Gerçek",
+            "Diken",
+            "Haberet",
+            "Dokuz8 Haber",
+            "Veryansın TV",
+            "Tele2",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "BDDK Başkanı Şahap Kavcıoğlu görevden affını istedi",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi/368467/",
+          "also_in": [
+            "BHA",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "BDDK Başkanı Şahap Kavcıoğlu, görevinden affını istedi",
+          "source": "Radikal",
+          "link": "https://www.radikal.com.tr/ekonomi/bddk-baskani-sahap-kavcioglu-gorevinden-affini-istedi-39916/",
+          "also_in": [
+            "Foreks"
+          ]
+        },
+        {
+          "title": "BDDK Başkanı Kavcıoğlu istifa etti",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/bddk-baskani-kavcioglu-istifa-etti-3794169",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "COP31: İklim Finansmanı ve Türkiye'nin Rolü",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Cumhurbaşkanı Erdoğan ve bakanların katıldığı COP31 zirvesinde, Türkiye'nin yeşil dönüşüm finansmanı ve iklim kriziyle mücadele stratejileri ele alınıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, COP31 Liderler Zirvesi'nin anı panosunu imzaladı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-cop31-liderler-zirvesinin-ani-panosunu-imzaladi",
+          "also_in": [
+            "Haber Global",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "COP31 Başkanı Kurum: Hiçbir ülke iklim krizi karşısında tek başına güvende değil",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cop31-baskani-kurum-hicbir-ulke-iklim-krizi-karsisinda-tek-basina-guvende-degil-h1581701",
+          "also_in": [
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "COP31 Başkanı Kurum: Türkiye uzlaşıya katkı sunmaya hazır",
+          "source": "Haber",
+          "link": "https://www.haber.com/gundem/cop31-baskani-kurum-turkiye-uzlasiya-katki-sunmaya-hazir-32129",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan COP31'de iklim mesajı: Ya şikâyet edeceğiz ya harekete geçeceğiz",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/cumhurbaskani-erdogan-dan-cop31-de-iklim-mesaji-ya-sikayet-edecegiz-ya-harekete-gececegiz/949858",
+          "also_in": []
+        },
+        {
+          "title": "Erdoğan: İklim finansmanı daha ulaşılabilir hale getirilmeli",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/erdogan-cop31-in-cevreye-etkisini-en-aza-indirdik-3794202",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Merkez Bankası'ndan Kredi Büyüme Sınırı Düzenlemesi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "TCMB, ihtiyaç ve taşıt kredilerinde büyüme sınırlarını yükselterek kredi piyasasında yeni bir dönemi başlattı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Merkez Bankası kredi büyüme sınırlarını yükseltti",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/ekonomi/tcmbden-kredi-buyume-siniri-karari-haberi-930684",
+          "also_in": [
+            "Haber",
+            "İnternet Haber",
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "TCMB kredi büyüme sınırlarını yükseltti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423",
+          "also_in": [
+            "Haber Global",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Merkez Bankası kredi sınırlarını yükseltti",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/ekonomi/merkez-bankasi-kredi-sinirlarini-yukseltti/400139",
+          "also_in": [
+            "Habertürk",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Merkez Bankası ihtiyaç ve taşıt kredilerinde büyüme sınırını yükseltti",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/merkez-bankasi-ihtiyac-ve-tasit-kredilerinde-buyume-sinirini-yukseltti-1029338.html",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Son dakika...Merkez Bankası'ndan kredi hamlesi: İhtiyaç, taşıt ve ticari kredilerde yeni dönem",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Devlerinde Yapay Zeka ve Kesintiler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Dünyanın önde gelen platformlarında (WhatsApp, ChatGPT, Instagram) yaşanan erişim sorunları ve yeni yapay zeka entegrasyonları gündemde.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "WhatsApp kullanıcıları için kritik uyarı: Yapay zeka destekli yeni tuzak!",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/whatsapp-kullanicilari-icin-kritik-uyari-yapay-zeka-destekli-yeni-tuzak/104205",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (11 Kasım 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-11-kasim-2026_176278.html",
+          "also_in": []
+        },
+        {
+          "title": "X (Twitter) çöktü mü? (11 Kasım 2026) Hata bildirim raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-11-kasim-2026-hata-bildirim-raporu_178117.html",
+          "also_in": []
+        },
+        {
+          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (11 Kasım 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-11-kasim-2026_178116.html",
+          "also_in": []
+        },
+        {
+          "title": "WhatsApp çöktü mü? 11 Kasım’da erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-11-kasimda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Kulüplerinde Ayrılıklar ve Transfer Gelişmeleri",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'de Dirk Kuyt ile yollar ayrılırken, Galatasaray ve diğer büyük kulüplerde transfer planlamaları hız kazandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe'de Dirk Kuyt ile yollar ayrıldı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/11/fenerbahcede-dirk-kuyt-ile-yollar-ayrildi",
+          "also_in": [
+            "Gazete Duvar"
+          ]
+        },
+        {
+          "title": "TRANSFER HABERİ: Fenerbahçe'de flaş ayrılık kararı! Emre Belözoğlu olumsuz rapor verdi",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/11/transfer-haberi-fenerbahcede-flas-ayrilik-karari-emre-belozoglu-olumsuz-rapor-verdi",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Dirk Kuyt ile yollarını ayırdı",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/fenerbahce-dirk-kuyt-ile-yollarini-ayirdi",
+          "also_in": [
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'de ayrılık gerçekleşiyor",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-ayrilik-gerceklesiyor-anlasma-tamam-1828689",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Lukaku'dan Fenerbahçe'ye kötü haber! Türkiye maçında forma giyemeyecek",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/lukakudan-fenerbahceye-kotu-haber-turkiye-macinda-forma-giyemeyecek-876864",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ziraat Bankası'ndan Tarihi Büyüme",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Ziraat Bankası, aktif büyüklüğünün 10 trilyon TL barajını aşarak Türk bankacılık tarihinde bir ilki gerçekleştirdiğini duyurdu.",
+      "importance": 7,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "Ziraat Bankası Türk bankacılığında tarihi eşiği aştı! Aktif büyüklüğü 10 trilyon TL’yi geçti",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/ziraat-bankasi-turk-bankaciliginda-tarihi-esigi-asti-aktif-buyuklugu-10-trilyon-t-876880",
+          "also_in": []
+        },
+        {
+          "title": "Bankacılık tarihinde bir ilk: Ziraat Bankası aktif büyüklüğü 10 trilyon TL’yi aştı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/bankacilik-tarihinde-bir-ilk-ziraat-bankasi-aktif-buyuklugu-10-trilyon-tlyi-asti-753885/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Rize'de Feci Kaza: 3 Ölü",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Rize'de bir kamyonetin dereye devrilmesi sonucu 3 kişi hayatını kaybetti.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Rize’de kamyonet dereye yuvarlandı: 3 kişi hayatını kaybetti",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/rize-de-kamyonet-dereye-yuvarlandi-3-kisi-hayatini-kaybetti-p380432",
+          "also_in": [
+            "Sözcü Gündem",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Rize'de kamyonet dereye devrildi: 3 kişi hayatını kaybetti",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/rizede-kamyonet-dereye-devrildi-3-kisi-hayatini-kaybetti/haber-1713901",
+          "also_in": [
+            "Cumhuriyet"
+          ]
+        },
+        {
+          "title": "Rize'de dereye devrilen kamyonetteki 3 kişi hayatını kaybetti",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/asayis/rizede-dereye-devrilen-kamyonetteki-3-kisi-hayatini-kaybetti-288915h",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Rize'de kamyonet dereye yuvarlandı Üç kişi hayatını kaybetti",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/rizede-kamyonet-dereye-yuvarlandi-uc-kisi-hayatini-kaybetti-4277685",
+          "also_in": [
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Rize'de kamyonet dereye devrildi: 3 ölü",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/rizede-kamyonet-dereye-devrildi-3-olu-2468181h.htm",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A Milli Takım Belçika Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "A Milli Futbol Takımı, Belçika ile oynanacak maç için hazırlıklarını sürdürürken kadrodaki sakatlıklar dikkat çekiyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "A Milli Futbol Takımı, Belçika maçı için İzmir'e geldi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-a-milli-futbol-takimi-belcika-maci-icin-izmire-geldi-432860",
+          "also_in": [
+            "NTV Spor Futbol",
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Belçika, Lukaku'dan gelen kötü haberi duyurdu! Türkiye maçına saatler kala planlar değişti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-belcika-lukakudan-gelen-kotu-haberi-duyurdu-turkiye-macina-saatler-kala-planlar-degisti-432855",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "A Milli Takım'da sakatlık depremi! Kadrodan çıkarıldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-son-dakika-a-milli-takimda-sakatlik-depremi-kadrodan-cikarildi-432852",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "A Milli Futbol Takımımızın konuğu Belçika",
+          "source": "İstiklal",
+          "link": "https://www.istiklal.com.tr/spor/a-milli-futbol-takimimizin-konugu-belcika-1110578h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "A Milli Takım’da sakatlık: Aral Şimşir kadrodan çıkarıldı",
+          "source": "10Haber",
+          "link": "https://10haber.net/spor/a-milli-takimda-sakatlik-aral-simsir-kadrodan-cikarildi-753915/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka Destekli Oyuncak ve Yazılım Tehlikeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yeni nesil yapay zeka destekli oyuncakların çocuklara verdiği yanıtlar ve artan dijital dolandırıcılık yöntemleri üzerine uyarılar yapıldı.",
+      "importance": 5,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "WhatsApp kullanıcıları için kritik uyarı: Yapay zeka destekli yeni tuzak!",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/whatsapp-kullanicilari-icin-kritik-uyari-yapay-zeka-destekli-yeni-tuzak/104205",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Üç yaşındaki çocuklara satılan yapay zekalı oyuncaktan korkutan yanıt",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/uc-yasindaki-cocuklara-satilan-yapay-zekali-oyuncaktan-korkutan-yanit_185224.html",
+          "also_in": []
+        },
+        {
+          "title": "Kanada'da Hemşireden Erkek Hastasına Akılalmaz Teklif: \"Sağlığına İyi Gelir\"",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/kanadada-hemsireden-erkek-hastasina-akilalmaz-teklif-sagligina-iyi-gelir-876893",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye'deki Bir Okulda Yaşananlar Tepki Çekti! \"Doğruluk mu Cesaret mi?\" Oyunu Krize Dönüştü!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/turkiye/turkiyedeki-bir-okulda-yasananlar-tepki-cekti-dogruluk-mu-cesaret-mi-oyunu-krize-876888",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "37. Ankara Film Festivali Başlıyor",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Ankara'nın köklü sinema etkinliği 37. kez kapılarını sanatseverlere açıyor.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Başkentte Sinema Zamanı: 37. Ankara Film Festivali Yarın Başlıyor!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000231765/",
+          "also_in": []
+        },
+        {
+          "title": "37. Ankara Film Festivali",
+          "source": "Altyazı",
+          "link": "https://altyazi.net/matine/37-ankara-film-festivali/",
+          "also_in": []
+        },
+        {
+          "title": "37. Ankara Film Festivali Yarın Başlıyor",
+          "source": "Bağımsız Sinema",
+          "link": "https://www.bagimsizsinema.com/37-ankara-film-festivali-yarin-basliyor.html",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Iron Rolling Mill (Modern Cyclopes)",
+    "artist": "Adolph Menzel",
+    "year": "1875",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Alte Nationalgalerie, Berlin",
+    "description": "Sanayi ve teknolojinin yarattığı yoğun atmosfer, bugünün dijital dönüşüm ve ekonomik büyüme temalarıyla güçlü bir paralellik taşıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Iron_Rolling_Mill_(Modern_Cyclopes)",
+    "wikipedia_extract": "The Iron Rolling Mill (Modern Cyclopes) is an oil on canvas painting by German artist Adolph Menzel, created in 1872-1875. The painting is one of his main works from the time when the painter was mostly concerned with contemporary issues and the social question as a result of the uninhibited technical advances made during the Industrial Revolution, particularly in Germany. It has the large dimensions of 158 by 254 cm. The signature of the artist can be seen at the lower left: \"Signatur Adolph Menzel. Berlin 1875\". The realistic painting caused a stir at the time and is now part of the collection of the Alte Nationalgalerie, in Berlin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Adolph_Menzel"
+  },
+  "music": {
+    "title": "Future Days",
+    "artists": "CAN",
+    "album": "Future Days (Remastered)",
+    "duration": "9:30",
+    "spotify_url": "https://open.spotify.com/track/1PNk1Xno8t3spNEU78Hxsu",
+    "spotify_id": "1PNk1Xno8t3spNEU78Hxsu",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2735d64963a2f6f4d1bcf9dbb24",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1PNk1Xno8t3spNEU78Hxsu\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Endüstriyel bir devrimin çarkları arasında insanlığın terini kutsallaştıran Adolph Menzelin The Iron Mill eseri, bugün ekonomi yönetimindeki değişimlerin ve iklim zirvesindeki küresel arayışların yarattığı o ağır beklenti atmosferiyle tuhaf bir uyum içinde yankılanıyor. CAN grubunun Future Days parçası ise bu mekanik geçmişin üzerine, dijital dönüşümün ve yapay zekanın getirdiği tekinsiz dinginliği bir sis tabakası gibi yayıyor. Geçmişin dumanlı fabrikalarından geleceğin belirsiz ufuklarına bakarken, değişimin soğuk nefesi hem milli takımın sahadaki hazırlıklarında hem de kışın kapımıza dayanan sessizliğinde hissediliyor. İnsan emeğinin demirle olan imtihanı, yerini bugün verilerin ve finansal dengelerin soyut dünyasına bırakırken, hepimiz bir sonraki büyük kırılmanın eşiğinde nefesimizi tutmuş bekliyoruz. Bu geçiş dönemi, tıpkı Menzelin tuvallerindeki o yoğun ışık ve gölge oyunu gibi, hem korkutucu bir belirsizliği hem de yeni bir başlangıcın vaadini içinde barındırıyor."
+}

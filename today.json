@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-11",
-  "date_human": "11 November 2026",
-  "generated_at": "2026-11-11T01:30:42.728512+00:00",
+  "date": "2026-11-12",
+  "date_human": "12 November 2026",
+  "generated_at": "2026-11-12T01:31:06.849037+00:00",
   "stats": {
     "feeds_collected": 287,
-    "news_total": 4767,
-    "news_analyzed": 612,
+    "news_total": 4792,
+    "news_analyzed": 617,
     "clusters": 10
   },
   "mood": {
-    "description": "Türkiye, 10 Kasım Atatürk'ü anma etkinliklerinin getirdiği hüzünlü ve saygılı atmosfer ile COP31 zirvesinin yarattığı yoğun diplomasi ve iklim odaklı hareketliliği aynı anda yaşıyor. Gündem, üst düzey siyasi temaslar ve spor camiasındaki köklü değişimlerle oldukça dinamik bir seyir izliyor.",
-    "dominant_emotion": "Yoğunluk",
+    "description": "Türkiye, COP31 iklim zirvesindeki küresel temaslar ve ekonomi yönetimindeki kritik değişimlerle hareketli bir gün geçiriyor. Toplumda ise kışa geçişin getirdiği soğuk hava şartları ve dijital dönüşümün yarattığı gündelik değişimler öne çıkıyor.",
+    "dominant_emotion": "Beklenti",
     "key_themes": [
-      "COP31 İklim Zirvesi ve Küresel Diplomasi",
-      "Atatürk'ü Anma Günü",
-      "Süper Lig'de Teknik Direktör Değişimleri",
-      "Yapay Zeka ve Veri Merkezi Güvenliği",
-      "Ekonomide Enflasyon ve Yatırım Hamleleri"
+      "COP31 ve İklim Finansmanı",
+      "Ekonomi Yönetiminde Değişim ve Kredi Düzenlemeleri",
+      "Teknolojik Dönüşüm ve Yapay Zeka",
+      "Spor Dünyasında Ayrılıklar ve Milli Takım Hazırlıkları"
     ]
   },
   "weather": {
@@ -25,506 +24,490 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-11",
-        "code": 45,
-        "temp_max": 18.9,
-        "temp_min": 10.0
-      },
-      {
         "date": "2026-11-12",
         "code": 3,
         "temp_max": 22.2,
-        "temp_min": 16.9
+        "temp_min": 17.3
       },
       {
         "date": "2026-11-13",
         "code": 61,
-        "temp_max": 22.0,
-        "temp_min": 18.2
+        "temp_max": 22.5,
+        "temp_min": 18.1
       },
       {
         "date": "2026-11-14",
         "code": 3,
-        "temp_max": 20.2,
-        "temp_min": 18.2
+        "temp_max": 22.0,
+        "temp_min": 18.1
       },
       {
         "date": "2026-11-15",
-        "code": 80,
-        "temp_max": 20.2,
-        "temp_min": 10.7
+        "code": 95,
+        "temp_max": 19.3,
+        "temp_min": 11.5
       },
       {
         "date": "2026-11-16",
-        "code": 3,
-        "temp_max": 15.0,
-        "temp_min": 8.9
+        "code": 45,
+        "temp_max": 16.5,
+        "temp_min": 7.6
       },
       {
         "date": "2026-11-17",
-        "code": 3,
-        "temp_max": 15.7,
-        "temp_min": 9.0
+        "code": 80,
+        "temp_max": 18.4,
+        "temp_min": 9.3
+      },
+      {
+        "date": "2026-11-18",
+        "code": 80,
+        "temp_max": 19.8,
+        "temp_min": 15.3
       }
     ]
   },
   "clusters": [
     {
-      "title": "COP31 Zirvesi ve İklim Diplomasisi",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Antalya'da düzenlenen COP31 zirvesi, Cumhurbaşkanı Erdoğan'ın yoğun diplomasi trafiğine, uluslararası liderlerin katılımlarına ve sürdürülebilirlik odaklı yeni enerji yatırımlarına sahne oluyor.",
+      "title": "BDDK Başkanı Şahap Kavcıoğlu'nun İstifası",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "BDDK Başkanı Şahap Kavcıoğlu, görevinden affını isteyerek istifa etti; yerine gelecek isim ve piyasa etkileri konuşuluyor.",
       "importance": 9,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "BDDK Başkanı Şahap Kavcıoğlu İstifa Etti",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/bddk-baskani-sahap-kavcioglu-istifa-etti-1394497",
+          "also_in": [
+            "Artı Gerçek",
+            "Diken",
+            "Haberet",
+            "Dokuz8 Haber",
+            "Veryansın TV",
+            "Tele2",
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "BDDK Başkanı Şahap Kavcıoğlu görevden affını istedi",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi/368467/",
+          "also_in": [
+            "BHA",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "BDDK Başkanı Şahap Kavcıoğlu, görevinden affını istedi",
+          "source": "Radikal",
+          "link": "https://www.radikal.com.tr/ekonomi/bddk-baskani-sahap-kavcioglu-gorevinden-affini-istedi-39916/",
+          "also_in": [
+            "Foreks"
+          ]
+        },
+        {
+          "title": "BDDK Başkanı Kavcıoğlu istifa etti",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/bddk-baskani-kavcioglu-istifa-etti-3794169",
+          "also_in": [
+            "Ekonomi Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "COP31: İklim Finansmanı ve Türkiye'nin Rolü",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Cumhurbaşkanı Erdoğan ve bakanların katıldığı COP31 zirvesinde, Türkiye'nin yeşil dönüşüm finansmanı ve iklim kriziyle mücadele stratejileri ele alınıyor.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "\"Türkiye İklim Okulu\", COP31 kapsamında uluslararası etkinliklere ev sahipliği yaptı",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/turkiye-iklim-okulu-cop31-kapsaminda-uluslararasi-etkinliklere-ev-sahipligi-yapti-288757h",
+          "title": "Cumhurbaşkanı Erdoğan, COP31 Liderler Zirvesi'nin anı panosunu imzaladı",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-cop31-liderler-zirvesinin-ani-panosunu-imzaladi",
           "also_in": [
-            "En Son Haber",
+            "Haber Global",
             "TRT Haber"
           ]
         },
         {
-          "title": "Azerbaycan Cumhurbaşkanı Aliyev, COP31 Zirvesi için Antalya'ya geldi",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/azerbaycan-cumhurbaskani-aliyev-cop31-zirvesi-icin-antalyaya-geldi-288766h",
+          "title": "COP31 Başkanı Kurum: Hiçbir ülke iklim krizi karşısında tek başına güvende değil",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cop31-baskani-kurum-hicbir-ulke-iklim-krizi-karsisinda-tek-basina-guvende-degil-h1581701",
           "also_in": [
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "COP31 Başkanı Kurum: Türkiye uzlaşıya katkı sunmaya hazır",
+          "source": "Haber",
+          "link": "https://www.haber.com/gundem/cop31-baskani-kurum-turkiye-uzlasiya-katki-sunmaya-hazir-32129",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan COP31'de iklim mesajı: Ya şikâyet edeceğiz ya harekete geçeceğiz",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/cumhurbaskani-erdogan-dan-cop31-de-iklim-mesaji-ya-sikayet-edecegiz-ya-harekete-gececegiz/949858",
+          "also_in": []
+        },
+        {
+          "title": "Erdoğan: İklim finansmanı daha ulaşılabilir hale getirilmeli",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/erdogan-cop31-in-cevreye-etkisini-en-aza-indirdik-3794202",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Merkez Bankası'ndan Kredi Büyüme Sınırı Düzenlemesi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "TCMB, ihtiyaç ve taşıt kredilerinde büyüme sınırlarını yükselterek kredi piyasasında yeni bir dönemi başlattı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Merkez Bankası kredi büyüme sınırlarını yükseltti",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/ekonomi/tcmbden-kredi-buyume-siniri-karari-haberi-930684",
+          "also_in": [
+            "Haber",
+            "İnternet Haber",
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "TCMB kredi büyüme sınırlarını yükseltti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423",
+          "also_in": [
+            "Haber Global",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Merkez Bankası kredi sınırlarını yükseltti",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/ekonomi/merkez-bankasi-kredi-sinirlarini-yukseltti/400139",
+          "also_in": [
+            "Habertürk",
             "Sputnik"
           ]
         },
         {
-          "title": "Cumhurbaşkanı Erdoğan'dan COP31'de yoğun diplomasi trafiği",
-          "source": "Dünya",
-          "link": "https://www.dunya.com/gundem/cumhurbaskani-erdogandan-cop31de-yogun-diplomasi-trafigi-haberi-847176",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "CANLI | Başkan Erdoğan'dan Antalya COP31'de diplomasi trafiği: Liderlerle görüştü",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/10/baskan-erdogandan-antalya-cop31de-diplomasi-trafigi-liderlerle-gorustu",
-          "also_in": []
-        },
-        {
-          "title": "COP31'de Togg'a uluslararası katılımcılardan yoğun ilgi: Karakaş 2035 hedefini açıkladı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/10/cop31de-togga-uluslararasi-katilimcilardan-yogun-ilgi",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "10 Kasım Atatürk'ü Anma Etkinlikleri",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Türkiye genelinde 10 Kasım dolayısıyla düzenlenen anma törenleri, devlet erkanı ve spor camiasının katılımıyla gerçekleştirildi.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Galatasaray'dan Ulu Önder Atatürk için anma töreni",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/11/10/galatasaraydan-ulu-onder-ataturk-icin-anma-toreni",
-          "also_in": []
-        },
-        {
-          "title": "Fenerbahçe Kulübü, Büyük Önder Atatürk'ü Dolmabahçe açıklarında andı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/10/fenerbahce-kulubu-buyuk-onder-ataturku-dolmabahce-aciklarinda-andi",
-          "also_in": []
-        },
-        {
-          "title": "Spor camiası, Ulu Önder Mustafa Kemal Atatürk'ü andı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/haberler/2026/11/10/spor-camiasi-ulu-onder-mustafa-kemal-ataturku-andi",
-          "also_in": []
-        },
-        {
-          "title": "Ankara Büyükşehir Belediyesi Ata'sını andı",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/ankara-buyuksehir-belediyesi-atasini-andi",
-          "also_in": [
-            "Haber 3"
-          ]
-        },
-        {
-          "title": "Başkan Erdoğan ve devlet erkanı Anıtkabir'i ziyaret etti",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/10/baskan-erdogan-ve-devlet-erkani-anitkabiri-ziyaret-etti",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Süper Lig'de Teknik Direktör Hareketliliği",
-      "meta_category": "Spor",
-      "summary": "Süper Lig ekiplerinden Trabzonspor ve Alanyaspor'da yaşanan teknik direktör ayrılıkları ve yeni atamalar spor gündemini domine etti.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Alanyaspor’da Joao Pereira dönemi sona erdi!",
-          "source": "Sabah Spor",
-          "link": "https://www.sabah.com.tr/spor/futbol/2026/11/10/alanyasporda-joao-pereira-donemi-sona-erdi",
-          "also_in": [
-            "CNN Türk",
-            "Cumhuriyet",
-            "Evrensel",
-            "Gerçek Gündem"
-          ]
-        },
-        {
-          "title": "Trabzonspor'da Selçuk Ernak dönemi sona erdi!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/basketbol/2026/11/10/trabzonsporda-selcuk-ernak-donemi-sona-erdi",
-          "also_in": [
-            "Basket Dergisi",
-            "Cumhuriyet",
-            "Star"
-          ]
-        },
-        {
-          "title": "Trabzonspor'da Selçuk Ernak ile yollar ayrıldı",
-          "source": "AjansSpor",
-          "link": "https://ajansspor.com/haber/trabzonsporda-selcuk-ernak-ile-yollar-ayrildi-738404",
-          "also_in": [
-            "Sabah Spor",
-            "Haber Global"
-          ]
-        },
-        {
-          "title": "Alanyaspor, Uğur Uçar'ı resmen açıkladı!",
-          "source": "AjansSpor",
-          "link": "https://ajansspor.com/haber/alanyaspor-ugur-ucari-resmen-acikladi-738403",
-          "also_in": [
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "Corendon Alanyaspor'da Joao Pereira dönemi sona erdi! Yeni teknik direktör resmen Uğur Uçar",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/alanyaspor/2026/11/10/corendon-alanyasporda-joao-pereira-donemi-sona-erdi-yeni-teknik-direktor-resmen-ugur-ucar",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "İran-ABD Gerilimi ve Hürmüz Boğazı",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İran'ın Hürmüz Boğazı'na dair sert açıklamaları ve füze üssü hamleleri, bölgedeki jeopolitik gerilimi tırmandırıyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "İran: 'Hürmüz Boğazı 7 şart yerine getirilene kadar açılmayacak'",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/iran-hurmuz-bogazi-7-sart-yerine-getirilene-kadar-acilmayacak-2555155",
-          "also_in": [
-            "En Son Haber",
-            "Haber Global",
-            "İnternet Haber"
-          ]
-        },
-        {
-          "title": "İran'dan tüm dünyaya gövde gösterisi: Yer altı füze üssü açıldı, gizlenen füze merak uyandırdı!",
-          "source": "Haber 3",
-          "link": "https://www.haber3.com/video-galeri/haber/irandan-tum-dunyaya-govde-gosterisi-yer-alti-fuze-ussu-acildi-gizlenen-fuze-merak-uyandirdi-video-6268997",
-          "also_in": [
-            "Haber 3"
-          ]
-        },
-        {
-          "title": "İran: ABD'nin şartlarımıza yanıtı aldatıcı, Hürmüz Boğazı 7 şart yerine getirilene kadar açılmayacak",
-          "source": "Independent Türkçe",
-          "link": "https://www.indyturk.com/node/785038/d%C3%BCnya/i%CC%87ran-abdnin-%C5%9Fartlar%C4%B1m%C4%B1za-yan%C4%B1t%C4%B1-aldat%C4%B1c%C4%B1-h%C3%BCrm%C3%BCz-bo%C4%9Faz%C4%B1-7-%C5%9Fart-yerine-getirilene",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "İran'dan Hürmüz Boğazı kararı: 7 şart karşılanmadan açılmayacak",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/irandan-hurmuz-bogazi-karari-7-sart-karsilanmadan-acilmayacak-876785",
-          "also_in": []
-        },
-        {
-          "title": "İran balistik füzelerde 2 bin kilometre sınırını kaldırdı: Hedef menzili genişliyor mu?",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/iran-balistik-fuzelerde-2-bin-kilometre-sinirini-kaldirdi-hedef-menzili-genisliyor-876769",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka ve Siber Güvenlik Krizi",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Teknoloji dünyasında veri merkezlerine yönelik siber saldırılar, casusluk iddiaları ve yapay zeka altyapısına yönelik güvenlik endişeleri artıyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Rusya veri merkezlerini saldırılardan korumak için yer altına taşıyor",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/rusya-veri-merkezlerini-yer-altina-tasimaya-karar-verdi--212731",
-          "also_in": [
-            "Haber"
-          ]
-        },
-        {
-          "title": "Teknoloji dünyasında casusluk krizi: Nvidia CEO'su Jensen Huang mercek altında",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/teknoloji-dunyasinda-casusluk-krizi-nvidia-ceosu-jensen-huang-mercek-altinda/104196",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Yandex'in veri merkezlerine İHA darbesi: Milyonlarca verinin akıbeti belli oldu",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/yandexin-veri-merkezlerine-iha-darbesi-milyonlarca-verinin-akibeti-belli-oldu/104194",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Avrupa'nın 15 ülkesinde yapay zeka veri merkezlerine karşı protestolar düzenlendi",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/avrupanin-15-ulkesinde-yapay-zeka-veri-merkezlerine-karsi-protestolar-duzenlendi_185214.html",
-          "also_in": []
-        },
-        {
-          "title": "Nvidia'da kriz büyüyor: Jensen Huang için dava süreci başladı",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/nvidia-da-kriz-buyuyor-jensen-huang-icin-dava-sureci-basladi--212726",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomi ve Piyasalar: Enflasyon ve İndirimler",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "ABD'de açıklanan enflasyon verileri ve Türkiye'de beklenen akaryakıt indirimleri piyasaların yönünü belirliyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "ABD’de ekim enflasyonu açıklandı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/abd-de-ekim-enflasyonu-aciklandi/949287",
-          "also_in": []
-        },
-        {
-          "title": "Petrol 10 haftanın en düşük seviyesine indi: Akaryakıta çifte indirim göründü",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/petrol-10-haftanin-en-dusuk-seviyesine-indi-akaryakita-cifte-indirim-gorundu/949087",
-          "also_in": []
-        },
-        {
-          "title": "ABD'de temmuzdan bu yana ilk: Benzin fiyatları ilk kez 4 doların altına indi!",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/enerji/abdde-temmuzdan-bu-yana-ilk-benzin-fiyatlari-ilk-kez-4-dolarin-altina-indi-h41505",
-          "also_in": []
-        },
-        {
-          "title": "ABD enflasyonu altını vurdu: Fiyatlar yüzde 2'den fazla geriledi",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/altin/abd-enflasyonu-altini-vurdu-fiyatlar-yuzde-2den-fazla-geriledi-g41485",
-          "also_in": []
-        },
-        {
-          "title": "Piyasaların odağındaki veri açıklandı: ABD'de enflasyon beklentileri aştı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/veriler/piyasalarin-odagindaki-veri-aciklandi-abdde-enflasyon-beklentileri-asti-g41482",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "GTA 6 Heyecanı ve Oyun Dünyası",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "GTA 6'nın teknik özellikleri, ön yükleme detayları ve konsol performansına dair sızıntılar oyun dünyasında büyük yankı uyandırdı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "GTA 6 için geri sayım başladı: Dev dosya boyutu ve ön yükleme detayları belli oldu",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/gta-6-icin-geri-sayim-basladi-dev-dosya-boyutu-ve-on-yukleme-detaylari-belli-oldu/104202",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Rockstar takvimi öne çekti: GTA 6'nın dijital ön yüklemesi iki gün erken başladı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/rockstar-takvimi-one-cekti-gta-6nin-dijital-on-yuklemesi-iki-gun-erken-basladi_185219.html",
-          "also_in": []
-        },
-        {
-          "title": "GTA 6 tüm konsollarda 30 FPS çalışacak! PS5 Pro'ya özel ray tracing",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/gta-6-30-fps-calisacak-ps5-pro-ya-ozel-ray-tracing--212732",
-          "also_in": []
-        },
-        {
-          "title": "GTA 6 Tüm Konsollarda 30 FPS Olacak: PS5 Pro Grafik Farkları Açıklandı",
-          "source": "FRPNET",
-          "link": "https://frpnet.net/haberler/oyun-haberleri/gta-6-tum-konsollarda-30-fps-olacak-ps5-pro-grafik-farklari-aciklandi",
-          "also_in": []
-        },
-        {
-          "title": "GTA 6, PlayStation ve XBOX Mağazalarında Ön-Sipariş Rekoru Kırdı",
-          "source": "Merlin'in Kazanı",
-          "link": "https://www.merlininkazani.com/gta-6-playstation-ve-xbox-magazalarinda-on-siparis-rekoru-kirdi-haber-264265",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Fon Soruşturması ve Hukuki Süreçler",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Üst düzey isimlerin dahil olduğu fon soruşturmasında tutuklama talepleri ve hukuki süreçler kamuoyunun odağında yer alıyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Fon soruşturmasında 3 tutuklama talebi",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/fon-sorusturmasinda-3-tutuklama-talebi-h1581421",
-          "also_in": [
-            "Habertürk"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında 3 isme tutuklama talebi",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/fon-sorusturmasinda-3-isme-tutuklama-talebi",
-          "also_in": [
-            "Haber Global"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında 5 şüpheli adliyeye sevk edildi",
-          "source": "Hürriyet",
-          "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-4-supheli-adliyeye-sevk-edildi-43373180",
-          "also_in": [
-            "Döviz"
-          ]
-        },
-        {
-          "title": "Fon soruşturmasında üst düzey isimler için tutuklama talebi: 3 kişi hakimlikte",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-ust-duzey-isimler-icin-tutuklama-talebi-3-kisi-hakimlikte-876800",
-          "also_in": []
-        },
-        {
-          "title": "Fatih Altaylı'dan çarpıcı iddia: \"Erdoğan fon soruşturması için 10 gün süre verdi\"",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/fatih-altaylidan-carpici-iddia-erdogan-fon-sorusturmasi-icin-10-gun-sure-verdi-876794",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kaşif Kozinoğlu'nun Ölümüne Dair Tartışmalar",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Başsavcılığın Kaşif Kozinoğlu'nun ölüm raporuna itiraz etmesi, konunun yeniden yargı gündemine taşınmasına neden oldu.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Başsavcılıktan Kaşif Kozinoğlu’nun ölümüne ilişkin Adli Tıp raporuna itiraz",
+          "title": "Merkez Bankası ihtiyaç ve taşıt kredilerinde büyüme sınırını yükseltti",
           "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/bassavciliktan-kasif-kozinoglu-nun-olumune-iliskin-adli-tip-raporuna-itiraz-1028567.html",
+          "link": "https://www.dikgazete.com/haber/merkez-bankasi-ihtiyac-ve-tasit-kredilerinde-buyume-sinirini-yukseltti-1029338.html",
           "also_in": [
-            "Karar"
+            "Haber 7"
           ]
         },
         {
-          "title": "Silivri Başsavcılığı Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz etti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/silivri-bassavciligi-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-etti/4119512",
-          "also_in": [
-            "Haberler"
-          ]
-        },
-        {
-          "title": "Başsavcılıktan Kaşif Kozinoğlu'nun ölümüne ilişkin hazırlanan rapora itiraz",
+          "title": "Son dakika...Merkez Bankası'ndan kredi hamlesi: İhtiyaç, taşıt ve ticari kredilerde yeni dönem",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/bassavciliktan-kasif-kozinoglu-nun-olumune-iliskin-hazirlanan-rapora-itiraz-p380025",
+          "link": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
           "also_in": [
-            "Sözcü Gündem"
+            "Sözcü Ekonomi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Devlerinde Yapay Zeka ve Kesintiler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Dünyanın önde gelen platformlarında (WhatsApp, ChatGPT, Instagram) yaşanan erişim sorunları ve yeni yapay zeka entegrasyonları gündemde.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "WhatsApp kullanıcıları için kritik uyarı: Yapay zeka destekli yeni tuzak!",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/whatsapp-kullanicilari-icin-kritik-uyari-yapay-zeka-destekli-yeni-tuzak/104205",
+          "also_in": [
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Kaşif Kozinoğlu'nun ölümünde Adli Tıp raporuna itiraz",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/10/kasif-kozinoglunun-olumunde-adli-tip-raporuna-itiraz",
+          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (11 Kasım 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-11-kasim-2026_176278.html",
           "also_in": []
         },
         {
-          "title": "Kaşif Kozinoğlu'nun ölüm raporuna itiraz: Ağır metal bulguları yeniden incelenecek",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/kasif-kozinoglunun-olum-raporuna-itiraz-agir-metal-bulgulari-yeniden-incelenecek-876786",
+          "title": "X (Twitter) çöktü mü? (11 Kasım 2026) Hata bildirim raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-11-kasim-2026-hata-bildirim-raporu_178117.html",
+          "also_in": []
+        },
+        {
+          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (11 Kasım 2026)",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-11-kasim-2026_178116.html",
+          "also_in": []
+        },
+        {
+          "title": "WhatsApp çöktü mü? 11 Kasım’da erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-11-kasimda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Ehliyet Sınavlarında Usulsüzlük Operasyonları",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "İstanbul ve Kocaeli merkezli düzenlenen operasyonlarla ehliyet sınavlarında usulsüzlük yapan şebekelere ağır darbe vuruldu.",
-      "importance": 6,
-      "story_count": 3,
+      "title": "Spor Kulüplerinde Ayrılıklar ve Transfer Gelişmeleri",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe'de Dirk Kuyt ile yollar ayrılırken, Galatasaray ve diğer büyük kulüplerde transfer planlamaları hız kazandı.",
+      "importance": 7,
+      "story_count": 5,
       "stories": [
         {
-          "title": "İstanbul ve Kocaeli'de ehliyet sınavlarında usulsüzlük iddiasıyla 23 zanlı yakalandı",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/istanbul-ve-kocaelide-ehliyet-sinavlarinda-usulsuzluk-iddiasiyla-23-zanli-yakalandi-2467950h.htm",
+          "title": "Fenerbahçe'de Dirk Kuyt ile yollar ayrıldı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/11/fenerbahcede-dirk-kuyt-ile-yollar-ayrildi",
+          "also_in": [
+            "Gazete Duvar"
+          ]
+        },
+        {
+          "title": "TRANSFER HABERİ: Fenerbahçe'de flaş ayrılık kararı! Emre Belözoğlu olumsuz rapor verdi",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/11/transfer-haberi-fenerbahcede-flas-ayrilik-karari-emre-belozoglu-olumsuz-rapor-verdi",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Dirk Kuyt ile yollarını ayırdı",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/fenerbahce-dirk-kuyt-ile-yollarini-ayirdi",
+          "also_in": [
+            "Yurt Gazetesi"
+          ]
+        },
+        {
+          "title": "Fenerbahçe'de ayrılık gerçekleşiyor",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-ayrilik-gerceklesiyor-anlasma-tamam-1828689",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Lukaku'dan Fenerbahçe'ye kötü haber! Türkiye maçında forma giyemeyecek",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/lukakudan-fenerbahceye-kotu-haber-turkiye-macinda-forma-giyemeyecek-876864",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ziraat Bankası'ndan Tarihi Büyüme",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Ziraat Bankası, aktif büyüklüğünün 10 trilyon TL barajını aşarak Türk bankacılık tarihinde bir ilki gerçekleştirdiğini duyurdu.",
+      "importance": 7,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "Ziraat Bankası Türk bankacılığında tarihi eşiği aştı! Aktif büyüklüğü 10 trilyon TL’yi geçti",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/ziraat-bankasi-turk-bankaciliginda-tarihi-esigi-asti-aktif-buyuklugu-10-trilyon-t-876880",
+          "also_in": []
+        },
+        {
+          "title": "Bankacılık tarihinde bir ilk: Ziraat Bankası aktif büyüklüğü 10 trilyon TL’yi aştı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/bankacilik-tarihinde-bir-ilk-ziraat-bankasi-aktif-buyuklugu-10-trilyon-tlyi-asti-753885/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Rize'de Feci Kaza: 3 Ölü",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Rize'de bir kamyonetin dereye devrilmesi sonucu 3 kişi hayatını kaybetti.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Rize’de kamyonet dereye yuvarlandı: 3 kişi hayatını kaybetti",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/rize-de-kamyonet-dereye-yuvarlandi-3-kisi-hayatini-kaybetti-p380432",
+          "also_in": [
+            "Sözcü Gündem",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Rize'de kamyonet dereye devrildi: 3 kişi hayatını kaybetti",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/rizede-kamyonet-dereye-devrildi-3-kisi-hayatini-kaybetti/haber-1713901",
+          "also_in": [
+            "Cumhuriyet"
+          ]
+        },
+        {
+          "title": "Rize'de dereye devrilen kamyonetteki 3 kişi hayatını kaybetti",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/asayis/rizede-dereye-devrilen-kamyonetteki-3-kisi-hayatini-kaybetti-288915h",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Rize'de kamyonet dereye yuvarlandı Üç kişi hayatını kaybetti",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/rizede-kamyonet-dereye-yuvarlandi-uc-kisi-hayatini-kaybetti-4277685",
           "also_in": [
             "Yeni Şafak"
           ]
         },
         {
-          "title": "Sürücü kurslarına 'joker' operasyonu! İstanbul ve Kocaeli'de 23 gözaltı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/10/surucu-kurslarina-joker-operasyonu-istanbul-ve-kocaelide-23-gozalti",
+          "title": "Rize'de kamyonet dereye devrildi: 3 ölü",
+          "source": "İnternet Haber",
+          "link": "https://www.internethaber.com/rizede-kamyonet-dereye-devrildi-3-olu-2468181h.htm",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "A Milli Takım Belçika Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "A Milli Futbol Takımı, Belçika ile oynanacak maç için hazırlıklarını sürdürürken kadrodaki sakatlıklar dikkat çekiyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "A Milli Futbol Takımı, Belçika maçı için İzmir'e geldi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-a-milli-futbol-takimi-belcika-maci-icin-izmire-geldi-432860",
+          "also_in": [
+            "NTV Spor Futbol",
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Belçika, Lukaku'dan gelen kötü haberi duyurdu! Türkiye maçına saatler kala planlar değişti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-belcika-lukakudan-gelen-kotu-haberi-duyurdu-turkiye-macina-saatler-kala-planlar-degisti-432855",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "A Milli Takım'da sakatlık depremi! Kadrodan çıkarıldı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-son-dakika-a-milli-takimda-sakatlik-depremi-kadrodan-cikarildi-432852",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "A Milli Futbol Takımımızın konuğu Belçika",
+          "source": "İstiklal",
+          "link": "https://www.istiklal.com.tr/spor/a-milli-futbol-takimimizin-konugu-belcika-1110578h",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "A Milli Takım’da sakatlık: Aral Şimşir kadrodan çıkarıldı",
+          "source": "10Haber",
+          "link": "https://10haber.net/spor/a-milli-takimda-sakatlik-aral-simsir-kadrodan-cikarildi-753915/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka Destekli Oyuncak ve Yazılım Tehlikeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yeni nesil yapay zeka destekli oyuncakların çocuklara verdiği yanıtlar ve artan dijital dolandırıcılık yöntemleri üzerine uyarılar yapıldı.",
+      "importance": 5,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "WhatsApp kullanıcıları için kritik uyarı: Yapay zeka destekli yeni tuzak!",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/whatsapp-kullanicilari-icin-kritik-uyari-yapay-zeka-destekli-yeni-tuzak/104205",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Üç yaşındaki çocuklara satılan yapay zekalı oyuncaktan korkutan yanıt",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/uc-yasindaki-cocuklara-satilan-yapay-zekali-oyuncaktan-korkutan-yanit_185224.html",
           "also_in": []
         },
         {
-          "title": "İki ilde ehliyet sınavında usulsüzlük iddiasında 23 kişi gözaltına alındı",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/yerel-ve-sektorel-haberleri/iki-ilde-ehliyet-sinavinda-usulsuzluk-iddiasinda-23-kisi-gozaltina-alindi/949309",
+          "title": "Kanada'da Hemşireden Erkek Hastasına Akılalmaz Teklif: \"Sağlığına İyi Gelir\"",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/kanadada-hemsireden-erkek-hastasina-akilalmaz-teklif-sagligina-iyi-gelir-876893",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye'deki Bir Okulda Yaşananlar Tepki Çekti! \"Doğruluk mu Cesaret mi?\" Oyunu Krize Dönüştü!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/turkiye/turkiyedeki-bir-okulda-yasananlar-tepki-cekti-dogruluk-mu-cesaret-mi-oyunu-krize-876888",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "37. Ankara Film Festivali Başlıyor",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Ankara'nın köklü sinema etkinliği 37. kez kapılarını sanatseverlere açıyor.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Başkentte Sinema Zamanı: 37. Ankara Film Festivali Yarın Başlıyor!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000231765/",
+          "also_in": []
+        },
+        {
+          "title": "37. Ankara Film Festivali",
+          "source": "Altyazı",
+          "link": "https://altyazi.net/matine/37-ankara-film-festivali/",
+          "also_in": []
+        },
+        {
+          "title": "37. Ankara Film Festivali Yarın Başlıyor",
+          "source": "Bağımsız Sinema",
+          "link": "https://www.bagimsizsinema.com/37-ankara-film-festivali-yarin-basliyor.html",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "Melencolia I",
-    "artist": "Albrecht Dürer",
-    "year": "1514",
+    "title": "The Iron Rolling Mill (Modern Cyclopes)",
+    "artist": "Adolph Menzel",
+    "year": "1875",
     "form": "resim",
-    "medium": "Engraving",
-    "location": "British Museum",
-    "description": "Yapay zeka ve siber güvenlik belirsizlikleri ile teknik direktör değişimlerinin yarattığı kaosun içindeki derin düşünceli ve melankolik arayışı temsil ediyor.",
+    "medium": "Oil on canvas",
+    "location": "Alte Nationalgalerie, Berlin",
+    "description": "Sanayi ve teknolojinin yarattığı yoğun atmosfer, bugünün dijital dönüşüm ve ekonomik büyüme temalarıyla güçlü bir paralellik taşıyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Melencolia_I",
-    "wikipedia_extract": "Melencolia I is a large 1514 engraving by the German Renaissance artist Albrecht Dürer. Its central subject is a brooding, winged female figure generally interpreted to represent a personification of melancholia. The area within the frame is strewn with symbols and tools associated with craft and carpentry, including an hourglass, weighing scales, a hand plane, a claw hammer, and a saw. Other objects relate to alchemy, geometry or numerology. Behind the figure is a structure with an embedded magic square, and a ladder leading beyond the frame. The sky contains a rainbow, a comet or planet, and a bat-like creature bearing the text that has become the print's title.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Albrecht_D%C3%BCrer_-_Melencolia_I_-_Google_Art_Project_%28_AGDdr3EHmNGyA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Iron_Rolling_Mill_(Modern_Cyclopes)",
+    "wikipedia_extract": "The Iron Rolling Mill (Modern Cyclopes) is an oil on canvas painting by German artist Adolph Menzel, created in 1872-1875. The painting is one of his main works from the time when the painter was mostly concerned with contemporary issues and the social question as a result of the uninhibited technical advances made during the Industrial Revolution, particularly in Germany. It has the large dimensions of 158 by 254 cm. The signature of the artist can be seen at the lower left: \"Signatur Adolph Menzel. Berlin 1875\". The realistic painting caused a stir at the time and is now part of the collection of the Alte Nationalgalerie, in Berlin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Adolph_Menzel"
   },
   "music": {
-    "title": "Pyramid Song",
-    "artists": "Radiohead",
-    "album": "Amnesiac",
-    "duration": "4:48",
-    "spotify_url": "https://open.spotify.com/track/55q3Ro66yXWi9rsEddeEN4",
-    "spotify_id": "55q3Ro66yXWi9rsEddeEN4",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273863e0e305637100311c91aa7",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/55q3Ro66yXWi9rsEddeEN4\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Future Days",
+    "artists": "CAN",
+    "album": "Future Days (Remastered)",
+    "duration": "9:30",
+    "spotify_url": "https://open.spotify.com/track/1PNk1Xno8t3spNEU78Hxsu",
+    "spotify_id": "1PNk1Xno8t3spNEU78Hxsu",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b2735d64963a2f6f4d1bcf9dbb24",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1PNk1Xno8t3spNEU78Hxsu\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Bugünün atmosferi, bir yanıyla tarihe duyulan derin bir saygının sessiz hüznüyle, diğer yanıyla iklim krizinden siyasi arenaya uzanan geleceği inşa etme telaşının yarattığı yoğun bir karmaşa ile sarmalanmış durumda. Albrecht Dürer’in Melencolia I eserindeki kanatlı figür, tam da bu noktada, verilerin ve araçların arasında sıkışmış modern insanın hem dingin hem de huzursuz arayışına tercüman oluyor. Radiohead’in Pyramid Song parçası bu görsel ağırlığı bir nehir gibi kuşatırken, zamanın ve mekânın ötesinden gelen tekinsiz melodileriyle geçmişin hatıralarını geleceğin belirsizliğiyle buluşturuyor. Süper Lig'den diplomasi koridorlarına, yapay zekadan enflasyonun soğuk gerçekliğine kadar uzanan bu hareketlilik, aslında insanın elindeki sınırlı araçlarla sonsuz bir denge kurma çabasını simgeliyor. İnsanlık, hem anılarına sadık kalarak yasını tutan hem de hızla değişen dünyanın karmaşasına uyum sağlamaya çalışan o melankolik bilgenin duruşunda birleşiyor."
+  "curator_statement": "Endüstriyel bir devrimin çarkları arasında insanlığın terini kutsallaştıran Adolph Menzelin The Iron Mill eseri, bugün ekonomi yönetimindeki değişimlerin ve iklim zirvesindeki küresel arayışların yarattığı o ağır beklenti atmosferiyle tuhaf bir uyum içinde yankılanıyor. CAN grubunun Future Days parçası ise bu mekanik geçmişin üzerine, dijital dönüşümün ve yapay zekanın getirdiği tekinsiz dinginliği bir sis tabakası gibi yayıyor. Geçmişin dumanlı fabrikalarından geleceğin belirsiz ufuklarına bakarken, değişimin soğuk nefesi hem milli takımın sahadaki hazırlıklarında hem de kışın kapımıza dayanan sessizliğinde hissediliyor. İnsan emeğinin demirle olan imtihanı, yerini bugün verilerin ve finansal dengelerin soyut dünyasına bırakırken, hepimiz bir sonraki büyük kırılmanın eşiğinde nefesimizi tutmuş bekliyoruz. Bu geçiş dönemi, tıpkı Menzelin tuvallerindeki o yoğun ışık ve gölge oyunu gibi, hem korkutucu bir belirsizliği hem de yeni bir başlangıcın vaadini içinde barındırıyor."
 }
