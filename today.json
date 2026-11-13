@@ -1,21 +1,21 @@
 {
-  "date": "2026-11-12",
-  "date_human": "12 November 2026",
-  "generated_at": "2026-11-12T01:31:06.849037+00:00",
+  "date": "2026-11-13",
+  "date_human": "13 November 2026",
+  "generated_at": "2026-11-13T01:30:46.982709+00:00",
   "stats": {
     "feeds_collected": 287,
-    "news_total": 4792,
-    "news_analyzed": 617,
-    "clusters": 10
+    "news_total": 4777,
+    "news_analyzed": 619,
+    "clusters": 8
   },
   "mood": {
-    "description": "Türkiye, COP31 iklim zirvesindeki küresel temaslar ve ekonomi yönetimindeki kritik değişimlerle hareketli bir gün geçiriyor. Toplumda ise kışa geçişin getirdiği soğuk hava şartları ve dijital dönüşümün yarattığı gündelik değişimler öne çıkıyor.",
-    "dominant_emotion": "Beklenti",
+    "description": "Güne, Malatya'da yaşanan helikopter kazasının derin üzüntüsü ve Nvidia CEO'sunun istifasıyla tetiklenen küresel teknoloji piyasalarındaki çalkantı damga vuruyor. Bir yandan COP31 ile yeşil dönüşüm ve iklim diplomasisi konuşulurken, diğer yandan ulusal ve uluslararası siyasi gerilimlerin ağırlığı hissediliyor.",
+    "dominant_emotion": "Endişe",
     "key_themes": [
-      "COP31 ve İklim Finansmanı",
-      "Ekonomi Yönetiminde Değişim ve Kredi Düzenlemeleri",
-      "Teknolojik Dönüşüm ve Yapay Zeka",
-      "Spor Dünyasında Ayrılıklar ve Milli Takım Hazırlıkları"
+      "Savunma ve Güvenlik: Askeri kaza ve bölgesel çatışmalar",
+      "Teknoloji Krizi: Nvidia'da Jensen Huang istifası ve yapay zeka piyasaları",
+      "İklim Diplomasisi: COP31 zirvesi ve yeşil finansman",
+      "Ekonomik Belirsizlik: Enflasyon verileri ve merkez bankası politikaları"
     ]
   },
   "weather": {
@@ -24,490 +24,437 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-12",
-        "code": 3,
-        "temp_max": 22.2,
-        "temp_min": 17.3
-      },
-      {
         "date": "2026-11-13",
         "code": 61,
         "temp_max": 22.5,
-        "temp_min": 18.1
+        "temp_min": 18.2
       },
       {
         "date": "2026-11-14",
-        "code": 3,
-        "temp_max": 22.0,
-        "temp_min": 18.1
+        "code": 61,
+        "temp_max": 22.9,
+        "temp_min": 18.6
       },
       {
         "date": "2026-11-15",
-        "code": 95,
-        "temp_max": 19.3,
-        "temp_min": 11.5
+        "code": 80,
+        "temp_max": 20.7,
+        "temp_min": 15.1
       },
       {
         "date": "2026-11-16",
         "code": 45,
-        "temp_max": 16.5,
-        "temp_min": 7.6
+        "temp_max": 19.1,
+        "temp_min": 10.7
       },
       {
         "date": "2026-11-17",
-        "code": 80,
-        "temp_max": 18.4,
-        "temp_min": 9.3
+        "code": 45,
+        "temp_max": 20.3,
+        "temp_min": 9.7
       },
       {
         "date": "2026-11-18",
-        "code": 80,
-        "temp_max": 19.8,
-        "temp_min": 15.3
+        "code": 3,
+        "temp_max": 21.0,
+        "temp_min": 16.9
+      },
+      {
+        "date": "2026-11-19",
+        "code": 3,
+        "temp_max": 22.3,
+        "temp_min": 19.4
       }
     ]
   },
   "clusters": [
     {
-      "title": "BDDK Başkanı Şahap Kavcıoğlu'nun İstifası",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "BDDK Başkanı Şahap Kavcıoğlu, görevinden affını isteyerek istifa etti; yerine gelecek isim ve piyasa etkileri konuşuluyor.",
-      "importance": 9,
-      "story_count": 4,
+      "title": "Malatya'da Askeri Helikopter Kazası",
+      "meta_category": "Gündem",
+      "summary": "Malatya'da düşen askeri helikopter sonucu 4 askerimiz şehit oldu; kaza bölgesinden gelen görüntüler ve taziye mesajları gündemin ilk sırasında.",
+      "importance": 10,
+      "story_count": 5,
       "stories": [
         {
-          "title": "BDDK Başkanı Şahap Kavcıoğlu İstifa Etti",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/bddk-baskani-sahap-kavcioglu-istifa-etti-1394497",
+          "title": "Malatya'da askeri helikopter düştü: 4 asker şehit oldu",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/malatyada-helikopter-dustu",
           "also_in": [
-            "Artı Gerçek",
-            "Diken",
-            "Haberet",
-            "Dokuz8 Haber",
-            "Veryansın TV",
-            "Tele2",
+            "Gazete Zebra",
+            "BHA",
+            "Uyan32",
             "Yurt Gazetesi"
           ]
         },
         {
-          "title": "BDDK Başkanı Şahap Kavcıoğlu görevden affını istedi",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi/368467/",
+          "title": "Malatya'da askeri helikopter düştü",
+          "source": "DW Haber",
+          "link": "https://www.dw.com/tr/malatya-da-askeri-helikopter-düştü/a-79934763?maca=tur-rss-tur-all-1495-rdf",
           "also_in": [
-            "BHA",
-            "CNBC-e"
+            "Dokuz8 Haber",
+            "OdaTV"
           ]
         },
         {
-          "title": "BDDK Başkanı Şahap Kavcıoğlu, görevinden affını istedi",
-          "source": "Radikal",
-          "link": "https://www.radikal.com.tr/ekonomi/bddk-baskani-sahap-kavcioglu-gorevinden-affini-istedi-39916/",
+          "title": "Malatya’nın Yeşilyurt ilçesinde helikopter düştü: 4 şehit",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/malatyanin-yesilyurt-ilcesinde-helikopter-dustu-4-sehit-598657",
           "also_in": [
-            "Foreks"
+            "Haber Global"
           ]
         },
         {
-          "title": "BDDK Başkanı Kavcıoğlu istifa etti",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/bddk-baskani-kavcioglu-istifa-etti-3794169",
+          "title": "Malatya'da askeri helikopter düştü; 4 asker yaşamını yitirdi",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/guncel/malatyada-askeri-helikopter-dustu-352663h",
           "also_in": [
-            "Ekonomi Gazetesi"
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "Malatya'da askeri helikopter düştü: 4 asker şehit",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/malatya-da-helikopter-dustu-p380752",
+          "also_in": [
+            "Sözcü"
           ]
         }
       ]
     },
     {
-      "title": "COP31: İklim Finansmanı ve Türkiye'nin Rolü",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Cumhurbaşkanı Erdoğan ve bakanların katıldığı COP31 zirvesinde, Türkiye'nin yeşil dönüşüm finansmanı ve iklim kriziyle mücadele stratejileri ele alınıyor.",
-      "importance": 8,
+      "title": "Nvidia'da Jensen Huang İstifası ve Piyasalar",
+      "meta_category": "Teknoloji",
+      "summary": "Teknoloji dünyasının devi Nvidia'da CEO Jensen Huang'ın istifası büyük yankı uyandırdı; hisselerde düşüş ve yönetim kurulu arayışları sürüyor.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Cumhurbaşkanı Erdoğan, COP31 Liderler Zirvesi'nin anı panosunu imzaladı",
-          "source": "Diriliş Postası",
-          "link": "https://www.dirilispostasi.com/cumhurbaskani-erdogan-cop31-liderler-zirvesinin-ani-panosunu-imzaladi",
+          "title": "Nvidia CEO’su Jensen Huang istifa etti",
+          "source": "LOG",
+          "link": "https://www.log.com.tr/nvidia-ceosu-jensen-huang-istifa-etti/",
           "also_in": [
-            "Haber Global",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "COP31 Başkanı Kurum: Hiçbir ülke iklim krizi karşısında tek başına güvende değil",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/cop31-baskani-kurum-hicbir-ulke-iklim-krizi-karsisinda-tek-basina-guvende-degil-h1581701",
-          "also_in": [
-            "TürkInform"
-          ]
-        },
-        {
-          "title": "COP31 Başkanı Kurum: Türkiye uzlaşıya katkı sunmaya hazır",
-          "source": "Haber",
-          "link": "https://www.haber.com/gundem/cop31-baskani-kurum-turkiye-uzlasiya-katki-sunmaya-hazir-32129",
-          "also_in": [
-            "NTV"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'dan COP31'de iklim mesajı: Ya şikâyet edeceğiz ya harekete geçeceğiz",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/cumhurbaskani-erdogan-dan-cop31-de-iklim-mesaji-ya-sikayet-edecegiz-ya-harekete-gececegiz/949858",
-          "also_in": []
-        },
-        {
-          "title": "Erdoğan: İklim finansmanı daha ulaşılabilir hale getirilmeli",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/erdogan-cop31-in-cevreye-etkisini-en-aza-indirdik-3794202",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Merkez Bankası'ndan Kredi Büyüme Sınırı Düzenlemesi",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "TCMB, ihtiyaç ve taşıt kredilerinde büyüme sınırlarını yükselterek kredi piyasasında yeni bir dönemi başlattı.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Merkez Bankası kredi büyüme sınırlarını yükseltti",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/ekonomi/tcmbden-kredi-buyume-siniri-karari-haberi-930684",
-          "also_in": [
-            "Haber",
-            "İnternet Haber",
-            "İstiklal",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "TCMB kredi büyüme sınırlarını yükseltti",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-kredi-buyume-sinirlarini-yukseltti/4121423",
-          "also_in": [
-            "Haber Global",
-            "Bloomberg HT"
-          ]
-        },
-        {
-          "title": "Merkez Bankası kredi sınırlarını yükseltti",
-          "source": "Aykırı",
-          "link": "https://www.aykiri.com.tr/ekonomi/merkez-bankasi-kredi-sinirlarini-yukseltti/400139",
-          "also_in": [
+            "Webrazzi",
+            "Swipeline",
+            "Diken",
+            "Evrensel",
             "Habertürk",
-            "Sputnik"
+            "Haber Global",
+            "Forbes Türkiye"
           ]
         },
         {
-          "title": "Merkez Bankası ihtiyaç ve taşıt kredilerinde büyüme sınırını yükseltti",
+          "title": "Jensen Huang, NVIDIA CEO’luğundan İstifa Etti",
+          "source": "Techolay",
+          "link": "https://techolay.net/jensen-huang-nvidia-ceolugundan-istifa-etti/",
+          "also_in": [
+            "Haberet",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Nvidia yönetimi Jensen Huang'ı görevden almayı değerlendiriyor",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/nvidia-yonetimi-jensen-huangi-gorevden-almayi-degerlendiriyor_185275.html",
+          "also_in": [
+            "Upcorn"
+          ]
+        },
+        {
+          "title": "Nvidia'da Jensen Huang krizi büyüyor: Yönetim kurulu koltuğu görüşmek için toplandı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/nvidiada-jensen-huang-krizi-buyuyor-yonetim-kurulu-koltugu-gorusmek-icin-toplandi/104223",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Casusluk ve yasak aşk iddiaları sonrası Nvidia'da deprem! CEO Jensen Huang istifa etti!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/casusluk-ve-yasak-ask-iddialari-sonrasi-nvidiada-deprem-ceo-jensen-huang-istifa-ett-877046",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "COP31 Zirvesi ve İklim Diplomasisi",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Antalya'da düzenlenen COP31 zirvesinde Türkiye'nin yeşil dönüşüm projeleri, uluslararası iklim finansmanı anlaşmaları ve Sıfır Atık vizyonu öne çıkıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "COP31'de Türk Telekom teknolojilerine yoğun ilgi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/cop31de-turk-telekom-teknolojilerine-yogun-ilgi/104232",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "İTÜ ARI Teknokent'in yeşil öncüleri COP31 sahnesinde: 12 girişim dünyaya açılıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/itu-ari-teknokentin-yesil-onculeri-cop31-sahnesinde-12-girisim-dunyaya-aciliyor/104226",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: \"COP31 boyunca devam edecek iş birliği kıymetli bir temel oluşturacaktır\"",
           "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/merkez-bankasi-ihtiyac-ve-tasit-kredilerinde-buyume-sinirini-yukseltti-1029338.html",
+          "link": "https://www.dikgazete.com/haber/cumhurbaskani-erdogan-cop31-boyunca-devam-edecek-is-birligi-kiymetli-bir-temel-olusturacaktir-1029941.html",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "COP31’de Gaziantep ev sahipliğinde Türkiye kadın Pavilyonu kapılarını açtı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/cop31-de-gaziantep-ev-sahipliginde-turkiye-kadin-pavilyonu-kapilarini-acti-1029894.html",
           "also_in": [
             "Haber 7"
           ]
         },
         {
-          "title": "Son dakika...Merkez Bankası'ndan kredi hamlesi: İhtiyaç, taşıt ve ticari kredilerde yeni dönem",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
-          "also_in": [
-            "Sözcü Ekonomi"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji Devlerinde Yapay Zeka ve Kesintiler",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Dünyanın önde gelen platformlarında (WhatsApp, ChatGPT, Instagram) yaşanan erişim sorunları ve yeni yapay zeka entegrasyonları gündemde.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "WhatsApp kullanıcıları için kritik uyarı: Yapay zeka destekli yeni tuzak!",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/whatsapp-kullanicilari-icin-kritik-uyari-yapay-zeka-destekli-yeni-tuzak/104205",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "TikTok çöktü mü? Son 24 saat kesinti raporu (11 Kasım 2026)",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/tiktok-coktu-mu-son-24-saat-kesinti-raporu-11-kasim-2026_176278.html",
-          "also_in": []
-        },
-        {
-          "title": "X (Twitter) çöktü mü? (11 Kasım 2026) Hata bildirim raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/x-twitter-coktu-mu-11-kasim-2026-hata-bildirim-raporu_178117.html",
-          "also_in": []
-        },
-        {
-          "title": "ChatGPT çöktü mü? OpenAI kesinti raporları (11 Kasım 2026)",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/chatgpt-coktu-mu-openai-kesinti-raporlari-11-kasim-2026_178116.html",
-          "also_in": []
-        },
-        {
-          "title": "WhatsApp çöktü mü? 11 Kasım’da erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-11-kasimda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
+          "title": "Başkan Erdoğan'dan COP31'e katılan liderlere teşekkür: Somut uygulamalara dönüştürmeliyiz",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/12/baskan-erdogandan-cop31e-katilan-liderlere-tesekkur",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Spor Kulüplerinde Ayrılıklar ve Transfer Gelişmeleri",
+      "title": "A Milli Futbol Takımı'nın Belçika Maçı",
       "meta_category": "Spor",
-      "summary": "Fenerbahçe'de Dirk Kuyt ile yollar ayrılırken, Galatasaray ve diğer büyük kulüplerde transfer planlamaları hız kazandı.",
+      "summary": "A Milli Futbol Takımımız, UEFA Uluslar Ligi'nde öne geçtiği maçta Belçika'ya 2-1 mağlup oldu; teknik direktör Sergen Yalçın'ın ilk sınavı hüsranla sonuçlandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Milliler, Belçika karşısında üstünlüğünü koruyamadı: Sergen Yalçın ile ilk maçta puan çıkmadı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-milliler-belcika-karsisinda-ustunlugunu-koruyamadi-sergen-yalcin-ile-ilk-macta-puan-cikmadi-432915",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Salladık ama yıkamadık! A Milli Takımımız öne geçtiği maçta Belçika'ya mağlup oldu",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/milli-takim/2026/11/12/salladik-ama-yikamadik-a-milli-takimimiz-one-gectigi-macta-belcikaya-maglup-oldu",
+          "also_in": []
+        },
+        {
+          "title": "Arda Güler frikikten nefis attı! Belçika peş peşe 2 golle öne geçti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/milli-takim/2026/11/12/arda-guler-frikikten-nefis-atti-iste-milli-takimimizin-golu",
+          "also_in": []
+        },
+        {
+          "title": "A Milli Futbol Takımı, Belçika’ya 2-1 mağlup oldu",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/a-milli-futbol-takimi-belcika-ya-2-1-maglup-oldu-1029940.html",
+          "also_in": [
+            "Independent Türkçe"
+          ]
+        },
+        {
+          "title": "A Milli Takım Belçika'ya 2-1 yenildi",
+          "source": "Dokuz8 Haber",
+          "link": "https://dokuz8haber.net/a-milli-takim-belcikaya-2-1-yenildi",
+          "also_in": [
+            "Veryansın TV"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "İBB Davasında Tahliye Kararları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "İstanbul Büyükşehir Belediyesi davasında yargılanan 8 kişi hakkında tahliye kararı verilmesi kamuoyunda geniş yer buldu.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Fenerbahçe'de Dirk Kuyt ile yollar ayrıldı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/11/fenerbahcede-dirk-kuyt-ile-yollar-ayrildi",
+          "title": "İBB davasında 8 kişi hakkında tahliye kararı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/ibb-davasinda-8-kisi-hakkinda-tahliye-karari-6997604",
           "also_in": [
-            "Gazete Duvar"
+            "Gerçek Gündem",
+            "Gazete Zebra",
+            "Haber Global"
           ]
         },
         {
-          "title": "TRANSFER HABERİ: Fenerbahçe'de flaş ayrılık kararı! Emre Belözoğlu olumsuz rapor verdi",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/11/transfer-haberi-fenerbahcede-flas-ayrilik-karari-emre-belozoglu-olumsuz-rapor-verdi",
+          "title": "İBB davasında 8 kişi daha tahliye edildi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/ibb-davasinda-8-kisi-daha-tahliye-edildi",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "\"İmamoğlu çıkar amaçlı suç örgütü\" davasında 8 sanığa tahliye",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/imamoglu-cikar-amacli-suc-orgutu-davasinda-8-saniga-tahliye-haberi-847465",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "İmamoğlu davasında 8 sanığa tahliye",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/imamoglu-davasinda-46-kisi-icin-tutukluluga-devam-talebi-3926965",
+          "also_in": [
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Son dakika... İBB davasında İmamoğlu'nun avukatı ve 7 kişiye tahliye kararı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/son-dakika-ibb-davasinda-imamoglu-nun-avukati-ve-7-kisiye-tahliye-karari-p380812",
+          "also_in": [
+            "Sözcü"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi ve Enflasyon Verileri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Merkez Bankası enflasyon tahminlerini güncellerken, ABD'deki bütçe açığı ve küresel faiz beklentileri piyasaları baskılıyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Merkez Bankası, yıl sonu enflasyon tahminini yükseltti",
+          "source": "Gazete Zebra",
+          "link": "https://www.gazetezebra.com.tr/merkez-bankasi-yil-sonu-enflasyon-tahminini-yukseltti",
+          "also_in": [
+            "Sputnik",
+            "Ekonomi Gazetesi"
+          ]
+        },
+        {
+          "title": "ABD'de bütçe açığı Ekim'de 404,1 milyar dolara tırmandı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/abd-butcesi-2027-mali-yilinin-ilk-ayinda-404-1-milyar-dolar-acik-verdi-3794497",
           "also_in": []
         },
         {
-          "title": "Fenerbahçe, Dirk Kuyt ile yollarını ayırdı",
-          "source": "Dokuz8 Haber",
-          "link": "https://dokuz8haber.net/fenerbahce-dirk-kuyt-ile-yollarini-ayirdi",
+          "title": "IMF'ye göre ABD'de enflasyonun hedefe dönüşü 2028'e sarkıyor",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/imf-ye-gore-abdde-enflasyonun-hedefe-donusu-2028-e-sarkiyor-3794482",
+          "also_in": []
+        },
+        {
+          "title": "TCMB enflasyon tahminlerini yukarı yönlü güncelledi",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/yilin-son-enflasyon-raporu-3794290",
+          "also_in": []
+        },
+        {
+          "title": "Petrol Düşerken, ABD Enflasyon Verisi Üzdü | Piyasalar Yine Karıştı!",
+          "source": "Investing Genel",
+          "link": "https://tr.investing.com/analysis/petrol-duserken-abd-enflasyon-verisi-uzdu--piyasalar-yine-karst-200507049",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayiinde Yeni İşbirlikleri",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Türkiye'nin Malezya ve Suudi Arabistan gibi ülkelerle gerçekleştirdiği savunma sanayi temasları ve yeni işbirliği anlaşmaları öne çıkıyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Malezya ATMACA’yı seçti",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/malezya-atmacayi-secti",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye ve Suudi Arabistan arasında savunma sanayii temasları",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/turkiye-ve-suudi-arabistan-arasinda-savunma-sanayii-temaslari",
+          "also_in": []
+        },
+        {
+          "title": "Malezya, ROKETSAN ATMACA’yı tercih etti",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/malezya-roketsan-atmacayi-tercih-etti/",
+          "also_in": []
+        },
+        {
+          "title": "TÜRKİYE-SUUDİ ARABİSTAN SAVUNMA SANAYİİ GÜNLERİ İSTANBUL’DA GERÇEKLEŞTİRİLDİ",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/turkiye-suudi-arabistan-savunma-sanayii-gunleri-istanbulda-gerceklestirildi/",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye-Suudi Arabistan Arasında Ortak Üretim Hedefi",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/turkiye-suudi-arabistan-arasinda-ortak-uretim-hedefi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eğitimde Ara Tatil Başlıyor",
+      "meta_category": "Eğitim",
+      "summary": "Milyonlarca öğrenci için 2026-2027 eğitim yılı ilk ara tatili yarın başlıyor; MEB bütçe görüşmeleri de meclis gündeminde.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Milli Eğitim Bakanlığının 2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonunda",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/politika/milli-egitim-bakanliginin-2027-yili-butcesi-tbmm-20422270-haberi/",
           "also_in": [
-            "Yurt Gazetesi"
+            "İstiklal"
           ]
         },
         {
-          "title": "Fenerbahçe'de ayrılık gerçekleşiyor",
+          "title": "İlk ara tatil için son ders zili bugün çalacak",
           "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-ayrilik-gerceklesiyor-anlasma-tamam-1828689",
+          "link": "https://www.turkiyegazetesi.com.tr/egitim/okullar-23-kasimda-acilacak-ilk-ara-tatil-icin-son-ders-zili-bugun-calacak-1828986",
           "also_in": [
             "Türkiye Gazetesi"
           ]
         },
         {
-          "title": "Lukaku'dan Fenerbahçe'ye kötü haber! Türkiye maçında forma giyemeyecek",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/lukakudan-fenerbahceye-kotu-haber-turkiye-macinda-forma-giyemeyecek-876864",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ziraat Bankası'ndan Tarihi Büyüme",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Ziraat Bankası, aktif büyüklüğünün 10 trilyon TL barajını aşarak Türk bankacılık tarihinde bir ilki gerçekleştirdiğini duyurdu.",
-      "importance": 7,
-      "story_count": 2,
-      "stories": [
-        {
-          "title": "Ziraat Bankası Türk bankacılığında tarihi eşiği aştı! Aktif büyüklüğü 10 trilyon TL’yi geçti",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/ekonomi/ziraat-bankasi-turk-bankaciliginda-tarihi-esigi-asti-aktif-buyuklugu-10-trilyon-t-876880",
-          "also_in": []
-        },
-        {
-          "title": "Bankacılık tarihinde bir ilk: Ziraat Bankası aktif büyüklüğü 10 trilyon TL’yi aştı",
-          "source": "10Haber",
-          "link": "https://10haber.net/ekonomi/bankacilik-tarihinde-bir-ilk-ziraat-bankasi-aktif-buyuklugu-10-trilyon-tlyi-asti-753885/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Rize'de Feci Kaza: 3 Ölü",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Rize'de bir kamyonetin dereye devrilmesi sonucu 3 kişi hayatını kaybetti.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Rize’de kamyonet dereye yuvarlandı: 3 kişi hayatını kaybetti",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/rize-de-kamyonet-dereye-yuvarlandi-3-kisi-hayatini-kaybetti-p380432",
-          "also_in": [
-            "Sözcü Gündem",
-            "Türkgün"
-          ]
-        },
-        {
-          "title": "Rize'de kamyonet dereye devrildi: 3 kişi hayatını kaybetti",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/guncel/rizede-kamyonet-dereye-devrildi-3-kisi-hayatini-kaybetti/haber-1713901",
-          "also_in": [
-            "Cumhuriyet"
-          ]
-        },
-        {
-          "title": "Rize'de dereye devrilen kamyonetteki 3 kişi hayatını kaybetti",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/asayis/rizede-dereye-devrilen-kamyonetteki-3-kisi-hayatini-kaybetti-288915h",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Rize'de kamyonet dereye yuvarlandı Üç kişi hayatını kaybetti",
-          "source": "GZT",
-          "link": "https://www.gzt.com/gundem/rizede-kamyonet-dereye-yuvarlandi-uc-kisi-hayatini-kaybetti-4277685",
-          "also_in": [
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "Rize'de kamyonet dereye devrildi: 3 ölü",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/rizede-kamyonet-dereye-devrildi-3-olu-2468181h.htm",
-          "also_in": [
-            "TRT Haber"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "A Milli Takım Belçika Hazırlıkları",
-      "meta_category": "Spor",
-      "summary": "A Milli Futbol Takımı, Belçika ile oynanacak maç için hazırlıklarını sürdürürken kadrodaki sakatlıklar dikkat çekiyor.",
-      "importance": 6,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "A Milli Futbol Takımı, Belçika maçı için İzmir'e geldi",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-a-milli-futbol-takimi-belcika-maci-icin-izmire-geldi-432860",
-          "also_in": [
-            "NTV Spor Futbol",
-            "Sözcü Spor"
-          ]
-        },
-        {
-          "title": "Belçika, Lukaku'dan gelen kötü haberi duyurdu! Türkiye maçına saatler kala planlar değişti",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-belcika-lukakudan-gelen-kotu-haberi-duyurdu-turkiye-macina-saatler-kala-planlar-degisti-432855",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "A Milli Takım'da sakatlık depremi! Kadrodan çıkarıldı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-son-dakika-a-milli-takimda-sakatlik-depremi-kadrodan-cikarildi-432852",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "A Milli Futbol Takımımızın konuğu Belçika",
-          "source": "İstiklal",
-          "link": "https://www.istiklal.com.tr/spor/a-milli-futbol-takimimizin-konugu-belcika-1110578h",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "A Milli Takım’da sakatlık: Aral Şimşir kadrodan çıkarıldı",
-          "source": "10Haber",
-          "link": "https://10haber.net/spor/a-milli-takimda-sakatlik-aral-simsir-kadrodan-cikarildi-753915/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Yapay Zeka Destekli Oyuncak ve Yazılım Tehlikeleri",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yeni nesil yapay zeka destekli oyuncakların çocuklara verdiği yanıtlar ve artan dijital dolandırıcılık yöntemleri üzerine uyarılar yapıldı.",
-      "importance": 5,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "WhatsApp kullanıcıları için kritik uyarı: Yapay zeka destekli yeni tuzak!",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/whatsapp-kullanicilari-icin-kritik-uyari-yapay-zeka-destekli-yeni-tuzak/104205",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Üç yaşındaki çocuklara satılan yapay zekalı oyuncaktan korkutan yanıt",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/guncel/uc-yasindaki-cocuklara-satilan-yapay-zekali-oyuncaktan-korkutan-yanit_185224.html",
-          "also_in": []
-        },
-        {
-          "title": "Kanada'da Hemşireden Erkek Hastasına Akılalmaz Teklif: \"Sağlığına İyi Gelir\"",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/kanadada-hemsireden-erkek-hastasina-akilalmaz-teklif-sagligina-iyi-gelir-876893",
-          "also_in": []
-        },
-        {
-          "title": "Türkiye'deki Bir Okulda Yaşananlar Tepki Çekti! \"Doğruluk mu Cesaret mi?\" Oyunu Krize Dönüştü!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/turkiye/turkiyedeki-bir-okulda-yasananlar-tepki-cekti-dogruluk-mu-cesaret-mi-oyunu-krize-876888",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "37. Ankara Film Festivali Başlıyor",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Ankara'nın köklü sinema etkinliği 37. kez kapılarını sanatseverlere açıyor.",
-      "importance": 5,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Başkentte Sinema Zamanı: 37. Ankara Film Festivali Yarın Başlıyor!",
-          "source": "Beyaz Perde",
-          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000231765/",
-          "also_in": []
-        },
-        {
-          "title": "37. Ankara Film Festivali",
-          "source": "Altyazı",
-          "link": "https://altyazi.net/matine/37-ankara-film-festivali/",
-          "also_in": []
-        },
-        {
-          "title": "37. Ankara Film Festivali Yarın Başlıyor",
-          "source": "Bağımsız Sinema",
-          "link": "https://www.bagimsizsinema.com/37-ankara-film-festivali-yarin-basliyor.html",
+          "title": "Milyonlarca öğrencinin beklediği haber! Okullarda 9 günlük birinci ara tatil yarın başlıyor",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/12/milyonlarca-ogrencinin-bekledigi-haber-okullarda-9-gunluk-birinci-ara-tatil-basliyor",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Iron Rolling Mill (Modern Cyclopes)",
-    "artist": "Adolph Menzel",
-    "year": "1875",
+    "title": "The Raft of the Medusa",
+    "artist": "Théodore Géricault",
+    "year": "1818–1819",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Alte Nationalgalerie, Berlin",
-    "description": "Sanayi ve teknolojinin yarattığı yoğun atmosfer, bugünün dijital dönüşüm ve ekonomik büyüme temalarıyla güçlü bir paralellik taşıyor.",
+    "location": "Louvre Museum, Paris",
+    "description": "Helikopter kazasının yarattığı çaresizlik ve yas duygusunu, hayatta kalma mücadelesinin trajik anlarıyla birleştiriyor. İnsanlığın doğa ve talihsizlik karşısındaki kırılganlığını temsil eden en güçlü görsel anlatılardan biri.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Iron_Rolling_Mill_(Modern_Cyclopes)",
-    "wikipedia_extract": "The Iron Rolling Mill (Modern Cyclopes) is an oil on canvas painting by German artist Adolph Menzel, created in 1872-1875. The painting is one of his main works from the time when the painter was mostly concerned with contemporary issues and the social question as a result of the uninhibited technical advances made during the Industrial Revolution, particularly in Germany. It has the large dimensions of 158 by 254 cm. The signature of the artist can be seen at the lower left: \"Signatur Adolph Menzel. Berlin 1875\". The realistic painting caused a stir at the time and is now part of the collection of the Alte Nationalgalerie, in Berlin.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Adolph_Menzel_-_Eisenwalzwerk_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Adolph_Menzel"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa",
+    "wikipedia_extract": "The Raft of the Medusa —originally titled Scène de Naufrage —is an oil painting of 1818–1819 by the French Romantic painter and lithographer Théodore Géricault (1791–1824). Completed when the artist was 27, the work has become an icon of French Romanticism. At 491 by 716 cm, it is an over-life-size painting that depicts a moment from the aftermath of the wreck of the French naval frigate Méduse, which ran aground off the coast of today's Mauritania on 2 July 1816. On 5 July 1816, at least 150 people were set adrift on a hurriedly constructed raft; all but 15 died in the 13 days before their rescue, and those who survived endured starvation and dehydration and practiced cannibalism. The event became an international scandal, in part because its cause was widely attributed to the incompetence of the French captain. Géricault chose this large-scale uncommissioned work to launch his career, using a subject that had already generated widespread public interest. The event fascinated him.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg/3840px-JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Th%C3%A9odore_G%C3%A9ricault"
   },
   "music": {
-    "title": "Future Days",
-    "artists": "CAN",
-    "album": "Future Days (Remastered)",
-    "duration": "9:30",
-    "spotify_url": "https://open.spotify.com/track/1PNk1Xno8t3spNEU78Hxsu",
-    "spotify_id": "1PNk1Xno8t3spNEU78Hxsu",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b2735d64963a2f6f4d1bcf9dbb24",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1PNk1Xno8t3spNEU78Hxsu\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Untitled #3 - Samskeyti",
+    "artists": "Sigur Rós",
+    "album": "( )",
+    "duration": "6:33",
+    "spotify_url": "https://open.spotify.com/track/1QUiA9aecDOOnf32A9ZrtW",
+    "spotify_id": "1QUiA9aecDOOnf32A9ZrtW",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27311d8349d9bcc5e5d1bc43005",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1QUiA9aecDOOnf32A9ZrtW\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Endüstriyel bir devrimin çarkları arasında insanlığın terini kutsallaştıran Adolph Menzelin The Iron Mill eseri, bugün ekonomi yönetimindeki değişimlerin ve iklim zirvesindeki küresel arayışların yarattığı o ağır beklenti atmosferiyle tuhaf bir uyum içinde yankılanıyor. CAN grubunun Future Days parçası ise bu mekanik geçmişin üzerine, dijital dönüşümün ve yapay zekanın getirdiği tekinsiz dinginliği bir sis tabakası gibi yayıyor. Geçmişin dumanlı fabrikalarından geleceğin belirsiz ufuklarına bakarken, değişimin soğuk nefesi hem milli takımın sahadaki hazırlıklarında hem de kışın kapımıza dayanan sessizliğinde hissediliyor. İnsan emeğinin demirle olan imtihanı, yerini bugün verilerin ve finansal dengelerin soyut dünyasına bırakırken, hepimiz bir sonraki büyük kırılmanın eşiğinde nefesimizi tutmuş bekliyoruz. Bu geçiş dönemi, tıpkı Menzelin tuvallerindeki o yoğun ışık ve gölge oyunu gibi, hem korkutucu bir belirsizliği hem de yeni bir başlangıcın vaadini içinde barındırıyor."
+  "curator_statement": "Bugün dünya, Malatya’nın acı haberiyle sarsılan bir yürek ve teknoloji piyasalarının belirsizliğiyle titreyen bir zihin arasında, keskin bir endişe sarmalında savruluyor. Géricault’nun Medusa’nın Salı tablosundaki umutsuz çırpınışlar, bugün küresel iklim diplomasisinin koridorlarında yankılanan o ağır sorumlulukla ve sarsılan ekonomik dengelerle tuhaf bir şekilde örtüşüyor. Sigur Rós’un Samskeyti adlı yapıtı, bu felaketler ve istifalar arasından yükselirken, belirsizliğin içindeki o derin sessizliği adeta bir ayin gibi kutsallaştırıyor. Dev bir teknoloji imparatorluğunun çatırdamasıyla siyasi gerilimlerin yarattığı bu boşluk, insanlığın kontrolü yitirdiği anlarda hissettiği o kadim yalnızlığı yeniden gün yüzüne çıkarıyor. Tıpkı o devasa tuvaldeki bedenler gibi, bizler de modernitenin savrulan salında, bir yandan hayatta kalmaya çalışırken diğer yandan geleceğin kıyılarına ulaşacak bir umut ışığı arıyoruz. Bu melankolik atmosferde sanat ve müzik, tarihin tekerrür eden acılarını ve insanın kırılgan varoluşunu, ancak duyarlı bir ruhun anlayabileceği o derin sessizlikle birleştiriyor."
 }
