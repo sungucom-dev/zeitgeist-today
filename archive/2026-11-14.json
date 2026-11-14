@@ -1,0 +1,568 @@
+{
+  "date": "2026-11-14",
+  "date_human": "14 November 2026",
+  "generated_at": "2026-11-14T01:32:23.993889+00:00",
+  "stats": {
+    "feeds_collected": 286,
+    "news_total": 4684,
+    "news_analyzed": 611,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Küresel teknolojik kesintiler, ulaşım krizleri ve diplomatik yoğunluğun yarattığı bir belirsizlik ve dijital teyakkuz atmosferi hakim.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Küresel Teknoloji ve İletişim Kesintileri",
+      "Diplomatik Zirveler ve Uluslararası Anlaşmalar",
+      "Soruşturmalar ve Hukuki Süreçler",
+      "İklim Değişikliği ve COP31 Gündemi",
+      "Ekonomik İstikrar ve Fon İadeleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-14",
+        "code": 61,
+        "temp_max": 23.2,
+        "temp_min": 18.6
+      },
+      {
+        "date": "2026-11-15",
+        "code": 80,
+        "temp_max": 20.5,
+        "temp_min": 15.4
+      },
+      {
+        "date": "2026-11-16",
+        "code": 45,
+        "temp_max": 20.6,
+        "temp_min": 11.7
+      },
+      {
+        "date": "2026-11-17",
+        "code": 80,
+        "temp_max": 20.7,
+        "temp_min": 11.3
+      },
+      {
+        "date": "2026-11-18",
+        "code": 3,
+        "temp_max": 20.5,
+        "temp_min": 12.6
+      },
+      {
+        "date": "2026-11-19",
+        "code": 3,
+        "temp_max": 23.8,
+        "temp_min": 18.8
+      },
+      {
+        "date": "2026-11-20",
+        "code": 3,
+        "temp_max": 23.0,
+        "temp_min": 19.8
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Küresel Dijital Kesinti Krizi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Microsoft servisleri (Outlook, Teams) ve dünya genelindeki birçok platformda yaşanan devasa kesinti, milyonlarca kullanıcıyı etkileyerek iş akışını durma noktasına getirdi.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Microsoft Outlook çöktü, kesinti saatlerdir devam ediyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/microsoft-outlook-coktu-kesinti-saatlerdir-devam-ediyor--212851",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Microsoft'ta 22 saatlik kabus: Küresel kesintinin faturası milyar dolarları bulabilir",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/microsoftta-22-saatlik-kabus-kuresel-kesintinin-faturasi-milyar-dolarlari-bulabilir/104260",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Microsoft'ta dijital kriz: 74 ülkede iş akışı durma noktasına geldi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/microsoftta-dijital-kriz-74-ulkede-is-akisi-durma-noktasina-geldi/104250",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Microsoft servislerinde büyük kriz: Outlook ve Teams neden açılmıyor?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/microsoft-servislerinde-buyuk-kriz-outlook-ve-teams-neden-acilmiyor/104248",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Microsoft 365'te küresel kriz: Milyonlarca kullanıcı erişim sorunu yaşıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/microsoft-365te-kuresel-kriz-milyonlarca-kullanici-erisim-sorunu-yasiyor/104243",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ABD Hava Sahasında Uçuş Krizi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "ABD genelinde tüm uçuşların güvenlik ve iletişim sistemlerindeki sorunlar nedeniyle durdurulması dünya çapında paniğe neden oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ABD semalarında panik yaşanıyor: Ülke genelinde tüm uçuşlar durduruldu",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/abd-genelinde-tum-ucuslar-durduruldu--212907",
+          "also_in": []
+        },
+        {
+          "title": "ABD’de tüm uçuşlar durduruldu",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/abdde-tum-ucuslar-durduruldu-598826",
+          "also_in": [
+            "Elips Haber",
+            "Haberler",
+            "Haber Global",
+            "OdaTV",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "ABD'de Kırmızı Alarm! Tüm Uçuşlar Durduruldu",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/dunya/abdde-kirmizi-alarm-tum-ucuslar-durduruldu-582421",
+          "also_in": [
+            "Haber 3"
+          ]
+        },
+        {
+          "title": "ABD'de tüm uçuşlar durduruldu! Nedeni belli oldu",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/dunya/abdde-ucuslar-durduruldu-1829185",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "ABD’de uçuşlar hava trafik kontrol merkezlerindeki iletişim sorunu nedeniyle durduruldu",
+          "source": "Savunma Sanayi Gazetesi",
+          "link": "https://savunmasanayigazetesi.com.tr/abdde-ucuslar-hava-trafik-kontrol-merkezlerindeki-iletisim-sorunu-nedeniyle-durduruldu/344715/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Mekke Anlaşması Yürürlüğe Girdi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi; anlaşma kapsamında bir ülkeye yapılan saldırı, taraflar için ortak savunma gerekçesi sayılacak.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/14/mekke-anlasmasi-resmi-gazetede-yayimlanarak-yururluge-girdi",
+          "also_in": [
+            "BBC Türkçe",
+            "Aydınlık",
+            "Cumhuriyet",
+            "En Son Haber",
+            "Elips Haber",
+            "Bengütürk",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Mekke Anlaşması yürürlüğe girdi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/mekke-anlasmasi-yururluge-girdi",
+          "also_in": [
+            "Doğru Haber",
+            "Haberler",
+            "OdaTV",
+            "TRT Haber",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Mekke Anlaşması, Resmi Gazete'de yayımlandı",
+          "source": "Gazete Zebra",
+          "link": "https://www.gazetezebra.com.tr/mekke-anlasmasi-resmi-gazetede-yayimlandi",
+          "also_in": [
+            "Dokuz8 Haber",
+            "Haber Global",
+            "TürkInform",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Mekke Anlaşması yürürlüğe girdi: Bir ülkeye saldırı, üç ülkeye yapılmış sayılacak",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/mekke-anlasmasi-yururluge-girdi-bir-ulkeye-saldiri-uc-ulkeye-yapilmis-sayilacak-haberi-931159",
+          "also_in": [
+            "Son Mühür"
+          ]
+        },
+        {
+          "title": "Son dakika...Mekke Anlaşması Resmi Gazete'de yayımlandı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/son-dakika-mekke-anlasmasi-resmi-gazete-de-yayimlandi-p381153",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cafer Mahiroğlu Soruşturması",
+      "meta_category": "Diğer",
+      "summary": "İş insanı Cafer Mahiroğlu'na yönelik yürütülen soruşturma kapsamında gözaltına alınan şüphelilerden 5'i tutuklandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cafer Mahiroğlu soruşturmasında 5 tutuklama",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/cafer-mahiroglu-sorusturmasinda-6-supheliye-tutuklama-talebi-3927240",
+          "also_in": [
+            "Haber 7",
+            "Dokuz8 Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "İş insanı Cafer Mahiroğlu'na yönelik soruşturmada gözaltına alınan 5 şüpheli tutuklandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/is-insani-cafer-mahirogluna-yonelik-sorusturmada-gozaltina-alinan-5-supheli-tutuklandi/4124735",
+          "also_in": [
+            "Independent Türkçe",
+            "Mynet"
+          ]
+        },
+        {
+          "title": "Cafer Mahiroğlu soruşturmasında 5 kişi tutuklandı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/cafer-mahiroglu-sorusturmasinda-5-kisi-tutuklandi-352719h",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "Son dakika...Cafer Mahiroğlu soruşturmasında 5 tutuklama",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-5-tutuklama-p381142",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Halk TV'nin firari patronu Cafer Mahiroğlu soruşturmasında yeni gelişme: 5 kişi tutuklandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/cafer-mahiroglu-sorusturmasinda-yeni-gelisme",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye Sigorta Fon İadeleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Türkiye Sigorta, fon kazançlarını TMSF'ye iade ederek 444 bin yatırımcıya 161 milyar TL ödeme yapıldığını duyurdu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye Sigorta fon kazancını TMSF'ye iade etti",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/turkiye-sigorta-fon-kazancini-tmsfye-iade-etti-598815",
+          "also_in": [
+            "CNN Türk",
+            "Ekonomim",
+            "Habertürk",
+            "Haberet",
+            "İlke TV",
+            "NTV",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Türkiye Sigorta'dan son dakika kararı: Fon kazancını TMSF'ye iade etti",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/turkiye-sigortadan-son-dakika-karari-fon-kazancini-tmsfye-iade-etti",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Fon Koordinasyon Kurulu 10. kez toplandı: '444 bin yatırımcıya 161 milyar TL ödeme yapıldı'",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6009364/fon-koordinasyon-kurulu-10-kez-toplandi-444-bin-yatirimciya-161-milyar-tl-odeme-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Türkiye Sigorta'dan fon soruşturması kapsamında 1,6 milyar TL'lik ödeme",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/turkiye-sigorta-dan-fon-sorusturmasi-kapsaminda-1-6-milyar-tl-lik-odeme-32356",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Fon tasfiyelerinde 161 milyar TL ödeme! \"Ara ödemeler devam edecek\" vurgusu",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/fon-tasfiyelerinde-161-milyar-tl-odeme-yapildi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İzmir Fabrika Patlaması",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İzmir Aliağa'daki fabrika patlamasında can kaybı 19'a yükselirken, bölgedeki güvenlik önlemleri ve soruşturmalar sürüyor.",
+      "importance": 8,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "İzmir Aliağa'daki faciada can kaybı 19'a yükseldi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112",
+          "also_in": [
+            "Sözcü Gündem",
+            "Yeni Asır Gazetesi"
+          ]
+        },
+        {
+          "title": "İzmir'deki fabrika patlamasında can kaybı 19'a yükseldi",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/izmirdeki-fabrika-patlamasinda-can-kaybi-19a-yukseldi-h1582253",
+          "also_in": [
+            "Ekonomim"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "COP31 Zirvesi ve İklim Diplomasisi",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Antalya'da düzenlenen COP31 zirvesinde Türkiye'nin yeşil dönüşüm hedefleri ve uluslararası iş birliği anlaşmaları masaya yatırıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yıldız Holding, kadın çiftçileri, üreticileri ve girişimcileri destekleyen 2030 hedeflerini COP31’de açıkladı",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/yildiz-holding-kadin-ciftcileri-ureticileri-ve-girisimcileri-destekleyen-2030-hedeflerini-cop31de-acikladi-754578/",
+          "also_in": [
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Bakan Kacır: Türkiye’nin yeşil dönüşüm hedeflerine erişmesi için çalışıyoruz",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/bakan-kacir-turkiyenin-yesil-donusum-hedeflerine-erismesi-icin-calisiyoruz-43377695",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Bakan Kurum'dan Guterres'e COP31 teşekkürü: Yeni bir sayfa açacağız",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/bakan-murat-kurum-bm-genel-sekreteri-guterres-ile-gorustu",
+          "also_in": []
+        },
+        {
+          "title": "Emine Erdoğan'dan COP31'de sıfır atık diplomasisi: Lider eşlerini Antalya'da ağırladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/emine-erdogan-cop31de-lider-eslerini-sifir-atik-gundemiyle-agirladi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sarıgül Ailesi Soruşturması",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Sarıgül ailesine yönelik mali soruşturma kapsamında yeni gözaltı kararları ve Ömer Sarıgül'ün savcılık ifadesi gündeme oturdu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Sarıgül Soruşturmasında Yeni Operasyon! 17 Gözaltı Kararı",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/11/13/sarigul-sorusturmasinda-yeni-operasyon-17-gozalti-karari-7177059.html",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Ömer Sarıgül'ün savcılık ifadesi ortaya çıktı: Emir Sarıgül'le 7-8 yıldır konuşmuyorum",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3676652-omer-sarigulun-savcilik-ifadesi-ortaya-cikti-emir-sarigulle-7-8-yildir-konusmuyorum",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "Sarıgül ailesi soruşturmasında Ömer Sarıgül'ün ifadesi ortaya çıktı: 80 milyon euroluk sözleşme ve 100 milyon euroluk havale savunması",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/omer-sarigulun-savcilik-ifadesindeki-80-milyon-euroluk-sozlesme-aciklamasi",
+          "also_in": []
+        },
+        {
+          "title": "Sarıgül soruşturmasında sıcak gelişme: 17 şüpheli hakkında gözaltı kararı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/sarigul-sorusturmasinda-19-gozalti-karari",
+          "also_in": []
+        },
+        {
+          "title": "Sarıgül soruşturması yılbaşı süslemelerine uzandı: Türkiye Basketbol Federasyonu yöneticisi de gözaltında",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/sarigul-sorusturmasi-yilbasi-suslemelerine-uzandi-turkiye-basketbol-federasyonu-yoneticisi-de-gozaltinda-754512/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "SİHA'ların Kara Yolu Testi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Bayraktar AKINCI ve TB2 SİHA'ları, pist dışı operasyonel kabiliyetlerini test etmek amacıyla kara yoluna iniş-kalkış yaptı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SİHA'lar için yeni dönem: Pistlere veda edip kara yoluna indiler",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/sihalar-icin-yeni-donem-pistlere-veda-edip-kara-yoluna-indiler/104258",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Gökyüzünün devleri kara yoluna indi: Baykar'dan kritik operasyonel test",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gokyuzunun-devleri-kara-yoluna-indi-baykardan-kritik-operasyonel-test/104256",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/akinci-ve-bayraktar-tb2-kara-yoluna-inis-kalkis-yapti-h1582266",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Milli SİHA'lardan kritik başarı! AKINCI ve Bayraktar TB2 kara yoluna iniş ve kalkış yaptı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/milli-sihalardan-kara-yolunda-nefes-kesen-tatbikat",
+          "also_in": []
+        },
+        {
+          "title": "AKINCI ve Bayraktar TB2 kara yoluna inip kalktı!",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/akinci-ve-bayraktar-tb2-kara-yoluna-inip-kalkti",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İstanbul'da Lodos Fırtınası",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "İstanbul ve çevresini etkisi altına alan lodos fırtınası deniz ulaşımını aksattı, çok sayıda tekne battı ve maddi hasar oluştu.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Balıkesir’de lodos fırtınası: 3 tekne battı",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/balikesirde-lodos-firtinasi-3-tekne-batti-h1582300",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "İstanbul’da fırtına nedeniyle 74 ihbar yapıldı: Çok sayıda koru ziyarete kapatıldı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/yerel-haberler/istanbulda-firtina-nedeniyle-74-ihbar-yapildi-cok-sayida-koru-ziyarete-kapatildi/368511/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Kenti lodos vurdu: 3 tekne battı, bir tekne sürüklendi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/kenti-lodos-vurdu-3-tekne-batti-bir-tekne-suruklendi-p381152",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Görüntüler İstanbul'dan! Dalgalar insan boyunu aştı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/salacakta-lodos-dalgalari-insan-boyunu-asti-p381150",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Olumsuz hava koşulları deniz ulaşımını vurdu: İşte iptal edilen saatler",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/13/olumsuz-hava-kosullari-deniz-ulasimini-vurdu-iste-iptal-edilen-saatler",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Triumph of Death",
+    "artist": "Pieter Bruegel the Elder",
+    "year": "1562",
+    "form": "resim",
+    "medium": "Oil on panel",
+    "location": "Museo del Prado, Madrid",
+    "description": "İzmir'deki trajik fabrika patlaması ve iklim krizinin tetiklediği felaketlerin gölgesinde, kaçınılmaz bir yıkım ve kaos atmosferini tasvir ediyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Triumph_of_Death",
+    "wikipedia_extract": "The Triumph of Death is an oil panel painting by Pieter Bruegel the Elder painted c. 1562. It has been in the Museo del Prado in Madrid since 1827.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Triumph_of_Death_Brueghel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder"
+  },
+  "music": {
+    "title": "Running Up That Hill",
+    "artists": "Chromatics",
+    "album": "Night Drive",
+    "duration": "6:06",
+    "spotify_url": "https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo",
+    "spotify_id": "20yPPvSSfIomexVwLdgXSo",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273d80d35be93dbceecd5018d3d",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/20yPPvSSfIomexVwLdgXSo\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Dijital ekranların karardığı, diplomatik koridorların belirsiz bir sükunetle dolduğu bu teyakkuz anında, Pieter Bruegel’in Ölümün Zaferi tablosu kolektif hafızamızdaki o kadim tedirginliği yeniden yüzeye çıkarıyor. Chromatics’in mekanik ve mesafeli yorumuyla yankılanan Running Up That Hill, modern dünyanın hızla çöken karmaşası ile insanlığın çaresizce bir tepeye tırmanma arzusu arasındaki o tekinsiz boşluğu dolduruyor. İklim krizinden ekonomik istikrarsızlığa uzanan bu kırılgan dönemde, Bruegel’in iskelet ordusu aslında teknolojik ve diplomatik kesintilerimizin bir aynası gibi; her şeyin durma noktasına geldiği o sessizlikte, kontrolün elimizden kayıp gidişini izliyoruz. Sanat ve müziğin bu kesişim noktası, bir çağın sonuna mı yoksa devasa bir sistem hatasına mı tanıklık ettiğimizi sorgulatan, soğuk bir farkındalık davetidir."
+}
