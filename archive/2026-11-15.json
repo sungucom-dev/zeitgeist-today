@@ -1,0 +1,546 @@
+{
+  "date": "2026-11-15",
+  "date_human": "15 November 2026",
+  "generated_at": "2026-11-15T01:31:14.422949+00:00",
+  "stats": {
+    "feeds_collected": 288,
+    "news_total": 4002,
+    "news_analyzed": 589,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Dünya genelinde dijital altyapı krizleri ve diplomatik hareketliliğin gölgesinde, teknolojik aksaklıkların yarattığı belirsizlik ile toplumsal dayanışma arayışının iç içe geçtiği bir atmosfer hakim.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Dijital altyapı ve küresel sistem kesintileri",
+      "COP31 zirvesi ve iklim değişikliği eylem planları",
+      "Siyasi kurultaylar ve liderlik değişimleri",
+      "Yapay zeka ve kuantum teknolojilerinde stratejik hamleler",
+      "Uluslararası diplomatik gerilimler ve bölgesel çatışmalar"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-15",
+        "code": 80,
+        "temp_max": 21.7,
+        "temp_min": 14.3
+      },
+      {
+        "date": "2026-11-16",
+        "code": 45,
+        "temp_max": 20.2,
+        "temp_min": 10.5
+      },
+      {
+        "date": "2026-11-17",
+        "code": 3,
+        "temp_max": 21.3,
+        "temp_min": 11.4
+      },
+      {
+        "date": "2026-11-18",
+        "code": 3,
+        "temp_max": 20.9,
+        "temp_min": 13.7
+      },
+      {
+        "date": "2026-11-19",
+        "code": 3,
+        "temp_max": 24.4,
+        "temp_min": 18.3
+      },
+      {
+        "date": "2026-11-20",
+        "code": 3,
+        "temp_max": 23.9,
+        "temp_min": 18.7
+      },
+      {
+        "date": "2026-11-21",
+        "code": 45,
+        "temp_max": 22.1,
+        "temp_min": 15.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Küresel Dijital Altyapı ve Microsoft Krizi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Microsoft sistemlerinde 70 ülkede yaşanan küresel kesinti, hava trafiğini durdurma noktasına getirdi ve dijital egemenlik tartışmalarını tetikledi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Microsoft'ta küresel kriz: 70 ülkede sistemler durdu, DSÖ'den şaşırtan tavsiye",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/microsoftta-kuresel-kriz-70-ulkede-sistemler-durdu-dsoden-sasirtan-tavsiye/104272",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Microsoft'ta yaşanan dev kesintinin perde arkası belli oldu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/microsoftta-yasanan-dev-kesintinin-perde-arkasi-belli-oldu/104269",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Microsoft Kesintisi Avrupa’da Alarm Verdi: Dijital Egemenlik Çağrıları Yükseliyor",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/microsoft-kesintisi-avrupada-alarm-verdi-dijital-egemenlik-cagrilari-yukseliyor/",
+          "also_in": []
+        },
+        {
+          "title": "Microsoft hizmetleri çöktü, Dünya Sağlık Örgütü çağrı yaptı: Ekrandan uzaklaşın",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/microsoft-hizmetleri-coktu-dso-cagri-yapti-ekrandan-uzaklasin--212902",
+          "also_in": []
+        },
+        {
+          "title": "Microsoft'tan küresel hizmet kesintisi için özür: Outlook ve Microsoft 365 yeniden erişime açıldı",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af826f795131d72027dd884/PICNEWS/tr/microsoft-tan-kuresel-hizmet-kesintisi-icin-ozur-outlook-ve-microsoft-365-yeniden-erisime-acildi-14-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Şehitler ve Asayiş Olayları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Türkiye genelinde operasyonlar ve üzücü olaylar yaşanırken, şehitler için törenler düzenlendi ve asayiş ekipleri suçlulara yönelik operasyonlarını sürdürdü.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Malatya'da şehit olan askerlerimiz son yolculuklarına uğurlandı",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3676928-malatyada-sehit-olan-askerlerimiz-son-yolculuklarina-ugurlandi",
+          "also_in": [
+            "Türkgün",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Şehit Binbaşı Arslan Kulaksız'ın firari şüphelisi 11 yıl sonra yakalandı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/sehit-binbasi-arslan-kulaksiz-in-firari-suphelisi-bitlis-in-tatvan-ilcesinde-yakalandi-2556148",
+          "also_in": [
+            "Ekonomim"
+          ]
+        },
+        {
+          "title": "Şehit Astsubay Hüseyin Zehir, Hatay’da son yolculuğuna uğurlandı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/sehit-astsubay-huseyin-zehir-hatay-da-son-yolculuguna-ugurlandi-1031096.html",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Bundan 11 yıl önce Binbaşı Arslan Kulaksız'ı ailesinin yanında şehit eden terörist yakalandı",
+          "source": "Haber 3",
+          "link": "https://www.haber3.com/video-galeri/haber/bundan-11-yil-once-binbasi-arslan-kulaksizi-ailesinin-yaninda-sehit-eden-terorist-yakalandi-video-6269275",
+          "also_in": [
+            "Haber 3"
+          ]
+        },
+        {
+          "title": "Üç şehit asker için Ankara’da tören düzenlendi",
+          "source": "10Haber",
+          "link": "https://10haber.net/gundem/uc-sehit-asker-icin-ankarada-toren-duzenlendi-754776/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yeni Parti Kurultayı ve Özgür Özel",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Yeni Parti'de gerçekleşen kurultayda Özgür Özel yeniden genel başkan seçilirken, parti içi süreçler ve muhalefet kanadındaki tebrik mesajları öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Özgür Özel, Yeni Parti Genel Başkanı seçildi",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/guncel/ozgur-ozel-yeni-parti-genel-baskani-secildi-289175h",
+          "also_in": [
+            "En Son Haber",
+            "Gazete Zebra",
+            "Haber Global",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Özgür Özel, yeniden Yeni Parti’nin genel başkanı oldu",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/ozgur-ozel-yeniden-yeni-partinin-genel-baskani-oldu-598917",
+          "also_in": [
+            "dikGAZETE",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "YENİ Parti'de Özgür Özel yeniden genel başkan seçildi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/yeni-partide-ozgur-ozel-yeniden-genel-baskan-secildi-haberi-931286",
+          "also_in": [
+            "Haber 7",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Özgür Özel yeniden YENİ Parti Genel Başkanı seçildi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/ozgur-ozel-yeniden-yeni-parti-genel-baskani-secildi",
+          "also_in": [
+            "Dijital Gaste"
+          ]
+        },
+        {
+          "title": "Özgür Özel yeniden genel başkan seçildi",
+          "source": "TGRT Haber",
+          "link": "https://www.tgrthaber.com/politika/ozgur-ozel-yeniden-genel-baskan-secildi-3371450",
+          "also_in": [
+            "Yeni Şafak"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Milli Takım ve Fransa Maçı Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "A Milli Futbol Takımı, Fransa maçı öncesi hazırlıklarını tamamladı; teknik direktörler ve oyuncular maçın önemine dair açıklamalarda bulundu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "A Milli Takım Fransa maçına hazır",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/milli-takim/2026/11/14/a-milli-takim-fransa-macina-hazir",
+          "also_in": [
+            "NTV Spor Anasayfa",
+            "NTV Spor Futbol",
+            "TGRT Haber"
+          ]
+        },
+        {
+          "title": "Sergen Yalçın, Fransa maçı öncesinde bir noktaya dikkat çekti: \"Bir kenara yazın\" diyerek vurguladı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-sergen-yalcin-fransa-maci-oncesinde-bir-noktaya-dikkat-cekti-bir-kenara-yazin-diyerek-vurguladi-433023",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fransa, Türkiye maçının hazırlıklarını tamamladı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/fransa-turkiye-macinin-hazirliklarini-tamamladi-433031",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Zinedine Zidane: Türkiye yarın bize zorluk çıkaracak!",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/futbol/2026/11/14/zinedine-zidane-turkiye-yarin-bize-zorluk-cikaracak",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "Bizim Çocuklar'ın son şansı",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/spor/bizim-cocuklarin-son-sansi/haber-1714693",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Nvidia'nın Piyasa Kaybı ve Çip Krizi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Nvidia'nın piyasa değerindeki büyük düşüş ve çip sektöründeki arz sıkıntıları, teknoloji borsalarını ve yapay zeka girişimlerini olumsuz etkiliyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Nvidia’nın Yeni CEO’su Kim Olacak? Bahis Piyasalarında Arm CEO’su Rene Haas Öne Geçti",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/nvidianin-yeni-ceosu-kim-olacak-bahis-piyasalarinda-arm-ceosu-rene-haas-one-gecti/",
+          "also_in": []
+        },
+        {
+          "title": "Nvidia Tarihinin En Kötü Haftası: 639 Milyar Dolar Eridi, HSBC Notu Düşürdü",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/nvidia-tarihinin-en-kotu-haftasi-639-milyar-dolar-eridi-hsbc-notu-dusurdu/",
+          "also_in": []
+        },
+        {
+          "title": "Jensen Huang’ın Serveti Nvidia’dan Ayrılışının Ardından 62 Milyar Dolar Eridi",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/jensen-huangin-serveti-nvidiadan-ayrilisinin-ardindan-62-milyar-dolar-eridi/",
+          "also_in": []
+        },
+        {
+          "title": "Jensen Huang'ın ayrılışında Çin'e kaçırılan milyarlarca dolarlık çiplerin etkisi olabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/huang-in-ayriliginin-arkasinda-cin-e-kacak-cip-ticareti-mi-var--212881",
+          "also_in": []
+        },
+        {
+          "title": "Çin'in 3,2 milyar dolarlık yapay zeka projeleri Nvidia krizinin gölgesinde",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/cin-in-3-2-milyar-dolarlik-yapay-zeka-yatirimlari-tehlikede--212914",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "COP31 Zirvesi ve İklim Eylemleri",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "COP31 zirvesinde iklim değişikliğiyle mücadele, yeşil dönüşüm ve afet risklerinin azaltılması konularında uluslararası müzakereler devam ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Gençlerin iklim mücadelesinde Vodafone imzası: Dünya İçin Lazım projesi COP31'de sahne aldı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/genclerin-iklim-mucadelesinde-vodafone-imzasi-dunya-icin-lazim-projesi-cop31de-sahne-aldi/104270",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Bakan Bolat: Yurt dışından 100 bine yakın katılımcıyla tarihin en kalabalık COP Zirvesi oluyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yurt-disindan-100-bine-yakin-katilimciyla-tarihin-en-kalabalik-cop-zirvesi-oluyor/4125408",
+          "also_in": [
+            "Ekonomim"
+          ]
+        },
+        {
+          "title": "Bakan Kurum'dan Gazzeli Saly paylaşımı: 196 ülkeye Saly ve Gazze'nin dramını hatırlatıyoruz",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/bakan-kurumdan-gazzeli-saly-paylasimi-196-ulkeye-saly-ve-gazzenin-dramini-hatirlatiyoruz-h1582516",
+          "also_in": [
+            "Sabah"
+          ]
+        },
+        {
+          "title": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyonun-2035e-kadar-yuzde-35e-cikarilmasi-hedefi-ele-alindi/4125315",
+          "also_in": []
+        },
+        {
+          "title": "COP31'de iklim dezenformasyonuyla mücadelede medyanın rolü ele alındı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-dezenformasyonuyla-mucadelede-medyanin-rolu-ele-alindi/4125287",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'nin Kuantum ve Teknoloji Hamleleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye, 2027 hedefli dev kuantum bilgisayar projesi ve TÜRKSAT'ın kırsal internet çözümleriyle teknolojik altyapısını güçlendirmeyi planlıyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye kuantum çağını başlatıyor: 2027'de dev sistem devreye giriyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/turkiye-kuantum-cagini-baslatiyor-2027de-dev-sistem-devreye-giriyor/104275",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "TÜRKSAT'tan devrim niteliğinde çözüm: Elektriğin ve altyapının olmadığı her yere internet gidecek",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/turksattan-devrim-niteliginde-cozum-elektrigin-ve-altyapinin-olmadigi-her-yere-internet-gidecek/104274",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "TÜRKSAT'tan devrim niteliğinde çözüm: Elektrik ve kabloya ihtiyaç duymayan internet dönemi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/turksattan-devrim-niteliginde-cozum-elektrik-ve-kabloya-ihtiyac-duymayan-internet-donemi/104273",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Türkiye'nin en büyük kuantum bilgisayarı 2027'de devreye alınacak",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/turkiyenin-en-buyuk-kuantum-bilgisayari-2027de-devreye-alinacak",
+          "also_in": [
+            "İnternet Haber",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Türkiye'nin en büyük kuantum bilgisayarı TÜBİTAK bünyesinde kuruluyor",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/turkiye-nin-en-buyuk-kuantum-bilgisayari-tubitak-bunyesinde-kuruluyor-3794666",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Meta'ya Dev İtalya Cezası",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "İtalya, kullanıcı galerilerine izinsiz erişim sağladığı gerekçesiyle Meta şirketine 805 milyon Avro tutarında rekor bir ceza kesti.",
+      "importance": 7,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Meta'ya İtalya'dan dev ceza: Galeriye izinsiz erişim krizi",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/metaya-italyadan-dev-ceza-galeriye-izinsiz-erisim-krizi/104276",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "İtalya’dan Meta’ya 805 Milyon Avro Ceza: Facebook, Android Galerilere İzinsiz Erişti",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/italyadan-metaya-805-milyon-avro-ceza-facebook-android-galerilere-izinsiz-eristi/",
+          "also_in": []
+        },
+        {
+          "title": "Facebook'un fotoğraf özelliği pahalıya patladı: Meta'ya 805 milyon euroluk ceza",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/dunya/facebookun-fotograf-ozelligi-pahaliya-patladi-metaya-805-milyon-euroluk-ceza-h41819",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yasadışı Bahis ve Medyum Reklamlarına Denetim",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Ticaret Bakanlığı, fal, medyum ve büyü içerikli reklamların yanı sıra yasadışı bahis operasyonlarına yönelik denetimlerini sıkılaştırdı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fal, medyum ve büyü reklamlarına durdurma kararı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/fal-medyum-ve-buyu-reklamlarina-durdurma-karari-598966",
+          "also_in": [
+            "Cumhuriyet",
+            "Elips Haber",
+            "En Son Haber",
+            "Haber 7",
+            "NTV",
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Ticaret Bakanlığından fal, medyum ve büyü tanıtımlarına durdurma kararı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/ticaret-bakanligindan-fal-medyum-ve-buyu-tanitimlarina-durdurma-karari-1031164.html",
+          "also_in": [
+            "Haber 7",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Bitlis merkezli 4 ilde yasa dışı bahis operasyonu: 6 tutuklama",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/bitlis-merkezli-4-ilde-yasa-disi-bahis-operasyonu-6-tutuklama-1031072.html",
+          "also_in": [
+            "En Son Haber"
+          ]
+        },
+        {
+          "title": "Reklam Kurulu'ndan fal, medyumluk ve büyü reklamlarına durdurma kararı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Bakanlık harekete geçti: Fal, medyumluk ve büyü reklamlarına durdurma kararı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/bakanlik-harekete-gecti-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-877236",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Heyecanı ve Oyun Dünyası",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın piyasaya çıkış süreci ve oyun kodlarına dair güvenlik endişeleri, oyun dünyasında büyük yankı uyandırdı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA VI'nın ön indirmeleri başladı, internet trafiği rekor seviyeye ulaştı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/gta-vinin-on-indirmeleri-basladi-internet-trafigi-rekor-seviyeye-ulasti_185331.html",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6'nın beş ayda 55 milyon kopya satması bekleniyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-bes-ayda-55-milyon-kopya-satabilir--212926",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6'da şaşırtan açık: Kodlar kutu açılmadan çalınabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-fiziksel-kopyalarinda-kutuyu-acmadan-kod-gorulebiliyor--212918",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Gold Statüsüne Ulaştı! Geliştirilme Süreci Tamamlandı",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-gold-statusune-ulasti-gelistirilme-sureci-tamamlandi-haber-264347",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Kutusunu Açmadan Oyun Kodunu Görmek Mümkün!",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-kutusunu-acmadan-oyun-kodunu-gormek-mumkun-haber-264336",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": "1889",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Museum of Modern Art, New York City",
+    "description": "İklim değişikliği ve doğa olaylarının gölgesinde, insanın evren karşısındaki kırılganlığını temsil ediyor. Gecenin kaotik ama büyüleyici enerjisi, bugünkü teknolojik tedirginliğin ruh halini yansıtıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "wikipedia_extract": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village. It has been in the permanent collection of the Museum of Modern Art in New York City since 1941, acquired through the Lillie P. Bliss Bequest. Described as a \"touchstone of modern art\", The Starry Night has been regarded as one of the most recognizable paintings in the Western canon.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/3840px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+  },
+  "music": {
+    "title": "Unfinished Sympathy - 2012 Mix/Master",
+    "artists": "Massive Attack, Shara Nelson",
+    "album": "Blue Lines (2012 Mix/Master)",
+    "duration": "5:08",
+    "spotify_url": "https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF",
+    "spotify_id": "0j5FJJOmmnXPd0XajFWkMF",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273af5beb00d940f5ede452d6b5",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0j5FJJOmmnXPd0XajFWkMF\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Küresel dijital altyapıların çatırdadığı, diplomatik gerilimlerin ve iklim kriziyle şekillenen belirsizliğin gökyüzümüzü bir sis gibi kapladığı bu huzursuz çağda, Van Gogh’un Yıldızlı Gece tablosu ile Massive Attack’in Unfinished Sympathy parçası arasında yankılanan kadim bir çaresizliğe tutunuyoruz. Saint-Rémy’nin akıl hastanesinden o hayali köye uzanan fırça darbelerindeki türbülans, bugün yapay zeka ve kuantum teknolojilerinin yarattığı devasa sistem kesintileriyle sarsılan modern insanın içsel tedirginliğini kusursuzca yansıtıyor. Shara Nelson’ın sesindeki o görkemli melankoli, sistemlerin çöktüğü bir dünyada insanın kendi varoluşuna sığınma çabasına eşlik ederken, gökyüzündeki o dönen yıldızlar karanlığın içinde hala bir çıkış yolu arayan kolektif umudumuzu temsil ediyor. Belirsizliğin ortasında kurulan bu estetik köprü, dijital altyapıların sustuğu yerde insan ruhunun hala kendi evrenini inşa edebileceğini hatırlatıyor."
+}
