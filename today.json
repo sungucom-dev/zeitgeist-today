@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-15",
-  "date_human": "15 November 2026",
-  "generated_at": "2026-11-15T01:31:14.422949+00:00",
+  "date": "2026-11-16",
+  "date_human": "16 November 2026",
+  "generated_at": "2026-11-16T01:31:00.127182+00:00",
   "stats": {
-    "feeds_collected": 288,
-    "news_total": 4002,
-    "news_analyzed": 589,
+    "feeds_collected": 286,
+    "news_total": 3915,
+    "news_analyzed": 574,
     "clusters": 10
   },
   "mood": {
-    "description": "Dünya genelinde dijital altyapı krizleri ve diplomatik hareketliliğin gölgesinde, teknolojik aksaklıkların yarattığı belirsizlik ile toplumsal dayanışma arayışının iç içe geçtiği bir atmosfer hakim.",
+    "description": "Küresel jeopolitik gerilimlerin, savunma teknolojisindeki atılımların ve finansal piyasalardaki belirsizliklerin gölgesinde, dijital dünyanın hızı ile geleneksel sorunların iç içe geçtiği bir gün yaşanıyor.",
     "dominant_emotion": "Tedirginlik",
     "key_themes": [
-      "Dijital altyapı ve küresel sistem kesintileri",
-      "COP31 zirvesi ve iklim değişikliği eylem planları",
-      "Siyasi kurultaylar ve liderlik değişimleri",
-      "Yapay zeka ve kuantum teknolojilerinde stratejik hamleler",
-      "Uluslararası diplomatik gerilimler ve bölgesel çatışmalar"
+      "Savunma Sanayi ve Teknolojik Atılımlar",
+      "Uluslararası Jeopolitik Krizler (Hürmüz ve Orta Doğu)",
+      "Finansal Piyasalarda İstikrar Arayışı ve Fon Tartışmaları",
+      "Spor Dünyasında Milli Takım ve Transfer Hareketliliği"
     ]
   },
   "weather": {
@@ -25,454 +24,322 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-15",
-        "code": 80,
-        "temp_max": 21.7,
-        "temp_min": 14.3
-      },
-      {
         "date": "2026-11-16",
         "code": 45,
-        "temp_max": 20.2,
-        "temp_min": 10.5
+        "temp_max": 20.4,
+        "temp_min": 10.7
       },
       {
         "date": "2026-11-17",
         "code": 3,
         "temp_max": 21.3,
-        "temp_min": 11.4
+        "temp_min": 13.0
       },
       {
         "date": "2026-11-18",
         "code": 3,
-        "temp_max": 20.9,
-        "temp_min": 13.7
+        "temp_max": 21.7,
+        "temp_min": 14.0
       },
       {
         "date": "2026-11-19",
         "code": 3,
-        "temp_max": 24.4,
+        "temp_max": 24.0,
         "temp_min": 18.3
       },
       {
         "date": "2026-11-20",
         "code": 3,
-        "temp_max": 23.9,
-        "temp_min": 18.7
+        "temp_max": 23.3,
+        "temp_min": 19.8
       },
       {
         "date": "2026-11-21",
-        "code": 45,
-        "temp_max": 22.1,
-        "temp_min": 15.5
+        "code": 3,
+        "temp_max": 21.8,
+        "temp_min": 15.2
+      },
+      {
+        "date": "2026-11-22",
+        "code": 95,
+        "temp_max": 17.3,
+        "temp_min": 11.0
       }
     ]
   },
   "clusters": [
     {
-      "title": "Küresel Dijital Altyapı ve Microsoft Krizi",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Microsoft sistemlerinde 70 ülkede yaşanan küresel kesinti, hava trafiğini durdurma noktasına getirdi ve dijital egemenlik tartışmalarını tetikledi.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Microsoft'ta küresel kriz: 70 ülkede sistemler durdu, DSÖ'den şaşırtan tavsiye",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/microsoftta-kuresel-kriz-70-ulkede-sistemler-durdu-dsoden-sasirtan-tavsiye/104272",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Microsoft'ta yaşanan dev kesintinin perde arkası belli oldu",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/microsoftta-yasanan-dev-kesintinin-perde-arkasi-belli-oldu/104269",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Microsoft Kesintisi Avrupa’da Alarm Verdi: Dijital Egemenlik Çağrıları Yükseliyor",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/microsoft-kesintisi-avrupada-alarm-verdi-dijital-egemenlik-cagrilari-yukseliyor/",
-          "also_in": []
-        },
-        {
-          "title": "Microsoft hizmetleri çöktü, Dünya Sağlık Örgütü çağrı yaptı: Ekrandan uzaklaşın",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/microsoft-hizmetleri-coktu-dso-cagri-yapti-ekrandan-uzaklasin--212902",
-          "also_in": []
-        },
-        {
-          "title": "Microsoft'tan küresel hizmet kesintisi için özür: Outlook ve Microsoft 365 yeniden erişime açıldı",
-          "source": "Foreks",
-          "link": "https://www.foreks.com/haber/detay/6af826f795131d72027dd884/PICNEWS/tr/microsoft-tan-kuresel-hizmet-kesintisi-icin-ozur-outlook-ve-microsoft-365-yeniden-erisime-acildi-14-11-26/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Şehitler ve Asayiş Olayları",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Türkiye genelinde operasyonlar ve üzücü olaylar yaşanırken, şehitler için törenler düzenlendi ve asayiş ekipleri suçlulara yönelik operasyonlarını sürdürdü.",
-      "importance": 9,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Malatya'da şehit olan askerlerimiz son yolculuklarına uğurlandı",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/guncel/haber/3676928-malatyada-sehit-olan-askerlerimiz-son-yolculuklarina-ugurlandi",
-          "also_in": [
-            "Türkgün",
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Şehit Binbaşı Arslan Kulaksız'ın firari şüphelisi 11 yıl sonra yakalandı",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/sehit-binbasi-arslan-kulaksiz-in-firari-suphelisi-bitlis-in-tatvan-ilcesinde-yakalandi-2556148",
-          "also_in": [
-            "Ekonomim"
-          ]
-        },
-        {
-          "title": "Şehit Astsubay Hüseyin Zehir, Hatay’da son yolculuğuna uğurlandı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/sehit-astsubay-huseyin-zehir-hatay-da-son-yolculuguna-ugurlandi-1031096.html",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Bundan 11 yıl önce Binbaşı Arslan Kulaksız'ı ailesinin yanında şehit eden terörist yakalandı",
-          "source": "Haber 3",
-          "link": "https://www.haber3.com/video-galeri/haber/bundan-11-yil-once-binbasi-arslan-kulaksizi-ailesinin-yaninda-sehit-eden-terorist-yakalandi-video-6269275",
-          "also_in": [
-            "Haber 3"
-          ]
-        },
-        {
-          "title": "Üç şehit asker için Ankara’da tören düzenlendi",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/uc-sehit-asker-icin-ankarada-toren-duzenlendi-754776/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Yeni Parti Kurultayı ve Özgür Özel",
+      "title": "Hürmüz Boğazı'nda Petrol Tankeri Krizi",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Yeni Parti'de gerçekleşen kurultayda Özgür Özel yeniden genel başkan seçilirken, parti içi süreçler ve muhalefet kanadındaki tebrik mesajları öne çıktı.",
-      "importance": 8,
+      "summary": "Hürmüz Boğazı'nda deniz mayınlarına çarpan petrol tankerleri bölgedeki güvenlik endişelerini ve jeopolitik tansiyonu tırmandırdı.",
+      "importance": 10,
       "story_count": 5,
       "stories": [
         {
-          "title": "Özgür Özel, Yeni Parti Genel Başkanı seçildi",
+          "title": "İran: Hürmüz Boğazı'nda deniz mayınlarına çarpan 2 petrol tankerinden biri battı",
           "source": "Bengütürk",
-          "link": "https://www.benguturk.com/guncel/ozgur-ozel-yeni-parti-genel-baskani-secildi-289175h",
+          "link": "https://www.benguturk.com/dunya/iran-hurmuz-bogazinda-deniz-mayinlarina-carpan-2-petrol-tankerinden-biri-batti-289249h",
           "also_in": [
-            "En Son Haber",
-            "Gazete Zebra",
             "Haber Global",
-            "Ulusal Kanal"
-          ]
-        },
-        {
-          "title": "Özgür Özel, yeniden Yeni Parti’nin genel başkanı oldu",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/ozgur-ozel-yeniden-yeni-partinin-genel-baskani-oldu-598917",
-          "also_in": [
-            "dikGAZETE",
-            "Haberet"
-          ]
-        },
-        {
-          "title": "YENİ Parti'de Özgür Özel yeniden genel başkan seçildi",
-          "source": "Ekonomim",
-          "link": "https://www.ekonomim.com/gundem/yeni-partide-ozgur-ozel-yeniden-genel-baskan-secildi-haberi-931286",
-          "also_in": [
-            "Haber 7",
+            "İnternet Haber",
+            "İstiklal",
             "TRT Haber"
           ]
         },
         {
-          "title": "Özgür Özel yeniden YENİ Parti Genel Başkanı seçildi",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/ozgur-ozel-yeniden-yeni-parti-genel-baskani-secildi",
-          "also_in": [
-            "Dijital Gaste"
-          ]
-        },
-        {
-          "title": "Özgür Özel yeniden genel başkan seçildi",
-          "source": "TGRT Haber",
-          "link": "https://www.tgrthaber.com/politika/ozgur-ozel-yeniden-genel-baskan-secildi-3371450",
-          "also_in": [
-            "Yeni Şafak"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Milli Takım ve Fransa Maçı Hazırlıkları",
-      "meta_category": "Spor",
-      "summary": "A Milli Futbol Takımı, Fransa maçı öncesi hazırlıklarını tamamladı; teknik direktörler ve oyuncular maçın önemine dair açıklamalarda bulundu.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "A Milli Takım Fransa maçına hazır",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/milli-takim/2026/11/14/a-milli-takim-fransa-macina-hazir",
-          "also_in": [
-            "NTV Spor Anasayfa",
-            "NTV Spor Futbol",
-            "TGRT Haber"
-          ]
-        },
-        {
-          "title": "Sergen Yalçın, Fransa maçı öncesinde bir noktaya dikkat çekti: \"Bir kenara yazın\" diyerek vurguladı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-sergen-yalcin-fransa-maci-oncesinde-bir-noktaya-dikkat-cekti-bir-kenara-yazin-diyerek-vurguladi-433023",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Fransa, Türkiye maçının hazırlıklarını tamamladı",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/fransa-turkiye-macinin-hazirliklarini-tamamladi-433031",
-          "also_in": [
-            "NTV Spor Futbol"
-          ]
-        },
-        {
-          "title": "Zinedine Zidane: Türkiye yarın bize zorluk çıkaracak!",
-          "source": "Sabah Spor",
-          "link": "https://www.sabah.com.tr/spor/futbol/2026/11/14/zinedine-zidane-turkiye-yarin-bize-zorluk-cikaracak",
+          "title": "Hürmüz Boğazı’nda iki petrol tankeri mayına çarptı, biri battı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/hurmuz-bogazi-nda-iki-petrol-tankeri-mayina-carpti-biri-batti-1031568.html",
           "also_in": [
             "Haber"
           ]
         },
         {
-          "title": "Bizim Çocuklar'ın son şansı",
-          "source": "Akşam",
-          "link": "https://www.aksam.com.tr/spor/bizim-cocuklarin-son-sansi/haber-1714693",
+          "title": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri deniz mayınına çarparak alev aldı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-deniz-mayinina-carparak-alev-aldi-289278h",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "İran'dan ABD'ye açık mesaj: Somut adım atın, Hürmüz'ü açalım",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6afa35a14b18523914462d60/PICNEWS/tr/iran-dan-abd-ye-acik-mesaj-somut-adim-atin-hurmuz-u-acalim-16-11-26/",
+          "also_in": []
+        },
+        {
+          "title": "Hürmüz Boğazı'nda iki petrol tankerinde patlama",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af95d684b18523914462bb2/PICNEWS/tr/hurmuz-bogazi-nda-iki-petrol-tankerinde-patlama-15-11-26/",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Nvidia'nın Piyasa Kaybı ve Çip Krizi",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Nvidia'nın piyasa değerindeki büyük düşüş ve çip sektöründeki arz sıkıntıları, teknoloji borsalarını ve yapay zeka girişimlerini olumsuz etkiliyor.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Nvidia’nın Yeni CEO’su Kim Olacak? Bahis Piyasalarında Arm CEO’su Rene Haas Öne Geçti",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/nvidianin-yeni-ceosu-kim-olacak-bahis-piyasalarinda-arm-ceosu-rene-haas-one-gecti/",
-          "also_in": []
-        },
-        {
-          "title": "Nvidia Tarihinin En Kötü Haftası: 639 Milyar Dolar Eridi, HSBC Notu Düşürdü",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/nvidia-tarihinin-en-kotu-haftasi-639-milyar-dolar-eridi-hsbc-notu-dusurdu/",
-          "also_in": []
-        },
-        {
-          "title": "Jensen Huang’ın Serveti Nvidia’dan Ayrılışının Ardından 62 Milyar Dolar Eridi",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/jensen-huangin-serveti-nvidiadan-ayrilisinin-ardindan-62-milyar-dolar-eridi/",
-          "also_in": []
-        },
-        {
-          "title": "Jensen Huang'ın ayrılışında Çin'e kaçırılan milyarlarca dolarlık çiplerin etkisi olabilir",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/huang-in-ayriliginin-arkasinda-cin-e-kacak-cip-ticareti-mi-var--212881",
-          "also_in": []
-        },
-        {
-          "title": "Çin'in 3,2 milyar dolarlık yapay zeka projeleri Nvidia krizinin gölgesinde",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/cin-in-3-2-milyar-dolarlik-yapay-zeka-yatirimlari-tehlikede--212914",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "COP31 Zirvesi ve İklim Eylemleri",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "COP31 zirvesinde iklim değişikliğiyle mücadele, yeşil dönüşüm ve afet risklerinin azaltılması konularında uluslararası müzakereler devam ediyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Gençlerin iklim mücadelesinde Vodafone imzası: Dünya İçin Lazım projesi COP31'de sahne aldı",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/genclerin-iklim-mucadelesinde-vodafone-imzasi-dunya-icin-lazim-projesi-cop31de-sahne-aldi/104270",
-          "also_in": [
-            "Megabayt Teknoloji"
-          ]
-        },
-        {
-          "title": "Bakan Bolat: Yurt dışından 100 bine yakın katılımcıyla tarihin en kalabalık COP Zirvesi oluyor",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-yurt-disindan-100-bine-yakin-katilimciyla-tarihin-en-kalabalik-cop-zirvesi-oluyor/4125408",
-          "also_in": [
-            "Ekonomim"
-          ]
-        },
-        {
-          "title": "Bakan Kurum'dan Gazzeli Saly paylaşımı: 196 ülkeye Saly ve Gazze'nin dramını hatırlatıyoruz",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/bakan-kurumdan-gazzeli-saly-paylasimi-196-ulkeye-saly-ve-gazzenin-dramini-hatirlatiyoruz-h1582516",
-          "also_in": [
-            "Sabah"
-          ]
-        },
-        {
-          "title": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-elektrifikasyonun-2035e-kadar-yuzde-35e-cikarilmasi-hedefi-ele-alindi/4125315",
-          "also_in": []
-        },
-        {
-          "title": "COP31'de iklim dezenformasyonuyla mücadelede medyanın rolü ele alındı",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/cop31de-iklim-dezenformasyonuyla-mucadelede-medyanin-rolu-ele-alindi/4125287",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Türkiye'nin Kuantum ve Teknoloji Hamleleri",
+      "title": "ASELSAN EJDERHA ile Savunma Teknolojisinde Rekor",
       "meta_category": "Bilim ve Teknoloji",
-      "summary": "Türkiye, 2027 hedefli dev kuantum bilgisayar projesi ve TÜRKSAT'ın kırsal internet çözümleriyle teknolojik altyapısını güçlendirmeyi planlıyor.",
-      "importance": 7,
+      "summary": "ASELSAN'ın geliştirdiği EJDERHA sistemi, 51 dronu aynı anda etkisiz hale getirerek savunma sanayisinde büyük bir başarıya imza attı.",
+      "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Türkiye kuantum çağını başlatıyor: 2027'de dev sistem devreye giriyor",
+          "title": "ASELSAN'dan gökyüzünde gövde gösterisi: 51 dronu tek hamlede etkisiz kıldı",
           "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/turkiye-kuantum-cagini-baslatiyor-2027de-dev-sistem-devreye-giriyor/104275",
+          "link": "https://www.megabayt.com/teknoloji/aselsandan-gokyuzunde-govde-gosterisi-51-dronu-tek-hamlede-etkisiz-kildi/104281",
           "also_in": [
             "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "TÜRKSAT'tan devrim niteliğinde çözüm: Elektriğin ve altyapının olmadığı her yere internet gidecek",
+          "title": "ASELSAN'dan gökyüzünde gövde gösterisi: EJDERHA 51 dronu aynı anda avladı",
           "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/turksattan-devrim-niteliginde-cozum-elektrigin-ve-altyapinin-olmadigi-her-yere-internet-gidecek/104274",
+          "link": "https://www.megabayt.com/teknoloji/aselsandan-gokyuzunde-govde-gosterisi-ejderha-51-dronu-ayni-anda-avladi/104280",
           "also_in": [
             "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "TÜRKSAT'tan devrim niteliğinde çözüm: Elektrik ve kabloya ihtiyaç duymayan internet dönemi",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/turksattan-devrim-niteliginde-cozum-elektrik-ve-kabloya-ihtiyac-duymayan-internet-donemi/104273",
+          "title": "ASELSAN EJDERHA, 51 dronu saniyeler içinde etkisiz hale getirdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/aselsan-ejderha-51-dronu-saniyeler-icinde-etkisiz-hale-getirdi--212944",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN'dan dronlara karşı EJDERHA: 51 dronu tek tuşla düşürdü",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/aselsandan-dronlara-karsi-ejderha-51-dronu-tek-tusla-dusurdu-6998428",
           "also_in": [
-            "Megabayt Teknoloji"
+            "NTV"
           ]
         },
         {
-          "title": "Türkiye'nin en büyük kuantum bilgisayarı 2027'de devreye alınacak",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/turkiyenin-en-buyuk-kuantum-bilgisayari-2027de-devreye-alinacak",
+          "title": "ASELSAN'dan dünyada bir ilk: 51 dron tek tuşla etkisiz hale getirildi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/savunma/aselsandan-dunyada-bir-ilk-51-dron-tek-tusla-etkisiz-hale-getirildi-111068",
           "also_in": [
-            "İnternet Haber",
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fon Soruşturması ve Ekonomik Belirsizlik",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon tasfiyeleri ve varlıkların akıbetiyle ilgili tartışmalar devam ederken, Bakan Şimşek ve SPK'dan piyasayı yatıştırmaya yönelik açıklamalar geldi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SPK'dan tasfiye edilen fonlardaki hisseler için yeni açıklama",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/spk-dan-tasfiye-edilen-fonlardaki-hisseler-icin-yeni-aciklama-p381629",
+          "also_in": [
+            "CNBC-e",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Mehmet Şimşek: Öyle bir anlatılıyor ki sanki fonlardaki her şey kayboldu",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/mehmet-simsek-oyle-bir-anlatiliyor-ki-sanki-fonlardaki-her-sey-kayboldu-755177/",
+          "also_in": [
+            "Diken"
+          ]
+        },
+        {
+          "title": "Fon tasfiyesinde son durum: Bakan Şimşek: İncelemeler bu ay tamamlanacak",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/fon-tasfiyesinde-son-durum-bakan-simsek-incelemeler-bu-ay-tamamlanacak-6998339",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Şimşek, fonlardaki varlıkların kaybolduğu iddialarını reddetti",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/simsek-fonlardaki-tum-varliklarin-kayboldugu-iddialarini-reddetti-3794678",
+          "also_in": []
+        },
+        {
+          "title": "119 fonda 161 milyar TL ödeme: Borsa rahatlar mı, güven geri döner mi?",
+          "source": "Investing Genel",
+          "link": "https://tr.investing.com/analysis/119-fonda-161-milyar-tl-odeme-borsa-rahatlar-m-guven-geri-doner-mi-200507089",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan Kıbrıs ve Filistin Mesajları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan, Kıbrıs ve Filistin meselelerine dair Türkiye'nin kararlı duruşunu vurgulayan açıklamalarda bulundu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Kıbrıs’ı ne olursa olsun asla yalnız bırakmayacağız",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-kibrisi-ne-olursa-olsun-asla-yalniz-birakmayacagiz-111064",
+          "also_in": [
+            "Sputnik",
             "TRT Haber"
           ]
         },
         {
-          "title": "Türkiye'nin en büyük kuantum bilgisayarı TÜBİTAK bünyesinde kuruluyor",
-          "source": "Bloomberg HT",
-          "link": "https://www.bloomberght.com/turkiye-nin-en-buyuk-kuantum-bilgisayari-tubitak-bunyesinde-kuruluyor-3794666",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Meta'ya Dev İtalya Cezası",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "İtalya, kullanıcı galerilerine izinsiz erişim sağladığı gerekçesiyle Meta şirketine 805 milyon Avro tutarında rekor bir ceza kesti.",
-      "importance": 7,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "Meta'ya İtalya'dan dev ceza: Galeriye izinsiz erişim krizi",
-          "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/metaya-italyadan-dev-ceza-galeriye-izinsiz-erisim-krizi/104276",
+          "title": "Cumhurbaşkanı Erdoğan: Kıbrıs’ı asla yalnız bırakmayacağız",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/cumhurbaskani-erdogan-kibrisi-asla-yalniz-birakmayacagiz/368543/",
           "also_in": [
-            "Megabayt Teknoloji"
+            "BHA"
           ]
         },
         {
-          "title": "İtalya’dan Meta’ya 805 Milyon Avro Ceza: Facebook, Android Galerilere İzinsiz Erişti",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/italyadan-metaya-805-milyon-avro-ceza-facebook-android-galerilere-izinsiz-eristi/",
+          "title": "Cumhurbaşkanı Erdoğan: Her platformda Filistin davasını en güçlü şekilde savunacağız",
+          "source": "Sputnik",
+          "link": "https://anlatilaninotesi.com.tr/20261115/cumhurbaskani-erdogan-her-platformda-filistin-davasini-en-guclu-sekilde-savunacagiz-1110359919.html",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Başkan Erdoğan: \"Her platformda Filistin davasını en güçlü şekilde savunacağız\"",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/15/baskan-erdogan-her-platformda-filistin-davasini-en-guclu-sekilde-savunacagiz",
           "also_in": []
         },
         {
-          "title": "Facebook'un fotoğraf özelliği pahalıya patladı: Meta'ya 805 milyon euroluk ceza",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/dunya/facebookun-fotograf-ozelligi-pahaliya-patladi-metaya-805-milyon-euroluk-ceza-h41819",
+          "title": "Başkan Erdoğan: Kıbrıs’ı ne olursa olsun asla yalnız bırakmayacağız",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/15/baskan-erdogan-kibrisi-ne-olursa-olsun-asla-yalniz-birakmayacagiz",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Yasadışı Bahis ve Medyum Reklamlarına Denetim",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Ticaret Bakanlığı, fal, medyum ve büyü içerikli reklamların yanı sıra yasadışı bahis operasyonlarına yönelik denetimlerini sıkılaştırdı.",
-      "importance": 6,
+      "title": "A Milli Takım'ın Fransa Maçı ve Sonrası",
+      "meta_category": "Spor",
+      "summary": "A Milli Futbol Takımı'nın Fransa karşısındaki mağlubiyeti ve Uluslar Ligi'ndeki durumu spor gündeminin merkezine oturdu.",
+      "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "Fal, medyum ve büyü reklamlarına durdurma kararı",
-          "source": "Aydınlık",
-          "link": "https://www.aydinlik.com.tr/haber/fal-medyum-ve-buyu-reklamlarina-durdurma-karari-598966",
+          "title": "Milli Takım Fransa'da kaybetti: Uluslar A Ligi'nde 6'da 0",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-fransa-turkiye-canli-anlatim-433083",
           "also_in": [
-            "Cumhuriyet",
-            "Elips Haber",
-            "En Son Haber",
-            "Haber 7",
-            "NTV",
-            "Yeni Akit"
+            "NTV Spor Anasayfa"
           ]
         },
         {
-          "title": "Ticaret Bakanlığından fal, medyum ve büyü tanıtımlarına durdurma kararı",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/ticaret-bakanligindan-fal-medyum-ve-buyu-tanitimlarina-durdurma-karari-1031164.html",
+          "title": "Milli Takım Fransa'da kaybetti",
+          "source": "Duhuliye",
+          "link": "https://www.duhuliye.com/futbol/milli-takim-fransada-kaybetti-78925",
+          "also_in": []
+        },
+        {
+          "title": "Fransa-Türkiye maçının ilk 11'leri belli oldu",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/spor/fransa-turkiye-macinin-ilk-11leri-belli-oldu-haberi-847713",
           "also_in": [
-            "Haber 7",
-            "Haberler"
+            "Gerçek Gündem",
+            "Son Mühür"
           ]
         },
         {
-          "title": "Bitlis merkezli 4 ilde yasa dışı bahis operasyonu: 6 tutuklama",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/bitlis-merkezli-4-ilde-yasa-disi-bahis-operasyonu-6-tutuklama-1031072.html",
+          "title": "A Milli Futbol Takımı, Fransa'ya mağlup oldu",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/a-milli-futbol-takimi-fransaya-maglup-oldu",
           "also_in": [
             "En Son Haber"
           ]
         },
         {
-          "title": "Reklam Kurulu'ndan fal, medyumluk ve büyü reklamlarına durdurma kararı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
+          "title": "Türkiye, UEFA Uluslar Ligi'ni puansız tamamladı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-ligini-puansiz-tamamladi/4126057",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "SpaceX Starship'in Havada Yakalanması",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "SpaceX, Starship roketinin üst aşamasını fırlatma kulesinde başarıyla yakalayarak uzay taşımacılığında yeni bir dönemi başlattı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SpaceX'ten devrim niteliğinde hamle: Starship'in üst gövdesi havada yakalandı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/spacexten-devrim-niteliginde-hamle-starshipin-ust-govdesi-havada-yakalandi/104284",
           "also_in": [
-            "Sözcü Gündem"
+            "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Bakanlık harekete geçti: Fal, medyumluk ve büyü reklamlarına durdurma kararı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/bakanlik-harekete-gecti-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-877236",
+          "title": "SpaceX tarih yazdı: Dev roket havada yakalandı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/spacex-tarih-yazdi-dev-roket-havada-yakalandi/104278",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Tarihi başarı: SpaceX, Starship'in üst aşamasını ilk kez yakaladı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/spacex-starship-in-ust-asamasini-ilk-kez-yakaladi--212934",
+          "also_in": []
+        },
+        {
+          "title": "SpaceX, Starship’i “Mechazilla” ile yakalamayı başardı [Video]",
+          "source": "LOG",
+          "link": "https://www.log.com.tr/spacex-starshipi-mechazilla-ile-yakalamayi-basardi-video/",
+          "also_in": []
+        },
+        {
+          "title": "SpaceX'ten tarihi başarı: Starship uzay yolculuğunun ardından fırlatma kulesine geri döndü",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af946a04b18523914462b8c/PICNEWS/tr/spacex-ten-tarihi-basari-starship-uzay-yolculugunun-ardindan-firlatma-kulesine-geri-dondu-15-11-26/",
           "also_in": []
         }
       ]
@@ -480,67 +347,191 @@
     {
       "title": "GTA 6 Heyecanı ve Oyun Dünyası",
       "meta_category": "Magazin ve Eğlence",
-      "summary": "GTA 6'nın piyasaya çıkış süreci ve oyun kodlarına dair güvenlik endişeleri, oyun dünyasında büyük yankı uyandırdı.",
-      "importance": 6,
+      "summary": "GTA 6'nın çıkışına dair sızıntılar, internet trafiğini ve oyuncu topluluklarını hareketlendirdi.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "GTA VI'nın ön indirmeleri başladı, internet trafiği rekor seviyeye ulaştı",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/haber/gta-vinin-on-indirmeleri-basladi-internet-trafigi-rekor-seviyeye-ulasti_185331.html",
-          "also_in": []
+          "title": "GTA 6 için geri sayım başladı: Türkiye'de tam olarak ne zaman oynanabilecek?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-icin-geri-sayim-basladi-turkiyede-tam-olarak-ne-zaman-oynanabilecek/104283",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
         },
         {
-          "title": "GTA 6'nın beş ayda 55 milyon kopya satması bekleniyor",
+          "title": "GTA 6 müzik listesi sızdırıldı: Yıldızlar karması albümü!",
           "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/gta-6-bes-ayda-55-milyon-kopya-satabilir--212926",
+          "link": "https://www.donanimhaber.com/gta-6-albumu-sarki-listesi-sizdirildi-yildizlar-karmasi--212941",
           "also_in": []
         },
         {
-          "title": "GTA 6'da şaşırtan açık: Kodlar kutu açılmadan çalınabilir",
+          "title": "GTA VI İndirmeleri Başladı, DE-CIX’te İnternet Trafiği Rekor Seviyeye Ulaştı",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/gta-vi-indirmeleri-basladi-de-cixte-in-440960",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6'nın Görev Sayısı ve Hikaye Süresi Sızdırıldı",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-nin-gorev-sayisi-ve-hikaye-suresi-sizdirildi-haber-264375",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Çıkıyor, Amerika İzne Ayrılıyor: Milyonlarca Kişi İşe Gitmeyecek!",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-cikiyor-amerika-izne-ayriliyor-milyonlarca-kisi-ise-gitmeyecek-haber-264353",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Nvidia ve Jensen Huang'a Destek Kampanyası",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Teknoloji dünyasında Nvidia CEO'su Jensen Huang'ın görevine iadesi için geniş çaplı bir imza kampanyası başlatıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Jensen Huang'a destek büyüyor: İmza kampanyası 100 bin kişiyi aştı",
           "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/gta-6-fiziksel-kopyalarinda-kutuyu-acmadan-kod-gorulebiliyor--212918",
+          "link": "https://www.donanimhaber.com/jensen-huang-a-destek-buyuyor-imza-kampanyasi-100-bini-asti--212942",
           "also_in": []
         },
         {
-          "title": "GTA 6 Gold Statüsüne Ulaştı! Geliştirilme Süreci Tamamlandı",
-          "source": "Merlin'in Kazanı",
-          "link": "https://www.merlininkazani.com/gta-6-gold-statusune-ulasti-gelistirilme-sureci-tamamlandi-haber-264347",
+          "title": "Aralarında Elon Musk’ın da bulunduğu binlerce kişi, Jensen Huang’ın yeniden göreve getirilmesi için başlatılan imza kampanyasına destek verdi",
+          "source": "LOG",
+          "link": "https://www.log.com.tr/aralarinda-elon-muskin-da-bulundugu-binlerce-kisi-jensen-huangin-yeniden-goreve-getirilmesi-icin-baslatilan-imza-kampanyasina-destek-verdi/",
           "also_in": []
         },
         {
-          "title": "GTA 6 Kutusunu Açmadan Oyun Kodunu Görmek Mümkün!",
-          "source": "Merlin'in Kazanı",
-          "link": "https://www.merlininkazani.com/gta-6-kutusunu-acmadan-oyun-kodunu-gormek-mumkun-haber-264336",
+          "title": "Jensen Huang’ın Nvidia’dan Ayrılmasında Anthropic’in Parmağı Mı Var?",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/jensen-huangin-nvidiadan-ayrilmasinda-441005",
+          "also_in": []
+        },
+        {
+          "title": "Elon Musk ve teknoloji liderleri, Jensen Huang’ın görevine iade edilmesi için imza topladı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmesi-icin-imza-topladi/4125929",
+          "also_in": []
+        },
+        {
+          "title": "Bessent'ten Nvidia'ya yönetim değişikliği çağrısı: Fed'e de faiz uyarısı",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af9d98e95131d72027ddb9d/PICNEWS/tr/bessent-ten-nvidia-ya-yonetim-degisikligi-cagrisi-fed-e-de-faiz-uyarisi-15-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "ABD'de Uçuş Krizi ve Hava Trafiği",
+      "meta_category": "Diğer",
+      "summary": "ABD'de yaşanan teknik aksaklıklar nedeniyle binlerce uçuş iptal edildi, sistemin normale dönmesi için çalışmalar sürüyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ABD’deki uçuş aksaklıkları üçüncü gününde devam ediyor: 5 bin 200’den fazla sefer etkilendi",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/abd-deki-ucus-aksakliklari-ucuncu-gununde-devam-ediyor-5-bin-200-den-fazla-sefer-etkilendi-1031557.html",
+          "also_in": [
+            "Hürriyet",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "ABD'de Uçuş Krizi Üçüncü Gününde! 5 Bin 200'den Fazla Sefer Etkilendi!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/abdde-ucus-krizi-ucuncu-gununde-5-bin-200den-fazla-sefer-etkilendi-877349",
+          "also_in": [
+            "CNN Türk"
+          ]
+        },
+        {
+          "title": "ABD Ulaştırma Bakanı, kesintinin ardından hava trafiğinin pazartesi gününe kadar normale dönmesini bekliyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abd-ulastirma-bakani-kesintinin-ardindan-hava-trafiginin-pazartesi-gunune-kadar-normale-donmesini-bekliyor/4125966",
+          "also_in": []
+        },
+        {
+          "title": "Trump'tan hava trafik kontrol sisteminin yenilenmesi konusunda Kongreye çağrı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/trumptan-hava-trafik-kontrol-sisteminin-yenilenmesi-konusunda-kongreye-cagri/4125939",
+          "also_in": []
+        },
+        {
+          "title": "Trump'tan Kongre'ye: Hava trafik kontrolü için fonu acilen onaylayın",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/trump-tan-kongre-ye-hava-trafik-kontrolu-icin-fonu-acilen-onaylayin-3794683",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kış Lastiği Uygulaması ve Trafik Denetimleri",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Zorunlu kış lastiği uygulamasının başlamasıyla birlikte ülke genelinde denetimler sıkılaştırıldı.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Zorunlu kış lastiği uygulaması başladı: Beypazarı’nda denetimler artırılacak",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/yerel-haberler/zorunlu-kis-lastigi-uygulamasi-basladi-beypazarinda-denetimler-artirilacak/368532/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Ticari araçlarda zorunlu kış lastiği dönemi başladı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/ticari-araclarda-zorunlu-kis-lastigi-donemi-basladi-111065",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Yollarda kış lastiği mesaisi başladı: Takmayana 6 bin TL ceza!",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/kis-lastigi-uygulamasi-2026-27-ne-zaman-basliyor-p381658",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Zorunlu kış lastiği uygulaması başladı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/zorunlu-kis-lastigi-uygulamasi-basladi/951829",
           "also_in": []
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Starry Night",
-    "artist": "Vincent van Gogh",
-    "year": "1889",
-    "form": "resim",
-    "medium": "Oil on canvas",
-    "location": "Museum of Modern Art, New York City",
-    "description": "İklim değişikliği ve doğa olaylarının gölgesinde, insanın evren karşısındaki kırılganlığını temsil ediyor. Gecenin kaotik ama büyüleyici enerjisi, bugünkü teknolojik tedirginliğin ruh halini yansıtıyor.",
+    "title": "Cloud Gate",
+    "artist": "Anish Kapoor",
+    "year": "2006",
+    "form": "heykel",
+    "medium": "Stainless steel",
+    "location": "Millennium Park, Chicago",
+    "description": "Starship'in teknolojik başarısı ve dijital dünyanın hızını, uzay ve mühendislik estetiğiyle yansıtan pürüzsüz yüzeyli bir dev. Teknolojik atılımların yarattığı merak duygusunu ve fütüristik atmosferi temsil ediyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Starry_Night",
-    "wikipedia_extract": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village. It has been in the permanent collection of the Museum of Modern Art in New York City since 1941, acquired through the Lillie P. Bliss Bequest. Described as a \"touchstone of modern art\", The Starry Night has been regarded as one of the most recognizable paintings in the Western canon.",
-    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/3840px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cloud_Gate",
+    "wikipedia_extract": "Cloud Gate is a public sculpture by artist Anish Kapoor that is the centerpiece of Grainger Plaza at Millennium Park in the Loop community area of Chicago, Illinois, United States. Constructed between 2004 and 2006, the sculpture is nicknamed \"The Bean\" because of its fabiform shape. Made up of 168 stainless steel plates welded together, its reflective and highly polished exterior has no visible seams. It measures 33 by 66 by 42 feet, and weighs 110 short tons. The sculpture and its plaza are located above Millennium Hall, between the Chase Promenade and McCormick Tribune Plaza & Ice Rink.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Cloud_Gate_%28The_Bean%29_from_east%27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Anish_Kapoor"
   },
   "music": {
-    "title": "Unfinished Sympathy - 2012 Mix/Master",
-    "artists": "Massive Attack, Shara Nelson",
-    "album": "Blue Lines (2012 Mix/Master)",
-    "duration": "5:08",
-    "spotify_url": "https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF",
-    "spotify_id": "0j5FJJOmmnXPd0XajFWkMF",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273af5beb00d940f5ede452d6b5",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0j5FJJOmmnXPd0XajFWkMF\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "The Day The World Went Away",
+    "artists": "Nine Inch Nails",
+    "album": "The Fragile",
+    "duration": "4:33",
+    "spotify_url": "https://open.spotify.com/track/44sz0rNbTA687rs9CYi0IN",
+    "spotify_id": "44sz0rNbTA687rs9CYi0IN",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273237a21c8ba1bfc2d85a83585",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/44sz0rNbTA687rs9CYi0IN\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Küresel dijital altyapıların çatırdadığı, diplomatik gerilimlerin ve iklim kriziyle şekillenen belirsizliğin gökyüzümüzü bir sis gibi kapladığı bu huzursuz çağda, Van Gogh’un Yıldızlı Gece tablosu ile Massive Attack’in Unfinished Sympathy parçası arasında yankılanan kadim bir çaresizliğe tutunuyoruz. Saint-Rémy’nin akıl hastanesinden o hayali köye uzanan fırça darbelerindeki türbülans, bugün yapay zeka ve kuantum teknolojilerinin yarattığı devasa sistem kesintileriyle sarsılan modern insanın içsel tedirginliğini kusursuzca yansıtıyor. Shara Nelson’ın sesindeki o görkemli melankoli, sistemlerin çöktüğü bir dünyada insanın kendi varoluşuna sığınma çabasına eşlik ederken, gökyüzündeki o dönen yıldızlar karanlığın içinde hala bir çıkış yolu arayan kolektif umudumuzu temsil ediyor. Belirsizliğin ortasında kurulan bu estetik köprü, dijital altyapıların sustuğu yerde insan ruhunun hala kendi evrenini inşa edebileceğini hatırlatıyor."
+  "curator_statement": "Küresel jeopolitik gerilimlerin ve finansal belirsizliklerin yarattığı tekinsiz atmosfer, bugün bizi savunma teknolojileri ile eski dünyanın kadim krizleri arasında sıkışmış bir varoluşsal sancıya sürüklüyor. Anish Kapoorun Cloud Gate eseri, paslanmaz çeliğin soğuk ve kusursuz yüzeyinde bu karmaşayı yansıtırken, aslında hepimizi kendi parçalanmışlığımızla yüzleşmeye zorlayan devasa bir ayna işlevi görüyor. Nine Inch Nailsin The Day The World Went Away parçası ise bu metalik yansımaların ardındaki derin sessizliği, endüstriyel bir çöküşün distopik yankılarıyla dolduruyor. Spor dünyasının hareketliliği bile bu derin tedirginliğin gölgesinde, geçici bir sığınak arayışından öteye gidemeyen beyhude bir çabayı andırıyor. Hem heykelin deforme edici yüzeyi hem de müziğin tekinsiz tınıları, dünyanın hızla değişen ritmine uyum sağlamaya çalışan insan ruhunun sessiz çığlığını birleştiriyor."
 }

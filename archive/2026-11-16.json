@@ -1,0 +1,537 @@
+{
+  "date": "2026-11-16",
+  "date_human": "16 November 2026",
+  "generated_at": "2026-11-16T01:31:00.127182+00:00",
+  "stats": {
+    "feeds_collected": 286,
+    "news_total": 3915,
+    "news_analyzed": 574,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Küresel jeopolitik gerilimlerin, savunma teknolojisindeki atılımların ve finansal piyasalardaki belirsizliklerin gölgesinde, dijital dünyanın hızı ile geleneksel sorunların iç içe geçtiği bir gün yaşanıyor.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Savunma Sanayi ve Teknolojik Atılımlar",
+      "Uluslararası Jeopolitik Krizler (Hürmüz ve Orta Doğu)",
+      "Finansal Piyasalarda İstikrar Arayışı ve Fon Tartışmaları",
+      "Spor Dünyasında Milli Takım ve Transfer Hareketliliği"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-16",
+        "code": 45,
+        "temp_max": 20.4,
+        "temp_min": 10.7
+      },
+      {
+        "date": "2026-11-17",
+        "code": 3,
+        "temp_max": 21.3,
+        "temp_min": 13.0
+      },
+      {
+        "date": "2026-11-18",
+        "code": 3,
+        "temp_max": 21.7,
+        "temp_min": 14.0
+      },
+      {
+        "date": "2026-11-19",
+        "code": 3,
+        "temp_max": 24.0,
+        "temp_min": 18.3
+      },
+      {
+        "date": "2026-11-20",
+        "code": 3,
+        "temp_max": 23.3,
+        "temp_min": 19.8
+      },
+      {
+        "date": "2026-11-21",
+        "code": 3,
+        "temp_max": 21.8,
+        "temp_min": 15.2
+      },
+      {
+        "date": "2026-11-22",
+        "code": 95,
+        "temp_max": 17.3,
+        "temp_min": 11.0
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Hürmüz Boğazı'nda Petrol Tankeri Krizi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hürmüz Boğazı'nda deniz mayınlarına çarpan petrol tankerleri bölgedeki güvenlik endişelerini ve jeopolitik tansiyonu tırmandırdı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İran: Hürmüz Boğazı'nda deniz mayınlarına çarpan 2 petrol tankerinden biri battı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/iran-hurmuz-bogazinda-deniz-mayinlarina-carpan-2-petrol-tankerinden-biri-batti-289249h",
+          "also_in": [
+            "Haber Global",
+            "İnternet Haber",
+            "İstiklal",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Hürmüz Boğazı’nda iki petrol tankeri mayına çarptı, biri battı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/hurmuz-bogazi-nda-iki-petrol-tankeri-mayina-carpti-biri-batti-1031568.html",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri deniz mayınına çarparak alev aldı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-deniz-mayinina-carparak-alev-aldi-289278h",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "İran'dan ABD'ye açık mesaj: Somut adım atın, Hürmüz'ü açalım",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6afa35a14b18523914462d60/PICNEWS/tr/iran-dan-abd-ye-acik-mesaj-somut-adim-atin-hurmuz-u-acalim-16-11-26/",
+          "also_in": []
+        },
+        {
+          "title": "Hürmüz Boğazı'nda iki petrol tankerinde patlama",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af95d684b18523914462bb2/PICNEWS/tr/hurmuz-bogazi-nda-iki-petrol-tankerinde-patlama-15-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "ASELSAN EJDERHA ile Savunma Teknolojisinde Rekor",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ASELSAN'ın geliştirdiği EJDERHA sistemi, 51 dronu aynı anda etkisiz hale getirerek savunma sanayisinde büyük bir başarıya imza attı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ASELSAN'dan gökyüzünde gövde gösterisi: 51 dronu tek hamlede etkisiz kıldı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/aselsandan-gokyuzunde-govde-gosterisi-51-dronu-tek-hamlede-etkisiz-kildi/104281",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ASELSAN'dan gökyüzünde gövde gösterisi: EJDERHA 51 dronu aynı anda avladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/aselsandan-gokyuzunde-govde-gosterisi-ejderha-51-dronu-ayni-anda-avladi/104280",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ASELSAN EJDERHA, 51 dronu saniyeler içinde etkisiz hale getirdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/aselsan-ejderha-51-dronu-saniyeler-icinde-etkisiz-hale-getirdi--212944",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN'dan dronlara karşı EJDERHA: 51 dronu tek tuşla düşürdü",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/aselsandan-dronlara-karsi-ejderha-51-dronu-tek-tusla-dusurdu-6998428",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "ASELSAN'dan dünyada bir ilk: 51 dron tek tuşla etkisiz hale getirildi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/savunma/aselsandan-dunyada-bir-ilk-51-dron-tek-tusla-etkisiz-hale-getirildi-111068",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fon Soruşturması ve Ekonomik Belirsizlik",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon tasfiyeleri ve varlıkların akıbetiyle ilgili tartışmalar devam ederken, Bakan Şimşek ve SPK'dan piyasayı yatıştırmaya yönelik açıklamalar geldi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SPK'dan tasfiye edilen fonlardaki hisseler için yeni açıklama",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/spk-dan-tasfiye-edilen-fonlardaki-hisseler-icin-yeni-aciklama-p381629",
+          "also_in": [
+            "CNBC-e",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Mehmet Şimşek: Öyle bir anlatılıyor ki sanki fonlardaki her şey kayboldu",
+          "source": "10Haber",
+          "link": "https://10haber.net/ekonomi/mehmet-simsek-oyle-bir-anlatiliyor-ki-sanki-fonlardaki-her-sey-kayboldu-755177/",
+          "also_in": [
+            "Diken"
+          ]
+        },
+        {
+          "title": "Fon tasfiyesinde son durum: Bakan Şimşek: İncelemeler bu ay tamamlanacak",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/ekonomi/fon-tasfiyesinde-son-durum-bakan-simsek-incelemeler-bu-ay-tamamlanacak-6998339",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "Şimşek, fonlardaki varlıkların kaybolduğu iddialarını reddetti",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/simsek-fonlardaki-tum-varliklarin-kayboldugu-iddialarini-reddetti-3794678",
+          "also_in": []
+        },
+        {
+          "title": "119 fonda 161 milyar TL ödeme: Borsa rahatlar mı, güven geri döner mi?",
+          "source": "Investing Genel",
+          "link": "https://tr.investing.com/analysis/119-fonda-161-milyar-tl-odeme-borsa-rahatlar-m-guven-geri-doner-mi-200507089",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan'dan Kıbrıs ve Filistin Mesajları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan, Kıbrıs ve Filistin meselelerine dair Türkiye'nin kararlı duruşunu vurgulayan açıklamalarda bulundu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Kıbrıs’ı ne olursa olsun asla yalnız bırakmayacağız",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/cumhurbaskani-erdogan-kibrisi-ne-olursa-olsun-asla-yalniz-birakmayacagiz-111064",
+          "also_in": [
+            "Sputnik",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Kıbrıs’ı asla yalnız bırakmayacağız",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/cumhurbaskani-erdogan-kibrisi-asla-yalniz-birakmayacagiz/368543/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Her platformda Filistin davasını en güçlü şekilde savunacağız",
+          "source": "Sputnik",
+          "link": "https://anlatilaninotesi.com.tr/20261115/cumhurbaskani-erdogan-her-platformda-filistin-davasini-en-guclu-sekilde-savunacagiz-1110359919.html",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Başkan Erdoğan: \"Her platformda Filistin davasını en güçlü şekilde savunacağız\"",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/15/baskan-erdogan-her-platformda-filistin-davasini-en-guclu-sekilde-savunacagiz",
+          "also_in": []
+        },
+        {
+          "title": "Başkan Erdoğan: Kıbrıs’ı ne olursa olsun asla yalnız bırakmayacağız",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/15/baskan-erdogan-kibrisi-ne-olursa-olsun-asla-yalniz-birakmayacagiz",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "A Milli Takım'ın Fransa Maçı ve Sonrası",
+      "meta_category": "Spor",
+      "summary": "A Milli Futbol Takımı'nın Fransa karşısındaki mağlubiyeti ve Uluslar Ligi'ndeki durumu spor gündeminin merkezine oturdu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Milli Takım Fransa'da kaybetti: Uluslar A Ligi'nde 6'da 0",
+          "source": "NTV Spor Futbol",
+          "link": "https://www.ntvspor.net/futbol/galeri-fransa-turkiye-canli-anlatim-433083",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "Milli Takım Fransa'da kaybetti",
+          "source": "Duhuliye",
+          "link": "https://www.duhuliye.com/futbol/milli-takim-fransada-kaybetti-78925",
+          "also_in": []
+        },
+        {
+          "title": "Fransa-Türkiye maçının ilk 11'leri belli oldu",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/spor/fransa-turkiye-macinin-ilk-11leri-belli-oldu-haberi-847713",
+          "also_in": [
+            "Gerçek Gündem",
+            "Son Mühür"
+          ]
+        },
+        {
+          "title": "A Milli Futbol Takımı, Fransa'ya mağlup oldu",
+          "source": "Diriliş Postası",
+          "link": "https://www.dirilispostasi.com/a-milli-futbol-takimi-fransaya-maglup-oldu",
+          "also_in": [
+            "En Son Haber"
+          ]
+        },
+        {
+          "title": "Türkiye, UEFA Uluslar Ligi'ni puansız tamamladı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-ligini-puansiz-tamamladi/4126057",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "SpaceX Starship'in Havada Yakalanması",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "SpaceX, Starship roketinin üst aşamasını fırlatma kulesinde başarıyla yakalayarak uzay taşımacılığında yeni bir dönemi başlattı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SpaceX'ten devrim niteliğinde hamle: Starship'in üst gövdesi havada yakalandı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/spacexten-devrim-niteliginde-hamle-starshipin-ust-govdesi-havada-yakalandi/104284",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "SpaceX tarih yazdı: Dev roket havada yakalandı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/spacex-tarih-yazdi-dev-roket-havada-yakalandi/104278",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Tarihi başarı: SpaceX, Starship'in üst aşamasını ilk kez yakaladı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/spacex-starship-in-ust-asamasini-ilk-kez-yakaladi--212934",
+          "also_in": []
+        },
+        {
+          "title": "SpaceX, Starship’i “Mechazilla” ile yakalamayı başardı [Video]",
+          "source": "LOG",
+          "link": "https://www.log.com.tr/spacex-starshipi-mechazilla-ile-yakalamayi-basardi-video/",
+          "also_in": []
+        },
+        {
+          "title": "SpaceX'ten tarihi başarı: Starship uzay yolculuğunun ardından fırlatma kulesine geri döndü",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af946a04b18523914462b8c/PICNEWS/tr/spacex-ten-tarihi-basari-starship-uzay-yolculugunun-ardindan-firlatma-kulesine-geri-dondu-15-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Heyecanı ve Oyun Dünyası",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın çıkışına dair sızıntılar, internet trafiğini ve oyuncu topluluklarını hareketlendirdi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6 için geri sayım başladı: Türkiye'de tam olarak ne zaman oynanabilecek?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-icin-geri-sayim-basladi-turkiyede-tam-olarak-ne-zaman-oynanabilecek/104283",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6 müzik listesi sızdırıldı: Yıldızlar karması albümü!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-albumu-sarki-listesi-sizdirildi-yildizlar-karmasi--212941",
+          "also_in": []
+        },
+        {
+          "title": "GTA VI İndirmeleri Başladı, DE-CIX’te İnternet Trafiği Rekor Seviyeye Ulaştı",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/gta-vi-indirmeleri-basladi-de-cixte-in-440960",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6'nın Görev Sayısı ve Hikaye Süresi Sızdırıldı",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-nin-gorev-sayisi-ve-hikaye-suresi-sizdirildi-haber-264375",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Çıkıyor, Amerika İzne Ayrılıyor: Milyonlarca Kişi İşe Gitmeyecek!",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-cikiyor-amerika-izne-ayriliyor-milyonlarca-kisi-ise-gitmeyecek-haber-264353",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Nvidia ve Jensen Huang'a Destek Kampanyası",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Teknoloji dünyasında Nvidia CEO'su Jensen Huang'ın görevine iadesi için geniş çaplı bir imza kampanyası başlatıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Jensen Huang'a destek büyüyor: İmza kampanyası 100 bin kişiyi aştı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/jensen-huang-a-destek-buyuyor-imza-kampanyasi-100-bini-asti--212942",
+          "also_in": []
+        },
+        {
+          "title": "Aralarında Elon Musk’ın da bulunduğu binlerce kişi, Jensen Huang’ın yeniden göreve getirilmesi için başlatılan imza kampanyasına destek verdi",
+          "source": "LOG",
+          "link": "https://www.log.com.tr/aralarinda-elon-muskin-da-bulundugu-binlerce-kisi-jensen-huangin-yeniden-goreve-getirilmesi-icin-baslatilan-imza-kampanyasina-destek-verdi/",
+          "also_in": []
+        },
+        {
+          "title": "Jensen Huang’ın Nvidia’dan Ayrılmasında Anthropic’in Parmağı Mı Var?",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/jensen-huangin-nvidiadan-ayrilmasinda-441005",
+          "also_in": []
+        },
+        {
+          "title": "Elon Musk ve teknoloji liderleri, Jensen Huang’ın görevine iade edilmesi için imza topladı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmesi-icin-imza-topladi/4125929",
+          "also_in": []
+        },
+        {
+          "title": "Bessent'ten Nvidia'ya yönetim değişikliği çağrısı: Fed'e de faiz uyarısı",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6af9d98e95131d72027ddb9d/PICNEWS/tr/bessent-ten-nvidia-ya-yonetim-degisikligi-cagrisi-fed-e-de-faiz-uyarisi-15-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "ABD'de Uçuş Krizi ve Hava Trafiği",
+      "meta_category": "Diğer",
+      "summary": "ABD'de yaşanan teknik aksaklıklar nedeniyle binlerce uçuş iptal edildi, sistemin normale dönmesi için çalışmalar sürüyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ABD’deki uçuş aksaklıkları üçüncü gününde devam ediyor: 5 bin 200’den fazla sefer etkilendi",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/abd-deki-ucus-aksakliklari-ucuncu-gununde-devam-ediyor-5-bin-200-den-fazla-sefer-etkilendi-1031557.html",
+          "also_in": [
+            "Hürriyet",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "ABD'de Uçuş Krizi Üçüncü Gününde! 5 Bin 200'den Fazla Sefer Etkilendi!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/abdde-ucus-krizi-ucuncu-gununde-5-bin-200den-fazla-sefer-etkilendi-877349",
+          "also_in": [
+            "CNN Türk"
+          ]
+        },
+        {
+          "title": "ABD Ulaştırma Bakanı, kesintinin ardından hava trafiğinin pazartesi gününe kadar normale dönmesini bekliyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abd-ulastirma-bakani-kesintinin-ardindan-hava-trafiginin-pazartesi-gunune-kadar-normale-donmesini-bekliyor/4125966",
+          "also_in": []
+        },
+        {
+          "title": "Trump'tan hava trafik kontrol sisteminin yenilenmesi konusunda Kongreye çağrı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/trumptan-hava-trafik-kontrol-sisteminin-yenilenmesi-konusunda-kongreye-cagri/4125939",
+          "also_in": []
+        },
+        {
+          "title": "Trump'tan Kongre'ye: Hava trafik kontrolü için fonu acilen onaylayın",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/trump-tan-kongre-ye-hava-trafik-kontrolu-icin-fonu-acilen-onaylayin-3794683",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kış Lastiği Uygulaması ve Trafik Denetimleri",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Zorunlu kış lastiği uygulamasının başlamasıyla birlikte ülke genelinde denetimler sıkılaştırıldı.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Zorunlu kış lastiği uygulaması başladı: Beypazarı’nda denetimler artırılacak",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/yerel-haberler/zorunlu-kis-lastigi-uygulamasi-basladi-beypazarinda-denetimler-artirilacak/368532/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Ticari araçlarda zorunlu kış lastiği dönemi başladı",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/gundem/ticari-araclarda-zorunlu-kis-lastigi-donemi-basladi-111065",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Yollarda kış lastiği mesaisi başladı: Takmayana 6 bin TL ceza!",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/kis-lastigi-uygulamasi-2026-27-ne-zaman-basliyor-p381658",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Zorunlu kış lastiği uygulaması başladı",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/gundem-haberleri/zorunlu-kis-lastigi-uygulamasi-basladi/951829",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Cloud Gate",
+    "artist": "Anish Kapoor",
+    "year": "2006",
+    "form": "heykel",
+    "medium": "Stainless steel",
+    "location": "Millennium Park, Chicago",
+    "description": "Starship'in teknolojik başarısı ve dijital dünyanın hızını, uzay ve mühendislik estetiğiyle yansıtan pürüzsüz yüzeyli bir dev. Teknolojik atılımların yarattığı merak duygusunu ve fütüristik atmosferi temsil ediyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cloud_Gate",
+    "wikipedia_extract": "Cloud Gate is a public sculpture by artist Anish Kapoor that is the centerpiece of Grainger Plaza at Millennium Park in the Loop community area of Chicago, Illinois, United States. Constructed between 2004 and 2006, the sculpture is nicknamed \"The Bean\" because of its fabiform shape. Made up of 168 stainless steel plates welded together, its reflective and highly polished exterior has no visible seams. It measures 33 by 66 by 42 feet, and weighs 110 short tons. The sculpture and its plaza are located above Millennium Hall, between the Chase Promenade and McCormick Tribune Plaza & Ice Rink.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Cloud_Gate_%28The_Bean%29_from_east%27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Anish_Kapoor"
+  },
+  "music": {
+    "title": "The Day The World Went Away",
+    "artists": "Nine Inch Nails",
+    "album": "The Fragile",
+    "duration": "4:33",
+    "spotify_url": "https://open.spotify.com/track/44sz0rNbTA687rs9CYi0IN",
+    "spotify_id": "44sz0rNbTA687rs9CYi0IN",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273237a21c8ba1bfc2d85a83585",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/44sz0rNbTA687rs9CYi0IN\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Küresel jeopolitik gerilimlerin ve finansal belirsizliklerin yarattığı tekinsiz atmosfer, bugün bizi savunma teknolojileri ile eski dünyanın kadim krizleri arasında sıkışmış bir varoluşsal sancıya sürüklüyor. Anish Kapoorun Cloud Gate eseri, paslanmaz çeliğin soğuk ve kusursuz yüzeyinde bu karmaşayı yansıtırken, aslında hepimizi kendi parçalanmışlığımızla yüzleşmeye zorlayan devasa bir ayna işlevi görüyor. Nine Inch Nailsin The Day The World Went Away parçası ise bu metalik yansımaların ardındaki derin sessizliği, endüstriyel bir çöküşün distopik yankılarıyla dolduruyor. Spor dünyasının hareketliliği bile bu derin tedirginliğin gölgesinde, geçici bir sığınak arayışından öteye gidemeyen beyhude bir çabayı andırıyor. Hem heykelin deforme edici yüzeyi hem de müziğin tekinsiz tınıları, dünyanın hızla değişen ritmine uyum sağlamaya çalışan insan ruhunun sessiz çığlığını birleştiriyor."
+}
