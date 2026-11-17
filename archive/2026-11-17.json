@@ -1,0 +1,528 @@
+{
+  "date": "2026-11-17",
+  "date_human": "17 November 2026",
+  "generated_at": "2026-11-17T01:31:11.913170+00:00",
+  "stats": {
+    "feeds_collected": 288,
+    "news_total": 4777,
+    "news_analyzed": 616,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Teknolojik değişimlerin yarattığı heyecan ve belirsizlik ile spor ve gündemdeki sarsıcı haberlerin oluşturduğu yoğun bir atmosfer hakim. Toplum, bir yandan yeni James Bond'u tartışırken diğer yandan ekonomik sarsıntılar ve güvenlik krizleriyle meşgul.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "Yapay zeka ve dijital dönüşümün toplumsal etkileri",
+      "Ekonomik belirsizlikler ve finansal operasyonlar",
+      "Spor dünyasında şok kayıplar ve yönetimsel değişimler",
+      "Küresel jeopolitik gerilimler ve güvenlik krizleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-17",
+        "code": 3,
+        "temp_max": 21.8,
+        "temp_min": 13.9
+      },
+      {
+        "date": "2026-11-18",
+        "code": 3,
+        "temp_max": 22.3,
+        "temp_min": 16.2
+      },
+      {
+        "date": "2026-11-19",
+        "code": 3,
+        "temp_max": 23.4,
+        "temp_min": 19.4
+      },
+      {
+        "date": "2026-11-20",
+        "code": 3,
+        "temp_max": 24.5,
+        "temp_min": 18.5
+      },
+      {
+        "date": "2026-11-21",
+        "code": 80,
+        "temp_max": 21.5,
+        "temp_min": 14.2
+      },
+      {
+        "date": "2026-11-22",
+        "code": 80,
+        "temp_max": 16.1,
+        "temp_min": 8.5
+      },
+      {
+        "date": "2026-11-23",
+        "code": 3,
+        "temp_max": 15.8,
+        "temp_min": 6.9
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Fon Soruşturmasında Kayyum ve Tutuklamalar",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Gündemi sarsan fon soruşturması kapsamında 21 şirkete kayyum atanırken, birçok şüpheli hakkında tutuklama kararı verildi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "\"Fon\" soruşturmasında 7 şüpheliye tutuklama talebi",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-3494093",
+          "also_in": [
+            "Hürriyet",
+            "Sözcü",
+            "Sözcü Gündem",
+            "Türkiye Gazetesi",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 21 şirkete kayyum atandı",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-21-sirkete-kayyum-atandi-3927821",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında yeni gelişme! 21 şirkete TMSF kayyum olarak atandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/17/fon-sorusturmasinda-yeni-gelisme-21-sirkete-tmsf-kayyum-olarak-atandi",
+          "also_in": []
+        },
+        {
+          "title": "Fon soruşturmasında kritik gelişme! 21 şirkete kayyım atandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-kritik-gelisme-21-sirkete-kayyim-atandi-877471",
+          "also_in": []
+        },
+        {
+          "title": "Sarıgül soruşturmasında 9 kişi tutuklandı: Ömer Sarıgül ek ifade verdi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/sarigul-sorusturmasinda-9-kisi-tutuklandi-omer-sarigul-ek-ifade-verdi-877460",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "A Milli Futbol Takımı'nın Küme Düşüşü",
+      "meta_category": "Spor",
+      "summary": "UEFA Uluslar Ligi'nde alınan sonuçların ardından A Milli Futbol Takımımız B Ligi'ne geriledi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Macera kısa sürdü: A Milli Takım Uluslar B Ligi'ne düştü",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-macera-kisa-surdu-a-milli-takim-uluslar-b-ligine-dustu-433140",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Yunanistan evinde Sırbistan'ı tek golle geçti! A Milli Futbol Takımımız yoluna B Ligi'nde devam edecek",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/uluslar-ligi/2026/11/16/yunanistan-evinde-sirbistani-tek-golle-gecti-a-milli-futbol-takimimiz-yoluna-b-liginde-devam-edecek",
+          "also_in": []
+        },
+        {
+          "title": "A Milli Futbol Takımı, UEFA Uluslar B Ligi'ne düştü",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-uefa-uluslar-b-ligine-dustu/4127184",
+          "also_in": [
+            "CGTN Türk",
+            "Evrensel",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "A Milli Takım, UEFA Uluslar B Ligi'ne düştü",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/spor/a-milli-takim-uefa-uluslar-b-ligine-dustu-553740",
+          "also_in": [
+            "Karar"
+          ]
+        },
+        {
+          "title": "A Milli Futbol Takımı küme düştü! Uluslar Ligi'nde B Ligi'ne geriledi!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/a-milli-futbol-takimi-kume-dustu-uluslar-liginde-b-ligine-geriledi-877477",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yeni James Bond Robert Pattinson Oldu",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Uzun süredir beklenen yeni James Bond karakterini Robert Pattinson'ın canlandıracağı resmen açıklandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yeni James Bond Robert Pattinson Oldu",
+          "source": "Donanım Günlüğü",
+          "link": "https://donanimgunlugu.com/yeni-james-bond-robert-pattinson-oldu-441099",
+          "also_in": [
+            "BBC Türkçe",
+            "Evrensel",
+            "OdaTV",
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Yeni James Bond belli oldu, sinema dünyası ikiye bölündü",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/batman-den-james-bond-a--212992",
+          "also_in": []
+        },
+        {
+          "title": "Yeni James Bond Belli Oldu: Meşhur İngiliz Ajan Rolü \"The Batman\"in Yıldızına Emanet!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000232561/",
+          "also_in": []
+        },
+        {
+          "title": "Robert Pattinson James Bond Oldu: Yeni 007 Resmen Açıklandı",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/sinema-haberleri/robert-pattinson-james-bond-oldu-yeni-007-resmen-aciklandi",
+          "also_in": []
+        },
+        {
+          "title": "Yeni James Bond Robert Pattinson Oldu: Amazon MGM Resmen Duyurdu",
+          "source": "Atarita",
+          "link": "https://www.atarita.com/yeni-james-bond-robert-pattinson/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Küresel Siber Kesintiler ve Bankacılık Krizi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "ABD ve dünya genelinde büyük bankaların sistemlerinde yaşanan erişim sorunları ve siber kesintiler piyasalarda tedirginlik yarattı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Microsoft, dünya genelini etkileyen Outlook kesintisinin nedenini açıkladı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/microsoft-outlook-kesintisinin-nedenini-acikladi--212965",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "ABD'de ikinci kriz! Bu defa bankalar; erişim sorunu yaşanıyor",
+          "source": "Teknolojioku",
+          "link": "https://www.teknolojioku.com/guncel/abdde-ikinci-kriz-bu-defa-bankalar-erisim-sorunu-yasaniyor-6afb64e5843b8aa73d013b2f",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "ABD'de bankacılık krizi: Büyük bankaların sistemleri çöktü!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/abd-de-bankacilik-krizi-buyuk-bankalarin-sistemleri-coktu--212998",
+          "also_in": []
+        },
+        {
+          "title": "ABD'li bazı bankaların çevrim içi hizmetlerinde kesintiler yaşandığı bildirildi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-bildirildi/4127070",
+          "also_in": [
+            "Bengütürk",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "ABD'de bir kriz daha! Banka sistemleri çöktü, müşteriler hesaplarına erişemiyor",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/abdde-bir-kriz-daha-banka-sistemleri-coktu-musteriler-hesaplarina-erisemiyor-877456",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka Düzenlemeleri ve Kısıtlamalar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ABD'nin yapay zeka çiplerine getirdiği kısıtlamalar ve yapay zeka ajanlarının finansal risklerine dair uyarılar öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yapay zekada küresel ittifak dönemi: 10 ülkeden dev iş birliği",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zekada-kuresel-ittifak-donemi-10-ulkeden-dev-is-birligi/104287",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ABD'nin yapay zeka takımı kuruluyor: 24'ten fazla şirket listeye girebilir",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/abdnin-yapay-zeka-takimi-kuruluyor-24ten-fazla-sirket-listeye-girebilir_185350.html",
+          "also_in": []
+        },
+        {
+          "title": "ABD'den gelişmiş yapay zeka çiplerine erişimi kısıtlama hamlesi",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/dunya/abd-den-gelismis-yapay-zeka-ciplerine-erisimi-kisitlama-hamlesi-3927770",
+          "also_in": [
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "ABD'den yapay zeka çiplerine yeni kısıtlama: 5 ülke için lisans şartı",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/abd-den-yapay-zeka-ciplerine-yeni-kisitlama-5-ulke-icin-lisans-sarti-32620",
+          "also_in": [
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Fed Başkanı Warsh yapay zekaya karşı uyardı: Büyümeyi hızlandırabilir, işsizliği artırabilir",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/fed-baskani-warsh-yapay-zekaya-karsi-uyardi-buyumeyi-hizlandirabilir-issizligi-ar-877462",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Hürmüz Boğazı'nda Güvenlik Gerilimi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hürmüz Boğazı'nda İHA düşürülmesi ve tankerlere yönelik saldırılar bölgedeki jeopolitik tansiyonu artırdı.",
+      "importance": 8,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "İran ordusu: Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/iran-ordusu-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu",
+          "also_in": [
+            "Sözcü",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-3494073",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "Hürmüz Boğazı'nda tankere saldırı! Makine dairesinde yangın çıktı",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/dunya/hurmuz-bogazinda-tankere-saldiri-makine-dairesinde-yangin-cikti-289398h",
+          "also_in": [
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "İran Ordusu: Hürmüz Boğazı'nda bir petrol tankeri daha mayına çarparak alev aldı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6009813/iran-ordusu-hurmuz-bogazi-nda-bir-petrol-tankeri-daha-mayina-carparak-alev-aldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "TRT Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Süper Lig'de Teknik Direktör Değişimleri",
+      "meta_category": "Spor",
+      "summary": "Volkan Demirel Gaziantep FK ile anlaşırken, MKE Ankaragücü'nde ise İlker Avcıbay dönemi başladı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "MKE Ankaragücü'nde İlker Avcıbay dönemi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/mke-ankaragucunde-ilker-avcibay-donemi-433133",
+          "also_in": [
+            "Fotospor",
+            "NTV Spor Futbol",
+            "CNN Türk"
+          ]
+        },
+        {
+          "title": "Volkan Demirel, Gaziantep'teki ilk antrenmanına çıktı",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-volkan-demirel-gaziantepteki-ilk-antrenmanina-cikti-433124",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "MKE Ankaragücü'nün yeni teknik direktörü İlker Avcıbay!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/tff-ikinci-lig/2026/11/16/mke-ankaragucunun-yeni-teknik-direktoru-ilker-avcibay",
+          "also_in": []
+        },
+        {
+          "title": "Volkan Demirel resmen açıklandı! Gaziantep FK...",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/gaziantep/2026/11/16/volkan-demirel-resmen-aciklandi-gaziantep-fk",
+          "also_in": []
+        },
+        {
+          "title": "Gaziantep FK, Volkan Demirel ile 1,5 yıllık sözleşme imzaladı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6009750/gaziantep-fk-volkan-demirel-ile-1-5-yillik-sozlesme-imzaladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "BHA"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "COP31 ve İklim Zirvesi Yansımaları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Antalya'da düzenlenen COP31 zirvesi yoğun ziyaretçi ağırlarken, iklim değişikliğinin ekonomi üzerindeki etkileri tartışıldı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Gençlerin iklim mücadelesindeki sesi: UKXperience COP31 yolunda",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/genclerin-iklim-mucadelesindeki-sesi-ukxperience-cop31-yolunda/104294",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "COP31'de \"5 Problem, 5 Teknoloji, 5 Kadın\" söyleşisi düzenlendi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cop31de-5-problem-5-teknoloji-5-kadin-soylesisi-duzenlendi/4126901",
+          "also_in": [
+            "Bengütürk"
+          ]
+        },
+        {
+          "title": "TBMM Başkanı Kurtulmuş, Antalya'daki COP31 alanını ziyaret etti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-antalyadaki-cop31-alanini-ziyaret-etti/4126962",
+          "also_in": [
+            "Independent Türkçe"
+          ]
+        },
+        {
+          "title": "COP31’de 5 günde 100 ton atık toplandı: Yüzde 80’i geri dönüşüme gönderildi",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/cop31de-5-gunde-100-ton-atik-toplandi-yuzde-80i-geri-donusume-gonderildi/368600/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Antalya’da 6 günde Bakü aşıldı! COP31’de katılım Dubai rekoruna yaklaştı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/16/antalyada-6-gunde-baku-asildi-cop31de-katilim-dubai-rekoruna-yaklasti",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Eski Milli Futbolcu Timuçin Cuğ'un Vefatı",
+      "meta_category": "Spor",
+      "summary": "Türk futbolunun sevilen isimlerinden eski milli futbolcu Timuçin Cuğ hayatını kaybetti.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Eski milli futbolcu Timuçin Cuğ hayatını kaybetti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/futbol/2026/11/16/eski-milli-futbolcu-timucin-cug-hayatini-kaybetti",
+          "also_in": [
+            "Sözcü Spor",
+            "Cumhuriyet",
+            "dikGAZETE",
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Eski milli futbolcu Timuçin Cuğ hayata gözlerini yumdu",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/eski-milli-futbolcu-timucin-cug-hayata-gozlerini-yumdu-433138",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Türk futbolunun acı kaybı: Timuçin cuğ hayatını kaybetti",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/spor/turk-futbolunun-aci-kaybi-timucin-cug-hayatini-kaybetti/282736",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Eski milli futbolcu Timuçin Cuğ hayatını kaybetti! TFF'den açıklama geldi!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/eski-milli-futbolcu-timucin-cug-hayatini-kaybetti-tffden-aciklama-geldi-877483",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ankara Film Festivali Başladı",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "37. Ankara Film Festivali, ulusal uzun metraj yarışmasıyla sinemaseverlere kapılarını açtı.",
+      "importance": 5,
+      "story_count": 2,
+      "stories": [
+        {
+          "title": "37. Ankara Film Festivali’nde Gözler Ulusal Uzun Metraj Film Yarışması’nda!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000232546/",
+          "also_in": []
+        },
+        {
+          "title": "Ankara Film Festivali 37. kez başladı",
+          "source": "Bant Mag",
+          "link": "https://bantmag.com/37-ankara-film-festivali/",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Bicycle Wheel",
+    "artist": "Marcel Duchamp",
+    "year": "1913",
+    "form": "heykel",
+    "medium": "Readymade",
+    "location": "Museum of Modern Art, New York",
+    "description": "Teknolojik değişimin hızına ve gündelik nesnelerin anlamsızlaşmasına bir gönderme. Yapay zeka ve dijital dönüşümün hayatımızı yeniden kurguladığı bugünlerde, sıradan olanın sarsıcı bir sanat objesine dönüşmesini temsil ediyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bicycle_Wheel",
+    "wikipedia_extract": "Bicycle Wheel is an early readymade created by French artist Marcel Duchamp in 1913. Consisting of a bicycle wheel mounted upside down on a wooden stool, it is often considered one of the earliest examples of kinetic sculpture. Although later categorized as a readymade, Bicycle Wheel was not originally intended as an artwork.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Marcel_Duchamp%2C_1916-17_studio_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Marcel_Duchamp"
+  },
+  "music": {
+    "title": "Exit Music (For A Film)",
+    "artists": "Radiohead",
+    "album": "OK Computer",
+    "duration": "4:27",
+    "spotify_url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY",
+    "spotify_id": "0z1o5L7HJx562xZSATcIpY",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0z1o5L7HJx562xZSATcIpY\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Teknolojik devrimlerin yarattığı tekinsiz bir hızın ve küresel krizlerin ağırlığı altında ezilen günümüz, tıpkı Marcel Duchampın ters çevrilmiş bisiklet tekerleği gibi dengesini kaybetmiş bir mekanizmayı andırıyor. Bir zamanlar hareketin ve özgürlüğün simgesi olan o tekerlek, artık işlevsiz bir gövdeye hapsolmuş şekilde, ne ileriye ne de geriye gidebilen toplumsal tıkanıklığımızı gözler önüne seriyor. Radioheadin Exit Music parçasındaki o klostrofobik yankı, bu durağanlığın içine sızan kaçınılmaz bir sonun habercisi gibi zihinlerimizi sarmalıyor. Ekonomik sarsıntılar ve güvenlik kaygıları arasında sıkışıp kalan bizler, tıpkı sanatçının o tekerleği gibi, kendi yarattığımız dijital ve jeopolitik labirentin içinde dönüp duruyoruz. Modern dünyanın vaat ettiği o parlak gelecek, şimdi yerini belirsizliğin soğuk sessizliğine bırakırken, hepimiz bir çıkış arayışıyla bu tekinsiz atmosferin ritmine uyum sağlıyoruz."
+}
