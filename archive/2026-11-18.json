@@ -1,0 +1,549 @@
+{
+  "date": "2026-11-18",
+  "date_human": "18 November 2026",
+  "generated_at": "2026-11-18T01:31:05.697136+00:00",
+  "stats": {
+    "feeds_collected": 287,
+    "news_total": 4764,
+    "news_analyzed": 619,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Dijital altyapı krizleri, siber güvenlik endişeleri ve ekonomik belirsizliklerin gölgesinde; toplumsal merakın yüksek olduğu, teknolojik gelişmelere odaklı gergin ama dinamik bir gün.",
+    "dominant_emotion": "Endişe",
+    "key_themes": [
+      "Küresel Dijital ve Siber Altyapı Kesintileri",
+      "Ekonomik Fon Soruşturmaları ve Kayyum Süreçleri",
+      "Yapay Zeka ve Oyun Dünyası (GTA 6)",
+      "Türkiye'nin Savunma ve Dış Politika Hamleleri"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-18",
+        "code": 3,
+        "temp_max": 21.3,
+        "temp_min": 16.9
+      },
+      {
+        "date": "2026-11-19",
+        "code": 3,
+        "temp_max": 24.5,
+        "temp_min": 19.3
+      },
+      {
+        "date": "2026-11-20",
+        "code": 3,
+        "temp_max": 24.2,
+        "temp_min": 19.9
+      },
+      {
+        "date": "2026-11-21",
+        "code": 80,
+        "temp_max": 21.1,
+        "temp_min": 13.0
+      },
+      {
+        "date": "2026-11-22",
+        "code": 3,
+        "temp_max": 19.2,
+        "temp_min": 11.1
+      },
+      {
+        "date": "2026-11-23",
+        "code": 95,
+        "temp_max": 17.4,
+        "temp_min": 12.9
+      },
+      {
+        "date": "2026-11-24",
+        "code": 95,
+        "temp_max": 15.4,
+        "temp_min": 9.4
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Fon Soruşturması ve Kayyum Operasyonları",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Fon soruşturması kapsamında üst düzey isimlerin ifade vermesi, yeni tutuklamalar ve bazı şirketlere (Sözcü TV, Adil Katılım Bankası) kayyum atanması ülke gündeminin merkezinde.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon soruşturması kapsamında Şamil Tayyar ifade verdi",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/fon-sorusturmasi-kapsaminda-samil-tayyar-ifade-verdi-3494544",
+          "also_in": [
+            "Hürriyet",
+            "Haber Global",
+            "Dokuz8 Haber",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Sözcü TV’ye Kayyum Atandı",
+          "source": "Ajans Kamu",
+          "link": "https://www.ajanskamu.net/meb/sozcu-tvye-kayyum-atandi-h225884.html",
+          "also_in": [
+            "Demokrat Haber",
+            "Habertürk",
+            "Mynet",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Bakan Gürlek'ten fon soruşturması açıklaması: 75 kişiden 40.4 milyar TL tahsil edildi",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-75-kisiden-40-4-milyar-tl-tahsil-edildi-3494529",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Sözcü TV ve internet sitesine kayyum atandı: 4 kişi hakkında gözaltı kararı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/sozcu-tv-ve-internet-sitesine-kayyum-atandi-4-kisi-hakkinda-gozalti-karari/368645/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "SON DAKİKA... SÖZCÜ TV ve Sözcü.com.tr'ye kayyum atandı",
+          "source": "Korkusuz",
+          "link": "https://www.korkusuz.com.tr/son-dakika-sozcu-tv-ve-sozcu-com-tr-ye-kayyum-atandi-p58451",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Küresel Dijital Altyapı ve Siber Saldırılar",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Apple, Microsoft, Gmail ve NSA gibi dev kurumların sistemlerinde yaşanan eş zamanlı kesintiler ve siber saldırı iddiaları küresel çapta paniğe yol açtı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ABD bankacılık sisteminde şok kesinti: Siber saldırı mı yoksa teknik arıza mı?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/abd-bankacilik-sisteminde-sok-kesinti-siber-saldiri-mi-yoksa-teknik-ariza-mi/104319",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Apple kullanıcıları için kritik saatler: Servisler neden çöktü?",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/apple-kullanicilari-icin-kritik-saatler-servisler-neden-coktu/104318",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ABD istihbaratının kalbinde şok kesinti: NSA'nın gizli ağı çöktü",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/abd-istihbaratinin-kalbinde-sok-kesinti-nsanin-gizli-agi-coktu/104317",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "iCloud ve Apple Pay Neden Çöktü? Apple Kesintinin Nedenini Açıkladı",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/icloud-ve-apple-pay-neden-coktu-apple-kesintinin-nedenini-acikladi/",
+          "also_in": []
+        },
+        {
+          "title": "Apple'da büyük erişim sorunu! Binlerce kullanıcıdan şikâyet yağdı",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/teknoloji/appleda-buyuk-erisim-sorunu-binlerce-kullanicidan-sikayet-yagdi-6999127",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'nin Savunma ve Dış Politika Hamleleri",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Türk F-16'larının uzun menzilli intikalleri, savunma sanayii başarıları ve bölgesel dış politika temasları öne çıkıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "MSB: F-16 pilotları 55 saatte 11 bin 38 kilometre yol katetti",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/msb-f-16-pilotlari-55-saatte-11-bin-38-kilometre-yol-katetti-3494547",
+          "also_in": [
+            "En Son Haber",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "İspanyol basını KAAN'ı işaret etti! \"F-35'e karşı Türkiye diyoruz\"",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/dunya/ispanyol-basini-kaani-isaret-etti-f-35e-turk-alternatifi-geliyor-1829959",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Türk F-16'larından tarihi intikal! Mogadişu-Bandırma hattında 55 saatte 11 bin 38 kilometre katettiler",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/17/turk-f-16larindan-dogu-afrikadan-turkiyeye-kesintisiz-intikal",
+          "also_in": []
+        },
+        {
+          "title": "F-16’lar Somali’den Bandırma’ya İniş Yapmadan Uçtu!",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/f-16lar-somaliden-bandirmaya-inis-yapmadan-uctu/",
+          "also_in": []
+        },
+        {
+          "title": "NATO EDGE 26 İzmir’de: Türk Savunma Sanayii NATO Vitrininde",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/nato-edge-26-izmirde-turk-savunma-sanayii-nato-vitrininde/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Çılgınlığı ve Oyun Dünyası",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın çıkışına saatler kala oyunun yarattığı küresel trafik rekorları, adaylıklar ve oyun dünyasındaki büyük beklenti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6 için nefesler tutuldu: Türkiye saatiyle çıkış vakti ve devasa dosya boyutu belli oldu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-icin-nefesler-tutuldu-turkiye-saatiyle-cikis-vakti-ve-devasa-dosya-boyutu-belli-oldu/104309",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6 interneti diz çöktürdü: Küresel veri trafiğinde tarihi rekor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-interneti-diz-cokturdu-kuresel-veri-trafiginde-tarihi-rekor/104308",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "The Game Awards 2026 Adayları Açıklandı: GTA 6 8 Dalda Aday, İşte Bütün Kategoriler",
+          "source": "Atarita",
+          "link": "https://www.atarita.com/the-game-awards-2026-adaylari/",
+          "also_in": []
+        },
+        {
+          "title": "The Game Awards 2026 Adayları Açıklandı: Yılın Oyunu Yarışında GTA 6 Öne Çıkıyor",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/the-game-awards-2026-adaylari-aciklandi-yilin-oyunu-yarisinda-gta-6-one-cikiyor",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Türkiye'de Saat Kaçta Çıkacak? İşte Merak Edilen Oynanış Saati!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/gta-6-turkiyede-saat-kacta-cikacak-iste-merak-edilen-oynanis-saati-877653",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'de Hava Durumu ve Doğal Afetler",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Van merkezli depremler ve İstanbul için verilen fırtına/sağanak uyarıları toplumda tedirginlik yarattı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Van’da 4.3 büyüklüğünde deprem",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/van-da-4-3-buyuklugunde-deprem-1032742.html",
+          "also_in": [
+            "Habertürk",
+            "Haberet",
+            "NTV",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Van Gölü'nde 4,3 büyüklüğünde deprem",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/van-golunde-43-buyuklugunde-deprem-2/?utm_source=rss&utm_medium=rss&utm_campaign=van-golunde-43-buyuklugunde-deprem-2",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İstanbul Valiliğinden fırtına uyarısı!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/istanbul-valiliginden-firtina-uyarisi-2",
+          "also_in": [
+            "Elips Haber",
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Meteoroloji’den kuvvetli sağanak uyarısı: Türkiye genelinde yağışlı hava ve kar bekleniyor",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/yerel-haberler/meteorolojiden-kuvvetli-saganak-uyarisi-turkiye-genelinde-yagisli-hava-ve-kar-bekleniyor/368647/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "AFAD büyüklüğünü duyurdu! Van'da 4,3 büyüklüğünde deprem meydana geldi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/17/vanda-deprem-meydana-geldi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomik Gelişmeler ve Piyasa Hareketleri",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Borsa hareketleri, asgari ücret beklentileri ve yabancı yatırımcılar için getirilen ikamet izni düzenlemeleri konuşuluyor.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Borsa günü düşüşle tamamladı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-istanbul-gune-dususle-basladi-haberi-931692",
+          "also_in": [
+            "GZT",
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "Altında yeni rekor için iki yıl bekleyiş: Goldman Sachs tarih verdi",
+          "source": "Gazete Duvar",
+          "link": "https://www.gazeteduvar.com.tr/altinda-yeni-rekor-icin-iki-yil-bekleyis-goldman-sachs-tarih-verdi-haber-1766821",
+          "also_in": [
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "2027 asgari ücretinde çalışanları heyecanlandıran yüzde 40 senaryosu: Maaş 39 bin TL'yi aşabilir",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/2027-asgari-ucretinde-calisanlari-heyecanlandiran-yuzde-40-senaryosu-maas-39-bin-877623",
+          "also_in": []
+        },
+        {
+          "title": "Türkiye'de yatırım yapan yabancılara 5 yıllık ikamet izni: Alt sınır 150 bin dolar",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/turkiyede-yatirim-yapan-yabancilara-5-yillik-ikamet-izni-alt-sinir-150-bin-dolar-h42056",
+          "also_in": []
+        },
+        {
+          "title": "Borsa İstanbul düşerken 7 hisse tavan yaptı! İşte günün yıldızları ve kaybettirenleri",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/borsa/borsa-istanbul-duserken-7-hisse-tavan-yapti-iste-gunun-yildizlari-ve-kaybettirenleri-g42044",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Trendleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka araçlarının yaygınlaşması, deepfake suçları ile ilgili yasal düzenlemeler ve teknolojik yenilikler.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ChatGPT Wallet kullanıma sunuldu",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/genel/chatgpt-wallet-kullanima-sunuldu/",
+          "also_in": []
+        },
+        {
+          "title": "ChatGPT’de GPT-6.2 Astra ve Sol Dönemi: Kimler Kullanabilecek, Neler Değişti?",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/chatgptde-gpt-6-2-astra-ve-sol-donemi-kimler-kullanabilecek-neler-degisti/",
+          "also_in": []
+        },
+        {
+          "title": "Adalet Bakanlığı yapay zeka suçları için düğmeye bastı! 13. Yargı Paketi ile deepfake doğrudan suç sayılacak",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/17/yapay-zekayla-uretilen-sahte-goruntulere-ceza-geliyor",
+          "also_in": []
+        },
+        {
+          "title": "Dünya \"katil robotlar\" için alarma geçti! Cenevre'de 128 ülkeli kritik zirve: İnsan iradesi ortadan mı kalkıyor?",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/17/katil-robotlara-karsi-dunya-harekete-gecti",
+          "also_in": []
+        },
+        {
+          "title": "Türklerin yapay zeka kullanımı dünyada gündem oldu! Yabancılardan övgü dolu yorumlar!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/bilim-teknoloji/turklerin-yapay-zeka-kullanimi-dunyada-gundem-oldu-yabancilardan-ovgu-dol-877626",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyasında Gündem",
+      "meta_category": "Spor",
+      "summary": "Galatasaray, Fenerbahçe ve Beşiktaş'ın hazırlıkları, milli takım süreçleri ve basketbol ligindeki yoğun maç trafiği.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray, Samsunspor maçının hazırlıklarına devam etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galatasaray-samsunspor-macinin-hazirliklarina-devam-etti-433182",
+          "also_in": [
+            "NTV Spor Futbol",
+            "Sabah Spor",
+            "Akşam"
+          ]
+        },
+        {
+          "title": "Fenerbahçe Tarfin, ASVEL'i 115 sayıyla dağıttı",
+          "source": "NTV Spor Basketbol",
+          "link": "https://www.ntvspor.net/basketbol/galeri-fenerbahce-tarfin-asveli-115-sayiyla-dagitti-433186",
+          "also_in": [
+            "NTV Spor Anasayfa"
+          ]
+        },
+        {
+          "title": "A Milli Erkek Basketbol Takımı'nın aday kadrosu belli oldu",
+          "source": "NTV Spor Basketbol",
+          "link": "https://www.ntvspor.net/basketbol/a-milli-erkek-basketbol-takiminin-aday-kadrosu-belli-oldu-433158",
+          "also_in": [
+            "Fotospor"
+          ]
+        },
+        {
+          "title": "A Milli Kadın Basketbol Takımı deplasmanda Polonya'ya mağlup oldu! İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/11/17/a-milli-kadin-basketbol-takimi-deplasmanda-polonyaya-maglup-oldu-iste-macin-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Anadolu Efes deplasmanda Dubai Basketbol'a mağlup oldu! İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/11/17/anadolu-efes-deplasmanda-dubai-basketbola-maglup-oldu-iste-macin-ozeti",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür, Sanat ve Edebiyat Söyleşileri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Türk edebiyatının 15 yılı, modernite tartışmaları ve sanat etkinlikleri üzerine çeşitli söyleşiler.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türk Edebiyatının ve Yayıncılığının 15 Yılı Konuşuldu",
+          "source": "Edebiyat Burada",
+          "link": "https://edebiyatburada.com/turk-edebiyatinin-ve-yayinciliginin-15-yili-konusuldu/",
+          "also_in": [
+            "Mürekkep Haber"
+          ]
+        },
+        {
+          "title": "ANNA LAUDEL İstanbul, 14 Kasım 2026 – 3 Ocak 2027 tarihleri arasında Türk çağdaş sanatçı Ardan Özmenoğlu’nun kişisel sergisi “Beni Yeniden Kodla”yı sunmaktan mutluluk duyar!",
+          "source": "Artkolik",
+          "link": "https://www.artkolik.net/sergiler/anna-laudel-istanbul-14-kasim-2026-3-ocak-2027-tarihleri-arasinda-turk-cagdas-sanatci-ardan-ozmenoglunun-kisisel-sergisi-beni-yeniden-kodlayi-sunmaktan-mutluluk-d-25849",
+          "also_in": []
+        },
+        {
+          "title": "Toplumcu Edebiyat Atölyesi: ‘Güncelin Boşluklarından Yarına Notlar’İlk Sekiz Oturumuyla Edebiyatseverlere Merhaba Diyor",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/toplumcu-edebiyat-atolyesi-guncelin-bosluklarindan-yarina-notlarilk-sekiz-oturumuyla-edebiyatseverlere-merhaba-diyor/",
+          "also_in": []
+        },
+        {
+          "title": "“Kadıköy’de Bir Arada-Oluş Hikâyesi: Kuşdili’nde Modernite Deneyimi” söyleşisi, 26 Kasım’da",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/kadikoyde-bir-arada-olus-hikayesi-kusdilinde-modernite-deneyimi-soylesisi-26-kasimda/",
+          "also_in": []
+        },
+        {
+          "title": "Yapı Kredi Yayınları 80. yaşını kutluyor",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/yapi-kredi-yayinlari-80-yasini-kutluyor/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Modern Yaşam ve Sosyoloji",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Modern ilişkiler, tükenmişlik sendromu, dijital detoks ve kişisel gelişim üzerine analizler.",
+      "importance": 4,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Zamanın Ruhu: Emine Erdem | Kadınlar Neden Hep Güçlü Olmak Zorunda?",
+          "source": "PlumeMag",
+          "link": "https://www.plumemag.com/zamanin-ruhu-emine-erdem-kadinlar-neden-hep-guclu-olmak-zorunda/",
+          "also_in": []
+        },
+        {
+          "title": "Tükenmişlikle Nasıl Başa Çıkabiliriz?",
+          "source": "Live To Bloom",
+          "link": "https://livetobloom.com/tukenmislikle-nasil-basa-cikabiliriz/",
+          "also_in": []
+        },
+        {
+          "title": "İlişkisi Olan da Yalnız, Olmayan da: Modern İlişkilerde Kadınlar Neden Mutlu Değil?",
+          "source": "Medium Türkiye Yayını",
+          "link": "https://mediumturkiye.com/i%CC%87li%C5%9Fkisi-olan-da-yaln%C4%B1z-olmayan-da-modern-i%CC%87li%C5%9Fkilerde-kad%C4%B1nlar-neden-mutlu-de%C4%9Fil-fd81bc4bee22?source=rss----26436c227d02---4",
+          "also_in": []
+        },
+        {
+          "title": "Grubun fringe friend’i misiniz? Arkadaşlık dinamiklerinde görünmeyen roller",
+          "source": "Uplifers",
+          "link": "https://www.uplifers.com/grubun-fringe-friendi-misiniz-arkadaslik-dinamiklerinde-gorunmeyen-roller/",
+          "also_in": []
+        },
+        {
+          "title": "Dijital dünyadan uzaklaşmanın yeni seyahat trendi: Dead zoning nedir?",
+          "source": "Uplifers",
+          "link": "https://www.uplifers.com/dijital-dunyadan-uzaklasmanin-yeni-seyahat-trendi-dead-zoning-nedir/",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Saturn Devouring His Son",
+    "artist": "Francisco Goya",
+    "year": "1823",
+    "form": "resim",
+    "medium": "Oil mural transferred to canvas",
+    "location": "Museo del Prado, Madrid",
+    "description": "Güç çekişmeleri, yolsuzluk iddiaları ve sistemin kendi çocuklarını yiyen bir mekanizmaya dönüşmesi, günümüzün kaotik siyasi atmosferinin en karanlık yansıması.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+    "wikipedia_extract": "Saturn Devouring His Son is a painting by Spanish artist Francisco Goya. The work is one of the 14 so-called Black Paintings that Goya painted directly on the walls of his house some time between 1820 and 1823. It was transferred to canvas after Goya's death and is now in the Museo del Prado in Madrid.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Francisco_Goya"
+  },
+  "music": {
+    "title": "Paranoid Android",
+    "artists": "Radiohead",
+    "album": "OK Computer",
+    "duration": "6:27",
+    "spotify_url": "https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq",
+    "spotify_id": "6LgJvl0Xdtc73RJ1mmpotq",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/6LgJvl0Xdtc73RJ1mmpotq\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Modern zamanın dijital altyapı krizleri ve ekonomik belirsizliklerle örülü bu gergin atmosferi, Goya’nın kendi evinin duvarlarına kazıdığı o kadim dehşetle, Saturn Devouring His Son tablosuyla tekinsiz bir biçimde örtüşüyor. Tıpkı Satürn’ün kendi soyunu yok eden yıkıcı hırsı gibi, bugün de teknolojik sistemlerin kendi yarattığı karmaşayı yediği bir çağın siber kaygılarını yaşıyoruz. Radiohead’in Paranoid Android ile sunduğu klostrofobik ve kaotik tınılar, sistemlerin çöküşü karşısında sıkışmış modern insanın çığlığını yankılıyor. Ekonomik fonlardan savunma hamlelerine uzanan bu dinamik ama endişe dolu süreç, insanlığın kontrolü elinde tutma arzusu ile kaçınılmaz yıkımı arasındaki o ince çizgide salınmaktadır. Bu seçki, dijital bir kıyametin eşiğinde kendi yansımasından korkan bir toplumun, teknolojik bir labirentin ortasında yankılanan huzursuz sessizliğine bir davettir."
+}
