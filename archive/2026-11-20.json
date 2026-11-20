@@ -1,0 +1,473 @@
+{
+  "date": "2026-11-20",
+  "date_human": "20 November 2026",
+  "generated_at": "2026-11-20T01:32:52.608048+00:00",
+  "stats": {
+    "feeds_collected": 285,
+    "news_total": 4758,
+    "news_analyzed": 619,
+    "clusters": 8
+  },
+  "mood": {
+    "description": "20 Kasım 2026, teknolojik devrimlerin heyecanı ile jeopolitik gerilimlerin gölgesinde geçen, hem savunma sanayindeki büyük bir atılımın hem de popüler kültürdeki 'GTA 6' çılgınlığının damga vurduğu hareketli bir gün.",
+    "dominant_emotion": "Heyecan",
+    "key_themes": [
+      "Savunma Sanayii ve KIZILELMA",
+      "GTA 6 Küresel Çılgınlığı",
+      "Jeopolitik Zirveler ve Bölgesel Gerilimler",
+      "Yapay Zeka ve Teknolojik Dönüşüm",
+      "Yargı ve Siyasi Gelişmeler"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-20",
+        "code": 3,
+        "temp_max": 24.5,
+        "temp_min": 19.8
+      },
+      {
+        "date": "2026-11-21",
+        "code": 80,
+        "temp_max": 22.3,
+        "temp_min": 12.3
+      },
+      {
+        "date": "2026-11-22",
+        "code": 3,
+        "temp_max": 21.1,
+        "temp_min": 9.0
+      },
+      {
+        "date": "2026-11-23",
+        "code": 3,
+        "temp_max": 19.9,
+        "temp_min": 10.7
+      },
+      {
+        "date": "2026-11-24",
+        "code": 3,
+        "temp_max": 18.9,
+        "temp_min": 8.9
+      },
+      {
+        "date": "2026-11-25",
+        "code": 0,
+        "temp_max": 13.1,
+        "temp_min": 7.0
+      },
+      {
+        "date": "2026-11-26",
+        "code": 3,
+        "temp_max": 15.4,
+        "temp_min": 5.4
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "KIZILELMA Envantere Girdi",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye'nin ilk insansız savaş uçağı KIZILELMA, resmi olarak envantere girerek Türk havacılık tarihinde tarihi bir dönüm noktası oluşturdu.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA envantere girdi",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-6999851",
+          "also_in": [
+            "Haberet",
+            "NTV",
+            "TRT Haber",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "Dünya havacılık tarihinde bir ilk: İnsansız savaş uçağı KIZILELMA envantere girdi",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/sirketler/dunya-havacilik-tarihinde-bir-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-haberi-848223",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan'dan KIZILELMA açıklaması. \"Tarihi bir gün\"",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/cumhurbaskani-erdogandan-kizilelma-aciklamasi-tarihi-bir-gun-6999861",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan’dan Kızılelma mesajı: Bugün tarihi bir gün",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/cumhurbaskani-erdogandan-kizilelma-mesaji-bugun-20444125-haberi/",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Türkiye’nin ilk insansız savaş uçağı KIZILELMA envanterde!",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envanterde",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Çılgınlığı",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "Uzun süredir beklenen GTA 6'nın piyasaya sürülmesi, oyun dünyasında devasa bir heyecan yaratırken satış rekorları ve oyun içi detaylar sosyal medyanın gündemine oturdu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6 PC çıkış tarihi ortaya çıktı: PC kullanıcılarına müjde!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-pc-ne-zaman-cikacak--211593",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "GTA 6 hasreti bitti: Türkiye'deki oyun tutkunları ekran başında sabahladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-hasreti-bitti-turkiyedeki-oyun-tutkunlari-ekran-basinda-sabahladi/104344",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6'nın hikâyesi kaç saat? İncelemelerde 42 ile 152 saat arasında değişen süreler",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/galeri/gta-6nin-hikayesi-kac-saat-incelemelerde-42-ile-152-saat-arasinda-degisen-sureler_185429.html",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6'dan tarihi açılış: 150 incelemede tek bir karışık not bile yok",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/gta-6dan-tarihi-acilis-150-incelemede-tek-bir-karisik-not-bile-yok_185419.html",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Çıktı: Grand Theft Auto VI Hakkında Bilmeniz Gereken Her Şey",
+          "source": "ListeList",
+          "link": "https://listelist.com/gta-6-hakkinda-bilinmesi-gerekenler/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Shenzhen'de Kritik Zirve",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Trump, Putin ve Şi'nin Shenzhen'de gerçekleştirdiği zirve, nükleer savaş karşıtı deklarasyon ve küresel barış arayışları ile dünya siyasetinin merkezine yerleşti.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trump, Şi ve Putin Şencen’de buluşuyor: Yeni Yalta mı, Çin’in güç gösterisi mi?",
+          "source": "Fikir Turu",
+          "link": "https://fikirturu.com/jeo-politika/trump-si-ve-putin-sencende-bulusuyor-yeni-yalta-mi-cinin-guc-gosterisi-mi/",
+          "also_in": []
+        },
+        {
+          "title": "Shenzhen’de tarihi zirve: Trump, Putin ve Şi aynı masada",
+          "source": "Açık Gazete",
+          "link": "https://acikgazete.com/dunya/shenzhende-tarihi-zirve-trump-putin-ve-si-ayni-masada/",
+          "also_in": [
+            "DW Haber"
+          ]
+        },
+        {
+          "title": "Çin Cumhurbaşkanı Xi, Shenzhen'de ABD Başkanı Trump ile görüştü",
+          "source": "Lotus News",
+          "link": "https://www.lotusnews.com.tr/cin-cumhurbaskani-xi-shenzhende-abd-baskani-trump-ile-gorustu-1",
+          "also_in": [
+            "Lotus News"
+          ]
+        },
+        {
+          "title": "Trump, Putin ve Şi’den ortak deklarasyon: ‘Nükleer savaşın kazananı olmaz’",
+          "source": "10Haber",
+          "link": "https://10haber.net/dunya/trump-putin-ve-siden-ortak-deklarasyon-nukleer-savasin-kazanani-olmaz-756341/",
+          "also_in": []
+        },
+        {
+          "title": "Son dönemin en kritik görüşmesi: Trump-Şi zirvesinde öne çıkanlar",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/son-donemin-en-kritik-gorusmesi-trump-si-zirvesinde-one-cikanlar-3795086",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ekonomi ve Piyasalar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Küresel piyasalarda Anthropic'in halka arz başarısı ve Türkiye'nin dış borç stoku ile konut fiyatlarındaki değişimler ekonomik gündemi şekillendirdi.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Anthropic borsaya SpaceX rekorunu kırarak girdi: 1,5 trilyon dolar değerlemeye ulaştı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/anthropic-borsaya-spacex-rekorunu-kirarak-girdi--213109",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Tarihin en büyük halka arzı: Claude'un geliştiricisi Anthropic 81,3 milyar dolarlık hisse sattı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/tarihin-en-buyuk-halka-arzi-claudeun-gelistiricisi-anthropic-813-milyar-dolarlik-hisse-satti_185422.html",
+          "also_in": []
+        },
+        {
+          "title": "Konut fiyatlarındaki yıllık artış son 77 ayın en düşük seviyesinde",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/ekonomi/konut-fiyatlarindaki-yillik-artis-son-77-ayin-en-dusuk-seviyesinde/368751/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Anthropic'in halka arzına Japonya'da üç kattan fazla talep",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/anthropic-in-halka-arzina-japonya-da-uc-kattan-fazla-talep-3795199",
+          "also_in": []
+        },
+        {
+          "title": "Anthropic, rekor halka arzın ardından borsaya yüzde 34 yükselişle başladı",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/anthropic-rekor-halka-arzin-ardindan-borsaya-yuzde-34-yukselisle-basladi-3795183",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yargı ve Hukuki Gelişmeler",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Ekrem İmamoğlu'nun diploma iptalinin kesinleşmesi ve fon soruşturması kapsamındaki tutuklama/adli kontrol kararları Türkiye'nin iç siyaset ve hukuk gündemini meşgul etti.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Çankaya Belediyesi soruşturmasında tahliye kararı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/cankaya-belediyesi-sorusturmasinda-tahliye-karari-2557694",
+          "also_in": [
+            "Elips Haber",
+            "Evrensel",
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 7 şüpheli adli kontrol talebiyle hakimliğe sevk edildi",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/gundem/fon-sorusturmasinda-7-supheli-adli-kontrol-talebiyle-hakimlige-sevk-edildi-6999869",
+          "also_in": [
+            "Foreks"
+          ]
+        },
+        {
+          "title": "Ekrem İmamoğlu’nun diploma iptali kararı kesinleşti",
+          "source": "Kısa Dalga",
+          "link": "https://kisadalga.net/haber/gundem/ekrem-imamoglunun-diploma-iptali-karari-kesinlesti-141739",
+          "also_in": [
+            "Tele2"
+          ]
+        },
+        {
+          "title": "Danıştay da reddedince, İmamoğlu’nun Cumhurbaşkanı adayı olma ihtimali kalmadı",
+          "source": "10Haber",
+          "link": "https://10haber.net/siyaset/iktidar-medyasi-duyurdu-ekrem-imamoglunun-diploma-iptali-kesinlesti-756312/",
+          "also_in": []
+        },
+        {
+          "title": "Fon soruşturmasında gözaltına alınan 7 zanlıya adli kontrol istemi",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/fon-sorusturmasinda-gozaltina-alinan-7-zanliya-adli-kontrol-istemi-3795189",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spor Dünyası ve Transferler",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de yayın ihalesi tartışmaları, Galatasaray ve Beşiktaş'ın transfer arayışları ile EuroLeague'deki temsilcilerimizin maç sonuçları sporun ana gündemini oluşturdu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Ertuğrul Doğan'dan yayın ihalesi açıklaması",
+          "source": "Fotospor",
+          "link": "https://www.fotospor.com.tr/spor-toto-super-lig/ertugrul-dogandan-yayin-ihalesi-aciklamasi-717356",
+          "also_in": [
+            "Hürriyet",
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Galatasaray'da Uğurcan Çakır gelişmesi",
+          "source": "Fotospor",
+          "link": "https://www.fotospor.com.tr/galatasaray/galatasarayda-ugurcan-cakir-gelismesi-717353",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Beşiktaş ve Galatasaray, Göztepe'nin yıldızı için karşı karşıya: Bu kez Arda Okan değil",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-besiktas-ve-galatasaray-goztepenin-yildizi-icin-karsi-karsiya-bu-kez-arda-okan-degil-433278",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Fenerbahçe Tarfin deplasmanda Olimpia Milano'ya mağlup oldu!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/11/19/fenerbahce-tarfin-deplasmanda-olimpia-milanoya-maglup-oldu",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe Tarfin, Milano'da son çeyrekte yıkıldı",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahce-tarfin-milanoda-son-ceyrekte-yikildi-1830470",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Güncellemeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Nvidia'nın finansal başarıları, Apple'ın yeni tasarım kararları ve yapay zeka ajanlarının iş dünyasındaki artan etkisi teknoloji dünyasının temel başlıkları oldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Nvidia rekor kırmaya devam ediyor: 115,8 milyar dolar gelir!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/nvidia-rekor-kirmaya-devam-ediyor-115-8-milyar-dolar-gelir--213154",
+          "also_in": [
+            "Teknolojioku",
+            "Haber"
+          ]
+        },
+        {
+          "title": "Nvidia, Çin'e yapay zeka çipi satışını durdurdu",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/nvidia-cin-e-yapay-zeka-cipi-satisini-durdurdu--213144",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Apple, iPhone 20 Pro ile titanyum tasarıma geri dönebilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/apple-iphone-20-pro-titanyum-tasarimla-gelebilir--213113",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Gemini artık Mac'i sizin yerinize kullanıyor",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/gemini-mac-bilgisayar-kullanimi",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Microsoft Office, Yapay Zekâ Ajanlarıyla Yeni Bir İş Birliği Dönemine Giriyor",
+          "source": "Campaign Türkiye",
+          "link": "https://www.campaigntr.com/haberler/microsoft-office-yapay-zeka-ajanlariyla-yeni-bir-is-birligi-donemine-giriyor/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İklim ve Doğa Olayları",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "İstanbul'da gökyüzünün kızıla dönmesi, fırtına kaynaklı feribot sefer iptalleri ve Beytüşşebap'taki kar yağışı gibi doğa olayları yaşamı etkiledi.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "BUDO seferlerine hava engeli: 10 sefer iptal edildi",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/budo-seferlerine-hava-engeli-10-sefer-iptal-edildi-3495605",
+          "also_in": [
+            "dikGAZETE",
+            "GZT",
+            "Haber Global",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "İstanbul’da gökyüzü kızıla boyandı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/istanbul-da-gokyuzu-kizila-boyandi-1034106.html",
+          "also_in": [
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Bozcaada ve Gökçeada hattındaki bazı feribot seferleri iptal edildi",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/bozcaada-ve-gokceada-hattindaki-bazi-feribot-seferleri-iptal-edildi-haberi-932287",
+          "also_in": [
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "İstanbul'da gökyüzü kırmızıya döndü! Bu neyin habercisi?",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/istanbul/istanbulda-gokyuzu-kirmiziya-dondu-bu-neyin-habercisi/283719",
+          "also_in": [
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Marmara'ya fırtına uyarısı: Rüzgarın hızı 80 kilometreye çıkabilir",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/marmaraya-firtina-uyarisi-ruzgarin-hizi-80-kilometreye-cikabilir-p382818",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Bird in Space",
+    "artist": "Constantin Brâncuși",
+    "year": "1923",
+    "form": "heykel",
+    "medium": "Bronze",
+    "location": "Metropolitan Museum of Art",
+    "description": "KIZILELMA'nın aerodinamik formu ve teknolojik yükselişin zarif estetiği ile paralellik gösterir. İnsansız savaş uçağının gökyüzündeki süzülüşünü, saf bir formun hızı ve hafifliğiyle somutlaştırıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bird_in_Space",
+    "wikipedia_extract": "Bird in Space is a series of sculptures by Romanian sculptor Constantin Brâncuși. The original work was created in 1923 and made of marble. This sculpture is also known for containing seven marble figures and nine bronze casts. Brancusi created the piece over 14 times and in several mediums over a period of 20 years. It was sold in 2005 for $25.8 million, at the time a record price for a sculpture sold in an auction. The original title in Romanian is Pasărea în văzduh.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bird_in_Space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i"
+  },
+  "music": {
+    "title": "Blade Runner Blues",
+    "artists": "Vangelis",
+    "album": "Blade Runner (Music From The Original Soundtrack)",
+    "duration": "8:54",
+    "spotify_url": "https://open.spotify.com/track/575blCgesVtCu0HEYaIcas",
+    "spotify_id": "575blCgesVtCu0HEYaIcas",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273dc5cd149f1cdbec4cfedb234",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/575blCgesVtCu0HEYaIcas\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "20 Kasım 2026, teknolojinin soğuk metalik ışıltısı ile jeopolitik dengelerin kırılganlığı arasında gidip gelen, eşi benzeri görülmemiş bir tekinsizlikler yumağına sahne oluyor. Vangelisin Blade Runner Blues notaları, şehrin üzerindeki dijital sisin içinden yükselirken, Brancusinin Bird in Space heykeli bu kaotik atmosferde saf bir uçuşun ve zamansız bir özgürlük arayışının son kalesi olarak yükseliyor. Savunma sanayiindeki devrimci atılımların sert gerçekliği ile GTA 6 gibi kitleleri peşinden sürükleyen sanal evrenlerin yarattığı heyecan, insan ruhunu uçsuz bucaksız bir belirsizliğe hapsediyor. Brancusinin pürüzsüz bronz formunda cisimleşen o uçma arzusu, yapay zekanın şekillendirdiği yarınların gölgesinde, insanın kendi yarattığı makinelerin içinde kaybolma korkusuna karşı sessiz bir direniş sunuyor. Bugünün siyasi ve teknolojik gerilimleri, aslında içsel dünyamızın o distopik yalnızlığıyla harmanlanarak bizi varoluşumuzun sınırlarını yeniden tanımlamaya zorluyor."
+}
