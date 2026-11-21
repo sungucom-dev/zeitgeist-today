@@ -1,0 +1,469 @@
+{
+  "date": "2026-11-21",
+  "date_human": "21 November 2026",
+  "generated_at": "2026-11-21T01:30:42.507766+00:00",
+  "stats": {
+    "feeds_collected": 285,
+    "news_total": 4654,
+    "news_analyzed": 609,
+    "clusters": 8
+  },
+  "mood": {
+    "description": "GTA 6'nın yarattığı dijital fırtına ve ekonomik belirsizliklerin gölgesinde, teknolojik gelişmelerle şekillenen hareketli ve biraz da gergin bir atmosfer hakim.",
+    "dominant_emotion": "Heyecan",
+    "key_themes": [
+      "GTA 6 Çılgınlığı",
+      "Ekonomik Düzenlemeler ve Kayyum Atamaları",
+      "Yapay Zeka ve Gelecek",
+      "Siber Güvenlik ve Dijital Dönüşüm"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-21",
+        "code": 80,
+        "temp_max": 22.4,
+        "temp_min": 12.6
+      },
+      {
+        "date": "2026-11-22",
+        "code": 3,
+        "temp_max": 20.7,
+        "temp_min": 8.9
+      },
+      {
+        "date": "2026-11-23",
+        "code": 3,
+        "temp_max": 20.5,
+        "temp_min": 10.5
+      },
+      {
+        "date": "2026-11-24",
+        "code": 1,
+        "temp_max": 19.2,
+        "temp_min": 7.9
+      },
+      {
+        "date": "2026-11-25",
+        "code": 1,
+        "temp_max": 16.5,
+        "temp_min": 5.7
+      },
+      {
+        "date": "2026-11-26",
+        "code": 3,
+        "temp_max": 16.1,
+        "temp_min": 5.5
+      },
+      {
+        "date": "2026-11-27",
+        "code": 3,
+        "temp_max": 18.3,
+        "temp_min": 11.4
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Ekonomik Düzenlemeler ve Kayyum Atamaları",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon soruşturması kapsamında Destek Holding'e kayyum atanması ve BDDK'nın kredi kartı ile konut kredisi düzenlemeleri piyasaları hareketlendirdi.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon soruşturmasında yeni gelişme: Destek Holding’e kayyım atandı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-yeni-gelisme-destek-holdinge-kayyim-atandi-877979",
+          "also_in": [
+            "Cumhuriyet"
+          ]
+        },
+        {
+          "title": "Fon Soruşturmasında Flaş Gelişme: Destek Holding'e Kayyım Atandı",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/guncel/fon-sorusturmasinda-flas-gelisme-destek-holdinge-kayyim-atandi-582881",
+          "also_in": [
+            "Yeni Akit"
+          ]
+        },
+        {
+          "title": "Destek Holding AŞ'ye kayyum atandı",
+          "source": "Haber 7",
+          "link": "https://ekonomi.haber7.com/ekonomi/haber/3678562-destek-holding-asye-kayyum-atandi",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında dev holdinge kayyum atandı! TMSF yönetimi devraldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-dev-holdinge-kayyum-atandi-tmsf-yonetimi-devraldi-877992",
+          "also_in": []
+        },
+        {
+          "title": "BDDK'dan konut kredisi kararı: İki evi olanlara yüzde 75 kredi sınırlaması",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/bddkdan-konut-kredisi-karari-iki-evi-olanlara-yuzde-75-kredi-sinirlamasi-h42287",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Küresel ve Yerel Etkisi",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın duyurulması ve oyun dünyasındaki yankıları, Türkiye'de PS5 satışlarında rekor artışa ve internet trafiğinde yoğunluğa neden oldu.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6, Türkiye'deki PS5 satışlarını coşturdu: Yüzde 88 artış!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-turkiye-deki-ps5-satislarini-costurdu-yuzde-88-artis--213195",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "GTA 6 çılgınlığı interneti sardı: Tarihin en yüksek veri trafiğine ulaşıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-internet-tarihinin-veri-trafigi-rekorunu-kirdi--213166",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "GTA 6 fırtınası: 13 yıllık bekleyiş bitti, oyun dünyası yeniden şekilleniyor",
+          "source": "Megabayt Teknoloji",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-firtinasi-13-yillik-bekleyis-bitti-oyun-dunyasi-yeniden-sekilleniyor/104365",
+          "also_in": [
+            "Megabayt"
+          ]
+        },
+        {
+          "title": "GTA 6 ilk günde rekor kırdı: Tahmini 24,6 milyon kopya ve 2,36 milyar dolar",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/gta-6-ilk-gunde-rekor-kirdi-tahmini-246-milyon-kopya-ve-236-milyar-dolar_185473.html",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 Heyecanı E-Ticarete Yansıdı: PS5 Satışları Yüzde 88 Arttı",
+          "source": "Onedio",
+          "link": "https://onedio.com/haber/gta-6-heyecani-e-ticarete-yansidi-ps5-satislari-yuzde-88-artti-1396319",
+          "also_in": [
+            "Haber",
+            "CNBC-e"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve Diplomasi Gündemi",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın Kadim Dostlar Buluşması'na katılımı ve uluslararası düzeydeki diplomatik atama kararları gündemin merkezinde yer aldı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Kadim Dostlar Buluşması'na katıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kadim-dostlar-bulusmasina-katildi/4132464",
+          "also_in": [
+            "dikGAZETE",
+            "Hürriyet",
+            "Haberet",
+            "Haberler",
+            "Independent Türkçe",
+            "Haber Global",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Başkan Erdoğan, Kadim Dostlar Buluşması'na katıldı",
+          "source": "Sabah",
+          "link": "https://www.sabah.com.tr/gundem/2026/11/20/baskan-erdogan-kadim-dostlar-bulusmasina-katildi",
+          "also_in": [
+            "Yeni Asır Gazetesi"
+          ]
+        },
+        {
+          "title": "Atama kararları Resmi Gazete'de! Bakanlıklarda görev değişimi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/21/atama-kararlari-resmi-gazetede-bakanliklarda-gorev-degisimi",
+          "also_in": []
+        },
+        {
+          "title": "Kadim Dostlar Buluşması'nda Başkan Erdoğan sürprizi! İşte o kareler...",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/20/baskan-erdogan-kadim-dostlar-bulusmasina-katildi",
+          "also_in": []
+        },
+        {
+          "title": "Erdoğan'dan 4 bürokrat için görevden alma kararı! Yerlerine yeni isimler atandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/erdogandan-4-burokrat-icin-gorevden-alma-karari-yerlerine-yeni-isimler-atandi-878003",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zeka ve Teknoloji Gelişmeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka teknolojilerinin iş dünyası ve günlük yaşam üzerindeki etkileri, enerji maliyetleri ve büyük teknoloji şirketlerinin yeni ürün tanıtımları öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yapay zeka devinde büyük gün: Çalışanlar bir gecede milyoner oldu",
+          "source": "Megabayt Teknoloji",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-devinde-buyuk-gun-calisanlar-bir-gecede-milyoner-oldu/104375",
+          "also_in": [
+            "Megabayt"
+          ]
+        },
+        {
+          "title": "Yapay zekanın gizli maliyeti: Enerji krizini tetikliyor",
+          "source": "Megabayt Teknoloji",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zekanin-gizli-maliyeti-enerji-krizini-tetikliyor/104374",
+          "also_in": [
+            "Megabayt"
+          ]
+        },
+        {
+          "title": "Yapay zeka iş dünyasını kökten değiştirecek: Milyarlarca insan işsiz mi kalacak?",
+          "source": "Megabayt Teknoloji",
+          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-is-dunyasini-kokten-degistirecek-milyarlarca-insan-issiz-mi-kalacak/104370",
+          "also_in": [
+            "Megabayt"
+          ]
+        },
+        {
+          "title": "Yapay zeka dünyayı nasıl değiştirecek ve yapay zekada Türkiye'nin geleceği nasıl olacak? TRAI Kurucusu Halil Aksu ile konuştuk",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/haber/yapay-zeka-dunyayi-nasil-degistirecek-ve-yapay-zekada-turkiyenin-gelecegi-nasil-olacak-trai-kurucusu-halil-aksu-ile-konustuk_185484.html",
+          "also_in": []
+        },
+        {
+          "title": "\"Yetenekli bir insan gibi bilgisayar kullanan yapay zekâ\": Apple'ın yeni hedefi bu",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/yetenekli-bir-insan-gibi-bilgisayar-kullanan-yapay-zeka-applein-yeni-hedefi-bu_185462.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yargı ve Güvenlik Operasyonları",
+      "meta_category": "Diğer",
+      "summary": "Fon soruşturmasında Serdar Altınbaş'ın yakalanması ve ülke genelindeki uyuşturucu/asayiş operasyonları yargı gündemini oluşturdu.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon soruşturmasında aranan Serdar Altınbaş Çekya’da yakalandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/fon-sorusturmasinda-aranan-serdar-altinbas-cekyada-yakalandi-599883",
+          "also_in": [
+            "Artı Gerçek",
+            "En Son Haber",
+            "Sözcü Gündem",
+            "Sözcü",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında kritik gelişme: Serdar Altınbaş Çekya'da yakalandı",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/fon-sorusturmasinda-kritik-gelisme-serdar-altinbas-cekya-da-yakalandi-33017",
+          "also_in": [
+            "İstiklal",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında aranıyordu... Serdar Altınbaş Çekya’da yakalandı",
+          "source": "Cumhuriyet",
+          "link": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-araniyordu-serdar-altinbas-cekya-da-yakalandi-2557966",
+          "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "Fon soruşturması kapsamında aranan isimdi! Serdar Altınbaş Çekya'da yakalandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/20/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi",
+          "also_in": []
+        },
+        {
+          "title": "33 ilde zehir tacirlerine dev operasyon: 254 şüpheli yakalandı, 159'u tutuklandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/20/33-ilde-zehir-tacirlerine-dev-operasyon-254-supheli-yakalandi-159u-tutuklandi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "HGS ve İcra Takibi Düzenlemesi",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "HGS'deki icra takiplerinin durdurulması ve konuyla ilgili Ulaştırma Bakanlığı'nın yeni düzenleme kararları kamuoyunda geniş yer buldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "HGS'de icra takipleri durduruldu",
+          "source": "Teknolojioku",
+          "link": "https://www.teknolojioku.com/guncel/hgsde-icra-takipleri-durduruldu-6b0057b304f84a746a0851b2",
+          "also_in": [
+            "F5 Haber",
+            "Haber",
+            "NTV"
+          ]
+        },
+        {
+          "title": "HGS icraları durduruldu",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/hgs-icralari-durduruldu/?utm_source=rss&utm_medium=rss&utm_campaign=hgs-icralari-durduruldu",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "HGS ile ilgili yeni kararlar",
+          "source": "Aykırı",
+          "link": "https://www.aykiri.com.tr/ekonomi/hgs-ile-ilgili-yeni-kararlar/400167",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "HGS’de icra takipleri için durdurma kararı! Özel otoyol şirketlerinin uygulaması yeniden düzenleniyor",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/20/hgsde-icra-takipleri-icin-durdurma-karari",
+          "also_in": []
+        },
+        {
+          "title": "HGS'de icra takipleri durduruldu: Bakanlıktan 5 maddelik karar",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/haberler/hgsde-icra-takipleri-durduruldu-bakanliktan-5-maddelik-karar-h42293",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Spora Bakış: Transfer ve Avrupa Maçları",
+      "meta_category": "Spor",
+      "summary": "Süper Lig kulüplerinin transfer çalışmaları, sakatlık haberleri ve Avrupa kupalarındaki maçların sonuçları spor gündemini belirledi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray'dan 7 futbolcu için sakatlık açıklaması!",
+          "source": "Futboo",
+          "link": "https://www.futboo.com/galatasaray-dan-7-futbolcu-icin-sakatlik-aciklamasi/93058/",
+          "also_in": [
+            "Doğru Haber",
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "UEFA Uluslar Ligi'nde çeyrek final ve play-off eşleşmeleri belli oldu!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/uluslar-ligi/2026/11/20/uefa-uluslar-liginde-ceyrek-final-ve-play-off-eslesmeleri-belli-oldu",
+          "also_in": [
+            "Sözcü Spor"
+          ]
+        },
+        {
+          "title": "Anadolu Efes EuroLeague'de farka gitti, ASVEL'i 107 sayıyla devirdi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/basketbol/anadolu-efes-euroleaguede-farka-gitti-asveli-107-sayiyla-devirdi-433319",
+          "also_in": [
+            "NTV Spor Basketbol"
+          ]
+        },
+        {
+          "title": "İngilizlerden Galatasaray'da deprem etkisi yaratacak Osimhen iddiası! Maaşına kadar yazdılar",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-ingilizlerden-galatasarayda-deprem-etkisi-yaratacak-osimhen-iddiasi-maasina-kadar-yazdilar-433309",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Anadolu Efes evinde ASVEL'i farklı geçti!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/basketbol/2026/11/20/anadolu-efes-evinde-asveli-farkli-gecti",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Dünya Çocuk Hakları Günü",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Dünya Çocuk Hakları Günü vesilesiyle Türkiye'de ve dünyada çocuk haklarına dikkat çeken etkinlikler ve mesajlar paylaşıldı.",
+      "importance": 6,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Dünya Çocuk Hakları Günü: Türkiye'de tablo ne söylüyor?",
+          "source": "DW Haber",
+          "link": "https://www.dw.com/tr/dünya-çocuk-hakları-günü-türkiye-de-tablo-ne-söylüyor/a-79995209?maca=tur-rss-tur-all-1495-rdf",
+          "also_in": [
+            "Kısa Dalga"
+          ]
+        },
+        {
+          "title": "İletişim Başkanı Duran’dan Dünya Çocuk Hakları Günü mesajı",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/iletisim-baskani-durandan-dunya-cocuk-haklari-gunu-mesaji/368802/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Bornova’da çocuklar hakları için yürüdü: “Benim çocuk olma hakkım var”",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/yerel-haberler/bornovada-cocuklar-haklari-icin-yurudu-benim-cocuk-olma-hakkim-var/368794/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Emine Erdoğan'dan Dünya Çocuk Hakları Günü mesajı: Gazze'deki çocuklara dikkat çekti",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/20/emine-erdogandan-20-kasim-dunya-cocuk-haklari-gununde-gazze-mesaji",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "Nighthawks (Hopper)",
+    "artist": "Edward Hopper",
+    "year": "1942",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Art Institute of Chicago",
+    "description": "Ekonomik belirsizlikler ve gece saatlerindeki dijital izolasyonun yarattığı o tekinsiz, kentsel yalnızlığı mükemmel bir şekilde yansıtıyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nighthawks_(Hopper)",
+    "wikipedia_extract": "Nighthawks is a 1942 oil on canvas painting by the American artist Edward Hopper that portrays four people in a downtown diner late at night, as viewed through the diner's large glass window. The light coming from the diner illuminates a darkened and deserted urban streetscape.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/3840px-Nighthawks_by_Edward_Hopper_1942.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Hopper"
+  },
+  "music": {
+    "title": "Midnight City",
+    "artists": "M83",
+    "album": "Hurry up, We're Dreaming",
+    "duration": "4:03",
+    "spotify_url": "https://open.spotify.com/track/6GyFP1nfCDB8lbD2bG0Hq9",
+    "spotify_id": "6GyFP1nfCDB8lbD2bG0Hq9",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/6GyFP1nfCDB8lbD2bG0Hq9\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Dijital fırtınaların ve ekonomik belirsizliklerin gölgesinde, modern insanın yalnızlığı Edward Hopper’ın fırçasından süzülerek bugünün neon ışıklı distopyasına taşınıyor. Nighthawks tablosundaki o sessiz, cam arkası bekleyiş, bugün GTA 6 çılgınlığı ve yapay zekanın tekinsiz vaatleriyle şekillenen toplumsal gerilimin sessiz bir tanığına dönüşüyor. M83’ün Midnight City parçası, bu durgun kompozisyonun üzerine fütüristik bir enerji enjekte ederek, sokağın ıssızlığını siber bir heyecana ve belirsiz bir geleceğin telaşına hapsediyor. Kayyumlar ve dijital dönüşümlerle sarsılan gerçeklik, camın ötesindeki karanlıkta yankılanırken, hepimiz kendi diner masamızda hem bir kurtuluş hem de bir yıkım bekleyen modern göçebeler gibi ışıkta parlıyoruz. Teknoloji ile yalnızlık, güvenlik ile kaos arasındaki bu ince çizgide, bugünün ruhu ancak bu melankolik ve yüksek tempolu tezatlıkla açıklanabiliyor."
+}
