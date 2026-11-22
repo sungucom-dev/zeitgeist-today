@@ -1,0 +1,537 @@
+{
+  "date": "2026-11-22",
+  "date_human": "22 November 2026",
+  "generated_at": "2026-11-22T01:30:42.314690+00:00",
+  "stats": {
+    "feeds_collected": 287,
+    "news_total": 3925,
+    "news_analyzed": 578,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Teknoloji dünyasının devasa GTA 6 lansmanıyla yaşadığı coşku, finansal piyasalardaki sert düşüşler ve yerel gündemdeki acı olayların gölgesinde hüzün ve heyecanın iç içe geçtiği bir gün.",
+    "dominant_emotion": "Tedirginlik",
+    "key_themes": [
+      "GTA 6'nın oyun dünyası üzerindeki ekonomik ve kültürel etkisi",
+      "Yapay zeka ve teknoloji hisselerindeki küresel satış dalgası",
+      "Türkiye'de yoğunlaşan güvenlik ve asayiş olayları",
+      "Ekonomi ve piyasalardaki belirsizlikler"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-22",
+        "code": 3,
+        "temp_max": 20.3,
+        "temp_min": 10.2
+      },
+      {
+        "date": "2026-11-23",
+        "code": 3,
+        "temp_max": 20.4,
+        "temp_min": 10.0
+      },
+      {
+        "date": "2026-11-24",
+        "code": 2,
+        "temp_max": 17.7,
+        "temp_min": 5.8
+      },
+      {
+        "date": "2026-11-25",
+        "code": 0,
+        "temp_max": 14.2,
+        "temp_min": 2.8
+      },
+      {
+        "date": "2026-11-26",
+        "code": 3,
+        "temp_max": 16.6,
+        "temp_min": 3.6
+      },
+      {
+        "date": "2026-11-27",
+        "code": 3,
+        "temp_max": 19.9,
+        "temp_min": 15.9
+      },
+      {
+        "date": "2026-11-28",
+        "code": 3,
+        "temp_max": 19.4,
+        "temp_min": 15.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "GTA 6'nın Küresel Etkisi ve Rekorları",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6, ilk gününde 3,79 milyar dolar hasılat yaparak oyun dünyasında tüm zamanların rekorunu kırdı ve geniş bir ekonomik ekosistem oluşturdu.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6'dan rekor açılış: İlk gün hasılatı 3.79 milyar dolar!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-dan-rekor-acilis-ilk-gun-hasilati-3-79-milyar-dolar--213220",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Oyun Dünyasında Tarihi Rekor: GTA 6 İlk Günden Zirveye Yerleşti!",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/oyun/oyun-dunyasinda-tarihi-rekor-gta-6-ilk-gunden-zirveye-yerlesti/104392",
+          "also_in": [
+            "Megabayt Oyun"
+          ]
+        },
+        {
+          "title": "GTA 6'dan dudak uçuklatan rekor: Bir günde 30 ülkenin ekonomisini geride bıraktı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6dan-dudak-ucuklatan-rekor-bir-gunde-30-ulkenin-ekonomisini-geride-birakti/104387",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6 İlk Gün Satışları 3,79 Milyar Doları Buldu: Tarihi Rekor",
+          "source": "FRPNET",
+          "link": "https://frpnet.net/haberler/oyun-haberleri/gta-6-ilk-gun-satislari-379-milyar-dolari-buldu-tarihi-rekor",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6 satışları rekor kırdı: Rockstar’a göre oyun ilk gün 3,79 milyar dolar kazandı, çıkış öncesinde 32,5 milyon kopya sattı",
+          "source": "Geekyapar",
+          "link": "https://geekyapar.com/gta-6-satislari-ilk-gun-379-milyar-dolar/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji Borsalarında Sert Satışlar",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Nvidia ve Anthropic başta olmak üzere yapay zeka ve teknoloji hisselerinde yaşanan sert düşüşler, küresel piyasalarda 'kara Cuma' etkisi yarattı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Teknoloji borsalarında kara Cuma: Yapay zeka balonunda sert düşüş",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/teknoloji-borsalarinda-kara-cuma-yapay-zeka-balonunda-sert-dusus/104391",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Yapay zekâ rüzgârı diniyor mu? Hisseler çakılıyor",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yapay-zek-husrani--213216",
+          "also_in": []
+        },
+        {
+          "title": "Nvidia'da kan kaybı sürüyor: Cuma günü yüzde 14 düştü, 2008'den beri en uzun kayıp serisine girdi",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/nvidiada-kan-kaybi-suruyor-cuma-gunu-yuzde-14-dustu-2008den-beri-en-uzun-kayip-serisine-girdi_185500.html",
+          "also_in": []
+        },
+        {
+          "title": "Nvidia Hisseleri Yüzde 12 Düştü: SEC Soruşturması Muhasebeye Uzandı",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/nvidia-hisseleri-yuzde-12-dustu-sec-sorusturmasi-muhasebeye-uzandi/",
+          "also_in": []
+        },
+        {
+          "title": "Wall Street'te yapay zeka hisselerinde sert satış yaşandı, Nasdaq yüzde 5,3 düştü",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6b0137bb95131d72027e1add/PICNEWS/tr/wall-street-te-yapay-zeka-hisselerinde-sert-satis-yasandi-nasdaq-yuzde-5-3-dustu-21-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Şehit ve Yaralı Haberleri",
+      "meta_category": "Diğer",
+      "summary": "Şırnak'ta yaşanan silah kazası sonucunda bir astsubayın şehit olması ülke genelinde üzüntüyle karşılandı.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Şırnak'ta silah kazasında yaralanan Astsubay şehit oldu",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/sirnakta-silah-kazasinda-yaralanan-astsubay-sehit-oldu-haberi-932643",
+          "also_in": [
+            "En Son Haber",
+            "Karar",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Şırnak'ta silah kazası sonucu bir asker şehit oldu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272",
+          "also_in": [
+            "Aydınlık"
+          ]
+        },
+        {
+          "title": "Şırnak'tan acı haber! Astsubay Yalın Gergün şehit oldu",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/22/sirnaktan-aci-haber-astsubay-yalin-gergun-sehit-oldu",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "MSB: Şırnak'ta silah kazasında yaralanan Astsubay şehit oldu",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/ankara/msb-sirnakta-silah-kazasinda-yaralanan-astsubay-sehit-oldu-3496364",
+          "also_in": [
+            "GZT"
+          ]
+        },
+        {
+          "title": "Acı haberi MSB duyurdu: Astsubay Çavuş Yalın Gergün şehit oldu",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/aci-i-msb-duyurdu-astsubay-cavus-yalin-gergun-sehit-oldu/haber-1716359",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'de Asayiş ve Trajik Olaylar",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul, Şanlıurfa ve Antalya gibi şehirlerde yaşanan cinayet, göçük ve trafik kazaları gibi üzücü asayiş olayları günün gündeminde öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kadıköy'de 9 katlı binada çıkan yangın söndürüldü",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/istanbul/kadikoyde-9-katli-binada-cikan-yangin-sonduruldu-3496358",
+          "also_in": [
+            "Elips Haber",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Şanlıurfa’da 2 otomobil çarpıştı; 2 ölü, 5 yaralı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/sanliurfa/sanliurfada-2-otomobil-carpisti-2-olu-5-yarali-3496349",
+          "also_in": [
+            "TRT Haber",
+            "Türkgün"
+          ]
+        },
+        {
+          "title": "Güngören'de göçük altında kalan işçi hayatını kaybetti",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/gungorende-gocuk-altinda-kalan-isci-hayatini-kaybetti-600007",
+          "also_in": [
+            "Ekonomim",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Başakşehir'de valenin kullandığı cip restorana girdi",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/basaksehirde-valenin-kullandigi-cip-restorana-girdi",
+          "also_in": [
+            "Haberet",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Antalya’da kadın cinayeti: Evli olduğu kadını öldürüp intihar etti",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6010618/antalya-da-kadin-cinayeti-evli-oldugu-kadini-oldurup-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Süper Lig'de Hakem ve Maç Tartışmaları",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe ve Galatasaray'ın maç sonuçları ve tartışmalı hakem kararları, spor kamuoyunda geniş yankı buldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fenerbahçe deplasmanda Kocaelispor ile berabere kaldı!",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/21/kocaelispor-sahasinda-fenerbahce-ile-berabere-kaldi",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray'dan Okan Buruk'un kırmızı kartına tepki! TFF'ye gideceğiz",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/21/galatasaraydan-okan-burukun-kirmizi-kartina-tepki-tffye-gidecegiz",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray'da Okan Buruk şoku! Beşiktaş derbisinde yok",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/21/galatasarayda-okan-buruk-soku-besiktas-derbisinde-yok",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray evinde Samsunspor'u mağlup etti! İşte maçın özeti",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/21/galatasaray-evinde-samsunsporu-maglup-etti-iste-macin-ozeti",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray-Samsunspor maçında ofsayt tartışması! Çok konuşulan karar",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/spor/galatasaray-samsunspor-macinda-ofsayt-tartismasi-cok-konusulan-karar-7000424",
+          "also_in": [
+            "Hürriyet"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sınır Ötesi Operasyonlar ve Güvenlik",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "MİT Başkanı Kalın'ın Hamas heyetiyle görüşmesi ve bölgedeki güvenlik stratejileri gündemdeki yerini korudu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "MİT Başkanı Kalın, Hamas Siyasi Büro Başkanı Hayye ile görüştü",
+          "source": "Bengütürk",
+          "link": "https://www.benguturk.com/gundem/mit-baskani-kalin-hamas-siyasi-buro-baskani-hayye-ile-gorustu-1-289815h",
+          "also_in": [
+            "Sabah",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Bilal Erdoğan'dan Arakanlı Müslümanlar için ortak çözüm çağrısı: Batı'ya çifte standart tepkisi",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/11/21/bilal-erdogan-dan-arakanli-muslumanlar-icin-ortak-cozum-cagrisi-bati-ya-cifte-standart-tepkisi-7177191.html",
+          "also_in": [
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Yemen’e Türk askeri gönderilecek mi? Dışişleri Bakanı Hakan Fidan açıkladı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/yemen-e-turk-askeri-gonderilecek-mi-disisleri-bakani-hakan-fidan-acikladi-p383307",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Gazze için kritik temas! MİT Başkanı Kalın, Hamas heyetiyle görüştü",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/21/mit-baskani-kalindan-kritik-temas-hamas-siyasi-buro-baskani-hayye-ile-gorustu",
+          "also_in": []
+        },
+        {
+          "title": "Bilal Erdoğan'dan Arakanlı Müslümanlar için ortak çözüm çağrısı: Batı'nın çifte standardına tepki gösterdi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/21/bilal-erdogandan-arakanli-muslumanlar-icin-ortak-cozum-cagrisi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin ve Finansal Piyasalarda Çalkantı",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Bitcoin fiyatındaki sert düşüşler ve finansal piyasalardaki belirsizlik yatırımcıları tedirgin etti.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bitcoin fiyatı 16900 dolara düştü, 10 Ekim krizi geri geldi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/bitcoin-fiyatinda-sok-seviye--213217",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Bitcoin, sert satış dalgasının ardından yeniden 60 bin doların üzerine çıktı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/ekonomi/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti/4133256",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Bitcoin iki yıldan uzun sürenin en düşük seviyesine indi",
+          "source": "Döviz",
+          "link": "https://haber.doviz.com/kripto-para-haberleri/bitcoin-iki-yildan-uzun-surenin-en-dusuk-seviyesine-indi/955268",
+          "also_in": []
+        },
+        {
+          "title": "Bitcoin'de büyük çöküş: İki yılın en düşük seviyesinde, milyarlarca dolar silindi",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/kripto/bitcoinde-buyuk-cokus-iki-yilin-en-dusuk-seviyesinde-milyarlarca-dolar-silindi-h42327",
+          "also_in": []
+        },
+        {
+          "title": "Bitcoin iki yılı aşkın sürenin en düşük seviyesine geriledi",
+          "source": "Foreks",
+          "link": "https://www.foreks.com/haber/detay/6b0132f54b18523914466bb0/PICNEWS/tr/bitcoin-iki-yili-askin-surenin-en-dusuk-seviyesine-geriledi-21-11-26/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "COP31 ve İklim Diplomasisi",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "Türkiye'nin ev sahipliği yaptığı COP31 toplantılarında iklim diplomasisi ve küresel çevre stratejileri ele alındı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanlığı İletişim Başkanı Duran'dan COP31 paylaşımı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskani-durandan-cop31-paylasimi/4133223",
+          "also_in": [
+            "Ekonomim",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "İletişim Başkanı Duran: Türkiye, COP31 ile küresel iklim diplomasisinin buluşma noktası oldu",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/yerel-haberler/ankara/iletisim-baskani-duran-turkiye-cop31-ile-kuresel-iklim-diplomasisinin-bulusma-noktasi-oldu-3496366",
+          "also_in": [
+            "dikGAZETE",
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Duran: Türkiye, COP31 ile küresel iklim diplomasisinin buluşma noktası oldu",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3678814-duran-turkiye-cop31-ile-kuresel-iklim-diplomasisinin-bulusma-noktasi-oldu",
+          "also_in": [
+            "TRT Haber",
+            "Savunma Sanayi Gazetesi"
+          ]
+        },
+        {
+          "title": "COP31 Başkanı Kurum: \"Son metin diyeceğimiz metni sekretaryaya gönderdik\"",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/cop31-baskani-kurum-son-metin-diyecegimiz-metni-sekretaryaya-gonderdik-1035279.html",
+          "also_in": [
+            "En Son Haber"
+          ]
+        },
+        {
+          "title": "COP31’De kritik eşik! Bakan Kurum duyurdu: Antalya Mutabakatı sekretaryaya gönderildi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/22/cop31de-kritik-esik-bakan-kurum-duyurdu",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Bilim ve Teknoloji Gelişmeleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Antik dönem araştırmaları, Neandertal genetiği ve uzay gözlemleri gibi bilimsel gelişmeler paylaşıldı.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Antik Sicilya’da Anneler Bebeklerini 4 Yıla Yakın Emzirmiş",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/antik-sicilyada-anneler-bebeklerini-4-yila-yakin-emzirmis/",
+          "also_in": []
+        },
+        {
+          "title": "Neandertallerin Yok Oluşunda Asıl Etken Biz Olabiliriz",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/neandertallerin-yok-olusunda-asil-etken-biz-olabiliriz/",
+          "also_in": []
+        },
+        {
+          "title": "Neandertal Geni Şizofreni Riskini Azaltıyor Olabilir",
+          "source": "Arkeofili",
+          "link": "https://arkeofili.com/neandertal-geni-sizofreni-riskini-azaltiyor-olabilir/",
+          "also_in": []
+        },
+        {
+          "title": "Dünya'ya 28 ışık yılı uzaklıkta üç yıldızlı sıra dışı sistem keşfedildi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/dunya-ya-28-isik-yili-uzaklikta-uc-yildizli-sira-disi-sistem-kesf--213211",
+          "also_in": []
+        },
+        {
+          "title": "Bir yıldızın eşini yuttuğu an ilk kez gözlemlendi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/bir-yildizin-esini-yuttugu-an-ilk-kez-gozlemlendi--213210",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Ankara Film Festivali Ödülleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "37. Ankara Film Festivali'nde ödüller sahiplerini buldu; 'Ölü Köpekler Isırmaz' filmi geceye damgasını vurdu.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "37. Ankara Film Festivali’nde Ödüller Sahiplerini Buldu",
+          "source": "Altyazı",
+          "link": "https://altyazi.net/haberler/37-ankara-film-festivalinde-oduller-sahiplerini-buldu/",
+          "also_in": [
+            "Edebiyat Haber",
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "37. Ankara Film Festivali’nde Ödüller Sahiplerini Buldu: Geceye \"Ölü Köpekler Isırmaz\" Damga Vurdu!",
+          "source": "Beyaz Perde",
+          "link": "https://www.beyazperde.com/haberler/filmler/haberler-1000233504/",
+          "also_in": []
+        },
+        {
+          "title": "Ölü Köpekler Isırmaz Ankara Film Festivali’nde üç ödül kazandı",
+          "source": "Mürekkep Haber",
+          "link": "https://www.murekkephaber.com/olu-kopekler-isirmaz-ankara-film-festivalinde-uc-odul-kazandi/23985",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Tower of Babel (Bruegel)",
+    "artist": "Pieter Bruegel the Elder",
+    "year": "1563",
+    "form": "resim",
+    "medium": "Oil on panel",
+    "location": "Kunsthistorisches Museum, Vienna",
+    "description": "GTA 6'nın yarattığı devasa ekonomik hırs ve teknolojik kibrin, insanlığın kontrol edilemez yükselişi ve kaçınılmaz çöküşüyle olan bağını simgeliyor. Piyasalardaki çalkantı ve karmaşa, bu anıtsal eserin temsil ettiği kaotik ihtişamla örtüşüyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)",
+    "wikipedia_extract": "The Tower of Babel was the subject of two surviving paintings and one lost painting by Dutch and Flemish Renaissance painter Pieter Bruegel the Elder. The earliest of the three, a miniature painted on ivory, was completed in 1552–1553 while Bruegel was in Rome, and is now lost. The two surviving works are oil paintings on wood panels, sometimes distinguished by the prefix \"Great\" and \"Little\" and by their present location: Kunsthistorisches Museum Wien in Vienna and the latter in the Museum Boijmans Van Beuningen in Rotterdam. The Tower of Babel in Vienna is dated 1563, while the version in Rotterdam is undated but widely believed to have been painted sometime after.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/3840px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder"
+  },
+  "music": {
+    "title": "Kool-Aid",
+    "artists": "Bring Me The Horizon",
+    "album": "POST HUMAN: NeX GEn",
+    "duration": "3:48",
+    "spotify_url": "https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu",
+    "spotify_id": "0hpWmAB3L0OJ3VBeMkOQUu",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273df51a3d66223e5b01813e0c4",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0hpWmAB3L0OJ3VBeMkOQUu\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Bugün insanlık, gökyüzüne uzanan dijital kulelerin yarattığı sahte bir coşku ile yeryüzünü saran ekonomik ve sosyal yıkımın soğuk nefesi arasında sıkışıp kalmış durumda. Pieter Bruegelin Babil Kulesi, hırsın ve kibrin gölgesinde çürüyen medeniyet anlatısıyla, modern çağın teknolojik devrimleri karşısında yaşadığımız o derin tedirginliği yüzyıllar öncesinden yankılıyor. Bring Me The Horizonun Kool-Aid parçası, bu distopik atmosferin kaotik ritmini damarlarımıza enjekte ederek kurduğumuz dijital kulelerin aslında ne kadar savunmasız ve geçici olduğunu haykırıyor. Piyasalardaki çöküş ve sokaklarımızdaki ağır sessizlik, kulelerin eninde sonunda kendi ağırlığı altında ezilmeye mahkûm olduğu gerçeğini hatırlatan birer memento mori niteliğinde. İç içe geçen bu hüzün ve heyecan, yükselişin hemen ardından gelen kaçınılmaz düşüşün uğultusunda, hepimizi kendi yarattığımız kaosun ortasında birer yabancıya dönüştürüyor."
+}
