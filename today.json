@@ -1,22 +1,21 @@
 {
-  "date": "2026-11-23",
-  "date_human": "23 November 2026",
-  "generated_at": "2026-11-23T01:31:01.643185+00:00",
+  "date": "2026-11-24",
+  "date_human": "24 November 2026",
+  "generated_at": "2026-11-24T01:31:06.028355+00:00",
   "stats": {
-    "feeds_collected": 287,
-    "news_total": 3888,
-    "news_analyzed": 570,
-    "clusters": 8
+    "feeds_collected": 289,
+    "news_total": 4763,
+    "news_analyzed": 604,
+    "clusters": 10
   },
   "mood": {
-    "description": "Türkiye genelinde kışın ilk sert yüzü, iklim zirvesindeki tıkanıklıklar ve teknoloji dünyasındaki yapay zeka çılgınlığı arasında gidip gelen, yer yer gergin yer yer umutlu bir atmosfer hakim.",
+    "description": "Yapay zeka devriminin yarattığı teknolojik heyecanın, ekonomik belirsizlikler ve doğa olaylarının getirdiği tedirginlik ile harmanlandığı, yoğun bir geçiş dönemi atmosferi hakim.",
     "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Yapay Zeka ve Dijital Dönüşüm",
-      "COP31 İklim Zirvesi ve Çevre Politikaları",
-      "Ekonomik Gelişmeler ve Fon Soruşturmaları",
-      "Süper Lig'de Derbi Heyecanı ve Spor Gündemi",
-      "Kış Mevsimi ve Meteorolojik Uyarılar"
+      "Jensen Huang'ın Nvidia'ya dönüşü ve teknoloji piyasalarındaki yansımaları",
+      "Yeniden değerleme oranı ve ekonomik daralma sinyalleri",
+      "İklim değişikliği ve doğal afetlerin hayat üzerindeki etkisi",
+      "Sarıyer'deki 'aslan' vakası ve sosyal medya dezenformasyonu"
     ]
   },
   "weather": {
@@ -25,227 +24,374 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-23",
-        "code": 3,
-        "temp_max": 19.9,
-        "temp_min": 11.5
-      },
-      {
         "date": "2026-11-24",
-        "code": 3,
-        "temp_max": 17.6,
-        "temp_min": 5.3
+        "code": 2,
+        "temp_max": 17.9,
+        "temp_min": 5.0
       },
       {
         "date": "2026-11-25",
-        "code": 1,
-        "temp_max": 15.1,
-        "temp_min": 4.0
+        "code": 0,
+        "temp_max": 14.7,
+        "temp_min": 3.0
       },
       {
         "date": "2026-11-26",
         "code": 3,
-        "temp_max": 16.1,
-        "temp_min": 4.8
+        "temp_max": 17.3,
+        "temp_min": 4.1
       },
       {
         "date": "2026-11-27",
         "code": 3,
-        "temp_max": 19.7,
-        "temp_min": 5.5
+        "temp_max": 18.7,
+        "temp_min": 5.3
       },
       {
         "date": "2026-11-28",
         "code": 3,
-        "temp_max": 20.0,
-        "temp_min": 15.7
+        "temp_max": 19.6,
+        "temp_min": 10.1
       },
       {
         "date": "2026-11-29",
         "code": 3,
-        "temp_max": 21.1,
-        "temp_min": 15.0
+        "temp_max": 17.5,
+        "temp_min": 11.9
+      },
+      {
+        "date": "2026-11-30",
+        "code": 2,
+        "temp_max": 12.9,
+        "temp_min": 8.2
       }
     ]
   },
   "clusters": [
     {
-      "title": "Yapay Zeka ve Teknoloji Devrimi",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Yapay zeka teknolojilerinin iş dünyası, oyun sektörü ve günlük yaşam üzerindeki etkileri artarken, siber güvenlik ihlalleri ve dev şirketlerin stratejik hamleleri öne çıkıyor.",
+      "title": "Jensen Huang'ın Nvidia'ya Dönüşü",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Nvidia CEO'su Jensen Huang'ın görevine geri dönmesi, küresel borsalarda ve teknoloji piyasalarında büyük bir iyimserlik rüzgarı estirdi.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Yapay zekâ alışveriş alışkanlıklarını da değiştirdi: Müşteriler artık önce ona soruyor",
+          "title": "Nvidia, Jensen Huang'ı yeniden CEO olarak atadı",
           "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yapay-zeka-kaynakli-alisveris-trafigi-bir-yilda-yuzde-71-artti--213245",
+          "link": "https://www.donanimhaber.com/nvidia-jensen-huang-i-yeniden-ceo-olarak-atadi--213279",
+          "also_in": [
+            "Teknolojioku",
+            "Haber",
+            "Haber Global",
+            "İstiklal",
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Jensen Huang döndü, Nvidia hisseleri fırladı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/nvidia-abd-icin-her-sey--213289",
           "also_in": [
             "Teknolojioku"
           ]
         },
         {
-          "title": "Yapay zeka sıfırdan işlemci tasarladı: 4,6 kat daha verimli!",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/yapay-zeka-sifirdan-islemci-tasarladi-4-6-kat-daha-verimli--213199",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "Yapay zeka devinden devrimsel adım: OpenAI kendi akıllı telefonunu üretiyor",
+          "title": "Nvidia'da şok geri dönüş: Jensen Huang koltuğuna oturdu, piyasalar bayram etti",
           "source": "Megabayt",
-          "link": "https://www.megabayt.com/teknoloji/yapay-zeka-devinden-devrimsel-adim-openai-kendi-akilli-telefonunu-uretiyor/104400",
+          "link": "https://www.megabayt.com/teknoloji/nvidiada-sok-geri-donus-jensen-huang-koltuguna-oturdu-piyasalar-bayram-etti/104421",
           "also_in": [
             "Megabayt Teknoloji"
           ]
         },
         {
-          "title": "Yapay Zekâ Kodlama Ajanı Şifre Sızdırdı: Together AI Müşteri İstemleri Çalındı",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/yapay-zeka-kodlama-ajani-sifre-sizdirdi-together-ai-musteri-istemleri-calindi/",
-          "also_in": []
+          "title": "Nvidia'da şok gelişme: Casusluk iddialarıyla istifa eden Jensen Huang koltuğuna geri döndü",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/nvidiada-sok-gelisme-casusluk-iddialariyla-istifa-eden-jensen-huang-koltuguna-geri-dondu/104418",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
         },
         {
-          "title": "Yapay Zekâ Ajanları Alışverişe Başladı: Stripe’ta Ajan Harcaması 80 Kat Arttı",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/yapay-zeka-ajanlari-alisverise-basladi-stripeta-ajan-harcamasi-80-kat-artti/",
-          "also_in": []
+          "title": "Jensen Huang, Nvidia CEO'luğuna geri döndü",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/jensen-huang-nvidia-ceo-geri-dondu",
+          "also_in": [
+            "Webrazzi"
+          ]
         }
       ]
     },
     {
-      "title": "Fon Soruşturması ve HGS İcra Soruşturması",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Adalet Bakanlığı'nın başlattığı fon soruşturmasında şirketlere kayyum atanması ve HGS icra takiplerindeki usulsüzlüklere yönelik soruşturma ekonomi gündeminin merkezinde.",
+      "title": "Hürmüz Boğazı'nda Gerilim",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hürmüz Boğazı'nda petrol tankerlerinde meydana gelen patlamalar ve düşürülen İHA'lar bölgedeki tansiyonu yükseltti.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "HGS icra takiplerine yönelik soruşturma başlatıldı",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/hgs-icra-takiplerine-yonelik-sorusturma-baslatildi/368865/",
+          "title": "İran Devrim Muhafızları duyurdu: Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/iran-devrim-muhafizlari-duyurdu-hurmuz-bogazinda-3-petrol-tankerinde-patlama-meydana-geldi/haber-1716822",
           "also_in": [
-            "BHA",
-            "Döviz"
+            "Star"
           ]
         },
         {
-          "title": "Bakan Gürlek duyurdu: HGS icra takiplerine soruşturma başlatıldı",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6010692/bakan-gurlek-duyurdu-hgs-icra-takiplerine-sorusturma-baslatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "title": "İran: Hürmüz Boğazı’nda ABD'ye ait ‘LUCAS’ tipi İHA düşürüldü",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/iran-hurmuz-bogazinda-abdye-ait-lucas-tipi-iha-dusuruldu-3497129",
           "also_in": [
-            "Yeni Akit"
+            "Cumhuriyet"
           ]
         },
         {
-          "title": "Bakan Gürlek'ten fon soruşturması açıklaması! 44,58 milyar TL geri alındı",
-          "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/akin-gurlek-fon-sorusturmasi-aciklamasi-p383495",
+          "title": "İran ordusu: Hürmüz Boğazı’nın doğusunda ABD'ye ait LUCAS tipi İHA düşürüldü",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/iran-ordusu-hurmuz-bogazinin-dogusunda-abdye-ait-lucas-tipi-iha-dusuruldu",
           "also_in": [
-            "Sözcü Gündem"
+            "Bengütürk"
           ]
         },
         {
-          "title": "Bakan Gürlek duyurdu! Fon soruşturmasında 91 şirkete kayyum atandı",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/22/bakan-gurlek-duyurdu-fon-sorusturmasinda-91-sirkete-kayyum-atandi",
-          "also_in": []
+          "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/hurmuz-bogazinda-3-petrol-tankerinde-patlama",
+          "also_in": [
+            "TRT Haber"
+          ]
         },
         {
-          "title": "Fon soruşturmasında yeni bilanço: 44,58 milyar TL geri alındı",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/fon-sorusturmasinda-yeni-bilanco-4458-milyar-tl-geri-alindi-h42356",
+          "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-3-petrol-tankerinde-patlama-meydana-geldi/4134992",
           "also_in": []
         }
       ]
     },
     {
-      "title": "COP31 İklim Zirvesi ve Uzlaşı Krizi",
-      "meta_category": "Doğa, Çevre ve İklim",
-      "summary": "Antalya'da düzenlenen COP31 iklim zirvesi, ülkeler arasındaki fikir ayrılıkları ve uzlaşı sağlanamaması nedeniyle eleştirilerle sona erdi.",
+      "title": "Yeniden Değerleme Oranı ve Ekonomik Gündem",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "2026 yılı için belirlenen yüzde 27,83'lük yeniden değerleme oranı vergi ve harçlara yansıyacakken, piyasalardaki likidite açığı dikkat çekiyor.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "COP31 tarihin en uzun iklim zirvesi olarak sona erdi: Bakan Kurum’dan uzlaşı sağlanamamasına eleştiri",
-          "source": "dikGAZETE",
-          "link": "https://www.dikgazete.com/haber/cop31-tarihin-en-uzun-iklim-zirvesi-olarak-sona-erdi-bakan-kurum-dan-uzlasi-saglanamamasina-elestiri-1035725.html",
-          "also_in": [
-            "İşin Detayı"
-          ]
-        },
-        {
-          "title": "Bakan Kurum’dan COP31 sürecine katkı sunanlara teşekkür",
-          "source": "Elips Haber",
-          "link": "https://www.elipshaber.com/bakan-kurumdan-cop31-surecine-katki-sunanlara-tesekkur",
-          "also_in": [
-            "Hürriyet"
-          ]
-        },
-        {
-          "title": "COP31 Başkanı Kurum: Bazı ülkeler sürecin ilerlemesine engel oldu",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/cop31-baskani-kurum-bazi-ulkeler-surecin-ilerlemesine-engel-oldu/368864/",
-          "also_in": [
-            "BHA"
-          ]
-        },
-        {
-          "title": "COP31'de uzlaşı çıkmadı: Murat Kurum son noktayı koydu",
+          "title": "Yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
           "source": "Sözcü",
-          "link": "https://www.sozcu.com.tr/cop31-de-uzlasi-cikmadi-murat-kurum-son-noktayi-koydu-p383523",
+          "link": "https://www.sozcu.com.tr/yeniden-degerleme-orani-2026-p383851",
           "also_in": [
-            "Sözcü Gündem"
+            "Bloomberg HT",
+            "Yeniçağ Gazetesi",
+            "Sözcü Ekonomi"
           ]
         },
         {
-          "title": "Kurum’dan COP31 teşekkürü: Ortak evimiz dünya için çözüm aramaktan vazgeçmeyeceğiz",
-          "source": "Savunma Sanayi Gazetesi",
-          "link": "https://savunmasanayigazetesi.com.tr/kurumdan-cop31-tesekkuru-ortak-evimiz-dunya-icin-cozum-aramaktan-vazgecmeyecegiz/348853/",
+          "title": "Resmi Gazete'de yayımlandı: Yeniden değerleme oranı belli oldu",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/resmi-gazete-de-yayimlandi-yeniden-degerleme-orani-belli-oldu-33525",
+          "also_in": [
+            "İstiklal",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "2026 yılı yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
+          "source": "Haberler",
+          "link": "https://www.sondakika.com/haber/haber-2026-yili-yeniden-degerleme-orani-yuzde-2783-20455557/",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "Yeniden Değerleme Oranı Resmi Gazete'de Yayımlandı! 2027 Vergi ve Cezaları Değişiyor!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/turkiye/yeniden-degerleme-orani-resmi-gazetede-yayimlandi-2027-vergi-ve-cezalari-degisiyo-878214",
+          "also_in": []
+        },
+        {
+          "title": "Resmi Gazete'de bugün (24.11.2026)",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-24112026-3795499",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Süper Lig'de Derbi ve Maç Sonuçları",
+      "title": "Savunma Sanayii Başarıları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ASELSAN GÖKDENİZ ve STM ALKAN gibi yerli savunma sistemleri, başarılı test atışları ve envantere girişleriyle öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ORKA torpidosu Bayraktar AKINCI ile ilk kez havadan bırakıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/orka-torpidosu-bayraktar-akinci-ile-ilk-kez-havadan-birakildi--213275",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "Denizlerin yeni koruyucusu: ASELSAN GÖKDENİZ sahada rüştünü ispatladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/denizlerin-yeni-koruyucusu-aselsan-gokdeniz-sahada-rustunu-ispatladi/104411",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ASELSAN'ın GÖKDENİZ'i testi geçti: Karadeniz'de hedefleri tek tek vurdu",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/aselsanin-gokdenizi-testi-gecti-karadenizde-hedefleri-tek-tek-vurdu/",
+          "also_in": []
+        },
+        {
+          "title": "STM ALKAN FPV Envantere Girdi, Fiber Optikle Karıştırmaya Dayanıklı",
+          "source": "C4 Defence",
+          "link": "https://www.c4defence.com/tr/stm-alkan-fpv/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN GÖKDENİZ, İHA Tehditlerine Karşı Gerçek Atışlı Testi Başarıyla Tamamladı",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/aselsan-gokdeniz-iha-tehditlerine-karsi-gercek-atisli-testi-basariyla-tamamladi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İstanbul'da Olumsuz Hava Koşulları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul'da lodos ve yoğun sağanak yağış hava ulaşımını aksatırken, trafik yoğunluğu ve kaza haberlerini beraberinde getirdi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İstanbul'da hava ulaşımına 'Kümülonimbus' bulutu engeli",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/istanbulda-hava-ulasimina-kumulonimbus-bulutu-engeli-3497125",
+          "also_in": [
+            "Cumhuriyet",
+            "Haber 7",
+            "Hürriyet",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İstanbul'da hava ulaşımına \"Kümülonimbus\" engeli",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/istanbul-da-hava-ulasimina-kumulonimbus-engeli-3929542",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Önce lodos, ardından sağanak! Birçok kentte hayat durma noktasına geldi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/once-lodos-ardindan-saganak-bircok-kentte-hayat-durma-noktasina-geldi-p383835",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İstanbul'da lodos alarmı! Ağaçlar araçların üzerine devrildi, seferler iptal edildi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/turkiye/istanbulda-lodos-alarmi-agaclar-araclarin-uzerine-devrildi-seferler-iptal-edildi-878188",
+          "also_in": []
+        },
+        {
+          "title": "İstanbul Valiliğinden soğuk hava uyarısı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/istanbul-valiliginden-soguk-hava-uyarisi/4134809",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Dünyası ve Oyun Sektörü",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın piyasaya çıkışı, oyun dünyasında satış rekorları ve teknik tartışmalarla geniş bir yankı uyandırdı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6 PS5 ve Xbox'ta ilk güncellemesini aldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-1-002-002-guncellemesi-yayinlandi--213288",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "GTA 6 sızıntısı büyüyor: Mod geliştiricileri PC için tarih verdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi--213263",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Oyun dünyasında yeni dönem: GTA 6 satışlarıyla sinema devlerini gölgede bıraktı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/oyun-dunyasinda-yeni-donem-gta-6-satislariyla-sinema-devlerini-golgede-birakti/104422",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6'da Kasa ve Kapı Şifreleri: Tüm Kodlar ve Bulunma Yöntemleri",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6da-kasa-ve-kapi-sifreleri-tum-kodlar-ve-bulunma-yontemleri/104419",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6'nın çıkışına haksız fesih davasının gölgesi düştü",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/gta-6nin-cikisina-haksiz-fesih-davasinin-golgesi-dustu_185524.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Galatasaray'ın Aston Villa Hazırlıkları",
       "meta_category": "Spor",
-      "summary": "Beşiktaş'ın Fenerbahçe'yi mağlup ettiği basketbol derbisi ve Süper Lig'deki hafta sonu mücadeleleri spor kamuoyunun ana gündemini oluşturdu.",
-      "importance": 8,
+      "summary": "Galatasaray, Aston Villa ile oynayacağı kritik maçın hazırlıklarını tamamlarken, teknik heyet ve oyuncuların açıklamaları gündem oldu.",
+      "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Nefesleri kesen derbide kazanan Beşiktaş Fuzul",
-          "source": "Basket Dergisi",
-          "link": "https://basketdergisi.com/nefesleri-kesen-derbide-kazanan-besiktas-fuzul.html",
-          "also_in": []
+          "title": "Galatasaray’da Aston Villa maçı sonrası zemin planı",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/futbol/2026/11/23/galatasarayda-aston-villa-maci-sonrasi-zemin-plani",
+          "also_in": [
+            "Haberler"
+          ]
         },
         {
-          "title": "Beşiktaş Fuzul dev derbide Fenerbahçe Tarfin'i mağlup etti! İşte maçın özeti",
+          "title": "Galatasaray'dan Aston Villa maçı öncesi flaş paylaşım! 'Şehre yeni bir Aslan iner'",
           "source": "A Spor",
-          "link": "https://www.aspor.com.tr/basketbol/2026/11/22/besiktas-fuzul-dev-derbide-fenerbahce-tarfini-maglup-etti",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/23/galatasaraydan-aston-villa-maci-oncesi-flas-paylasim-sehre-yeni-bir-aslan-iner",
           "also_in": []
         },
         {
-          "title": "Basketbol Derbisinde Beşiktaş, Fenerbahçe'yi 92-88 devirdi!",
-          "source": "Haber 3",
-          "link": "https://www.haber3.com/spor/basketbol/basketbol-derbisinde-besiktas-fenerbahceyi-92-88-devirdi-haberi-6269710",
-          "also_in": [
-            "Haber 3"
-          ]
+          "title": "Galatasaray, Aston Villa maçının hazırlıklarını tamamladı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/23/galatasaray-aston-villa-macinin-hazirliklarini-tamamladi",
+          "also_in": []
         },
         {
-          "title": "Beşiktaş derbide Fenerbahçe'yi 92-88 yendi: Tucker'ın çabası yetmedi, Wilbekin fişi çekti",
-          "source": "İşçi Haber",
-          "link": "https://www.iscihaber.net/spor/besiktas-derbide-fenerbahceyi-92-88-yendi-tuckerin-cabasi-yetmedi-wilbekin-fisi-cekti/284472",
-          "also_in": [
-            "Yeniçağ Gazetesi"
-          ]
+          "title": "Galatasaray'a Ismail Jakobs müjdesi! Aston Villa maçı öncesi...",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/23/galatasaraya-ismail-jakobs-mujdesi-aston-villa-maci-oncesi",
+          "also_in": []
         },
         {
-          "title": "Nefes kesen derbide kazanan Beşiktaş",
+          "title": "Galatasaray'ın Aston Villa maçı 11'i netleşiyor!",
           "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/spor/nefes-kesen-derbide-kazanan-besiktas-1831037",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/galatasarayin-aston-villa-maci-11i-netlesiyor-osimhen-1831280",
           "also_in": [
             "Türkiye Gazetesi"
           ]
@@ -253,210 +399,161 @@
       ]
     },
     {
-      "title": "Siyasi Gündem ve Fezlekeler",
+      "title": "Fon Soruşturmasında Tutuklama Talepleri",
       "meta_category": "Politika ve Diplomasi",
-      "summary": "Mustafa Sarıgül hakkındaki fezleke detayları ve yaklaşan kabine toplantısı öncesi siyasi kulisler hareketlendi.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Mustafa Sarıgül hakkında hazırlanan fezlekenin detayları ortaya çıktı",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/gundem/mustafa-sarigul-hakkinda-hazirlanan-fezlekenin-detaylari-ortaya-cikti-289894h",
-          "also_in": [
-            "Ekonomim",
-            "Haber 7",
-            "İstiklal",
-            "Sputnik"
-          ]
-        },
-        {
-          "title": "Kabine yarın toplanıyor",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/video/turkiye/kabine-yarin-toplaniyor-3496653",
-          "also_in": [
-            "Habertürk"
-          ]
-        },
-        {
-          "title": "Mustafa Sarıgül'ün dokunulmazlığının kaldırılması istendi! Fezlekede 5 ayrı suçlama",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/22/mustafa-sarigul-hakkinda-fezleke-hazirlandi-5-ayri-suclama",
-          "also_in": []
-        },
-        {
-          "title": "Mustafa Sarıgül’den hakkındaki fezlekeye tepki: “Beni suçlu ilan edenler haysiyet celladıdır”",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/mustafa-sarigulden-hakkindaki-fezlekeye-tepki-beni-suclu-ilan-edenler-haysiyet-cel-878078",
-          "also_in": []
-        },
-        {
-          "title": "Kabine yarın toplanıyor: İşte öne çıkan başlıklar",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/kabine-yarin-toplaniyor-iste-one-cikan-basliklar/955636",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kışın İlk Etkileri ve Meteorolojik Uyarılar",
-      "meta_category": "Toplum ve Yaşam",
-      "summary": "Türkiye genelinde etkili olan kar yağışı, fırtına ve soğuk hava dalgası; ulaşımı aksatırken bazı illerde eğitime ara verilmesine neden oldu.",
+      "summary": "Yüksek profilli fon soruşturmasında gözaltına alınan şüpheliler için tutuklama talebiyle mahkemeye sevk süreci devam ediyor.",
       "importance": 7,
       "story_count": 5,
       "stories": [
         {
-          "title": "Van’ın 3 ilçesinde eğitime kar engeli",
+          "title": "Fon soruşturmasında 4 şüpheliye tutuklama talebi",
           "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/turkiye/vanin-3-ilcesinde-egitime-kar-engeli-3496677",
+          "link": "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-3497157",
           "also_in": [
             "Cumhuriyet",
+            "Elips Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "\"Fon soruşturması\"nda gözaltına alınan 4 şüpheliye tutuklama talebi",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gozaltina-alinan-4-supheliye-tutuklama-talebi-43388582",
+          "also_in": [
             "NTV"
           ]
         },
         {
-          "title": "Van kent merkezi, kar yağışı ile beyaza büründü",
-          "source": "En Son Haber",
-          "link": "https://www.ensonhaber.com/van-kent-merkezi-kar-yagisi-ile-beyaza-burundu-h1584797",
+          "title": "Fon soruşturmasında 4 şüpheliye tutuklama istemi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-4-supheliye-tutuklama-istemi-p383840",
           "also_in": [
-            "GZT",
-            "İşçi Haber"
+            "Sözcü Gündem"
           ]
         },
         {
-          "title": "Meteoroloji'den İstanbul için 'saatli' uyarı: Fırtına ve kuvvetli yağış geliyor!",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-den-istanbul-icin-saatli-uyari-firtina-ve-kuvvetli-yagis-geliyor-2558362",
-          "also_in": [
-            "Haber Global"
-          ]
+          "title": "Fon Soruşturmasında 4 Şüpheliye Tutuklama Talebi! 7 Kişi Gözaltına Alınmıştı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-7-kisi-gozaltina-alinmisti-878218",
+          "also_in": []
         },
         {
-          "title": "Van'ın 4 ilçesinde eğitime kar engeli",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/gundem/van-in-4-ilcesinde-egitime-kar-engeli-3929278",
-          "also_in": [
-            "TRT Haber"
-          ]
-        },
-        {
-          "title": "Van'ın 4 ilçesinde kar yağışı nedeniyle eğitime yarın ara verildi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/gundem/vanin-4-ilcesinde-kar-yagisi-nedeniyle-egitime-yarin-ara-verildi/4133858",
+          "title": "Fon krizinde yeni iddia! Azmi Karamahmutoğlu: “Kayıp paranın sadece yüzde 18'i ödendi”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-krizinde-yeni-iddia-azmi-karamahmutoglu-kayip-paranin-sadece-yuzde-18i-odendi-878186",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Dünya Siyaseti ve Gerilim Hattı",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Trump'ın İran'a yönelik yeni tehditleri, Orta Doğu'daki çatışmalar ve küresel jeopolitik riskler diplomatik atmosferi geriyor.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Trump, İran'a yönelik saldırıların yeni yıldan sonra yeniden başlayabileceği uyarısında bulundu",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/trump-irana-yonelik-saldirilarin-yeni-yildan-sonra-yeniden-baslayabilecegi-uyarisinda-bulundu/4133806",
-          "also_in": [
-            "Bengütürk",
-            "GZT"
-          ]
-        },
-        {
-          "title": "Trump'tan yılbaşından sonra İran'a yeni saldırı tehdidi",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-yilbasindan-sonra-iran-a-yeni-saldiri-tehdidi-2558437",
-          "also_in": [
-            "dikGAZETE"
-          ]
-        },
-        {
-          "title": "Netanyahu’dan Trump’a İran baskısı! Yeni saldırı için harekete geçtiği iddia edildi",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/gundem/netanyahudan-trumpa-iran-baskisi-yeni-saldiri-icin-harekete-gectigi-iddia-edildi-878104",
-          "also_in": []
-        },
-        {
-          "title": "Trump’tan İran’a yeni saldırı tehdidi: 1 Ocak 2027 sonrasını işaret etti",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/dunya/trumptan-irana-yeni-saldiri-tehdidi-1-ocak-2027-sonrasini-isaret-etti-878079",
-          "also_in": []
-        },
-        {
-          "title": "Netanyahu’nun Trump'ı \"en kısa sürede\" İran'a yeni saldırı başlatması için ikna etmeye çalıştığı bildirildi",
-          "source": "Anadolu Ajansı",
-          "link": "https://www.aa.com.tr/tr/dunya/netanyahu-nun-trumpi-en-kisa-surede-irana-yeni-saldiri-baslatmasi-icin-ikna-etmeye-calistigi-bildirildi/4133887",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "GTA 6 Sızıntıları ve Oyun Dünyası",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "GTA 6 hakkındaki sızıntılar, teknik detaylar ve oyuncuların oyuna yönelik yoğun ilgisi oyun basınının en çok konuşulan başlığı oldu.",
+      "title": "Sarıyer'deki 'Aslan' İhbarı ve Gerçekler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul Sarıyer'de aslan görüldüğü iddiasıyla başlayan arama çalışmaları, ihbarın asılsız olduğunun anlaşılmasıyla son buldu.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Müstehcen GTA 6 görüntüleri paylaşanlara ban cezası!",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/mustehcen-gta-6-goruntuleri-paylasanlara-ban-cezasi--213243",
+          "title": "İstanbul Valiliği'nden açıkladı: Görüntülerdeki hayvan aslan değil",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/istanbul-valiliginden-acikladi-goruntulerdeki-hayvan-aslan-degil",
           "also_in": [
-            "Teknolojioku"
+            "Sözcü",
+            "Sözcü Gündem"
           ]
         },
         {
-          "title": "GTA 6'daki NPC'ler oyuncuların kabusu oldu: Adeta terminatör gibiler",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/gta-6-daki-npc-ler-oyuncularin-kabusu-oldu-terminator-gibiler--213242",
-          "also_in": []
+          "title": "SON DAKİKA! İstanbul Valiliği'nden aslan açıklaması",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/son-dakika-istanbul-valiliginden-aslan-aciklamasi-h1585074",
+          "also_in": [
+            "Hürriyet"
+          ]
         },
         {
-          "title": "GTA 6 Sızıntısında Yeni Aşama: CyberLeek, Çalıştırılabilir Dosyayı Pazartesi Yayımlayacağını Söyledi",
-          "source": "Dijitaliyidir",
-          "link": "https://dijitaliyidir.com/gta-6-sizintisinda-yeni-asama-cyberleek-calistirilabilir-dosyayi-pazartesi-yayimlayacagini-soyledi/",
-          "also_in": []
+          "title": "Sarıyer'deki firari aslan vakasında Abdülkerim Bardakçı'dan ilginç açıklama: ''Bir aslanım var!''",
+          "source": "Haber 3",
+          "link": "https://www.haber3.com/video-galeri/haber/sariyerdeki-firari-aslan-vakasinda-abdulkerim-bardakcidan-ilginc-aciklama-bir-aslanim-var-video-6269774",
+          "also_in": [
+            "Haber 3"
+          ]
         },
         {
-          "title": "GTA 6, Comcast’in Tarihindeki En Yoğun İnternet Gününe Yol Açtı",
-          "source": "Atarita",
-          "link": "https://www.atarita.com/gta-6-internet-trafigi-comcast/",
-          "also_in": []
+          "title": "İstanbul Valiliği'nden yeni açıklama: \"Bölgede aslan bulunduğuna dair somut bir bulguya rastlanmadı\"",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/gundem/istanbul-valiliginden-yeni-aciklama-bolgede-aslan-bulunduguna-dair-somut-bir-bulguya-rastlanmadi/284793",
+          "also_in": [
+            "Sputnik"
+          ]
         },
         {
-          "title": "GTA 6 Oynarken PlayStation 5'i Fazla Zorlamayın Çünkü Yanıyor (Video)",
-          "source": "Merlin'in Kazanı",
-          "link": "https://www.merlininkazani.com/gta-6-oynarken-playstation-5i-fazla-zorlamayin-yaniyor-teknoloji-264525",
+          "title": "İstanbul'daki Aslan Alarmında Gerçek Ortaya Çıktı! Valilik Son Noktayı Koydu!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/yasam/istanbuldaki-aslan-alarminda-gercek-ortaya-cikti-valilik-son-noktayi-koydu-878198",
           "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Erzurum'da Deprem",
+      "meta_category": "Diğer",
+      "summary": "Erzurum'un Çat ilçesinde meydana gelen 3,9 büyüklüğündeki deprem kısa süreli panik yarattı.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Erzurum'da 3,9 büyüklüğünde deprem!",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/erzurumda-39-buyuklugunde-deprem",
+          "also_in": [
+            "Gerçek Gündem",
+            "İstiklal",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Son dakika: Erzurum'da korkutan deprem",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/son-dakika-erzurumda-korkutan-deprem-haberi-848625",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Erzurum'un Çat ilçesinde 3,9 büyüklüğünde deprem",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/yerel-haberler/erzurumun-cat-ilcesinde-39-buyuklugunde-deprem-7001069",
+          "also_in": [
+            "Sputnik"
+          ]
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Weeping Woman",
-    "artist": "Pablo Picasso",
-    "year": "1937",
+    "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+    "artist": "Georges Seurat",
+    "year": "1884–1886",
     "form": "resim",
     "medium": "Oil on canvas",
-    "location": "Tate Modern",
-    "description": "Siyasi fezlekeler ve toplumsal bölünmelerin yarattığı huzursuzluğu simgeliyor. Keskin çizgiler ve parçalanmış yüz hatları, bugünün belirsiz ve gergin ruh halini mükemmel bir şekilde özetliyor.",
+    "location": "Art Institute of Chicago",
+    "description": "Noktaların birleşerek bir bütün oluşturması, Nvidia'nın piyasa hakimiyeti ve ekonomik verilerin oluşturduğu devasa veri yığınlarını anımsatıyor. Uzaktan düzenli görünen bu tablo, yakından bakıldığında parçalı ve huzursuz bir yapı arz ederek modern dünyanın karmaşasını özetliyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Weeping_Woman",
-    "wikipedia_extract": "The Weeping Woman is a series of oil on canvas paintings by Pablo Picasso, the last of which was created in late 1937. The paintings depict Dora Maar, Picasso's mistress and muse. The Weeping Woman paintings were produced by Picasso in response to the bombing of Guernica in the Spanish Civil War and are closely associated with the iconography in his painting Guernica.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/en/1/14/Picasso_The_Weeping_Woman_Tate_identifier_T05010_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Pablo_Picasso"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+    "wikipedia_extract": "A Sunday Afternoon on the Island of La Grande Jatte was painted from 1884 to 1886 and is Georges Seurat's most famous work. It is recognised as a leading example of pointillist technique and as a founding work of the neo-impressionist movement.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/3840px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Seurat"
   },
   "music": {
-    "title": "Retrograde",
-    "artists": "James Blake",
-    "album": "Overgrown",
-    "duration": "3:43",
-    "spotify_url": "https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84",
-    "spotify_id": "2IqjKEBiz0CdLKdkXhxw84",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273d134dbb0fad78dda23d777ff",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2IqjKEBiz0CdLKdkXhxw84\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Wait",
+    "artists": "M83",
+    "album": "Hurry up, We're Dreaming",
+    "duration": "5:43",
+    "spotify_url": "https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP",
+    "spotify_id": "01Q3OyB05mLgH01fpdAMPP",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/01Q3OyB05mLgH01fpdAMPP\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Dışarıda kışın ilk sert nefesiyle sarsılan coğrafyamız, iklim krizinin belirsizliği ve yapay zekanın baş döndürücü hızıyla birleşerek hepimizi tekinsiz bir geçiş döneminin eşiğine bırakıyor. Picasso’nun hıçkırıkları Dora Maar’ın yüzünde kristalize eden The Weeping Woman tablosu, tam da bu kaosun ortasında, değişen dünyanın yarattığı o derin kederi ve parçalanmışlığı temsil ediyor. James Blake’in Retrograde parçası, dijital çağın soğuk yankılarını taşıyan hipnotik ritmiyle bu tabloyu adeta bir modern zaman ağıtına dönüştürüyor. Belirsizliğin gölgesinde, hem iklimin hem de teknolojinin üzerimizdeki ağırlığını hissederken, sanatın ve müziğin bu sarsıcı buluşması ruhumuza bir ayna tutuyor. İnsan olmanın sancılı dönüşümünü, teknolojinin dijital soğukluğu ile tarihin tozlu acıları arasında bir yerde, sessizce yeniden tanımlıyoruz."
+  "curator_statement": "Teknolojik devrimlerin yarattığı parlak dijital vaatler ile ekonomik daralmanın soğuk gölgesi arasında, tıpkı Sarıyer sokaklarında dolaşan sahte aslan efsanesi gibi gerçeğin bulanıklaştığı tuhaf bir geçiş döneminden geçiyoruz. Georges Seurat’nın noktalarla inşa ettiği o dingin pazar günü tablosu, bugün bize sadece bir huzur anını değil, her bir noktanın tek başına anlamsızlaşabildiği kırılgan bir bütünün parçalanmışlığını hatırlatıyor. M83’ün Wait parçası bu görsel kompozisyona eşlik ederken, müziğin epik ve melankolik tınısı, doğanın öfkesiyle sarsılan dünyamızda belirsizliğin ortasında durup nefes almaya çalışan bizlerin iç sesine dönüşüyor. Tıpkı puantilist fırça darbelerinin uzaktan bakıldığında kusursuz bir manzara sunması gibi, biz de kaotik haber akışları ve ekonomik endişeler arasında kendi anlam bütünlüğümüzü yeniden kurmaya çalışıyoruz. Bu eser ve melodi, belirsizliğin yarattığı o yoğun boşlukta, umudun ancak parçaların birleştiği o titrek noktada saklı olduğunu fısıldıyor."
 }

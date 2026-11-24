@@ -1,0 +1,559 @@
+{
+  "date": "2026-11-24",
+  "date_human": "24 November 2026",
+  "generated_at": "2026-11-24T01:31:06.028355+00:00",
+  "stats": {
+    "feeds_collected": 289,
+    "news_total": 4763,
+    "news_analyzed": 604,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Yapay zeka devriminin yarattığı teknolojik heyecanın, ekonomik belirsizlikler ve doğa olaylarının getirdiği tedirginlik ile harmanlandığı, yoğun bir geçiş dönemi atmosferi hakim.",
+    "dominant_emotion": "Belirsizlik",
+    "key_themes": [
+      "Jensen Huang'ın Nvidia'ya dönüşü ve teknoloji piyasalarındaki yansımaları",
+      "Yeniden değerleme oranı ve ekonomik daralma sinyalleri",
+      "İklim değişikliği ve doğal afetlerin hayat üzerindeki etkisi",
+      "Sarıyer'deki 'aslan' vakası ve sosyal medya dezenformasyonu"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-24",
+        "code": 2,
+        "temp_max": 17.9,
+        "temp_min": 5.0
+      },
+      {
+        "date": "2026-11-25",
+        "code": 0,
+        "temp_max": 14.7,
+        "temp_min": 3.0
+      },
+      {
+        "date": "2026-11-26",
+        "code": 3,
+        "temp_max": 17.3,
+        "temp_min": 4.1
+      },
+      {
+        "date": "2026-11-27",
+        "code": 3,
+        "temp_max": 18.7,
+        "temp_min": 5.3
+      },
+      {
+        "date": "2026-11-28",
+        "code": 3,
+        "temp_max": 19.6,
+        "temp_min": 10.1
+      },
+      {
+        "date": "2026-11-29",
+        "code": 3,
+        "temp_max": 17.5,
+        "temp_min": 11.9
+      },
+      {
+        "date": "2026-11-30",
+        "code": 2,
+        "temp_max": 12.9,
+        "temp_min": 8.2
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Jensen Huang'ın Nvidia'ya Dönüşü",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Nvidia CEO'su Jensen Huang'ın görevine geri dönmesi, küresel borsalarda ve teknoloji piyasalarında büyük bir iyimserlik rüzgarı estirdi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Nvidia, Jensen Huang'ı yeniden CEO olarak atadı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/nvidia-jensen-huang-i-yeniden-ceo-olarak-atadi--213279",
+          "also_in": [
+            "Teknolojioku",
+            "Haber",
+            "Haber Global",
+            "İstiklal",
+            "Döviz"
+          ]
+        },
+        {
+          "title": "Jensen Huang döndü, Nvidia hisseleri fırladı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/nvidia-abd-icin-her-sey--213289",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Nvidia'da şok geri dönüş: Jensen Huang koltuğuna oturdu, piyasalar bayram etti",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/nvidiada-sok-geri-donus-jensen-huang-koltuguna-oturdu-piyasalar-bayram-etti/104421",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Nvidia'da şok gelişme: Casusluk iddialarıyla istifa eden Jensen Huang koltuğuna geri döndü",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/nvidiada-sok-gelisme-casusluk-iddialariyla-istifa-eden-jensen-huang-koltuguna-geri-dondu/104418",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Jensen Huang, Nvidia CEO'luğuna geri döndü",
+          "source": "ShiftDelete",
+          "link": "https://shiftdelete.net/jensen-huang-nvidia-ceo-geri-dondu",
+          "also_in": [
+            "Webrazzi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hürmüz Boğazı'nda Gerilim",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Hürmüz Boğazı'nda petrol tankerlerinde meydana gelen patlamalar ve düşürülen İHA'lar bölgedeki tansiyonu yükseltti.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İran Devrim Muhafızları duyurdu: Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/iran-devrim-muhafizlari-duyurdu-hurmuz-bogazinda-3-petrol-tankerinde-patlama-meydana-geldi/haber-1716822",
+          "also_in": [
+            "Star"
+          ]
+        },
+        {
+          "title": "İran: Hürmüz Boğazı’nda ABD'ye ait ‘LUCAS’ tipi İHA düşürüldü",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/iran-hurmuz-bogazinda-abdye-ait-lucas-tipi-iha-dusuruldu-3497129",
+          "also_in": [
+            "Cumhuriyet"
+          ]
+        },
+        {
+          "title": "İran ordusu: Hürmüz Boğazı’nın doğusunda ABD'ye ait LUCAS tipi İHA düşürüldü",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/iran-ordusu-hurmuz-bogazinin-dogusunda-abdye-ait-lucas-tipi-iha-dusuruldu",
+          "also_in": [
+            "Bengütürk"
+          ]
+        },
+        {
+          "title": "Hürmüz Boğazı'nda 3 petrol tankerinde patlama!",
+          "source": "Doğru Haber",
+          "link": "https://dogruhaber.com.tr/hurmuz-bogazinda-3-petrol-tankerinde-patlama",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 3 petrol tankerinde patlama meydana geldi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-3-petrol-tankerinde-patlama-meydana-geldi/4134992",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yeniden Değerleme Oranı ve Ekonomik Gündem",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "2026 yılı için belirlenen yüzde 27,83'lük yeniden değerleme oranı vergi ve harçlara yansıyacakken, piyasalardaki likidite açığı dikkat çekiyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/yeniden-degerleme-orani-2026-p383851",
+          "also_in": [
+            "Bloomberg HT",
+            "Yeniçağ Gazetesi",
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "Resmi Gazete'de yayımlandı: Yeniden değerleme oranı belli oldu",
+          "source": "Haber",
+          "link": "https://www.haber.com/ekonomi/resmi-gazete-de-yayimlandi-yeniden-degerleme-orani-belli-oldu-33525",
+          "also_in": [
+            "İstiklal",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "2026 yılı yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
+          "source": "Haberler",
+          "link": "https://www.sondakika.com/haber/haber-2026-yili-yeniden-degerleme-orani-yuzde-2783-20455557/",
+          "also_in": [
+            "Dokuz8 Haber"
+          ]
+        },
+        {
+          "title": "Yeniden Değerleme Oranı Resmi Gazete'de Yayımlandı! 2027 Vergi ve Cezaları Değişiyor!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/turkiye/yeniden-degerleme-orani-resmi-gazetede-yayimlandi-2027-vergi-ve-cezalari-degisiyo-878214",
+          "also_in": []
+        },
+        {
+          "title": "Resmi Gazete'de bugün (24.11.2026)",
+          "source": "Bloomberg HT",
+          "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-24112026-3795499",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayii Başarıları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ASELSAN GÖKDENİZ ve STM ALKAN gibi yerli savunma sistemleri, başarılı test atışları ve envantere girişleriyle öne çıktı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "ORKA torpidosu Bayraktar AKINCI ile ilk kez havadan bırakıldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/orka-torpidosu-bayraktar-akinci-ile-ilk-kez-havadan-birakildi--213275",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "Denizlerin yeni koruyucusu: ASELSAN GÖKDENİZ sahada rüştünü ispatladı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/denizlerin-yeni-koruyucusu-aselsan-gokdeniz-sahada-rustunu-ispatladi/104411",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "ASELSAN'ın GÖKDENİZ'i testi geçti: Karadeniz'de hedefleri tek tek vurdu",
+          "source": "Sanayi Gazetesi",
+          "link": "https://sanayigazetesi.com.tr/aselsanin-gokdenizi-testi-gecti-karadenizde-hedefleri-tek-tek-vurdu/",
+          "also_in": []
+        },
+        {
+          "title": "STM ALKAN FPV Envantere Girdi, Fiber Optikle Karıştırmaya Dayanıklı",
+          "source": "C4 Defence",
+          "link": "https://www.c4defence.com/tr/stm-alkan-fpv/",
+          "also_in": []
+        },
+        {
+          "title": "ASELSAN GÖKDENİZ, İHA Tehditlerine Karşı Gerçek Atışlı Testi Başarıyla Tamamladı",
+          "source": "SavunmaTR",
+          "link": "https://www.savunmatr.com/aselsan-gokdeniz-iha-tehditlerine-karsi-gercek-atisli-testi-basariyla-tamamladi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "İstanbul'da Olumsuz Hava Koşulları",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul'da lodos ve yoğun sağanak yağış hava ulaşımını aksatırken, trafik yoğunluğu ve kaza haberlerini beraberinde getirdi.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İstanbul'da hava ulaşımına 'Kümülonimbus' bulutu engeli",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/istanbulda-hava-ulasimina-kumulonimbus-bulutu-engeli-3497125",
+          "also_in": [
+            "Cumhuriyet",
+            "Haber 7",
+            "Hürriyet",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İstanbul'da hava ulaşımına \"Kümülonimbus\" engeli",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/gundem/istanbul-da-hava-ulasimina-kumulonimbus-engeli-3929542",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Önce lodos, ardından sağanak! Birçok kentte hayat durma noktasına geldi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/once-lodos-ardindan-saganak-bircok-kentte-hayat-durma-noktasina-geldi-p383835",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "İstanbul'da lodos alarmı! Ağaçlar araçların üzerine devrildi, seferler iptal edildi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/turkiye/istanbulda-lodos-alarmi-agaclar-araclarin-uzerine-devrildi-seferler-iptal-edildi-878188",
+          "also_in": []
+        },
+        {
+          "title": "İstanbul Valiliğinden soğuk hava uyarısı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/istanbul-valiliginden-soguk-hava-uyarisi/4134809",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Dünyası ve Oyun Sektörü",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın piyasaya çıkışı, oyun dünyasında satış rekorları ve teknik tartışmalarla geniş bir yankı uyandırdı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6 PS5 ve Xbox'ta ilk güncellemesini aldı",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-1-002-002-guncellemesi-yayinlandi--213288",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "GTA 6 sızıntısı büyüyor: Mod geliştiricileri PC için tarih verdi",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/gta-6-sizintisi-buyuyor-mod-gelistiricileri-pc-icin-tarih-verdi--213263",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "Oyun dünyasında yeni dönem: GTA 6 satışlarıyla sinema devlerini gölgede bıraktı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/oyun-dunyasinda-yeni-donem-gta-6-satislariyla-sinema-devlerini-golgede-birakti/104422",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6'da Kasa ve Kapı Şifreleri: Tüm Kodlar ve Bulunma Yöntemleri",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6da-kasa-ve-kapi-sifreleri-tum-kodlar-ve-bulunma-yontemleri/104419",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "GTA 6'nın çıkışına haksız fesih davasının gölgesi düştü",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/gta-6nin-cikisina-haksiz-fesih-davasinin-golgesi-dustu_185524.html",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Galatasaray'ın Aston Villa Hazırlıkları",
+      "meta_category": "Spor",
+      "summary": "Galatasaray, Aston Villa ile oynayacağı kritik maçın hazırlıklarını tamamlarken, teknik heyet ve oyuncuların açıklamaları gündem oldu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaray’da Aston Villa maçı sonrası zemin planı",
+          "source": "Sabah Spor",
+          "link": "https://www.sabah.com.tr/spor/futbol/2026/11/23/galatasarayda-aston-villa-maci-sonrasi-zemin-plani",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Galatasaray'dan Aston Villa maçı öncesi flaş paylaşım! 'Şehre yeni bir Aslan iner'",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/23/galatasaraydan-aston-villa-maci-oncesi-flas-paylasim-sehre-yeni-bir-aslan-iner",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray, Aston Villa maçının hazırlıklarını tamamladı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/23/galatasaray-aston-villa-macinin-hazirliklarini-tamamladi",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray'a Ismail Jakobs müjdesi! Aston Villa maçı öncesi...",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/23/galatasaraya-ismail-jakobs-mujdesi-aston-villa-maci-oncesi",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaray'ın Aston Villa maçı 11'i netleşiyor!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/spor/galatasarayin-aston-villa-maci-11i-netlesiyor-osimhen-1831280",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fon Soruşturmasında Tutuklama Talepleri",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Yüksek profilli fon soruşturmasında gözaltına alınan şüpheliler için tutuklama talebiyle mahkemeye sevk süreci devam ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fon soruşturmasında 4 şüpheliye tutuklama talebi",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-3497157",
+          "also_in": [
+            "Cumhuriyet",
+            "Elips Haber",
+            "İnternet Haber"
+          ]
+        },
+        {
+          "title": "\"Fon soruşturması\"nda gözaltına alınan 4 şüpheliye tutuklama talebi",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gozaltina-alinan-4-supheliye-tutuklama-talebi-43388582",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında 4 şüpheliye tutuklama istemi",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-4-supheliye-tutuklama-istemi-p383840",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Fon Soruşturmasında 4 Şüpheliye Tutuklama Talebi! 7 Kişi Gözaltına Alınmıştı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-7-kisi-gozaltina-alinmisti-878218",
+          "also_in": []
+        },
+        {
+          "title": "Fon krizinde yeni iddia! Azmi Karamahmutoğlu: “Kayıp paranın sadece yüzde 18'i ödendi”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-krizinde-yeni-iddia-azmi-karamahmutoglu-kayip-paranin-sadece-yuzde-18i-odendi-878186",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Sarıyer'deki 'Aslan' İhbarı ve Gerçekler",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul Sarıyer'de aslan görüldüğü iddiasıyla başlayan arama çalışmaları, ihbarın asılsız olduğunun anlaşılmasıyla son buldu.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "İstanbul Valiliği'nden açıkladı: Görüntülerdeki hayvan aslan değil",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/istanbul-valiliginden-acikladi-goruntulerdeki-hayvan-aslan-degil",
+          "also_in": [
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "SON DAKİKA! İstanbul Valiliği'nden aslan açıklaması",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/son-dakika-istanbul-valiliginden-aslan-aciklamasi-h1585074",
+          "also_in": [
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Sarıyer'deki firari aslan vakasında Abdülkerim Bardakçı'dan ilginç açıklama: ''Bir aslanım var!''",
+          "source": "Haber 3",
+          "link": "https://www.haber3.com/video-galeri/haber/sariyerdeki-firari-aslan-vakasinda-abdulkerim-bardakcidan-ilginc-aciklama-bir-aslanim-var-video-6269774",
+          "also_in": [
+            "Haber 3"
+          ]
+        },
+        {
+          "title": "İstanbul Valiliği'nden yeni açıklama: \"Bölgede aslan bulunduğuna dair somut bir bulguya rastlanmadı\"",
+          "source": "İşçi Haber",
+          "link": "https://www.iscihaber.net/gundem/istanbul-valiliginden-yeni-aciklama-bolgede-aslan-bulunduguna-dair-somut-bir-bulguya-rastlanmadi/284793",
+          "also_in": [
+            "Sputnik"
+          ]
+        },
+        {
+          "title": "İstanbul'daki Aslan Alarmında Gerçek Ortaya Çıktı! Valilik Son Noktayı Koydu!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/yasam/istanbuldaki-aslan-alarminda-gercek-ortaya-cikti-valilik-son-noktayi-koydu-878198",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Erzurum'da Deprem",
+      "meta_category": "Diğer",
+      "summary": "Erzurum'un Çat ilçesinde meydana gelen 3,9 büyüklüğündeki deprem kısa süreli panik yarattı.",
+      "importance": 5,
+      "story_count": 3,
+      "stories": [
+        {
+          "title": "Erzurum'da 3,9 büyüklüğünde deprem!",
+          "source": "Elips Haber",
+          "link": "https://www.elipshaber.com/erzurumda-39-buyuklugunde-deprem",
+          "also_in": [
+            "Gerçek Gündem",
+            "İstiklal",
+            "Sözcü",
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Son dakika: Erzurum'da korkutan deprem",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/gundem/son-dakika-erzurumda-korkutan-deprem-haberi-848625",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Erzurum'un Çat ilçesinde 3,9 büyüklüğünde deprem",
+          "source": "F5 Haber",
+          "link": "https://www.f5haber.com/yerel-haberler/erzurumun-cat-ilcesinde-39-buyuklugunde-deprem-7001069",
+          "also_in": [
+            "Sputnik"
+          ]
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+    "artist": "Georges Seurat",
+    "year": "1884–1886",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Art Institute of Chicago",
+    "description": "Noktaların birleşerek bir bütün oluşturması, Nvidia'nın piyasa hakimiyeti ve ekonomik verilerin oluşturduğu devasa veri yığınlarını anımsatıyor. Uzaktan düzenli görünen bu tablo, yakından bakıldığında parçalı ve huzursuz bir yapı arz ederek modern dünyanın karmaşasını özetliyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/A_Sunday_Afternoon_on_the_Island_of_La_Grande_Jatte",
+    "wikipedia_extract": "A Sunday Afternoon on the Island of La Grande Jatte was painted from 1884 to 1886 and is Georges Seurat's most famous work. It is recognised as a leading example of pointillist technique and as a founding work of the neo-impressionist movement.",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg/3840px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Seurat"
+  },
+  "music": {
+    "title": "Wait",
+    "artists": "M83",
+    "album": "Hurry up, We're Dreaming",
+    "duration": "5:43",
+    "spotify_url": "https://open.spotify.com/track/01Q3OyB05mLgH01fpdAMPP",
+    "spotify_id": "01Q3OyB05mLgH01fpdAMPP",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b27362100064780b1d919a95fcf4",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/01Q3OyB05mLgH01fpdAMPP\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Teknolojik devrimlerin yarattığı parlak dijital vaatler ile ekonomik daralmanın soğuk gölgesi arasında, tıpkı Sarıyer sokaklarında dolaşan sahte aslan efsanesi gibi gerçeğin bulanıklaştığı tuhaf bir geçiş döneminden geçiyoruz. Georges Seurat’nın noktalarla inşa ettiği o dingin pazar günü tablosu, bugün bize sadece bir huzur anını değil, her bir noktanın tek başına anlamsızlaşabildiği kırılgan bir bütünün parçalanmışlığını hatırlatıyor. M83’ün Wait parçası bu görsel kompozisyona eşlik ederken, müziğin epik ve melankolik tınısı, doğanın öfkesiyle sarsılan dünyamızda belirsizliğin ortasında durup nefes almaya çalışan bizlerin iç sesine dönüşüyor. Tıpkı puantilist fırça darbelerinin uzaktan bakıldığında kusursuz bir manzara sunması gibi, biz de kaotik haber akışları ve ekonomik endişeler arasında kendi anlam bütünlüğümüzü yeniden kurmaya çalışıyoruz. Bu eser ve melodi, belirsizliğin yarattığı o yoğun boşlukta, umudun ancak parçaların birleştiği o titrek noktada saklı olduğunu fısıldıyor."
+}
