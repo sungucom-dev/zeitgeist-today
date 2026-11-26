@@ -1,22 +1,22 @@
 {
-  "date": "2026-11-25",
-  "date_human": "25 November 2026",
-  "generated_at": "2026-11-25T01:31:28.456777+00:00",
+  "date": "2026-11-26",
+  "date_human": "26 November 2026",
+  "generated_at": "2026-11-26T01:31:00.297706+00:00",
   "stats": {
-    "feeds_collected": 289,
-    "news_total": 4984,
-    "news_analyzed": 610,
-    "clusters": 10
+    "feeds_collected": 288,
+    "news_total": 4993,
+    "news_analyzed": 626,
+    "clusters": 9
   },
   "mood": {
-    "description": "Türkiye, Eskişehir'deki helikopter kazasının yasını tutarken, futbol sahalarındaki başarılar ve teknoloji dünyasındaki hareketlilikle karışık, hüzünlü ama dinamik bir atmosfer yaşıyor.",
-    "dominant_emotion": "Yas",
+    "description": "26 Kasım 2026, hem büyük çaplı teknolojik atılımların ve savunma sanayi başarılarının heyecanını taşıyan hem de bölgesel doğal afetler ve ekonomik belirsizliklerin getirdiği tedirginlikle harmanlanmış bir gün. Toplum, bir yandan dijital devrimin hızına uyum sağlamaya çalışırken diğer yandan yargı reformları ve güvenlik odaklı gündemle meşgul.",
+    "dominant_emotion": "Belirsizlik",
     "key_themes": [
-      "Havacılık ve Askeri Kazalar",
-      "Spor Başarıları ve Avrupa Kupaları",
-      "Valiler Kararnamesi ve Siyasi Değişimler",
-      "Yapay Zeka ve Dijital Dönüşüm",
-      "Ekonomi ve Finansal Düzenlemeler"
+      "Dijital Devrim ve Yapay Zekâ Riskleri",
+      "Savunma Sanayiinde Yerlilik ve İhracat Başarısı",
+      "Küresel İklim ve Doğal Afetler",
+      "Ekonomik İstikrar Arayışı ve Piyasa Dalgalanmaları",
+      "Yargı ve Yönetimsel Reformlar"
     ]
   },
   "weather": {
@@ -25,143 +25,99 @@
     "longitude": 27.1287,
     "days": [
       {
-        "date": "2026-11-25",
-        "code": 0,
-        "temp_max": 14.5,
-        "temp_min": 3.2
-      },
-      {
         "date": "2026-11-26",
         "code": 3,
         "temp_max": 16.4,
-        "temp_min": 4.3
+        "temp_min": 3.2
       },
       {
         "date": "2026-11-27",
         "code": 3,
-        "temp_max": 18.8,
-        "temp_min": 5.6
+        "temp_max": 19.0,
+        "temp_min": 5.4
       },
       {
         "date": "2026-11-28",
         "code": 45,
-        "temp_max": 19.8,
-        "temp_min": 9.1
+        "temp_max": 18.9,
+        "temp_min": 9.0
       },
       {
         "date": "2026-11-29",
         "code": 3,
-        "temp_max": 19.9,
-        "temp_min": 12.5
+        "temp_max": 18.5,
+        "temp_min": 11.3
       },
       {
         "date": "2026-11-30",
         "code": 3,
-        "temp_max": 13.3,
-        "temp_min": 9.3
+        "temp_max": 13.5,
+        "temp_min": 8.8
       },
       {
         "date": "2026-12-01",
-        "code": 3,
-        "temp_max": 13.0,
-        "temp_min": 8.8
+        "code": 61,
+        "temp_max": 10.4,
+        "temp_min": 5.0
+      },
+      {
+        "date": "2026-12-02",
+        "code": 61,
+        "temp_max": 7.4,
+        "temp_min": 3.3
       }
     ]
   },
   "clusters": [
     {
-      "title": "Eskişehir'de Helikopter Kazası",
-      "meta_category": "Diğer",
-      "summary": "Eskişehir'de askeri helikopterin düşmesi sonucu 5 asker şehit oldu; ülke genelinde taziye mesajları yayımlandı.",
-      "importance": 10,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Eskişehir’de askeri helikopter düştü: 5 asker şehit oldu",
-          "source": "Cumhuriyet",
-          "link": "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-askeri-helikopter-dustu-arama-kurtarma-calismalari-basladi-2559072",
-          "also_in": [
-            "En Son Haber",
-            "Haber 7",
-            "İnternet Haber",
-            "NTV",
-            "Sözcü Gündem",
-            "Sözcü",
-            "Veryansın TV"
-          ]
-        },
-        {
-          "title": "Cumhurbaşkanı Erdoğan'dan, Eskişehir'de şehit olan 5 asker için taziye mesajı",
-          "source": "CNN Türk",
-          "link": "https://www.cnnturk.com/yerel-haberler/ankara/cumhurbaskani-erdogandan-eskisehirde-sehit-olan-5-asker-icin-taziye-mesaji-3497810",
-          "also_in": [
-            "Bengütürk",
-            "En Son Haber"
-          ]
-        },
-        {
-          "title": "Eskişehir'de askeri helikopter düştü",
-          "source": "Habertürk",
-          "link": "https://www.haberturk.com/gundem/son-dakika-haberi-eskisehir-de-askeri-helikopter-dustu-msb-acikladi-5-asker-sehit-oldu-3929841",
-          "also_in": [
-            "Karar",
-            "Ulusal Kanal"
-          ]
-        },
-        {
-          "title": "Eskişehir’de Hava Kuvvetleri Helikopteri Kırıma Uğradı",
-          "source": "SavunmaSanayiST",
-          "link": "https://www.savunmasanayist.com/eskisehirde-hava-kuvvetleri-helikopteri-kirima-ugradi/",
-          "also_in": []
-        },
-        {
-          "title": "Eskişehir Helikopter Kazası: 5 Asker Şehit Oldu",
-          "source": "Mavi Savunma",
-          "link": "https://www.mavisavunma.com/eskisehir-helikopter-kazasi-5-asker-sehit-oldu/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Galatasaray'ın Avrupa Zaferi",
-      "meta_category": "Spor",
-      "summary": "Galatasaray, Aston Villa'yı 1-0 mağlup ederek Avrupa'da önemli bir galibiyet aldı ve büyük yankı uyandırdı.",
+      "title": "Yargı ve Kamu Yönetiminde Büyük Değişim",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "HSK kararnamesiyle 957 hakim ve savcının görev yerinin değiştirilmesi ve 41 ilin valisinde yapılan değişiklikler, idari yapıda geniş kapsamlı bir revizyona işaret ediyor.",
       "importance": 9,
       "story_count": 5,
       "stories": [
         {
-          "title": "Galatasaray, Aston Villa'yı Deniz Gül ile devirdi",
-          "source": "NTV Spor Anasayfa",
-          "link": "https://www.ntvspor.net/futbol/galeri-galatasaray-aston-villayi-deniz-gul-ile-devirdi-433560",
+          "title": "957 hakim ve savcının görev yeri değişti",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/957-hakim-ve-savcinin-gorev-yeri-degisti/?utm_source=rss&utm_medium=rss&utm_campaign=957-hakim-ve-savcinin-gorev-yeri-degisti",
           "also_in": [
-            "NTV Spor Futbol",
-            "CGTN Türk"
+            "Habertürk",
+            "Hürriyet",
+            "Sputnik",
+            "TRT Haber"
           ]
         },
         {
-          "title": "Yabancı basından flaş manşet: Galatasaray, Emery'yi çileden çıkardı!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/11/24/yabanci-basindan-flas-manset-galatasaray-emeryyi-cileden-cikardi",
-          "also_in": []
-        },
-        {
-          "title": "Galatasaray'dan Aston Villa galibiyeti sonrası dikkat çeken paylaşım!",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/galatasaray/2026/11/24/galatasaraydan-aston-villa-galibiyeti-sonrasi-dikkat-ceken-paylasim",
-          "also_in": []
-        },
-        {
-          "title": "Galatasaray, Aston Villa'yı 1-0 mağlup etti",
-          "source": "Bengütürk",
-          "link": "https://www.benguturk.com/spor/galatasaray-aston-villayi-1-0-maglup-etti-290209h",
+          "title": "HSK kararnamesiyle 957 hakim ve savcının görev yeri değişti",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/hsk-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-p384401",
           "also_in": [
-            "Serbestiyet"
+            "Sözcü",
+            "Yeni Akit",
+            "Bloomberg HT"
           ]
         },
         {
-          "title": "Temsilcimiz Galatasaray Şampiyonlar Ligi’nde Aston Villa’yı mağlup etti",
+          "title": "HSK kararnamesi yayımlandı: 957 hakim ve savcının görev yeri değişti",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/hsk-mazeret-kararnamesi-2026-son-dakika-957-hakim-ve-savcinin-gorev-yeri-degisti-4283029",
+          "also_in": [
+            "İnternet Haber",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "HSK mazeret kararnamesini yayımladı! 957 hakim ve savcının görev yeri değişti",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/25/hsk-mazeret-kararnamesini-yayimladi-957-hakim-ve-savcinin-gorev-yeri-degisti",
+          "also_in": [
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "Resmi Gazete’de 25 Kasım 2026 kararları: 41 ilin valisi değişti",
           "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/temsilcimiz-galatasaray-sampiyonlar-liginde-aston-villayi-maglup-etti/368972/",
+          "link": "https://www.birgazete.com/gundem/resmi-gazetede-25-kasim-2026-kararlari-41-ilin-valisi-degisti/368986/",
           "also_in": [
             "BHA"
           ]
@@ -169,391 +125,392 @@
       ]
     },
     {
-      "title": "Valiler Kararnamesi ve Siyasi Atamalar",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Resmi Gazete'de yayımlanan kararname ile 41 ilin valisi değişti, AFAD başkanlığına Önder Bozkurt atandı.",
+      "title": "Ekonomide Kayyum ve Fon Soruşturması",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Sümer Varlık Yönetim'e kayyum atanması ve devam eden fon soruşturması süreci, ekonomi yönetiminin gündemindeki en kritik başlıklar arasında yer alıyor.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Sümer Varlık Yönetim'e TMSF kayyum olarak atandı",
+          "source": "Dünya",
+          "link": "https://www.dunya.com/sirketler/sumer-varlik-yonetime-tmsf-kayyum-olarak-atandi-haberi-848873",
+          "also_in": [
+            "En Son Haber",
+            "GZT",
+            "Hürriyet",
+            "İstiklal",
+            "Sözcü Gündem",
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Sümer Varlık Yönetim’e kayyum atandı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/sumer-varlik-yonetime-kayyum-atandi-878440",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "Altınbaş ailesinin kontrolündeki Sümer Varlık'a kayyım atandı",
+          "source": "Evrensel",
+          "link": "https://www.evrensel.net/haber/6011222/altinbas-ailesinin-kontrolundeki-sumer-varlik-a-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+          "also_in": [
+            "İlke TV"
+          ]
+        },
+        {
+          "title": "Gözler o toplantıya çevrildi: Fon soruşturmasına ilişkin basın açıklaması yapılacak",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/gozler-o-toplantiya-cevrildi-fon-sorusturmasina-iliskin-basin-aciklamasi-yapilacak-p384418",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında gözler Külliye'de! Yılmaz, Gürlek ve Şimşek açıklama yapacak",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/fon-sorusturmasinda-gozler-kulliyede-yilmaz-gurlek-ve-simsek-aciklama-yapacak-878473",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe'nin Avrupa'daki Zaferi",
+      "meta_category": "Spor",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i mağlup ederek hem galibiyet serisini sürdürdü hem de ciddi bir UEFA geliri elde etti.",
       "importance": 8,
       "story_count": 5,
       "stories": [
         {
-          "title": "41 ilin valisi değişti, 14 vali merkeze çekildi",
-          "source": "BBC Türkçe",
-          "link": "https://www.bbc.com/turkce/articles/cmge3q17n44xo?at_medium=RSS&at_campaign=rss",
+          "title": "Fenerbahçe, Shakhtar Donetsk'i 1-0 mağlup etti",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/fenerbahce-shakhtar-donetski-1-0-maglup-etti-600706",
           "also_in": [
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "Emre Belözoğlu Fenerbahçe tarihine geçti! Şampiyonlar Ligi'nde bir ilki başardı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/emre-belozoglu-fenerbahce-tarihine-gecti-sampiyonlar-liginde-bir-ilki-basardi-878464",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe Avrupa'da esti geçti! Türk düellosunda kazanan Emre Belözoğlu oldu",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/fenerbahce-avrupada-esti-gecti-turk-duellosunda-kazanan-emre-belozoglu-oldu-878462",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i tek golle geçti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-tek-golle-gecti/4138081",
+          "also_in": []
+        },
+        {
+          "title": "Fenerbahçe'nin Shakhtar Donetsk zaferi kasayı doldurdu! UEFA'dan 5,6 milyon euro gelir",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/fenerbahce/2026/11/25/fenerbahcenin-shakhtar-donetsk-zaferi-kasayi-doldurdu-uefadan-56-milyon-euro-gelir",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Savunma Sanayiinde Yerlilik ve KIZILELMA",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Türkiye'nin savunma sanayiinde yerlilik oranının yüzde 80'i aşması ve KIZILELMA'nın uluslararası basında geniş yer bulması, stratejik başarıyı vurguluyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Savunma sanayiinde yerlilik oranı yüzde 80'i aştı: İhracatta dev rakam",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/savunma-sanayiinde-yerlilik-orani-yuzde-80i-asti-ihracatta-dev-rakam/104444",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "İsrail basınında KIZILELMA şoku: ABD ve Çin'i geride bırakan teknoloji",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/israil-basininda-kizilelma-soku-abd-ve-cini-geride-birakan-teknoloji/104440",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "KIZILELMA İsrail basınında gündem oldu: “Yeni bir çağ başlattı”",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/kizilelma-israil-basininda-gundem-oldu-yeni-bir-cag-baslatti-878472",
+          "also_in": []
+        },
+        {
+          "title": "AKINCI’dan yeni mühimmatla ilk atış",
+          "source": "DefenceTurk",
+          "link": "https://www.defenceturk.net/akincidan-yeni-muhimmatla-ilk-atis",
+          "also_in": []
+        },
+        {
+          "title": "TF-2000’in Yeni Gücü Yolda: MKE’den 127 mm Milli Deniz Topu",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/tf-2000in-yeni-gucu-yolda-mkeden-127-mm-milli-deniz-topu/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay Zekâ ve Siber Güvenlik Riskleri",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zekâ ajanlarının siber saldırıları insansız yürütebileceği uyarısı ve büyük veri merkezlerine yönelik siber güvenlik endişeleri artıyor.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Google ve Unit 42 Uyarıyor: Yapay Zekâ Ajanları Siber Saldırıları İnsansız Yürütüyor",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/google-ve-unit-42-uyariyor-yapay-zeka-ajanlari-siber-saldirilari-insansiz-yurutuyor/",
+          "also_in": []
+        },
+        {
+          "title": "Belçika'da belediyelere siber saldırı: 1,2 milyon kişinin verisi çalındı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/belcikada-belediyelere-siber-saldiri-12-milyon-kisinin-verisi-calindi/?utm_source=rss&utm_medium=rss&utm_campaign=belcikada-belediyelere-siber-saldiri-12-milyon-kisinin-verisi-calindi",
+          "also_in": [
+            "Haber"
+          ]
+        },
+        {
+          "title": "Belçika'da yapay zeka destekli siber saldırıda yaklaşık 1,2 milyon kişinin verileri çalındı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/belcikada-yapay-zeka-destekli-siber-saldirida-yaklasik-1-2-milyon-kisinin-verileri-calindi/4137902",
+          "also_in": []
+        },
+        {
+          "title": "Yapay Zekâ Veri Merkezleri Gerçekten Ne Kadar Büyük Bir Risk Taşıyor?",
+          "source": "Evrim Ağacı",
+          "link": "https://evrimagaci.org/yapay-zeka-veri-merkezleri-gercekten-ne-kadar-buyuk-bir-risk-tasiyor-24258",
+          "also_in": []
+        },
+        {
+          "title": "Hinton Uyardı: İnsanlık On Yıl İçinde Yapay Zekâ Üzerindeki Denetimi Kaybedebilir",
+          "source": "Dijitaliyidir",
+          "link": "https://dijitaliyidir.com/hinton-uyardi-insanlik-on-yil-icinde-yapay-zeka-uzerindeki-denetimi-kaybedebilir/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Mısır'daki Tanker Yangını Faciası",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Mısır'da bir yakıt tankerinin patlaması sonucu 30'dan fazla kişi hayatını kaybetti, bölgede büyük bir acı yaşanıyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Mısır'da yakıt tankerinde çıkan yangında 30 kişi hayatını kaybetti",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/misirda-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti/4137919",
+          "also_in": [
+            "Evrensel",
+            "Independent Türkçe",
             "İstiklal",
             "TRT Haber"
           ]
         },
         {
-          "title": "Resmi Gazete'de yayımlandı: Çok sayıda ilin valisi değişti",
-          "source": "Haber Global",
-          "link": "https://haberglobal.com/gundem/resmi-gazetede-yayimlandi-cok-sayida-ilin-valisi-degisti-554988",
+          "title": "Mısır'da tanker yangını faciası! 30 kişi hayatını kaybetti",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/misirda-tanker-yangini-faciasi-30-kisi-hayatini-kaybetti-3498220",
           "also_in": [
-            "Dokuz8 Haber"
+            "Haber 7"
           ]
         },
         {
-          "title": "Valiler kararnamesi Resmi Gazete'de! İşte il il yeni vali listesi",
-          "source": "Sözcü Gündem",
-          "link": "https://www.sozcu.com.tr/resmi-gazete-atama-25-kasim-2026-p384130",
+          "title": "Mısır’da petrol ürünleri taşıyan tankerde yangın çıktı: 30 ölü, 15 yaralı",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/misir-da-petrol-urunleri-tasiyan-tankerde-yangin-cikti-30-olu-15-yarali-1037951.html",
           "also_in": [
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "Resmi Gazete’de yayımlandı: 14 ilin valisi merkeze çekildi, 41 ile vali atandı",
-          "source": "Veryansın TV",
-          "link": "https://www.veryansintv.com/resmi-gazetede-yayimlandi-14-ilin-valisi-merkeze-cekildi-41-ile-vali-atandi",
-          "also_in": [
-            "Yeniçağ Gazetesi"
-          ]
-        },
-        {
-          "title": "Valiler kararnamesi yayımlandı, çok sayıda ilde görev değişikliği yapıldı",
-          "source": "Savunma Sanayi Gazetesi",
-          "link": "https://savunmasanayigazetesi.com.tr/valiler-kararnamesi-yayimlandi-cok-sayida-ilde-gorev-degisikligi-yapildi/350005/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Ekonomik Düzenlemeler ve HGS İadeleri",
-      "meta_category": "Ekonomi ve Piyasalar",
-      "summary": "Bakan Uraloğlu, HGS'deki usulsüz ödemelerin iade edileceğini açıklarken, kredi kartı faizlerinde indirim gündeme geldi.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Bakan Uraloğlu’ndan HGS açıklaması: Usulüne uygun yapılmamış tüm ödemeleri iade ettireceğiz",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/bakan-uraloglundan-hgs-aciklamasi-usulune-uygun-yapilmamis-tum-odemeleri-iade-ettirecegiz",
-          "also_in": [
-            "Hürriyet",
             "Haberet"
           ]
         },
         {
-          "title": "Bakan Uraloğlu'ndan 'HGS' açıklaması: Usulsüz tahsilatlar iade edilecek",
+          "title": "Mısır'da can pazarı! Petrol tankeri alev aldı, 30 ölü, 15 yaralı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/misirda-can-pazari-petrol-tankeri-alev-aldi-30-olu-15-yarali-878474",
+          "also_in": []
+        },
+        {
+          "title": "Mısır'daki tanker yangınında ölenlerin sayısı 31'e, yaralananların sayısı 21'e yükseldi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tanker-yangininda-olenlerin-sayisi-31e-yaralananlarin-sayisi-21e-yukseldi/4138115",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "GTA 6 Etrafındaki Teknoloji ve Oyun Dünyası",
+      "meta_category": "Magazin ve Eğlence",
+      "summary": "GTA 6'nın çıkışına dair beklentiler, korsan yazılım uyarıları ve oyunun PlayStation tarihindeki rekor etkileri oyun dünyasını meşgul ediyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "GTA 6'nın korsan yolla PC'ye aktarılması planı sona erdi!",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/oyun/gta-6nin-korsan-yolla-pcye-aktarilmasi-plani-sona-erdi/104441",
+          "also_in": [
+            "Megabayt Oyun"
+          ]
+        },
+        {
+          "title": "GTA 6 bekleyenlere siber güvenlik uyarısı: Dolandırıcıların yeni hedefi oldu",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/gta-6-bekleyenlere-siber-guvenlik-uyarisi-dolandiricilarin-yeni-hedefi-oldu/104438",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "En Büyük Oyun Haritaları: GTA 6 Kaçıncı Sırada?",
+          "source": "Atarita",
+          "link": "https://www.atarita.com/en-buyuk-oyun-haritalari/",
+          "also_in": []
+        },
+        {
+          "title": "Sony Açıkladı: GTA 6, PlayStation Tarihinin En Büyük Çıkışı Oldu",
+          "source": "Atarita",
+          "link": "https://www.atarita.com/gta-6-playstation-tarihinin-en-buyuk-cikisi/",
+          "also_in": []
+        },
+        {
+          "title": "GTA 6'daki İç Mekan Sayısı İddia Edilenin İki Katından Fazla",
+          "source": "Merlin'in Kazanı",
+          "link": "https://www.merlininkazani.com/gta-6-daki-ic-mekan-sayisi-iddia-edilenin-iki-katindan-fazla-haber-264582",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye'nin Ay Hedefi ve Uzay Çalışmaları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Alper Gezeravcı'nın Türkiye'nin Ay yolculuğu hedefini açıklaması, uzay yarışında yeni bir dönemin habercisi olarak değerlendiriliyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Alper Gezeravcı'dan Ay hedefi: Türkiye altıncı ülke olmaya hazırlanıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/alper-gezeravcidan-ay-hedefi-turkiye-altinci-ulke-olmaya-hazirlaniyor/104442",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Alper Gezeravcı Ay için tarih verdi! Bunu bugüne kadar sadece 5 ülke başarabildi",
           "source": "Sözcü Gündem",
-          "link": "https://www.sozcu.com.tr/bakan-uraloglundan-hgs-aciklamasi-p384115",
+          "link": "https://www.sozcu.com.tr/alper-gezeravci-ay-icin-tarih-verdi-bunu-bugune-kadar-sadece-5-ulke-basarabildi-p384394",
           "also_in": [
             "Sözcü"
           ]
         },
         {
-          "title": "Bakan Uraloğlu: HGS'de usulsüz alınan ödemeler iade edilecek",
-          "source": "Döviz",
-          "link": "https://haber.doviz.com/gundem-haberleri/bakan-uraloglu-hgs-de-usulsuz-alinan-odemeler-iade-edilecek/956906",
-          "also_in": [
-            "Foreks"
-          ]
-        },
-        {
-          "title": "Bakan Uraloğlu'ndan otoyol açıklaması: HGS'de usulsüz tahsilatlara iade geliyor!",
-          "source": "CNBC-e",
-          "link": "https://www.cnbce.com/haberler/bakan-uraloglundan-otoyol-aciklamasi-hgsde-usulsuz-tahsilatlara-iade-geliyor-h42563",
+          "title": "Türkiye'nin Ay yolculuğu için tarih açıklandı! Alper Gezeravcı hedefi duyurdu!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/turkiyenin-ay-yolculugu-icin-tarih-aciklandi-alper-gezeravci-hedefi-duyurdu-878451",
           "also_in": []
         },
         {
-          "title": "TCMB kredi kartı faizlerinde kullanılan referans oranı düşürdü",
-          "source": "Tele1",
-          "link": "https://www.tele1.com.tr/tcmb-kredi-karti-faizlerinde-kullanilan-referans-orani-dusurdu",
+          "title": "SpaceX'in uzayda veri merkezi projesine onay",
+          "source": "Habertürk",
+          "link": "https://www.haberturk.com/ekonomi/spacex-in-uzayda-veri-merkezi-projesine-onay-3930145",
           "also_in": [
             "Bloomberg HT"
           ]
-        }
-      ]
-    },
-    {
-      "title": "Arda Güler'in Real Madrid Performansı",
-      "meta_category": "Spor",
-      "summary": "Arda Güler, Real Madrid'in PSV Eindhoven'ı yendiği maçta 2 asistle yıldızlaşarak Avrupa basınında geniş yer buldu.",
-      "importance": 8,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "Real Madrid'den PSV Eindhoven'a 5 gol! Arda Güler iki asistle yıldızlaştı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/11/24/real-madridden-psv-eindhovena-5-gol-arda-guler-iki-asistle-yildizlasti",
-          "also_in": []
         },
         {
-          "title": "Arda Güler'den PSV'ye karşı 2 asist! Milli yıldızımız göz kamaştırdı",
-          "source": "A Spor",
-          "link": "https://www.aspor.com.tr/sampiyonlar-ligi/2026/11/24/arda-gulerden-psvye-karsi-2-asist-milli-yildizimiz-goz-kamastirdi",
-          "also_in": []
-        },
-        {
-          "title": "Arda mest etti, Real farka gitti! Bernabeu'da tam 6 gol",
-          "source": "Türkiye Gazetesi",
-          "link": "https://www.turkiyegazetesi.com.tr/spor/arda-guler-mest-etti-real-madrid-farka-gitti-bernabeuda-tam-6-gol-1831529",
-          "also_in": [
-            "Türkiye Gazetesi"
-          ]
-        },
-        {
-          "title": "Arda Güler geceye asistleri ile damga vurdu! Real Madrid 5 golle kazandı",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/arda-guler-geceye-asistleri-ile-damga-vurdu-real-madrid-5-golle-kazandi-878355",
-          "also_in": []
-        },
-        {
-          "title": "Gururumuz Arda Güler, Şampiyonlar Ligi'nde Real Madrid'in galibiyetine damga vurdu!",
-          "source": "ABC Haber",
-          "link": "https://abcgazetesi.com.tr/spor/gururumuz-arda-guler-sampiyonlar-liginde-real-madridin-galibiyetine-damga-vurdu-878362",
+          "title": "ABD, SpaceX'in uzaydaki veri merkezleri için 1 milyon uydu fırlatmasına yetki verdi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879",
           "also_in": []
         }
       ]
     },
     {
-      "title": "Hikmet Çetin'in Vefatı",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "Eski TBMM Başkanı ve CHP Genel Başkanı Hikmet Çetin hayatını kaybetti.",
-      "importance": 8,
-      "story_count": 4,
-      "stories": [
-        {
-          "title": "Eski TBMM Başkanı Hikmet Çetin hayatını kaybetti",
-          "source": "A Haber",
-          "link": "https://www.ahaber.com.tr/gundem/2026/11/24/eski-tbmm-baskani-hikmet-cetin-hayatini-kaybetti",
-          "also_in": [
-            "Haberet",
-            "Haber Global",
-            "BHA",
-            "Sözcü Gündem",
-            "Ulusal Kanal",
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "Eski CHP Genel Başkanı Hikmet Çetin hayatını kaybetti",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6011013/eski-chp-genel-baskani-hikmet-cetin-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "İnternet Haber",
-            "OdaTV",
-            "NTV",
-            "Sputnik",
-            "Yeni Akit"
-          ]
-        },
-        {
-          "title": "Hikmet Çetin hayatını kaybetti",
-          "source": "Haber 7",
-          "link": "https://www.haber7.com/siyaset/haber/3679526-hikmet-cetin-hayatini-kaybetti",
-          "also_in": [
-            "Veryansın TV",
-            "Yeni Şafak",
-            "Yurtsever"
-          ]
-        },
-        {
-          "title": "Türk siyaseti ‘Hikmet Abi’sini kaybetti",
-          "source": "10Haber",
-          "link": "https://10haber.net/siyaset/turk-siyaseti-hikmet-abisini-kaybetti-757981/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Hayati Yazıcı'nın İstifası",
-      "meta_category": "Politika ve Diplomasi",
-      "summary": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, görevlerinden istifa ettiğini açıkladı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı İstifa Etti",
-          "source": "Onedio",
-          "link": "https://onedio.com/haber/ak-parti-genel-baskan-yardimcisi-hayati-yazici-istifa-etti-1397094",
-          "also_in": [
-            "Aydınlık",
-            "Bengütürk",
-            "Ekonomim",
-            "TRT Haber",
-            "Ulusal Kanal"
-          ]
-        },
-        {
-          "title": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı görevinden istifa etti",
-          "source": "CGTN Türk",
-          "link": "https://www.cgtnturk.com/ak-parti-genel-baskan-yardimcisi-hayati-yazici-gorevinden-istifa-etti",
-          "also_in": [
-            "GZT",
-            "Haber Global",
-            "Sabah",
-            "Sözcü Gündem",
-            "Sözcü"
-          ]
-        },
-        {
-          "title": "Hayati Yazıcı AK Parti'deki görevlerinden istifa etti",
-          "source": "İnternet Haber",
-          "link": "https://www.internethaber.com/hayati-yazici-ak-partideki-gorevlerinden-istifa-etti-2469879h.htm",
-          "also_in": [
-            "NTV",
-            "Mynet",
-            "Yeni Şafak"
-          ]
-        },
-        {
-          "title": "AKP Genel Başkan Yardımcısı Hayati Yazıcı istifa etti",
-          "source": "Evrensel",
-          "link": "https://www.evrensel.net/haber/6011036/akp-genel-baskan-yardimcisi-hayati-yazici-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-          "also_in": [
-            "Veryansın TV"
-          ]
-        },
-        {
-          "title": "Hayati Yazıcı, AK Parti’deki görevinden istifa etti",
-          "source": "Bir Gazete",
-          "link": "https://www.birgazete.com/gundem/hayati-yazici-ak-partideki-gorevinden-istifa-etti/368966/",
-          "also_in": [
-            "BHA"
-          ]
-        }
-      ]
-    },
-    {
-      "title": "GTA 6'nın Rekor Çıkışı",
-      "meta_category": "Magazin ve Eğlence",
-      "summary": "GTA 6, PlayStation tarihinde en hızlı ve en çok çıkış yapan oyun olarak rekor kırdı.",
-      "importance": 7,
-      "story_count": 5,
-      "stories": [
-        {
-          "title": "GTA 6'da 2002 Vice City'ye açılan gizli portal bulundu",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/gta-6-da-2002-vice-city-ye-acilan-gizli-portal-bulundu--213314",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "GTA 6 PlayStation tarihinin en iyi çıkış yapan oyunu oldu",
-          "source": "Donanım Haber",
-          "link": "https://www.donanimhaber.com/gta-6-dan-yeni-rekor-playstation-tarihine-gecti--213305",
-          "also_in": [
-            "Teknolojioku"
-          ]
-        },
-        {
-          "title": "Oyuncu başına 17,4 saat: GTA VI'nın ilk hafta sonu PS5'te nasıl geçti?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/oyuncu-basina-174-saat-gta-vinin-ilk-hafta-sonu-ps5te-nasil-gecti_185544.html",
-          "also_in": []
-        },
-        {
-          "title": "GTA 6’nın İlk Güncellemesi Yayınlandı: Otomatik Kayıt ve Hava Durumu Sorunları Düzeltildi",
-          "source": "Atarita",
-          "link": "https://www.atarita.com/gta-6-ilk-guncelleme-01-002-002/",
-          "also_in": []
-        },
-        {
-          "title": "GTA 6 oyuncu sayısı PS5’te 39 milyonu aştı: Sony, oyunun PlayStation tarihinin en büyük çıkışı olduğunu açıkladı",
-          "source": "Geekyapar",
-          "link": "https://geekyapar.com/gta-6-oyuncu-sayisi-ps5te-39-milyonu-asti/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Kültürel Mirasın İadesi",
-      "meta_category": "Kültür, Sanat ve Düşünce",
-      "summary": "Türkiye'den kaçırılan 100 tarihi eser, 60 yıllık bir takibin ardından ait olduğu topraklara geri döndü.",
-      "importance": 7,
-      "story_count": 3,
-      "stories": [
-        {
-          "title": "60 YILLIK İZ SÜRÜLDÜ, 100 ESER TÜRKİYE’YE DÖNDÜ ARŞİVLERDEKİ İPUÇLARI, TARİHİN KAYIP ESERLERİNİ ORTAYA ÇIKARDI",
-          "source": "Artkolik",
-          "link": "https://www.artkolik.net/haber/60-yillik-iz-suruldu-100-eser-turkiyeye-dondu-arsivlerdeki-ipuclari-tarihin-kayip-eserlerini-ortaya-cikardi-25974",
-          "also_in": [
-            "Beyaz Gazete"
-          ]
-        },
-        {
-          "title": "60 yıllık iz sürüldü, 100 eser Türkiye’ye döndü",
-          "source": "Tele1",
-          "link": "https://www.tele1.com.tr/60-yillik-iz-suruldu-100-eser-turkiyeye-dondu",
-          "also_in": [
-            "Ulusal Kanal"
-          ]
-        },
-        {
-          "title": "Aranan 44 suçlu Türkiye’ye iade edildi",
-          "source": "10Haber",
-          "link": "https://10haber.net/gundem/aranan-44-suclu-turkiyeye-iade-edildi-757867/",
-          "also_in": []
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji Dünyasında Erişim Sorunları",
-      "meta_category": "Bilim ve Teknoloji",
-      "summary": "Spotify, WhatsApp, Instagram ve ChatGPT gibi popüler dijital platformlarda eş zamanlı erişim sorunları yaşandı.",
+      "title": "ABD'de Hava Muhalefeti ve Olağanüstü Hal",
+      "meta_category": "Doğa, Çevre ve İklim",
+      "summary": "ABD'nin New Jersey eyaletinde yaklaşan fırtına nedeniyle olağanüstü hal ilan edildi, bölgede güvenlik önlemleri artırıldı.",
       "importance": 6,
       "story_count": 5,
       "stories": [
         {
-          "title": "Spotify çöktü mü? Erişim sorunu giderildi",
-          "source": "ShiftDelete",
-          "link": "https://shiftdelete.net/spotify-coktu-mu-erisim-sorunu-24-kasim-2026",
+          "title": "ABD'nin New Jersey eyaletinde yaklaşan fırtına nedeniyle \"olağanüstü hal\" ilan edildi",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/abdnin-new-jersey-eyaletinde-yaklasan-firtina-nedeniyle-olaganustu-hal-ilan-edildi/4138082",
           "also_in": [
-            "Teknolojioku"
+            "Haber 7"
           ]
         },
         {
-          "title": "Facebook çöktü mü? 24 Kasım'da Facebook'a neden girilmiyor?",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/facebook-coktu-mu-24-kasimda-facebooka-neden-girilmiyor_181061.html",
-          "also_in": []
+          "title": "ABD'de tehlike çanları... New Jersey'de olağanüstü hal yürürlüğe girdi",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/dunya/abdde-tehlike-canlari-new-jerseyde-olaganustu-hal-yururluge-girdi/haber-1717456",
+          "also_in": [
+            "İşçi Haber"
+          ]
         },
         {
-          "title": "Gemini çöktü mü? (24 Kasım 2026) Kullanıcılar kesinti bildirdi",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/gemini-coktu-mu-24-kasim-2026-kullanicilar-kesinti-bildirdi_178113.html",
-          "also_in": []
+          "title": "ABD'de fırtına alarmı! 'Olağanüstü hal' ilan edildi",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/abdde-firtina-alarmi-olaganustu-hal-ilan-edildi-3498239",
+          "also_in": [
+            "Dünya"
+          ]
         },
         {
-          "title": "WhatsApp çöktü mü? 24 Kasım’da erişim sorunu yaşayanlar için son 24 saat kesinti raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/whatsapp-coktu-mu-24-kasimda-erisim-sorunu-yasayanlar-icin-son-24-saat-kesinti-raporu_178115.html",
-          "also_in": []
+          "title": "ABD'nin New Jersey eyaletinde \"olağanüstü hal\" ilan edildi",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/abdnin-new-jersey-eyaletinde-olaganustu-hal-ilan-edildi",
+          "also_in": [
+            "Elips Haber"
+          ]
         },
         {
-          "title": "Instagram çöktü mü? (24 Kasım 2026) Instagram neden açılmıyor? Son 24 saat kesinti raporu",
-          "source": "CHIP Online",
-          "link": "https://www.chip.com.tr/galeri/instagram-coktu-mu-24-kasim-2026-instagram-neden-acilmiyor-son-24-saat-kesinti-raporu_178120.html",
-          "also_in": []
+          "title": "ABD'nin New Jersey eyaletinde fırtına alarmı: Olağanüstü hal ilan edildi",
+          "source": "GZT",
+          "link": "https://www.gzt.com/dunya/abdnin-new-jersey-eyaletinde-firtina-alarmi-olaganustu-hal-ilan-edildi-4283083",
+          "also_in": [
+            "Karar"
+          ]
         }
       ]
     }
   ],
   "artwork": {
-    "title": "The Fallen Angel (painting)",
-    "artist": "Alexandre Cabanel",
-    "year": "1847",
-    "form": "resim",
-    "medium": "Oil on canvas",
-    "location": "Musée Fabre",
-    "description": "Eskişehir'deki helikopter kazasının ardından gelen derin yas ve düşüş teması, bu eserdeki hüzünlü ve mağrur melankoli ile paralellik gösteriyor.",
+    "title": "Unique Forms of Continuity in Space",
+    "artist": "Umberto Boccioni",
+    "year": "1913",
+    "form": "heykel",
+    "medium": "Bronze",
+    "location": "Museum of Modern Art, New York",
+    "description": "Savunma sanayiindeki teknolojik atılımların ve KIZILELMA gibi hız odaklı tasarımların yarattığı dinamizmi temsil ediyor. Hareket halindeki bir figürün makineleşen dünyayla birleşmesini, günün yüksek tempolu teknoloji gündemiyle sentezliyor.",
     "verified": true,
-    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Fallen_Angel_(painting)",
-    "wikipedia_extract": "The Fallen Angel is a painting by the French artist Alexandre Cabanel. It was painted in 1847, when the artist was 24 years old, and depicts the Devil after his fall from Heaven. The painting is at the Musée Fabre in Montpellier.",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Alexandre_Cabanel_-_Fallen_Angel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Alexandre_Cabanel"
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space",
+    "wikipedia_extract": "Unique Forms of Continuity in Space is a 1913 Futurist sculpture by Umberto Boccioni. It is seen as an expression of movement and fluidity. The sculpture is depicted on the obverse of the Italian-issue 20 cent euro coin.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%27Unique_Forms_of_Continuity_in_Space%27%2C_1913_bronze_by_Umberto_Boccioni.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Umberto_Boccioni"
   },
   "music": {
-    "title": "Spiegel im spiegel",
-    "artists": "Arvo Pärt, Angèle Dubeau, La Pietà",
-    "album": "Arvo Pärt: Portrait",
-    "duration": "8:23",
-    "spotify_url": "https://open.spotify.com/track/7zHd9LxIZB8WKosSWN9Umj",
-    "spotify_id": "7zHd9LxIZB8WKosSWN9Umj",
-    "album_image": "https://i.scdn.co/image/ab67616d0000b273172bf9b9bd01946bf3f7785c",
-    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/7zHd9LxIZB8WKosSWN9Umj\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "title": "Nightcall",
+    "artists": "Kavinsky",
+    "album": "Nightcall",
+    "duration": "4:18",
+    "spotify_url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j",
+    "spotify_id": "0U0ldCRmgCqhVvD6ksG63j",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273d6d8c2eaa1f9031b62f7a3f7",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/0U0ldCRmgCqhVvD6ksG63j\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
     "preview_url": null
   },
-  "curator_statement": "Eskişehir semalarından yükselen o ağır hüzün, gökyüzünden düşenlerin sessizliğiyle birleşerek ulusal belleğimizde derin bir yara açarken, hayatın akışındaki teknolojik hız ve sporun geçici zaferleri bu yasın üzerine ince bir tül gibi seriliyor. Alexandre Cabanel’in Düşen Melek’indeki o mağrur ve hırçın bakış, yeryüzüne çakılanların trajedisiyle birleştiğinde, düşüşün sadece fiziksel bir son değil, aynı zamanda insanın tanrısal olandan kopuşunun zamansız bir yansıması olduğunu hatırlatıyor. Arvo Pärt’in Spiegel im Spiegel’i, bu hüzünlü atmosferde piyanonun tekdüze tınılarıyla adeta bir aynanın karşısına geçmemizi sağlıyor; burada yas, teknoloji ve siyasetin gürültüsü, müziğin dinginliğiyle evrensel bir sessizliğe bürünüyor. Hem göklerden düşenlerin ıstırabı hem de değişen dünyanın kaosu, bu tınıların içinde eriyerek bizi insan olmanın kırılganlığıyla baş başa bırakıyor. Bu kürasyon, modernitenin hızına kapılmış zihinlerimize, kaybın ve dönüşümün aslında aynı gökyüzünün altında yaşandığını gösteren bir hatırlatıcıdır."
+  "curator_statement": "26 Kasım 2026, tarihin devasa bir çark gibi hızla döndüğü ancak nereye evrildiğinin kestirilemediği tekinsiz bir eşik olarak karşımızda duruyor. Boccioni nin zamana meydan okuyan bronz figürü, dijital devrimin ve savunma sanayiinin keskin hatları arasında adeta modern insanın huzursuzluğunu simgeleyen, hızla parçalanan bir kimliği temsil ediyor. Kavinsky nin soğuk ve mekanik synth sesleri, bu heykelin içinden geçen teknolojik rüzgarları anımsatırken, doğal afetlerin getirdiği kırılganlık ile ekonomik belirsizliğin yarattığı o derin yalnızlığı fısıldıyor. İnsanlık, bir yandan göğe yükselen çelik gövdelerin kudretiyle gururlanırken, diğer yandan yasaların ve piyasaların belirsizliğinde yönünü kaybetmiş bir yolcu gibi kendi yansımasını arıyor. Bugün, yerlilik ve küresel akışlar arasında sıkışan ruhumuz, hareketin içindeki boşluğu doldurmaya çalışan bir heykel kadar dinamik ama bir o kadar da ürkütücü bir sessizliğe gömülmüş durumda."
 }
