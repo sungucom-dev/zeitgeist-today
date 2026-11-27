@@ -1,0 +1,476 @@
+{
+  "date": "2026-11-27",
+  "date_human": "27 November 2026",
+  "generated_at": "2026-11-27T01:30:43.174056+00:00",
+  "stats": {
+    "feeds_collected": 287,
+    "news_total": 5006,
+    "news_analyzed": 610,
+    "clusters": 8
+  },
+  "mood": {
+    "description": "27 Kasım 2026, Gürcistan'daki maç olaylarının yarattığı diplomatik ve toplumsal gerilimin gölgesinde, teknolojik gelişmelerin hız kesmediği yoğun bir gün.",
+    "dominant_emotion": "Gerginlik",
+    "key_themes": [
+      "Gürcistan'da Beşiktaş taraftarına yönelik polis müdahalesi ve diplomatik kriz",
+      "Ekonomi yönetiminde fon soruşturmaları ve BDDK atamaları",
+      "Yapay zeka ve savunma sanayii teknolojilerindeki küresel ivme",
+      "Avrupa'da Türk kulüplerinin sportif başarıları"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-27",
+        "code": 3,
+        "temp_max": 18.4,
+        "temp_min": 6.2
+      },
+      {
+        "date": "2026-11-28",
+        "code": 45,
+        "temp_max": 19.0,
+        "temp_min": 8.4
+      },
+      {
+        "date": "2026-11-29",
+        "code": 3,
+        "temp_max": 19.2,
+        "temp_min": 11.2
+      },
+      {
+        "date": "2026-11-30",
+        "code": 3,
+        "temp_max": 14.3,
+        "temp_min": 9.1
+      },
+      {
+        "date": "2026-12-01",
+        "code": 61,
+        "temp_max": 10.7,
+        "temp_min": 7.6
+      },
+      {
+        "date": "2026-12-02",
+        "code": 3,
+        "temp_max": 10.3,
+        "temp_min": 5.8
+      },
+      {
+        "date": "2026-12-03",
+        "code": 3,
+        "temp_max": 10.8,
+        "temp_min": 5.5
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Beşiktaş taraftarına Gürcistan'da polis şiddeti",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş'ın Hapoel Beer-Sheva ile Gürcistan'da oynadığı maçta taraftarlara yönelik uygulanan orantısız polis şiddeti büyük tepki çekti; devlet yetkilileri ve kulüpler olayı kınadı.",
+      "importance": 10,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Beşiktaş-Hapoel Beer-Sheva maçında tribünler karıştı! Bir taraftar yaralı",
+          "source": "Duhuliye",
+          "link": "https://www.duhuliye.com/futbol/besiktas-hapoel-beer-sheva-macinda-tribunler-karisti-bir-taraftar-yarali-66647",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Beşiktaş - Hapoel Beer Sheva maçında skandal! Polisten orantısız güç",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-besiktas-hapoel-beer-sheva-macinda-skandal-polisten-orantisiz-guc-433702",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Serdal Adalı: \"2 taraftarımız yaralandı, 12-13 kişi gözaltında\"",
+          "source": "AjansSpor",
+          "link": "https://ajansspor.com/haber/serdal-adali-2-taraftarimiz-yaralandi-12-13-kisi-gozaltinda-739490",
+          "also_in": []
+        },
+        {
+          "title": "Gürcü polisi Beşiktaş taraftarını yumrukla bayılttı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/spor/gurcu-polisi-besiktas-taraftarini-yumrukla-bayiltti-haberi-933694",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Gürcistan Polisi Stat Dışında da Beşiktaş Taraftarına Saldırdı: Bir Taraftar Yumrukla Bayıldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/gurcistan-polisi-stat-disinda-da-besiktas-taraftarina-saldirdi-bir-taraftar-yumrukla-878590",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "BDDK Başkanlığına yeni atama",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "BDDK Başkanlığı görevine Yusuf Kenan Bağır atandı, eski başkan Şahap Kavcıoğlu hakkında ise soruşturma izni verildi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+          "source": "BBC Türkçe",
+          "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
+          "also_in": [
+            "Aydınlık",
+            "Diken",
+            "CGTN Türk",
+            "Ekonomim",
+            "En Son Haber",
+            "Habertürk",
+            "Haber 7",
+            "Haber Global",
+            "Hürriyet",
+            "Haberler",
+            "Karar",
+            "NTV",
+            "Sputnik",
+            "TRT Haber",
+            "Türkiye Gazetesi",
+            "Foreks"
+          ]
+        },
+        {
+          "title": "Yeni BDDK Başkanı Yusuf Kenan Bağır oldu",
+          "source": "OdaTV",
+          "link": "https://www.odatv.com/guncel/yeni-bddk-baskani-yusuf-kenan-bagir-oldu-120172952",
+          "also_in": [
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Atama kararları Resmi Gazete’de! BDDK Başkanlığına Yusuf Kenan Bağır atandı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/27/bddk-baskanligina-yusuf-kenan-bagir-atandi",
+          "also_in": []
+        },
+        {
+          "title": "Eski BDDK Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verildi",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/26/eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni",
+          "also_in": []
+        },
+        {
+          "title": "BDDK Başkanlığına Yusuf Kenan Bağır Atandı! Şahap Kavcıoğlu'nun Yerine Geldi!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/bddk-baskanligina-yusuf-kenan-bagir-atandi-sahap-kavcioglunun-yerine-geldi-878594",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Fon soruşturmasında operasyonel süreç",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "Fon soruşturmasında soruşturmanın ana omurgasının tamamlandığı ve tutuklamaların sürdüğü, tasfiye sürecinin ise son aşamaya geldiği açıklandı.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bakan Gürlek: Fon soruşturmasında ana omurga tamamlandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/bakan-gurlek-fon-sorusturmasinda-ana-omurga-tamamlandi-600834",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Adalet Bakanı Gürlek: \"Fon soruşturmalarında 138 şüpheli tutuklu, 49 şüpheli hakkında yakalama kararı var\"",
+          "source": "İşin Detayı",
+          "link": "https://www.isindetayi.com/adalet-bakani-gurlek-fon-sorusturmalarinda-138-supheli-tutuklu-49-supheli-hakkinda-yakalama-karari-var-1",
+          "also_in": [
+            "İşin Detayı"
+          ]
+        },
+        {
+          "title": "Adalet Bakanı Akın Gürlek: 138 kişi tutuklu, soruşturmanın ana omurgası tamamlandı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-son-durum-adalet-bakani-akin-gurlek-aciklama-yapiyor-p384696",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Ara Ödemeler tamamlandı! Cumhurbaşkanı Yardımcısı Cevdet Yılmaz: Fonlarda nihai tasfiye dönemi başlıyor",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/uc-bakan-dan-ortak-fon-sorusturmasi-aciklamasi-p384675",
+          "also_in": [
+            "Sözcü Gündem"
+          ]
+        },
+        {
+          "title": "Fon soruşturmasında isim listesi açıklanacak mı? Cevdet Yılmaz açıkladı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/26/fon-sorusturmasinda-isim-listesi-aciklanacak-mi-cevdet-yilmaz-acikladi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Avrupa kupalarında Türk takımlarının başarısı",
+      "meta_category": "Spor",
+      "summary": "Beşiktaş ve Trabzonspor'un Avrupa'daki galibiyetleri, Türkiye'nin UEFA ülke puanına önemli katkı sağladı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Trabzonspor, Sofya'da galibiyeti duraklamalarda aldı: İlk 8 için dev adım",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-trabzonspor-sofyada-galibiyeti-duraklamalarda-aldi-ilk-8-icin-dev-adim-433688",
+          "also_in": [
+            "NTV Spor Futbol",
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Avrupa'da mükemmel hafta: 4 galibiyetin ardından UEFA ülke puanında son durum",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-avrupada-mukemmel-hafta-4-galibiyetin-ardindan-uefa-ulke-puaninda-son-durum-433707",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Türk takımları Avrupa'da 4'te 4 yaptı: UEFA ülke puanı değişti!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/turk-takimlari-avrupada-4te-4-yapti-uefa-ulke-puani-degisti-878585",
+          "also_in": []
+        },
+        {
+          "title": "Trabzonspor, Bulgaristan'dan 3 puanla dönüyor",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/spor/trabzonspor-bulgaristandan-3-puanla-donuyor-/4139806",
+          "also_in": []
+        },
+        {
+          "title": "Trabzonspor Avrupa'da son dakikada güldü!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/spor/trabzonspor-avrupada-son-dakikada-guldu-878582",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Yapay zeka teknolojilerindeki gelişmeler",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "Yapay zeka dünyasında OpenAI, Claude ve SpaceX gibi devlerin yeni hamleleri ve yapay zekanın iş dünyasındaki kullanımı üzerine yeni düzenlemeler öne çıktı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Claude artık masaüstü uygulamaları oluşturabiliyor: Ücretsiz kullanıcılara da açık!",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/claude-artik-masaustu-uygulamalari-olusturabiliyor--213447",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "OpenAI, ChatGPT'yi yoğun kullananlara sınırlama getirebilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/openai-chatgpt-abonelerinin-kullanimini-sinirlayabilir--213405",
+          "also_in": [
+            "Teknolojioku"
+          ]
+        },
+        {
+          "title": "SpaceX'e devasa onay: Uzayda yapay zeka veri merkezi dönemi başlıyor",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/spacexe-devasa-onay-uzayda-yapay-zeka-veri-merkezi-donemi-basliyor/104454",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Amazon, Nvidia'ya karşı yazılım kozu: Decart'ın çip optimizasyon teknolojisi için anlaşma imzalandı",
+          "source": "CHIP Online",
+          "link": "https://www.chip.com.tr/guncel/amazon-nvidiaya-karsi-yazilim-kozu-decartin-cip-optimizasyon-teknolojisi-icin-anlasma-imzalandi_185596.html",
+          "also_in": []
+        },
+        {
+          "title": "Yapay zeka, iklim krizini çözmek yerine çevre kirliliğini artırabilir",
+          "source": "Donanım Haber",
+          "link": "https://www.donanimhaber.com/yapay-zeka-devrimi-cevre-icin-beklenmedik-sonuclar-dogurabilir--213441",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siber saldırılar ve güvenlik",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "AFP ve FIFA gibi büyük kuruluşlara yönelik siber saldırılar ve kritik ağları hedef alan casusluk faaliyetleri gündeme geldi.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Fransız haber ajansı AFP, siber saldırıya uğradı",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/dunya/fransiz-haber-ajansi-afp-siber-saldiriya-ugradi-3498780",
+          "also_in": [
+            "CGTN Türk",
+            "Doğru Haber",
+            "Elips Haber",
+            "Haber 7",
+            "Dünya",
+            "TRT Haber",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "AFP Siber Saldırıya Uğradı! Fotoğraf ve Video Platformu Erişime Kapatıldı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/dunya/afp-siber-saldiriya-ugradi-fotograf-ve-video-platformu-erisime-kapatildi-878581",
+          "also_in": [
+            "Haber",
+            "CNBC-e"
+          ]
+        },
+        {
+          "title": "Bir siber saldırı daha: Bazı FIFA verileri çalındı",
+          "source": "Diken",
+          "link": "https://www.diken.com.tr/bir-siber-saldiri-daha-bazi-fifa-verileri-calindi/?utm_source=rss&utm_medium=rss&utm_campaign=bir-siber-saldiri-daha-bazi-fifa-verileri-calindi",
+          "also_in": [
+            "10Haber"
+          ]
+        },
+        {
+          "title": "FIFA hacklendi, gizli belgeler internete düştü!",
+          "source": "Türkiye Gazetesi",
+          "link": "https://www.turkiyegazetesi.com.tr/dunya/fifaya-siber-saldiri-gizli-belgeleri-ele-gecirdiklerini-duyurdular-1831872",
+          "also_in": [
+            "Türkiye Gazetesi"
+          ]
+        },
+        {
+          "title": "Savunma Sanayii Ağlarına Casusluk Girişimi: MİT Yakaladı",
+          "source": "SavunmaSanayiST",
+          "link": "https://www.savunmasanayist.com/savunma-sanayii-aglarina-casusluk-girisimi-mit-yakaladi/",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Siyaset ve diplomatik gündem",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "MGK toplantısı, 2028 seçim tarihine dair açıklamalar ve dış politikadaki bölgesel gelişmeler öne çıkan başlıklar oldu.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "MGK'dan 'Terörsüz Türkiye' mesajı",
+          "source": "Haber Global",
+          "link": "https://haberglobal.com/gundem/mgkdan-terorsuz-turkiye-mesaji-555315",
+          "also_in": [
+            "TRT Haber",
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Yılmaz: \"Seçimler 2028 yılında yapılacak\"",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/cumhurbaskani-yardimcisi-yilmaz-secimler-2028-yilinda-yapilacak-1038631.html",
+          "also_in": [
+            "Habertürk"
+          ]
+        },
+        {
+          "title": "MGK, yılın son toplantısı için bugün toplanıyor",
+          "source": "Bir Gazete",
+          "link": "https://www.birgazete.com/gundem/mgk-yilin-son-toplantisi-icin-bugun-toplaniyor/369042/",
+          "also_in": [
+            "BHA"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz açıkladı: Seçim 2028'de yapılacak",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/26/cumhurbaskani-yardimcisi-cevdet-yilmaz-acikladi-secim-2028de-yapilacak",
+          "also_in": []
+        },
+        {
+          "title": "MHP lideri Devlet Bahçeli Kemal Kılıçdaroğlu ile görüşmesi! Ana gündem Terörsüz Türkiye",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/26/mhp-lideri-bahceli-ve-kemal-kilicdaroglu-zirvesi",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kültür, sanat ve edebiyat etkinlikleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Kitap fuarları, film festivalleri ve sergilerle Türkiye'nin kültürel ajandası yoğun bir hafta geçiriyor.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "16. Uluslararası Suç ve Ceza Film Festivali",
+          "source": "Altyazı",
+          "link": "https://altyazi.net/matine/16-uluslararasi-suc-ve-ceza-film-festivali/",
+          "also_in": []
+        },
+        {
+          "title": "Şair Sennur Sezer’in edebiyat birikimi sergiye taşındı: ‘Bir Sözle Kuruldu Dünya’",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/sair-sennur-sezerin-edebiyat-birikimi-sergiye-tasindi-bir-sozle-kuruldu-dunya/",
+          "also_in": []
+        },
+        {
+          "title": "Cinai Muhabbetler 4 – Polisiye ve Adalet Sempozyumu 4 Aralık’ta Aynalıgeçit’te",
+          "source": "Edebiyat Haber",
+          "link": "https://www.edebiyathaber.net/cinai-muhabbetler-4-polisiye-ve-adalet-sempozyumu-4-aralikta-aynaligecitte-2/",
+          "also_in": []
+        },
+        {
+          "title": "Elazığ'da kitap fuarı şehrin kültürel yaşamına hareketlilik kazandırdı",
+          "source": "İşin Detayı Kültür Sanat",
+          "link": "https://www.isindetayi.com/elazigda-kitap-fuari-sehrin-kulturel-yasamina-hareketlilik-kazandirdi",
+          "also_in": []
+        },
+        {
+          "title": "Araştırmacı yazar Yaşin, 2. Cizre Kitap Fuarında okurlarıyla buluştu",
+          "source": "İşin Detayı Kültür Sanat",
+          "link": "https://www.isindetayi.com/arastirmaci-yazar-yasin-2-cizre-kitap-fuarinda-okurlariyla-bulustu",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Burghers of Calais",
+    "artist": "Auguste Rodin",
+    "year": "1889",
+    "form": "heykel",
+    "medium": "Bronze",
+    "location": "Musée Rodin",
+    "description": "Diplomatik krizlerin ve soruşturmaların getirdiği ağır sorumluluk ve baskı, bu heykel grubundaki figürlerin çektiği vicdani ve fiziksel ağırlıkla paralellik gösteriyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Burghers_of_Calais",
+    "wikipedia_extract": "The Burghers of Calais is a sculpture by Auguste Rodin in 12 original castings and numerous copies. It commemorates an event during the Hundred Years' War, when Calais, a French port on the English Channel, surrendered to the English after an 11-month siege. The city commissioned Rodin to create the sculpture in 1884 and the work was completed in 1889.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Statue_bourgeois_calais_rodin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Auguste_Rodin"
+  },
+  "music": {
+    "title": "Climbing Up the Walls",
+    "artists": "Radiohead",
+    "album": "OK Computer",
+    "duration": "4:45",
+    "spotify_url": "https://open.spotify.com/track/2PDQReEXBViVwkrbQ34vd7",
+    "spotify_id": "2PDQReEXBViVwkrbQ34vd7",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/2PDQReEXBViVwkrbQ34vd7\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "27 Kasım 2026, tarihin tozlu sayfalarından süzülen bir fedakarlık anlatısının, günümüzün dijital ve diplomatik çalkantılarıyla tekinsiz bir biçimde kesiştiği bir eşik noktasıdır. Auguste Rodin in Calais Burjuvaları heykeli, kuşatma altındaki bir şehrin teslimiyetinde gizli olan o çaresiz metaneti temsil ederken, bugün Gürcistan sokaklarında yükselen gerilim ve sistemin karmaşık çarkları arasında sıkışan bireyin yalnızlığıyla ortak bir paydada buluşuyor. Radiohead in Climbing Up the Walls parçasının endüstriyel tınıları, teknolojinin soğuk ivmesi ve ekonomik belirsizliklerin yarattığı klostrofobik atmosferi adeta bir dışavurum gibi mühürlüyor. Tıpkı Rodin in bronz figürlerinde olduğu gibi, toplumun üzerine çöken bu görünmez ağırlık, insan ruhunun baskı altındaki direncinin ve çelişkilerinin altını çiziyor. Gelişmeler ve kaygılar arasında gidip gelirken, sanat ve sesin bu kesişimi bize tarihin tekerrür eden o hırçın doğasını hatırlatıyor."
+}
