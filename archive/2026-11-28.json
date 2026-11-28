@@ -1,0 +1,575 @@
+{
+  "date": "2026-11-28",
+  "date_human": "28 November 2026",
+  "generated_at": "2026-11-28T01:32:06.644125+00:00",
+  "stats": {
+    "feeds_collected": 287,
+    "news_total": 4755,
+    "news_analyzed": 632,
+    "clusters": 10
+  },
+  "mood": {
+    "description": "Türkiye genelinde bir yandan bütçe ve ekonomik düzenlemelerle ilgili yoğun bir gündem yaşanırken, diğer yandan Batum'da Beşiktaş taraftarlarına yönelik saldırı ve Bolu'da kaybolan çocukların bulunması gibi toplumsal olayların yarattığı gerginlik ve rahatlama arasında gidip gelen bir atmosfer hakim.",
+    "dominant_emotion": "Gerginlik",
+    "key_themes": [
+      "Ekonomik bütçe ve düzenlemeler",
+      "Beşiktaş taraftarlarına saldırı ve diplomatik gerilim",
+      "Bolu'daki kayıp çocukların kurtarılması",
+      "Yapay zeka ve teknoloji odaklı siber güvenlik"
+    ]
+  },
+  "weather": {
+    "location": "İzmir",
+    "latitude": 38.4192,
+    "longitude": 27.1287,
+    "days": [
+      {
+        "date": "2026-11-28",
+        "code": 3,
+        "temp_max": 18.6,
+        "temp_min": 9.0
+      },
+      {
+        "date": "2026-11-29",
+        "code": 3,
+        "temp_max": 18.0,
+        "temp_min": 9.6
+      },
+      {
+        "date": "2026-11-30",
+        "code": 3,
+        "temp_max": 14.5,
+        "temp_min": 10.2
+      },
+      {
+        "date": "2026-12-01",
+        "code": 61,
+        "temp_max": 10.2,
+        "temp_min": 8.5
+      },
+      {
+        "date": "2026-12-02",
+        "code": 61,
+        "temp_max": 10.5,
+        "temp_min": 4.9
+      },
+      {
+        "date": "2026-12-03",
+        "code": 61,
+        "temp_max": 7.2,
+        "temp_min": 3.8
+      },
+      {
+        "date": "2026-12-04",
+        "code": 2,
+        "temp_max": 10.9,
+        "temp_min": 5.6
+      }
+    ]
+  },
+  "clusters": [
+    {
+      "title": "Bolu'da Kayıp Çocukların Bulunması",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "Bolu'da kaybolan 10 kız çocuğu ve 3 personeli taşıyan araç yapılan arama çalışmaları sonucunda bulundu; durumlarının iyi olduğu bildirildi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bolu’da kayıp 13 kişinin bulunduğu araç bataklığa saplı halde bulundu: Çocukların ve personellerin durumu iyi",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/boluda-kayip-13-kisinin-bulundugu-arac-batakliga-sapli-halde-bulundu-cocuklarin-ve-personellerin-durumu-iyi-601026",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "Yedigöller’de gece boyu süren arama mutlu sonla bitti",
+          "source": "dikGAZETE",
+          "link": "https://www.dikgazete.com/haber/yedigoller-de-gece-boyu-suren-arama-mutlu-sonla-bitti-1039262.html",
+          "also_in": [
+            "Haberler"
+          ]
+        },
+        {
+          "title": "Bolu'da kaybolan 10 kız çocuğu ve 3 personel bulundu",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/boluda-cocuklarin-bulundugu-aractan-haber-alinamiyor-arama-calismasi-baslatildi-h1586265",
+          "also_in": [
+            "NTV"
+          ]
+        },
+        {
+          "title": "Bolu'da kaybolan 10 çocuk ve 3 personel bulundu! Bakanlıktan açıklama geldi",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/bolu-da-arac-kayboldu-p384993",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Bolu'da kaybolan servis aracı bulundu! 10 kız çocuğu ve 3 görevlinin durumu iyi",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/boluda-kaybolan-servis-araci-bulundu-10-kiz-cocugu-ve-3-gorevlinin-durumu-iyi-878690",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş Taraftarlarına Saldırı ve Diplomatik Tepki",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Gürcistan'ın Batum kentinde Beşiktaş taraftarlarına yapılan bıçaklı saldırı sonrası Ankara, Gürcistan Büyükelçisini Dışişleri Bakanlığına çağırarak tepkisini dile getirdi.",
+      "importance": 9,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Gürcistan'da gözaltına alınan 16 Beşiktaş taraftarı serbest bırakıldı",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/besiktas/2026/11/27/gurcistanda-gozaltina-alinan-16-besiktas-taraftari-serbest-birakildi",
+          "also_in": [
+            "Evrensel"
+          ]
+        },
+        {
+          "title": "Gürcistan'ın Ankara Büyükelçisi, Dışişleri Bakanlığına çağrıldı",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-haberi-933896",
+          "also_in": [
+            "Dokuz8 Haber",
+            "Haber Global",
+            "Sözcü Gündem",
+            "NTV",
+            "Sözcü",
+            "Veryansın TV"
+          ]
+        },
+        {
+          "title": "Batum'da Beşiktaş taraftarı üniversite öğrencilerine bıçaklı saldırı",
+          "source": "A Haber",
+          "link": "https://www.ahaber.com.tr/gundem/2026/11/28/batumda-besiktas-taraftari-universite-ogrencilerine-bicakli-saldiri",
+          "also_in": [
+            "Elips Haber",
+            "Haberler",
+            "TürkInform"
+          ]
+        },
+        {
+          "title": "Bakan Fidan'dan Gürcistan'a tepki: Gereken uyarıları yaptık",
+          "source": "Ekonomim",
+          "link": "https://www.ekonomim.com/gundem/bakan-fidandan-gurcistana-tepki-gereken-uyarilari-yaptik-haberi-933919",
+          "also_in": [
+            "Haber 7"
+          ]
+        },
+        {
+          "title": "Batum'da Beşiktaş Atkısı Gerginliği! Türk Öğrencilerden Biri Bıçaklandı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/3-sayfa/batumda-besiktas-atkisi-gerginligi-turk-ogrencilerden-biri-bicaklandi-878675",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "2027 Bütçesi ve Ekonomik Düzenlemeler",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "2027 yılı bütçe kanun teklifi TBMM Plan ve Bütçe Komisyonu'ndan geçti; bununla birlikte çeşitli fon tasfiyeleri ve kamu kadro düzenlemeleri gündemde.",
+      "importance": 8,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "2027 bütçesi komisyondan geçti",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/2027-butcesi-komisyondan-gecti-353210h",
+          "also_in": [
+            "Habertürk",
+            "Türkiye Gazetesi",
+            "Bloomberg HT"
+          ]
+        },
+        {
+          "title": "2027 yılı bütçesi, TBMM Plan ve Bütçe Komisyonu'nda kabul edildi",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-43393698",
+          "also_in": [
+            "İnternet Haber",
+            "Sputnik",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "2027 Yılı Bütçesi Komisyondan Geçti",
+          "source": "Gerçek Gündem",
+          "link": "https://www.gercekgundem.com/ekonomi/2027-yili-butcesi-komisyondan-gecti-583437",
+          "also_in": [
+            "OdaTV"
+          ]
+        },
+        {
+          "title": "2027 bütçesi TBMM Plan ve Bütçe Komisyonunda kabul edildi",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/guncel/2027-butcesi-tbmm-plan-ve-butce-komisyonunda-20469780-haberi/",
+          "also_in": [
+            "İstiklal"
+          ]
+        },
+        {
+          "title": "2027 bütçesi komisyondan geçti! Cevdet Yılmaz'dan HGS ve fon soruşturması açıklaması",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/2027-butcesi-komisyondan-gecti-cevdet-yilmazdan-hgs-ve-fon-sorusturmasi-aciklamasi-878663",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "SPK'dan Büyük Ceza ve Suç Duyurusu",
+      "meta_category": "Ekonomi ve Piyasalar",
+      "summary": "SPK, piyasa bozucu eylemler gerekçesiyle 55,3 milyon TL idari para cezası keserek 106 kişi hakkında suç duyurusunda bulundu.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "SPK'den 55,3 milyon liralık idari para cezası",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/spkden-553-milyon-liralik-idari-para-cezasi",
+          "also_in": [
+            "Habertürk",
+            "Haber 7",
+            "Haber Global",
+            "Hürriyet",
+            "Sputnik",
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "SPK'dan 3 gerçek ve 7 tüzel kişiye 55,3 milyon liralık idari para cezası",
+          "source": "CNN Türk",
+          "link": "https://www.cnnturk.com/ekonomi/spkdan-3-gercek-ve-7-tuzel-kisiye-55-3-milyon-liralik-idari-para-cezasi-3499019",
+          "also_in": [
+            "Bengütürk"
+          ]
+        },
+        {
+          "title": "SPK'den 55,3 milyon liralık ceza, 106 kişi hakkında suç duyurusu kararı",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/spkden-553-milyon-liralik-ceza-106-kisi-hakkinda-suc-duyurusu-karari-p385003",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "SPK'dan 55,3 milyon liralık ceza",
+          "source": "Sözcü",
+          "link": "https://www.sozcu.com.tr/spk-den-55-3-milyon-liralik-ceza-p385001",
+          "also_in": [
+            "Sözcü Ekonomi"
+          ]
+        },
+        {
+          "title": "SPK'dan Borsada Kapsamlı Yaptırım! 106 Kişi İçin Suç Duyurusu Kararı!",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/ekonomi/spkdan-borsada-kapsamli-yaptirim-106-kisi-icin-suc-duyurusu-karari-878680",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Kartal Belediyesi'nde Yolsuzluk Soruşturması",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Kartal Belediyesi'ne yönelik başlatılan rüşvet ve yolsuzluk soruşturmasında 10 şüpheli tutuklandı.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Kartal Belediyesi soruşturmasında 10 kişi tutuklandı",
+          "source": "Artı Gerçek",
+          "link": "https://artigercek.com/politika/kartal-belediyesi-sorusturmasinda-10-kisi-tutuklandi-353214h",
+          "also_in": [
+            "Evrensel",
+            "Elips Haber"
+          ]
+        },
+        {
+          "title": "Kartal Belediyesi’ne yönelik soruşturmada 10 şüpheli tutuklandı",
+          "source": "Hürriyet",
+          "link": "https://www.hurriyet.com.tr/gundem/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-43393789",
+          "also_in": [
+            "Türkgün",
+            "Yeniçağ Gazetesi"
+          ]
+        },
+        {
+          "title": "Kartal Belediyesi soruşturmasında 10 şüpheli tutuklandı",
+          "source": "ABC Haber",
+          "link": "https://abcgazetesi.com.tr/gundem/kartal-belediyesi-sorusturmasinda-10-supheli-tutuklandi-878665",
+          "also_in": [
+            "Diriliş Postası"
+          ]
+        },
+        {
+          "title": "Kartal Belediyesi'ne soruşturma: 10 şüpheli tutuklandı",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/kartal-belediyesi-ne-sorusturma-10-supheli-tutuklandi-p384995",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "Kartal Belediyesi'nde rüşvet soruşturması: 10 şüpheli tutuklandı",
+          "source": "Akşam",
+          "link": "https://www.aksam.com.tr/guncel/kartal-belediyesinde-rusvet-sorusturmasi-10-supheli-tutuklandi/haber-1718007",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Türkiye-Yunanistan Diplomatik Görüşmeleri",
+      "meta_category": "Politika ve Diplomasi",
+      "summary": "Cumhurbaşkanı Erdoğan'ın Yunanistan Cumhurbaşkanı Tasulas ile İstanbul'da bir araya gelerek ikili ilişkileri görüşmesi planlanıyor.",
+      "importance": 7,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Yunan mevkidaşı ile görüşecek",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/cumhurbaskani-erdogan-yunan-mevkidasi-ile-gorusecek",
+          "also_in": [
+            "Ekonomim",
+            "Habertürk",
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, yarın Yunanistan Cumhurbaşkanı Tasulas ile görüşecek",
+          "source": "Haberler",
+          "link": "https://www.haberler.com/haberler/cumhurbaskani-erdogan-yarin-yunanistan-20469885-haberi/",
+          "also_in": [
+            "Sözcü Gündem",
+            "Sözcü",
+            "Yeni Şafak"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile İstanbul'da görüşecek",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-istanbulda-gorusecek/4140935",
+          "also_in": [
+            "F5 Haber"
+          ]
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan, Yunanistan Cumhurbaşkanı Tasulas ile yarın İstanbul’da görüşecek",
+          "source": "En Son Haber",
+          "link": "https://www.ensonhaber.com/cumhurbaskani-erdogan-yunanistan-cumhurbaskani-tasulas-ile-yarin-istanbulda-gorusecek-h1586264",
+          "also_in": [
+            "Haberet"
+          ]
+        },
+        {
+          "title": "Atina'dan İstanbul'a kritik ziyaret: Tasulas, Cumhurbaşkanı Erdoğan ile görüşecek",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/dunya/haber/3680410-atinadan-istanbula-kritik-ziyaret-tasulas-cumhurbaskani-erdogan-ile-gorusecek",
+          "also_in": [
+            "İnternet Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Teknoloji ve Siber Güvenlik Saldırıları",
+      "meta_category": "Bilim ve Teknoloji",
+      "summary": "ABD Hava Kuvvetleri'nin Cloud One platformu ve haber ajansı AFP gibi kurumlar siber saldırılara maruz kaldı; yapay zeka güvenliği gündemde.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "ABD Hava Kuvvetleri'nin dijital kalesi sarsıldı: Cloud One'a siber saldırı şoku",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/abd-hava-kuvvetlerinin-dijital-kalesi-sarsildi-cloud-onea-siber-saldiri-soku/104487",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "Dünyaca ünlü haber ajansı AFP siber saldırı şokuyla sarsıldı",
+          "source": "Megabayt",
+          "link": "https://www.megabayt.com/teknoloji/dunyaca-unlu-haber-ajansi-afp-siber-saldiri-sokuyla-sarsildi/104477",
+          "also_in": [
+            "Megabayt Teknoloji"
+          ]
+        },
+        {
+          "title": "NBC News: ABD Hava Kuvvetlerine ait \"Cloud One\" bulut platformuna siber saldırı yapıldı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/dunya/nbc-news-abd-hava-kuvvetlerine-ait-cloud-one-bulut-platformuna-siber-saldiri-yapildi/4140914",
+          "also_in": []
+        },
+        {
+          "title": "ABD Hava Kuvvetleri'nin sistemine sızıldı: Askeri veriler tehlikede",
+          "source": "CNBC-e",
+          "link": "https://www.cnbce.com/teknoloji/abd-hava-kuvvetlerinin-sistemine-sizildi-askeri-veriler-tehlikede-h42798",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Alihan Kuriş Suç Örgütü Operasyonu",
+      "meta_category": "Toplum ve Yaşam",
+      "summary": "İstanbul merkezli operasyonlarda Alihan Kuriş liderliğindeki suç örgütüne yönelik yapılan baskınlarda 18 kişi tutuklandı.",
+      "importance": 7,
+      "story_count": 4,
+      "stories": [
+        {
+          "title": "Alihan Kuriş suç örgütüne operasyon: 18 şüpheli tutuklandı",
+          "source": "CGTN Türk",
+          "link": "https://www.cgtnturk.com/alihan-kuris-suc-orgutune-operasyon-18-supheli-tutuklandi",
+          "also_in": [
+            "Haberet",
+            "Hürriyet"
+          ]
+        },
+        {
+          "title": "Alihan Kuriş suç örgütüne operasyonda 18 kişi tutuklandı",
+          "source": "Aydınlık",
+          "link": "https://www.aydinlik.com.tr/haber/alihan-kuris-suc-orgutune-operasyonda-18-kisi-tutuklandi-601011",
+          "also_in": [
+            "TRT Haber"
+          ]
+        },
+        {
+          "title": "Son dakika...'Alihan Kuriş Suç Örgütü' soruşturmasında 18 tutuklama",
+          "source": "Sözcü Gündem",
+          "link": "https://www.sozcu.com.tr/son-dakika-alihan-kuris-suc-orgutu-sorusturmasinda-18-tutuklama-p384975",
+          "also_in": [
+            "Sözcü"
+          ]
+        },
+        {
+          "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında 18 şüpheli tutuklandı",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-18-supheli-tutuklandi/4140952",
+          "also_in": []
+        }
+      ]
+    },
+    {
+      "title": "Süper Lig ve Futbol Gündemi",
+      "meta_category": "Spor",
+      "summary": "Süper Lig'de derbi hazırlıkları ve PFDK kararları gündemde; ayrıca Galatasaraylı Yunus Akgün'ün düğünü spor magazininde yer aldı.",
+      "importance": 6,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Galatasaraylı Yunus Akgün, Tuğçe Alaca ile dünya evine girdi",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galatasarayli-yunus-akgun-tugce-alaca-ile-dunya-evine-girdi-433766",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "Galatasaray'da derbi hazırlıkları devam etti",
+          "source": "NTV Spor Anasayfa",
+          "link": "https://www.ntvspor.net/futbol/galeri-galatasarayda-derbi-hazirliklari-devam-etti-433754",
+          "also_in": [
+            "NTV Spor Futbol"
+          ]
+        },
+        {
+          "title": "PFDK'dan ceza yağmuru! Fenerbahçe, Beşiktaş ve Kocaelispor'a ağır fatura",
+          "source": "AjansSpor",
+          "link": "https://ajansspor.com/haber/pfdkdan-ceza-yagmuru-fenerbahce-besiktas-ve-kocaelispora-agir-fatura-739559",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        },
+        {
+          "title": "G.Saray Beşiktaş derbisi hazırlıklarını sürdürdü",
+          "source": "A Spor",
+          "link": "https://www.aspor.com.tr/galatasaray/2026/11/27/gsaray-besiktas-derbisi-hazirliklarini-surdurdu",
+          "also_in": []
+        },
+        {
+          "title": "Galatasaraylı Yunus Akgün dünyaevine girdi! Düğünden ilk kareler geldi",
+          "source": "Haberet",
+          "link": "https://www.haberet.com/spor/galatasarayli-yunus-akgun-dunyaevine-girdi-dugunden-ilk-kareler-geldi-111452",
+          "also_in": [
+            "İşçi Haber"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kültür ve Sanat Etkinlikleri",
+      "meta_category": "Kültür, Sanat ve Düşünce",
+      "summary": "Kahramanmaraş'ın edebiyat başkenti olması ve çeşitli edebiyat ödüllerinin verilmesi gibi kültür-sanat haberleri öne çıktı.",
+      "importance": 5,
+      "story_count": 5,
+      "stories": [
+        {
+          "title": "Bakan Ersoy: 'Kahramanmaraş, edebiyatın başkenti olma sorumluluğunu üstlendi'",
+          "source": "İşin Detayı Kültür Sanat",
+          "link": "https://www.isindetayi.com/bakan-ersoy-kahramanmaras-edebiyatin-baskenti-olma-sorumlulugunu-ustlendi",
+          "also_in": [
+            "dikGAZETE"
+          ]
+        },
+        {
+          "title": "Bakan Ersoy yerinde inceledi! Yedi Güzel Adam Edebiyat Müzesinde tarihi dönüşüm",
+          "source": "GZT",
+          "link": "https://www.gzt.com/gundem/bakan-ersoy-yerinde-inceledi-yedi-guzel-adam-edebiyat-muzesinde-tarihi-donusum-4283733",
+          "also_in": [
+            "Haber Global"
+          ]
+        },
+        {
+          "title": "UNESCO’nun edebiyat şehri Kahramanmaraş, 16 ülkeyi kültür ve edebiyatla buluşturdu",
+          "source": "Haber 7",
+          "link": "https://www.haber7.com/guncel/haber/3680435-unesconun-edebiyat-sehri-kahramanmaras-16-ulkeyi-kultur-ve-edebiyatla-bulusturdu",
+          "also_in": [
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "Bakan Ersoy yerinde inceledi! Yedi Güzel Adam Edebiyat Müzesi'nde tarihî dönüşüm",
+          "source": "Beyaz Gazete",
+          "link": "https://beyazgazete.com/haber/2026/11/27/bakan-ersoy-yerinde-inceledi-yedi-guzel-adam-edebiyat-muzesi-nde-tarih-donusum-7177331.html",
+          "also_in": [
+            "Ulusal Kanal"
+          ]
+        },
+        {
+          "title": "\"6. Uluslararası Kahramanmaraş Edebiyat Ödülleri\" sahiplerini buldu",
+          "source": "Anadolu Ajansı",
+          "link": "https://www.aa.com.tr/tr/kultur/6-uluslararasi-kahramanmaras-edebiyat-odulleri-sahiplerini-buldu/4140953",
+          "also_in": []
+        }
+      ]
+    }
+  ],
+  "artwork": {
+    "title": "The Chess Players (Eakins)",
+    "artist": "Thomas Eakins",
+    "year": "1876",
+    "form": "resim",
+    "medium": "Oil on canvas",
+    "location": "Metropolitan Museum of Art, New York",
+    "description": "Ekonomik düzenlemeler ve siber güvenlik odaklı dijital satranç hamlelerinin yapıldığı bu gergin günde, planlı ve stratejik bir odaklanmayı simgeliyor.",
+    "verified": true,
+    "wikipedia_url": "https://en.wikipedia.org/wiki/The_Chess_Players_(Eakins)",
+    "wikipedia_extract": "The Chess Players is an 1876 genre painting by the American painter Thomas Eakins, Goodrich catalogue #96. It is in the collection of the Metropolitan Museum of Art, in New York.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Chess_Players_MET_DT1506.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "artist_wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Eakins"
+  },
+  "music": {
+    "title": "Bela Lugosi's Dead (Official Version)",
+    "artists": "Bauhaus",
+    "album": "The Bela Session",
+    "duration": "9:36",
+    "spotify_url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8",
+    "spotify_id": "1wyVyr8OhYsC9l0WgPPbh8",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273103ae0ca582754dd2505a6b7",
+    "embed_html": "<iframe src=\"https://open.spotify.com/embed/track/1wyVyr8OhYsC9l0WgPPbh8\" width=\"100%\" height=\"152\" frameborder=\"0\" allowfullscreen allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>",
+    "preview_url": null
+  },
+  "curator_statement": "Bugün ülke sathına yayılan ekonomik belirsizliklerin soğuk gölgesi, toplumsal vicdanımızı sarsan kayıp çocukların endişesi ve sınırlar ötesinden yükselen şiddetin tekinsiz yankılarıyla birleşerek zihinlerimizde huzursuz bir düğüm oluşturuyor. Thomas Eakinsin The Chess Players tablosundaki o tekinsiz sessizlik ve hamlelerini hesaplayan satranç oyuncularının donuk ciddiyeti, tıpkı bugün yaşadığımız gerginliğin bir aynası gibi, her bir kararın hayati bir bedeli olduğunu fısıldıyor. Bauhausun Bela Lugosi's Dead parçasının hipnotik ve karanlık tınıları, bu entelektüel durağanlığın hemen ardında pusuda bekleyen kaosu ve siber çağın soğuk teknolojik tehditlerini adeta bir ritüel gibi sahneye taşıyor. Yaşanan bu toplumsal gerilim, satranç tahtası üzerindeki stratejik bir oyunun sessizliğiyle siber dünyanın kontrol edilemez karanlığı arasında gidip gelirken, bizler de belirsizliklerin ortasında kendi hamlemizi yapmaya çalışıyoruz. Sanatın tarihsel birikimiyle müziğin gotik tekinsizliği birleştiğinde, günün ağır atmosferi sadece bir haber akışı değil, insan doğasının zaafları ve kurtuluşu üzerine kurulu derin bir varoluşsal sınava dönüşüyor."
+}
